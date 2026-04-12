@@ -1,0 +1,371 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>55+ Communities | SavingsRE — Active Adult Living in Palm Beach County</title>
+<meta name="description" content="Active adult 55+ communities in Palm Beach County. Century Village, Kings Point, Valencia, Huntington Pointe, Aberdeen, Boca West — curated by William Spencer Seery Jr, PA.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;1,300;1,400;1,500&family=Montserrat:wght@300;400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --navy: #ffffff; --navy-deep: #050d1a; --gold: #2563EB; --gold-light: #3b82f6;
+    --gold-dim: rgba(37,99,235,0.15); --cream: #f0f6fc; --white: #ffffff;
+    --gray: #64748b; --charcoal: #2a2f3a; --card-bg: #f8fafc;
+    --transition-interactive: 180ms cubic-bezier(0.16, 1, 0.3, 1);
+  }
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+  html { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; text-rendering: optimizeLegibility; scroll-behavior: smooth; scroll-padding-top: 5rem; }
+  body { background: var(--navy); color: var(--cream); font-family: 'Montserrat', sans-serif; font-weight: 300; font-size: 16px; line-height: 1.6; overflow-x: hidden; min-height: 100dvh; }
+  img, svg { display: block; max-width: 100%; height: auto; }
+  a { transition: color var(--transition-interactive); }
+  ::selection { background: rgba(37,99,235,0.25); color: var(--white); }
+
+  header { position: fixed; top: 0; width: 100%; z-index: 100; padding: 0 3rem; height: 4.5rem; display: flex; align-items: center; justify-content: space-between; background: rgba(255,255,255,0.92); backdrop-filter: blur(16px); -webkit-backdrop-filter: blur(16px); border-bottom: 1px solid rgba(37,99,235,0.12); transition: box-shadow 0.35s cubic-bezier(0.16, 1, 0.3, 1); }
+  header.scrolled { box-shadow: 0 4px 24px rgba(0,0,0,0.3); }
+  .logo { font-family: 'Cormorant Garamond', serif; font-size: 1.55rem; font-weight: 300; letter-spacing: 0.15em; color: var(--gold); text-decoration: none; display: flex; align-items: center; gap: 0.15em; }
+  .logo span { color: var(--cream); font-weight: 400; }
+  .nav-links { display: flex; align-items: center; gap: 0; }
+  .nav-links a { color: var(--gray); text-decoration: none; font-size: 0.72rem; letter-spacing: 0.12em; text-transform: uppercase; font-weight: 400; padding: 0.5rem 1.1rem; transition: color var(--transition-interactive); }
+  .nav-links a:hover { color: var(--gold); }
+  .nav-links a.active { color: var(--gold); }
+  .nav-cta { background: var(--gold) !important; color: var(--navy) !important; font-weight: 600 !important; padding: 0.55rem 1.4rem !important; margin-left: 0.8rem; white-space: nowrap; transition: background var(--transition-interactive), transform var(--transition-interactive) !important; }
+  .nav-cta:hover { background: var(--gold-light) !important; transform: translateY(-1px); }
+  .mobile-toggle { display: none; background: none; border: none; cursor: pointer; padding: 0.5rem; color: var(--gold); }
+  .mobile-toggle svg { width: 24px; height: 24px; }
+
+  .hero { min-height: 65vh; display: flex; flex-direction: column; justify-content: center; padding: 8rem 3rem 5rem; position: relative; overflow: hidden; }
+  .hero-bg { position: absolute; inset: 0; z-index: 0; }
+  .hero-bg-gradient { position: absolute; inset: 0; background: radial-gradient(ellipse at 50% 40%, rgba(37,99,235,0.06) 0%, transparent 55%), linear-gradient(180deg, rgba(255,255,255,0.3) 0%, rgba(255,255,255,0.9) 60%, var(--navy) 100%); }
+  .hero-grid { position: absolute; inset: 0; background-image: linear-gradient(rgba(37,99,235,0.03) 1px, transparent 1px), linear-gradient(90deg, rgba(37,99,235,0.03) 1px, transparent 1px); background-size: 60px 60px; z-index: 1; }
+  .hero-content { position: relative; z-index: 2; max-width: 720px; }
+  .hero-eyebrow { font-size: 0.68rem; letter-spacing: 0.3em; text-transform: uppercase; color: var(--gold); margin-bottom: 1.8rem; display: flex; align-items: center; gap: 1rem; font-weight: 500; }
+  .hero-eyebrow::before { content: ''; display: block; width: 40px; height: 1px; background: var(--gold); }
+  h1 { font-family: 'Cormorant Garamond', serif; font-size: clamp(2.8rem, 5.5vw, 5.2rem); font-weight: 300; line-height: 1.05; color: var(--white); margin-bottom: 1.8rem; }
+  h1 em { font-style: italic; color: var(--gold); font-weight: 400; }
+  .hero-sub { font-size: 0.95rem; line-height: 1.85; color: var(--cream); max-width: 540px; margin-bottom: 2.8rem; }
+  .hero-actions { display: flex; gap: 1rem; flex-wrap: wrap; }
+
+  .btn-gold { background: var(--gold); color: var(--navy); padding: 0.9rem 2.2rem; font-size: 0.72rem; letter-spacing: 0.15em; text-transform: uppercase; font-weight: 600; text-decoration: none; display: inline-flex; align-items: center; gap: 0.5rem; transition: background var(--transition-interactive), transform var(--transition-interactive), box-shadow var(--transition-interactive); cursor: pointer; border: none; font-family: 'Montserrat', sans-serif; }
+  .btn-gold:hover { background: var(--gold-light); transform: translateY(-2px); box-shadow: 0 8px 24px rgba(37,99,235,0.2); }
+  .btn-gold:active { transform: translateY(0); }
+  .btn-outline { border: 1px solid rgba(37,99,235,0.4); color: var(--cream); padding: 0.9rem 2.2rem; font-size: 0.72rem; letter-spacing: 0.15em; text-transform: uppercase; text-decoration: none; display: inline-flex; align-items: center; gap: 0.5rem; font-weight: 400; background: transparent; cursor: pointer; font-family: 'Montserrat', sans-serif; transition: border-color var(--transition-interactive), color var(--transition-interactive), background var(--transition-interactive); }
+  .btn-outline:hover { border-color: var(--gold); color: var(--gold); background: rgba(37,99,235,0.05); }
+
+  section { padding: clamp(4rem, 8vw, 7rem) 3rem; }
+  .section-eyebrow { font-size: 0.68rem; letter-spacing: 0.3em; text-transform: uppercase; color: var(--gold); margin-bottom: 1rem; display: flex; align-items: center; gap: 1rem; font-weight: 500; }
+  .section-eyebrow::before { content: ''; display: block; width: 30px; height: 1px; background: var(--gold); }
+  h2 { font-family: 'Cormorant Garamond', serif; font-size: clamp(2rem, 4vw, 3.2rem); font-weight: 300; color: var(--white); margin-bottom: 1rem; line-height: 1.1; }
+  h2 em { font-style: italic; color: var(--gold); }
+  h3 { font-family: 'Cormorant Garamond', serif; font-size: 1.6rem; font-weight: 400; color: var(--white); line-height: 1.2; }
+  .section-intro { color: var(--gray); font-size: 0.9rem; line-height: 1.85; max-width: 580px; margin-bottom: 3rem; }
+  .gold-divider { width: 60px; height: 1px; background: var(--gold); margin: 1.5rem 0; }
+
+  /* OVERVIEW */
+  .overview-text { max-width: 720px; }
+  .overview-text p { font-size: 0.9rem; color: var(--cream); line-height: 1.85; margin-bottom: 1.5rem; }
+
+  /* COMMUNITIES */
+  .communities-grid {
+    display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 1.5px; background: rgba(37,99,235,0.08); border: 1.5px solid rgba(37,99,235,0.08);
+  }
+  .community-card {
+    background: var(--card-bg); padding: 2.5rem;
+    transition: background 0.3s; position: relative; overflow: hidden;
+  }
+  .community-card::before { content: ''; position: absolute; bottom: 0; left: 0; height: 2px; width: 0; background: var(--gold); transition: width 0.4s; }
+  .community-card:hover { background: #16213a; }
+  .community-card:hover::before { width: 100%; }
+  .community-icon { font-size: 2rem; margin-bottom: 1rem; display: block; }
+  .community-name {
+    font-family: 'Cormorant Garamond', serif; font-size: 1.45rem;
+    color: var(--white); font-weight: 400; margin-bottom: 0.3rem;
+  }
+  .community-location {
+    font-size: 0.68rem; letter-spacing: 0.15em; text-transform: uppercase;
+    color: var(--gold); font-weight: 500; margin-bottom: 0.8rem;
+  }
+  .community-desc { font-size: 0.82rem; color: var(--gray); line-height: 1.75; }
+
+  /* CONSIDER */
+  .consider-grid {
+    display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    gap: 2.5rem; margin-top: 2rem;
+  }
+  .consider-item {}
+  .consider-icon { font-size: 1.5rem; margin-bottom: 0.8rem; display: block; }
+  .consider-title { font-family: 'Cormorant Garamond', serif; font-size: 1.15rem; color: var(--white); margin-bottom: 0.4rem; font-weight: 400; }
+  .consider-desc { font-size: 0.82rem; color: var(--gray); line-height: 1.75; }
+
+  /* CTA */
+  .cta-section {
+    background: var(--card-bg); text-align: center;
+    display: flex; flex-direction: column; align-items: center;
+  }
+  .cta-section .section-eyebrow { justify-content: center; }
+  .cta-section .section-intro { text-align: center; }
+
+  /* INSURANCE STRIP */
+  .insurance-strip { background: linear-gradient(135deg, #0d1f38 0%, #ffffff 100%); border: 1px solid rgba(37,99,235,0.18); padding: 3.5rem; display: grid; grid-template-columns: 1fr auto; gap: 3rem; align-items: center; margin: 0 3rem; position: relative; overflow: hidden; }
+  .insurance-strip::before { content: ''; position: absolute; top: -50%; right: -10%; width: 300px; height: 300px; background: radial-gradient(circle, rgba(37,99,235,0.04) 0%, transparent 70%); pointer-events: none; }
+  .insurance-content { position: relative; }
+  .insurance-content h3 { font-family: 'Cormorant Garamond', serif; font-size: clamp(1.6rem, 2.5vw, 2rem); font-weight: 300; color: var(--white); margin-bottom: 0.6rem; line-height: 1.15; }
+  .insurance-content h3 em { font-style: italic; color: var(--gold); }
+  .insurance-content p { font-size: 0.85rem; color: var(--gray); line-height: 1.75; max-width: 520px; }
+  .insurance-brand { text-align: right; color: var(--gold); font-family: 'Cormorant Garamond', serif; font-size: clamp(2rem, 4vw, 3.5rem); font-weight: 300; opacity: 0.2; line-height: 1.1; white-space: nowrap; position: relative; }
+
+  footer { background: var(--navy-deep); padding: 3rem; border-top: 1px solid rgba(37,99,235,0.08); }
+  .footer-inner { display: flex; flex-wrap: wrap; gap: 2rem; justify-content: space-between; align-items: flex-start; margin-bottom: 2rem; }
+  .footer-logo { font-family: 'Cormorant Garamond', serif; font-size: 1.4rem; font-weight: 300; color: var(--gold); letter-spacing: 0.1em; }
+  .footer-logo span { color: var(--cream); font-weight: 400; }
+  .footer-address { font-size: 0.72rem; color: var(--gray); margin-top: 0.5rem; line-height: 1.6; }
+  .footer-license { font-size: 0.68rem; color: var(--gray); margin-top: 0.3rem; opacity: 0.7; }
+  .footer-links { display: flex; gap: 1.5rem; flex-wrap: wrap; }
+  .footer-links a { font-size: 0.72rem; letter-spacing: 0.1em; text-transform: uppercase; color: var(--gray); text-decoration: none; transition: color var(--transition-interactive); }
+  .footer-links a:hover { color: var(--gold); }
+  .footer-legal { font-size: 0.68rem; color: var(--gray); line-height: 1.7; max-width: 900px; opacity: 0.7; border-top: 1px solid rgba(255,255,255,0.04); padding-top: 1.5rem; }
+
+  .fade-in { opacity: 1; }
+  @supports (animation-timeline: scroll()) { .fade-in { opacity: 0; animation: revealFade linear both; animation-timeline: view(); animation-range: entry 0% entry 35%; } }
+  @keyframes revealFade { to { opacity: 1; } }
+
+  @media (max-width: 768px) {
+    header { padding: 0 1.5rem; height: 4rem; }
+    .nav-links { display: none; }
+    .nav-links.open { display: flex; flex-direction: column; position: fixed; top: 4rem; left: 0; right: 0; background: rgba(255,255,255,0.98); backdrop-filter: blur(16px); -webkit-backdrop-filter: blur(16px); padding: 1.5rem; border-bottom: 1px solid rgba(37,99,235,0.15); gap: 0.5rem; z-index: 99; }
+    .nav-links.open a { padding: 0.8rem 1rem; font-size: 0.82rem; }
+    .nav-links.open .nav-cta { text-align: center; margin-left: 0; margin-top: 0.5rem; }
+    .mobile-toggle { display: block; }
+    .hero { padding: 6rem 1.5rem 3.5rem; min-height: 55vh; }
+    section { padding-left: 1.5rem; padding-right: 1.5rem; }
+    .insurance-strip { grid-template-columns: 1fr; margin: 0 1.5rem; padding: 2.5rem 1.8rem; }
+    .insurance-brand { text-align: left; font-size: 2rem; }
+    footer { padding: 2.5rem 1.5rem; }
+    .footer-inner { flex-direction: column; }
+  }
+  @media (max-width: 480px) {
+    .hero { padding: 5rem 1.2rem 3rem; }
+    section { padding-left: 1.2rem; padding-right: 1.2rem; }
+    .insurance-strip { margin: 0 1.2rem; padding: 2rem 1.4rem; }
+    .hero-actions { flex-direction: column; }
+    .hero-actions a { text-align: center; justify-content: center; }
+  }
+  @media (prefers-reduced-motion: reduce) { *, *::before, *::after { animation-duration: 0.01ms !important; animation-iteration-count: 1 !important; transition-duration: 0.01ms !important; scroll-behavior: auto !important; } }
+</style>
+  <!-- Google tag (gtag.js) | GA4: G-GYL4MLT1C6 -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-GYL4MLT1C6"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-GYL4MLT1C6');
+    function trackMLS(seg){ gtag('event','mls_link_click',{segment_name:seg}); }
+    function trackInsurance(){ gtag('event','insurance_cta_click'); }
+    function trackSchedule(){ gtag('event','schedule_click'); }
+    function trackPhone(){ gtag('event','phone_click'); }
+  </script>
+</head>
+<body>
+
+<header id="site-header">
+  <a href="index.html" class="logo" aria-label="SavingsRE Home">Savings<span>RE</span></a>
+  <nav class="nav-links" id="nav-links" aria-label="Main navigation">
+    <a href="investor-hub.html">Investor Hub</a>
+    <a href="commercial.html">Commercial</a>
+    <a href="luxury.html">Luxury</a>
+    <a href="about.html">About</a>
+    <a href="tel:+15612200402" onclick="trackPhone()" onclick="trackPhone()" class="nav-cta">+1 (561) 220-0402</a>
+  </nav>
+  <button class="mobile-toggle" id="mobile-toggle" aria-label="Open menu" aria-expanded="false">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg>
+  </button>
+</header>
+
+<!-- HERO -->
+<section class="hero">
+  <div class="hero-bg"><div class="hero-bg-gradient"></div></div>
+  <div class="hero-grid"></div>
+  <div class="hero-content">
+    <div class="hero-eyebrow">55+ Living · South Florida</div>
+    <h1>Active Adult Communities<br><em>in Palm Beach County</em></h1>
+    <p class="hero-sub">
+      South Florida offers some of the nation's finest 55+ communities — with resort-style amenities, vibrant social scenes, and year-round sunshine. Let us help you find your perfect active adult home.
+    </p>
+    <div class="hero-actions">
+      <a href="https://calendar.app.google/Yv2c22sEEcKZuExq9?utm_source=savingsre&utm_medium=website&utm_campaign=schedule" target="_blank" onclick="trackSchedule()" rel="noopener" class="btn-gold">Schedule a Community Tour →</a>
+      <a href="mailto:bill@savingsre.com" class="btn-outline">Email Inquiry</a>
+    </div>
+  </div>
+</section>
+
+<!-- OVERVIEW -->
+<section class="fade-in">
+  <div class="section-eyebrow">Why South Florida</div>
+  <h2>The Premier Destination for <em>Active Adult Living</em></h2>
+
+  <div class="overview-text">
+    <p>
+      Palm Beach County is home to dozens of exceptional 55+ communities offering everything from affordable condo living to exclusive country club estates. With no state income tax, world-class healthcare, and 300+ days of sunshine, South Florida has long been the top choice for active adults seeking their next chapter.
+    </p>
+    <p>
+      Whether you're drawn to the social energy of a large-scale community, the exclusivity of a private golf club, or the convenience of a walkable beachside condo, Palm Beach County delivers options at every price point and lifestyle preference.
+    </p>
+  </div>
+</section>
+
+<!-- FEATURED COMMUNITIES -->
+<section class="fade-in" style="background: var(--card-bg);">
+  <div class="section-eyebrow">Featured Communities</div>
+  <h2>Palm Beach County's <em>Best 55+ Communities</em></h2>
+  <p class="section-intro">
+    Each community offers a unique lifestyle, amenity package, and price point. Explore the options and let us arrange private tours.
+  </p>
+
+  <div class="communities-grid">
+    <div class="community-card">
+      <span class="community-icon">🏊</span>
+      <div class="community-name">Century Village</div>
+      <div class="community-location">West Palm Beach · Boca Raton</div>
+      <p class="community-desc">One of South Florida's most popular 55+ communities, Century Village offers affordable condo living with extensive clubhouse amenities, pools, fitness centers, and a packed social calendar. Two convenient locations serve West Palm Beach and Boca Raton residents.</p>
+    </div>
+    <div class="community-card">
+      <span class="community-icon">🎭</span>
+      <div class="community-name">Kings Point</div>
+      <div class="community-location">Delray Beach</div>
+      <p class="community-desc">A sprawling active adult community in Delray Beach known for its vibrant cultural programming, on-site theater, multiple pools, and strong sense of community. Kings Point offers a wide range of floor plans from studios to spacious villas at approachable price points.</p>
+    </div>
+    <div class="community-card">
+      <span class="community-icon">⛳</span>
+      <div class="community-name">Valencia</div>
+      <div class="community-location">Boynton Beach · Delray Beach</div>
+      <p class="community-desc">GL Homes' signature 55+ brand offering newer construction with resort-style amenities. Mediterranean-inspired architecture, championship golf, expansive clubhouses, and an active lifestyle director make Valencia communities among the most sought-after in the county.</p>
+    </div>
+    <div class="community-card">
+      <span class="community-icon">🎾</span>
+      <div class="community-name">Huntington Pointe</div>
+      <div class="community-location">Delray Beach</div>
+      <p class="community-desc">A well-established gated 55+ community featuring a variety of home styles, tennis courts, resort pools, a grand clubhouse, and an active social scene. Huntington Pointe offers excellent value with a central Delray Beach location near shopping and dining.</p>
+    </div>
+    <div class="community-card">
+      <span class="community-icon">🌿</span>
+      <div class="community-name">Aberdeen</div>
+      <div class="community-location">Boynton Beach</div>
+      <p class="community-desc">A premier country club community with a beautifully maintained 18-hole golf course, lush tropical landscaping, and elegant clubhouse facilities. Aberdeen offers single-family homes, townhomes, and condos in a serene, manicured setting.</p>
+    </div>
+    <div class="community-card">
+      <span class="community-icon">🏌️</span>
+      <div class="community-name">Boca West</div>
+      <div class="community-location">Boca Raton</div>
+      <p class="community-desc">South Florida's premier private country club — with four championship golf courses, a world-class spa, 30+ tennis courts, and over 50 dining options. Boca West offers luxury 55+ living for those seeking the ultimate resort lifestyle in an exclusive, gated setting.</p>
+    </div>
+  </div>
+</section>
+
+<!-- WHAT TO CONSIDER -->
+<section class="fade-in">
+  <div class="section-eyebrow">Buyer's Guide</div>
+  <h2>What to Consider in a <em>55+ Community</em></h2>
+  <p class="section-intro">
+    Choosing the right 55+ community involves more than just the unit itself. Here are the key factors to evaluate.
+  </p>
+
+  <div class="consider-grid">
+    <div class="consider-item">
+      <span class="consider-icon">💰</span>
+      <div class="consider-title">HOA Fees & Assessments</div>
+      <p class="consider-desc">Monthly HOA fees vary widely — from under $300 to over $2,000. Understand what's included: insurance, reserves, cable, water, maintenance, and amenity access. Ask about special assessment history.</p>
+    </div>
+    <div class="consider-item">
+      <span class="consider-icon">🏋️</span>
+      <div class="consider-title">Amenities & Lifestyle</div>
+      <p class="consider-desc">Pools, fitness centers, golf, tennis, pickleball, theater, social clubs — each community offers a different mix. Visit during active hours to feel the community energy and social vibe.</p>
+    </div>
+    <div class="consider-item">
+      <span class="consider-icon">🏥</span>
+      <div class="consider-title">Proximity to Medical</div>
+      <p class="consider-desc">Palm Beach County is home to Boca Raton Regional, Delray Medical Center, JFK Medical, and numerous specialty practices. Proximity to quality healthcare is a key factor for active adults.</p>
+    </div>
+    <div class="consider-item">
+      <span class="consider-icon">🏖️</span>
+      <div class="consider-title">Beach Access</div>
+      <p class="consider-desc">Many 55+ communities in eastern Palm Beach County are minutes from the Atlantic Ocean. Beach proximity adds lifestyle value and can impact long-term property appreciation.</p>
+    </div>
+    <div class="consider-item">
+      <span class="consider-icon">🎉</span>
+      <div class="consider-title">Social Scene</div>
+      <p class="consider-desc">From daily card games to formal galas, the social offerings differ dramatically between communities. Tour the clubhouse, review the events calendar, and talk to current residents.</p>
+    </div>
+    <div class="consider-item">
+      <span class="consider-icon">🔧</span>
+      <div class="consider-title">Maintenance & Reserves</div>
+      <p class="consider-desc">Healthy reserve funds mean fewer surprise assessments. Review the community's most recent financial statements and ask about planned capital improvements and building condition reports.</p>
+    </div>
+  </div>
+</section>
+
+<!-- CTA -->
+<section class="cta-section fade-in">
+  <div class="section-eyebrow">Let's Find Your Community</div>
+  <h2>Find Your Perfect <em>55+ Home</em></h2>
+  <p class="section-intro">
+    Every buyer's priorities are different — budget, amenities, location, social scene. Schedule a consultation and we'll curate a personalized list of communities that match your lifestyle.
+  </p>
+  <a href="https://calendar.app.google/Yv2c22sEEcKZuExq9?utm_source=savingsre&utm_medium=website&utm_campaign=schedule" target="_blank" onclick="trackSchedule()" rel="noopener" class="btn-gold" style="font-size: 0.8rem; padding: 1.1rem 2.8rem;">
+    Schedule a Consultation →
+  </a>
+</section>
+
+<!-- INSURANCE CTA -->
+<div class="insurance-strip fade-in">
+  <div class="insurance-content">
+    <h3>Insurance for 55+ <em>Condos & Properties</em></h3>
+    <p>
+      55+ community properties — especially condos — have unique insurance needs including HO-6 policies, loss assessment coverage, and coordination with master HOA policies. AlphaGen Insurance helps navigate these complexities.
+    </p>
+    <div class="gold-divider"></div>
+    <a href="https://alphageninsurance.com/personal-insurance-quote/?utm_source=savingsre&utm_medium=website&utm_campaign=insurance_cta" target="_blank" onclick="trackInsurance()" rel="noopener" class="btn-gold">Complete the Coastal Property Inquiry →</a>
+  </div>
+  <div class="insurance-brand">AlphaGen<br>Insurance</div>
+</div>
+
+<!-- spacer -->
+<div style="height: clamp(3rem, 6vw, 5rem);"></div>
+
+<footer>
+  <div class="footer-inner">
+    <div class="footer-brand">
+      <div class="footer-logo">Savings<span>RE</span></div>
+      <div class="footer-address">5550 Glades Road · Boca Raton, FL 33431</div>
+      <div class="footer-license">FL License #3333692 · MLS ID 276537152</div>
+    </div>
+    <div class="footer-links">
+      <a href="index.html">Home</a>
+      <a href="investor-hub.html">Investor Hub</a>
+      <a href="mailto:bill@savingsre.com">Contact</a>
+      <a href="https://alphageninsurance.com/personal-insurance-quote/?utm_source=savingsre&utm_medium=website&utm_campaign=insurance_cta" target="_blank" onclick="trackInsurance()" rel="noopener">Insurance</a>
+      <a href="https://calendar.app.google/Yv2c22sEEcKZuExq9?utm_source=savingsre&utm_medium=website&utm_campaign=schedule" target="_blank" onclick="trackSchedule()" rel="noopener">Schedule</a>
+    </div>
+  </div>
+  <div class="footer-legal">
+    William Spencer Seery Jr, PA · FL License #3333692 · MLS ID 276537152. Information provided is general in nature and not legal, tax, or investment advice. All listings sourced from Beaches MLS and updated weekly. SavingsRE is a brand of William Spencer Seery Jr, PA. AlphaGen Insurance & Strategic Relocation Advisory provides coastal property insurance coordination. © 2026 SavingsRE. All rights reserved.
+  </div>
+</footer>
+
+<script>
+(function() {
+  const header = document.getElementById('site-header');
+  window.addEventListener('scroll', function() { if (window.scrollY > 80) header.classList.add('scrolled'); else header.classList.remove('scrolled'); }, { passive: true });
+  const toggle = document.getElementById('mobile-toggle');
+  const nav = document.getElementById('nav-links');
+  toggle.addEventListener('click', function() {
+    const isOpen = nav.classList.toggle('open');
+    toggle.setAttribute('aria-expanded', isOpen);
+    toggle.innerHTML = isOpen ? '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>' : '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg>';
+  });
+  nav.querySelectorAll('a').forEach(function(link) { link.addEventListener('click', function() { nav.classList.remove('open'); toggle.setAttribute('aria-expanded', 'false'); toggle.innerHTML = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg>'; }); });
+})();
+</script>
+</body>
+</html>

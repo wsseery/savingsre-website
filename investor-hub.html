@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Investor Hub | SavingsRE — Weekly SE Florida Investment Intelligence</title>
+  <meta name="description" content="13 live MLS segments refreshed weekly — multifamily, commercial, and luxury real estate across SE Florida. SavingsRE by William Spencer Seery Jr, PA.">
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;1,400;1,600&family=Montserrat:wght@300;400;600&display=swap" rel="stylesheet">
+  <style>
+    *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+    :root{--navy:#ffffff;--gold:#2563EB;--gold-light:#3b82f6;--cream:#f0f6fc;--white:#ffffff;--gray:#64748b;--card-bg:#f8fafc}
+    html{scroll-behavior:smooth}
+    body{background:#fff;color:var(--cream);font-family:'Montserrat',sans-serif;font-weight:300;line-height:1.7}
+    header{position:fixed;top:0;left:0;right:0;z-index:100;background:rgba(255,255,255,.97);border-bottom:1px solid #e2e8f0;box-shadow:0 1px 3px rgba(0,0,0,.05);padding:0 2rem;height:64px;display:flex;align-items:center;justify-content:space-between}
+    .logo{font-family:'Cormorant Garamond',serif;font-size:1.4rem;color:var(--white);text-decoration:none;letter-spacing:.05em}
+    .logo span{color:var(--gold)}
+    nav{display:flex;align-items:center;gap:2rem}
+    nav a{color:var(--gray);font-size:.75rem;font-weight:600;letter-spacing:.12em;text-transform:uppercase;text-decoration:none;transition:color .2s}
+    nav a:hover{color:var(--gold)}
+    .nav-cta{background:var(--gold);color:#fff!important;padding:.5rem 1.2rem;font-size:.7rem!important}
+    .hamburger{display:none;flex-direction:column;gap:5px;cursor:pointer;padding:4px}
+    .hamburger span{display:block;width:22px;height:2px;background:var(--gold)}
+    .mobile-nav{display:none;position:fixed;top:64px;left:0;right:0;background:#fff;border-bottom:1px solid rgba(37,99,235,.2);padding:1.5rem 2rem;flex-direction:column;gap:1rem;z-index:99}
+    .mobile-nav.open{display:flex}
+    .mobile-nav a{color:var(--cream);font-size:.85rem;font-weight:600;text-decoration:none;letter-spacing:.1em;text-transform:uppercase}
+    .hero{padding:110px 2rem 60px;max-width:900px;margin:0 auto;text-align:center}
+    .eyebrow{font-size:.7rem;font-weight:600;letter-spacing:.15em;text-transform:uppercase;color:var(--gold);margin-bottom:1rem}
+    .hero h1{font-family:'Cormorant Garamond',serif;font-size:clamp(2rem,5vw,3.4rem);font-weight:600;color:var(--white);line-height:1.15;margin-bottom:1rem}
+    .hero h1 em{color:var(--gold);font-style:italic}
+    .hero-sub{font-size:1rem;color:var(--cream);opacity:.85;max-width:620px;margin:0 auto 2rem}
+    .how-it-works{display:grid;grid-template-columns:repeat(3,1fr);gap:1.5rem;max-width:900px;margin:3rem auto;padding:0 2rem}
+    .step{text-align:center;padding:1.5rem}
+    .step-num{font-family:'Cormorant Garamond',serif;font-size:2.5rem;font-weight:600;color:var(--gold);line-height:1}
+    .step-title{font-size:.8rem;font-weight:600;letter-spacing:.08em;text-transform:uppercase;color:var(--white);margin:.5rem 0 .3rem}
+    .step-desc{font-size:.78rem;color:var(--gray)}
+    .segments-section{max-width:1200px;margin:0 auto;padding:1rem 2rem 4rem}
+    .section-header{margin:3rem 0 1.5rem;display:flex;align-items:center;gap:1rem}
+    .section-label{font-size:.7rem;font-weight:600;letter-spacing:.15em;text-transform:uppercase;padding:.3rem .8rem;border-radius:2px}
+    .label-mf{background:rgba(37,99,235,.12);color:var(--gold);border:1px solid rgba(37,99,235,.25)}
+    .label-com{background:rgba(74,127,165,.15);color:#6ab0d4;border:1px solid rgba(74,127,165,.3)}
+    .label-lux{background:rgba(212,175,106,.12);color:#d4af6a;border:1px solid rgba(212,175,106,.25)}
+    .section-title{font-family:'Cormorant Garamond',serif;font-size:1.6rem;color:var(--white)}
+    .segments-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:1.2rem}
+    .seg-card{background:var(--card-bg);border:1px solid rgba(37,99,235,.1);border-radius:4px;padding:1.4rem;text-decoration:none;display:flex;flex-direction:column;gap:.6rem;transition:border-color .2s,transform .2s;position:relative;overflow:hidden}
+    .seg-card::before{content:'';position:absolute;left:0;top:0;bottom:0;width:3px}
+    .seg-card.mf::before{background:var(--gold)}
+    .seg-card.com::before{background:#4a7fa5}
+    .seg-card.lux::before{background:#d4af6a}
+    .seg-card:hover{border-color:rgba(37,99,235,.35);transform:translateY(-2px)}
+    .seg-title{font-family:'Cormorant Garamond',serif;font-size:1.1rem;color:var(--white);font-weight:600}
+    .seg-desc{font-size:.78rem;color:var(--gray);line-height:1.6}
+    .seg-cta{font-size:.7rem;font-weight:600;letter-spacing:.1em;text-transform:uppercase;color:var(--gold);margin-top:auto}
+    .data-note{max-width:900px;margin:2rem auto;padding:1.5rem 2rem;background:rgba(0,0,0,.03);border:1px solid rgba(0,0,0,.06);border-radius:4px;font-size:.8rem;color:var(--gray)}
+    .data-note strong{color:var(--cream)}
+    .alphagen-cta{background:linear-gradient(135deg,#EFF6FF 0%,#ffffff 100%);border-top:1px solid rgba(37,99,235,.2);border-bottom:1px solid rgba(37,99,235,.2);padding:3rem 2rem}
+    .alphagen-inner{max-width:800px;margin:0 auto;display:flex;align-items:center;justify-content:space-between;gap:2rem;flex-wrap:wrap}
+    .alphagen-text h3{font-family:'Cormorant Garamond',serif;font-size:1.6rem;color:var(--white);margin-bottom:.5rem}
+    .alphagen-text h3 em{color:var(--gold);font-style:italic}
+    .alphagen-text p{font-size:.85rem;color:var(--cream);opacity:.8;max-width:500px}
+    .btn-gold{background:var(--gold);color:#fff;padding:.85rem 2rem;font-size:.75rem;font-weight:600;letter-spacing:.12em;text-transform:uppercase;text-decoration:none;transition:background .2s;white-space:nowrap}
+    .btn-gold:hover{background:var(--gold-light)}
+    footer{background:#060e1a;border-top:1px solid rgba(37,99,235,.1);padding:2.5rem 2rem}
+    .footer-inner{max-width:1200px;margin:0 auto;display:flex;justify-content:space-between;align-items:flex-start;gap:2rem;flex-wrap:wrap}
+    .footer-brand{font-family:'Cormorant Garamond',serif;font-size:1.2rem;color:var(--white)}
+    .footer-brand span{color:var(--gold)}
+    .footer-info{font-size:.7rem;color:var(--gray);line-height:1.8}
+    .footer-links{display:flex;gap:1.5rem;flex-wrap:wrap}
+    .footer-links a{font-size:.7rem;color:var(--gray);text-decoration:none}
+    .footer-links a:hover{color:var(--gold)}
+    .footer-legal{font-size:.65rem;color:#94a3b8;opacity:1;margin-top:1.5rem;padding-top:1.5rem;border-top:1px solid rgba(0,0,0,.04)}
+    @media(max-width:768px){nav{display:none}.hamburger{display:flex}.how-it-works{grid-template-columns:1fr}.alphagen-inner{flex-direction:column;text-align:center}.footer-inner{flex-direction:column}}
+  </style>
+  <!-- Google tag (gtag.js) | GA4: G-GYL4MLT1C6 -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-GYL4MLT1C6"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-GYL4MLT1C6');
+    function trackMLS(seg){ gtag('event','mls_link_click',{segment_name:seg}); }
+    function trackInsurance(){ gtag('event','insurance_cta_click'); }
+    function trackSchedule(){ gtag('event','schedule_click'); }
+    function trackPhone(){ gtag('event','phone_click'); }
+  </script>
+</head>
+<body>
+<header>
+  <a href="index.html" class="logo">Savings<span>RE</span></a>
+  <nav>
+    <a href="investor-hub.html">Investor Hub</a>
+    <a href="commercial.html">Commercial</a>
+    <a href="luxury.html">Luxury</a>
+    <a href="about.html">About</a>
+    <a href="tel:+15612200402" onclick="trackPhone()" onclick="trackPhone()" class="nav-cta">+1 (561) 220-0402</a>
+  </nav>
+  <div class="hamburger" onclick="document.getElementById('mobileNav').classList.toggle('open')">
+    <span></span><span></span><span></span>
+  </div>
+</header>
+<div class="mobile-nav" id="mobileNav">
+  <a href="investor-hub.html">Investor Hub</a>
+  <a href="commercial.html">Commercial</a>
+  <a href="luxury.html">Luxury</a>
+  <a href="about.html">About</a>
+  <a href="tel:+15612200402" onclick="trackPhone()" onclick="trackPhone()">+1 (561) 220-0402</a>
+</div>
+
+<section class="hero">
+  <div class="eyebrow">Weekly MLS Intelligence</div>
+  <h1>Your SE Florida<br><em>Investment Edge</em></h1>
+  <p class="hero-sub">13 curated MLS segments refreshed every Monday — multifamily income, commercial, and luxury coastal real estate across Palm Beach, Broward, Martin, St. Lucie and Miami-Dade.</p>
+</section>
+
+<div class="how-it-works">
+  <div class="step"><div class="step-num">01</div><div class="step-title">MLS Searches Run</div><div class="step-desc">11 saved searches execute across the Beaches MLS every Monday morning</div></div>
+  <div class="step"><div class="step-num">02</div><div class="step-title">Top 10 Appear Here</div><div class="step-desc">Best listings per segment — sorted by price, income potential, and appreciation</div></div>
+  <div class="step"><div class="step-num">03</div><div class="step-title">You Call, We Move</div><div class="step-desc">See something interesting? Contact us same day for showing, analysis, and offer</div></div>
+</div>
+
+<div class="segments-section">
+
+  <div class="section-header">
+    <span class="section-label label-mf">Multifamily Income</span>
+    <div class="section-title">Income-Producing Properties</div>
+  </div>
+  <div class="segments-grid">
+    <a href="weekly/mf-small-under1m.html" class="seg-card mf">
+      <div class="seg-title">Small Multifamily — Under $1M</div>
+      <div class="seg-desc">Duplexes, triplexes, and quads under $1M. Entry-level income properties with strong rent-to-price ratios across SE Florida.</div>
+      <div class="seg-cta">View This Week's Listings →</div>
+    </a>
+    <a href="weekly/mf-small-1to3m.html" class="seg-card mf">
+      <div class="seg-title">Small Multifamily — $1M to $3M</div>
+      <div class="seg-desc">2+ unit income properties in the $1M–$3M range. Higher-end neighborhoods with institutional-quality tenants.</div>
+      <div class="seg-cta">View This Week's Listings →</div>
+    </a>
+    <a href="weekly/mf-mid-5plus.html" class="seg-card mf">
+      <div class="seg-title">Mid-Size Multifamily — 5+ Units</div>
+      <div class="seg-desc">Apartment buildings and complexes with 5 or more units. Institutional income plays with professional management potential.</div>
+      <div class="seg-cta">View This Week's Listings →</div>
+    </a>
+    <a href="weekly/mf-large-20plus.html" class="seg-card mf">
+      <div class="seg-title">Large Multifamily — 20+ Units</div>
+      <div class="seg-desc">Apartment complexes 20 units and above. Value-add opportunities, repositioning plays, and stabilized cash-flow assets.</div>
+      <div class="seg-cta">View This Week's Listings →</div>
+    </a>
+  </div>
+
+  <div class="section-header">
+    <span class="section-label label-com">Commercial</span>
+    <div class="section-title">Commercial Investment Properties</div>
+  </div>
+  <div class="segments-grid">
+    <a href="weekly/com-retail.html" class="seg-card com">
+      <div class="seg-title">Retail &amp; Strip Centers</div>
+      <div class="seg-desc">Retail properties, strip malls, and free-standing buildings from $750K. NNN lease opportunities and value-add retail.</div>
+      <div class="seg-cta">View This Week's Listings →</div>
+    </a>
+    <a href="weekly/com-industrial.html" class="seg-card com">
+      <div class="seg-title">Industrial &amp; Warehouse</div>
+      <div class="seg-desc">Industrial, warehouse, and flex-space from $750K. Last-mile logistics demand driving strong yields across SE Florida.</div>
+      <div class="seg-cta">View This Week's Listings →</div>
+    </a>
+    <a href="weekly/com-office.html" class="seg-card com">
+      <div class="seg-title">Office Buildings</div>
+      <div class="seg-desc">Office, medical office, and professional buildings from $750K. Class A holds while Class B/C presents distressed opportunity.</div>
+      <div class="seg-cta">View This Week's Listings →</div>
+    </a>
+    <a href="weekly/com-mixeduse.html" class="seg-card com">
+      <div class="seg-title">Mixed Use Properties</div>
+      <div class="seg-desc">Retail-residential combinations from $750K. Brightline corridor and urbanization trends creating new mixed-use demand.</div>
+      <div class="seg-cta">View This Week's Listings →</div>
+    </a>
+    <a href="weekly/com-land.html" class="seg-card com">
+      <div class="seg-title">Commercial Land</div>
+      <div class="seg-desc">Commercial, industrial, and development land from $750K. Ground-up development and land banking opportunities.</div>
+      <div class="seg-cta">View This Week's Listings →</div>
+    </a>
+  </div>
+
+  <div class="section-header">
+    <span class="section-label label-lux">Luxury</span>
+    <div class="section-title">Luxury &amp; Lifestyle Properties</div>
+  </div>
+  <div class="segments-grid">
+    <a href="weekly/luxury-oceanfront.html" class="seg-card lux">
+      <div class="seg-title">Oceanfront &amp; Waterfront Estates</div>
+      <div class="seg-desc">Ocean-front and deep-water estates from $1.5M. Highland Beach, Manalapan, Jupiter Island, Hillsboro Beach, and Boca's oceanfront corridor.</div>
+      <div class="seg-cta">View This Week's Listings →</div>
+    </a>
+    <a href="weekly/luxury-countryclub.html" class="seg-card lux">
+      <div class="seg-title">Luxury Country Club Estates</div>
+      <div class="seg-desc">Private golf and country club communities from $750K. Boca West, Broken Sound, Woodfield, Mizner, Ibis Golf, Admirals Cove, BallenIsles.</div>
+      <div class="seg-cta">View This Week's Listings →</div>
+    </a>
+  </div>
+
+  <div class="data-note">
+    <strong>About this data:</strong> Listings are sourced from the Beaches MLS covering Broward, Palm Beach, Martin, St. Lucie, and select Miami-Dade counties. All searches are run weekly and display the top 10 active listings per segment. Information is deemed reliable but not guaranteed. Contact us directly to verify status and schedule showings.
+  </div>
+
+</div>
+
+<div class="alphagen-cta">
+  <div class="alphagen-inner">
+    <div class="alphagen-text">
+      <h3>Coastal Property Insurance <em>for Investors</em></h3>
+      <p>High-value investment properties in Southeast Florida require specialized wind, flood, and umbrella coverage. AlphaGen Insurance coordinates multi-property and portfolio coverage — before closing.</p>
+    </div>
+    <a href="https://alphageninsurance.com/personal-insurance-quote/?utm_source=savingsre&utm_medium=website&utm_campaign=insurance_cta" class="btn-gold" target="_blank">Complete the Inquiry Form →</a>
+  </div>
+</div>
+
+<footer>
+  <div class="footer-inner">
+    <div>
+      <div class="footer-brand">Savings<span>RE</span></div>
+      <div class="footer-info" style="margin-top:.5rem">
+        William Spencer Seery Jr, PA<br>
+        FL License #3333692 &nbsp;|&nbsp; MLS ID 276537152<br>
+        5550 Glades Road, Boca Raton FL 33431<br>
+        +1 (561) 220-0402 &nbsp;|&nbsp; bill@savingsre.com
+      </div>
+    </div>
+    <div class="footer-links">
+      <a href="index.html">Home</a>
+      <a href="investor-hub.html">Investor Hub</a>
+      <a href="commercial.html">Commercial</a>
+      <a href="luxury.html">Luxury</a>
+      <a href="https://alphageninsurance.com/personal-insurance-quote/?utm_source=savingsre&utm_medium=website&utm_campaign=insurance_cta" target="_blank" onclick="trackInsurance()">Insurance</a>
+      <a href="https://calendar.app.google/Yv2c22sEEcKZuExq9?utm_source=savingsre&utm_medium=website&utm_campaign=schedule" target="_blank" onclick="trackSchedule()">Schedule</a>
+    </div>
+  </div>
+  <div class="footer-legal">
+    Listing data sourced from the Beaches MLS. Updated weekly. Information deemed reliable but not guaranteed. SavingsRE is a licensed Florida real estate brokerage. &copy; 2026 William Spencer Seery Jr, PA. FL License #3333692.
+  </div>
+</footer>
+</body>
+</html>
