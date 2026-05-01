@@ -4,230 +4,192 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Luxury Real Estate | SavingsRE — Oceanfront &amp; Country Club SE Florida</title>
-  <meta name="description" content="Oceanfront estates from $1.5M and luxury country club communities from $750K across SE Florida. Weekly updated listings from the Beaches MLS.">
-  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;1,400;1,600&family=Montserrat:wght@300;400;600&display=swap" rel="stylesheet">
+  <meta name="description" content="Curated luxury real estate — oceanfront estates and premier country club communities across Palm Beach, Boca Raton, Delray Beach, and Fort Lauderdale. Updated weekly from Beaches MLS.">
+  <link rel="canonical" href="https://savingsre.com/luxury.html">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,400&family=Montserrat:wght@300;400;500;600&display=swap" rel="stylesheet">
   <style>
-    *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
-    :root{--navy:#ffffff;--gold:#2563EB;--gold-light:#3b82f6;--cream:#1e293b;--white:#fff;--gray:#64748b;--card-bg:#f8fafc;--lux:#d4af6a}
+    :root{--navy:#ffffff;--gold:#2563EB;--gold-light:#3b82f6;--cream:#1e293b;--white:#ffffff;--gray:#64748b;--card-bg:#f8fafc;--text-body:#cdd2dc}
     html{scroll-behavior:smooth}
     body{background:#fff;color:var(--cream);font-family:'Montserrat',sans-serif;font-weight:300;line-height:1.7}
-    header{position:fixed;top:0;left:0;right:0;z-index:100;background:rgba(255,255,255,.97);border-bottom:1px solid #e2e8f0;box-shadow:0 1px 3px rgba(0,0,0,.05);padding:0 2rem;height:64px;display:flex;align-items:center;justify-content:space-between}
-    .logo{font-family:'Cormorant Garamond',serif;font-size:1.4rem;color:var(--white);text-decoration:none;letter-spacing:.05em}
-    .logo span{color:var(--gold)}
-    nav{display:flex;align-items:center;gap:2rem}
-    nav a{color:var(--gray);font-size:.75rem;font-weight:600;letter-spacing:.12em;text-transform:uppercase;text-decoration:none;transition:color .2s}
-    nav a:hover,nav a.active{color:var(--gold)}
-    .nav-cta{background:var(--gold);color:#fff!important;padding:.5rem 1.2rem;font-size:.7rem!important}
-    .hamburger{display:none;flex-direction:column;gap:5px;cursor:pointer;padding:4px}
-    .hamburger span{display:block;width:22px;height:2px;background:var(--gold)}
-    .mobile-nav{display:none;position:fixed;top:64px;left:0;right:0;background:#fff;border-bottom:1px solid rgba(37,99,235,.2);padding:1.5rem 2rem;flex-direction:column;gap:1rem;z-index:99}
-    .mobile-nav.open{display:flex}
-    .mobile-nav a{color:var(--cream);font-size:.85rem;font-weight:600;text-decoration:none;letter-spacing:.1em;text-transform:uppercase}
-    /* HERO */
-    .hero{padding:120px 2rem 80px;max-width:900px;margin:0 auto}
-    .eyebrow{font-size:.7rem;font-weight:600;letter-spacing:.15em;text-transform:uppercase;color:var(--lux);margin-bottom:1rem;display:flex;align-items:center;gap:.75rem}
-    .eyebrow::before{content:'';display:inline-block;width:32px;height:1px;background:var(--lux)}
-    .hero h1{font-family:'Cormorant Garamond',serif;font-size:clamp(2.2rem,5vw,3.8rem);font-weight:600;color:var(--white);line-height:1.1;margin-bottom:1.2rem}
-    .hero h1 em{color:var(--lux);font-style:italic}
-    .hero-sub{font-size:1rem;color:var(--cream);opacity:.85;max-width:620px;line-height:1.8}
-    /* LUX SEGMENTS */
-    .lux-segments{max-width:1200px;margin:0 auto;padding:2rem 2rem 4rem;display:grid;grid-template-columns:repeat(2,1fr);gap:2rem}
-    @media(max-width:900px){.lux-segments{grid-template-columns:1fr}}
-    .lux-card{background:var(--card-bg);border:1px solid rgba(212,175,106,.2);border-radius:4px;overflow:hidden;display:flex;flex-direction:column;transition:border-color .2s,transform .2s}
-    .lux-card:hover{border-color:rgba(212,175,106,.5);transform:translateY(-3px)}
-    .lux-card-header{padding:2rem 2rem 1rem;border-bottom:1px solid rgba(212,175,106,.1)}
-    .lux-icon{font-size:2rem;margin-bottom:1rem}
-    .lux-card-header h2{font-family:'Cormorant Garamond',serif;font-size:1.6rem;color:var(--white);font-weight:600;margin-bottom:.5rem}
-    .lux-card-header h2 em{color:var(--lux);font-style:italic}
-    .lux-tagline{font-size:.8rem;color:var(--lux);font-weight:600;letter-spacing:.05em}
-    .lux-card-body{padding:1.5rem 2rem;flex:1;display:flex;flex-direction:column;gap:1rem}
-    .lux-desc{font-size:.88rem;color:var(--cream);opacity:.85;line-height:1.8}
-    .lux-specs{display:grid;grid-template-columns:repeat(2,1fr);gap:.75rem}
-    .lux-spec{padding:.75rem;background:rgba(0,0,0,.03);border:1px solid rgba(0,0,0,.06);border-radius:3px}
-    .lux-spec-val{font-size:.9rem;font-weight:600;color:var(--lux)}
-    .lux-spec-lbl{font-size:.65rem;color:var(--gray);text-transform:uppercase;letter-spacing:.1em;margin-top:.15rem}
-    .lux-markets{font-size:.8rem;color:var(--gray);line-height:1.8;font-style:italic}
-    .lux-cta{display:inline-block;background:var(--lux);color:#fff;padding:.85rem 2rem;font-size:.75rem;font-weight:600;letter-spacing:.12em;text-transform:uppercase;text-decoration:none;transition:background .2s;margin-top:auto}
-    .lux-cta:hover{background:var(--gold-light)}
-    /* INSURANCE */
-    .insurance-section{background:linear-gradient(135deg,#EFF6FF 0%,#ffffff 100%);border-top:1px solid rgba(37,99,235,.15);border-bottom:1px solid rgba(37,99,235,.15);padding:4rem 2rem}
-    .insurance-inner{max-width:1000px;margin:0 auto}
-    .insurance-inner h2{font-family:'Cormorant Garamond',serif;font-size:2rem;color:var(--white);margin-bottom:1rem}
-    .insurance-inner h2 em{color:var(--gold);font-style:italic}
-    .insurance-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:1.5rem;margin:2rem 0}
-    @media(max-width:768px){.insurance-grid{grid-template-columns:1fr}}
-    .ins-card{padding:1.5rem;background:rgba(0,0,0,.03);border:1px solid rgba(37,99,235,.12);border-radius:3px}
-    .ins-card h4{font-family:'Cormorant Garamond',serif;font-size:1.1rem;color:var(--white);margin-bottom:.5rem}
-    .ins-card p{font-size:.8rem;color:var(--gray);line-height:1.7}
-    /* MARKETS */
-    .markets-section{max-width:1000px;margin:0 auto;padding:4rem 2rem}
-    .markets-section h2{font-family:'Cormorant Garamond',serif;font-size:2rem;color:var(--white);margin-bottom:.5rem}
-    .markets-section h2 em{color:var(--gold);font-style:italic}
-    .markets-section .intro{font-size:.88rem;color:var(--gray);margin-bottom:2rem}
-    .markets-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:1.2rem}
-    @media(max-width:768px){.markets-grid{grid-template-columns:1fr}}
-    .market-card{padding:1.2rem;background:var(--card-bg);border:1px solid rgba(0,0,0,.05);border-radius:3px}
-    .market-name{font-family:'Cormorant Garamond',serif;font-size:1.05rem;color:var(--lux);font-weight:600;margin-bottom:.4rem}
-    .market-desc{font-size:.75rem;color:var(--gray);line-height:1.7}
-    /* FOOTER */
-    .alphagen-cta{background:linear-gradient(135deg,#EFF6FF 0%,#ffffff 100%);border-top:1px solid rgba(37,99,235,.2);border-bottom:1px solid rgba(37,99,235,.2);padding:3rem 2rem}
-    .alphagen-inner{max-width:800px;margin:0 auto;display:flex;align-items:center;justify-content:space-between;gap:2rem;flex-wrap:wrap}
-    .alphagen-text h3{font-family:'Cormorant Garamond',serif;font-size:1.6rem;color:var(--white);margin-bottom:.5rem}
-    .alphagen-text h3 em{color:var(--gold);font-style:italic}
-    .alphagen-text p{font-size:.85rem;color:var(--cream);opacity:.8;max-width:500px}
-    .btn-gold{background:var(--gold);color:#fff;padding:.85rem 2rem;font-size:.75rem;font-weight:600;letter-spacing:.12em;text-transform:uppercase;text-decoration:none;transition:background .2s;white-space:nowrap}
+    header{position:fixed;top:0;left:0;right:0;z-index:100;padding:1.1rem 3rem;display:flex;justify-content:space-between;align-items:center;background:rgba(255,255,255,0.95);backdrop-filter:blur(8px);border-bottom:1px solid rgba(37,99,235,.08)}
+    .brand{font-size:1.2rem;letter-spacing:.25em;text-transform:uppercase;text-decoration:none;color:var(--cream);font-weight:500}
+    .brand span{color:var(--gold)}
+    nav{display:flex;gap:2rem}
+    nav a{font-size:.7rem;letter-spacing:.15em;text-transform:uppercase;text-decoration:none;color:var(--gray);font-weight:500;transition:color .2s}
+    nav a:hover{color:var(--gold)}
+    .hero{background:#050d1a;padding:9rem 3rem 5rem;text-align:center}
+    .eyebrow{font-size:.7rem;letter-spacing:.3em;text-transform:uppercase;color:var(--gold);margin-bottom:1.2rem;display:block}
+    .hero h1{font-family:'Cormorant Garamond',serif;font-size:clamp(2.5rem,5vw,4.2rem);font-weight:300;color:#fff;line-height:1.1;margin-bottom:1.5rem}
+    .hero h1 em{font-style:italic;color:var(--gold)}
+    .hero-sub{font-size:.9rem;color:var(--text-body);max-width:600px;margin:0 auto 2.5rem;line-height:1.75}
+    .btn-group{display:flex;gap:1rem;justify-content:center;flex-wrap:wrap}
+    .btn-gold{background:var(--gold);color:#fff;padding:.8rem 2rem;font-size:.72rem;letter-spacing:.15em;text-transform:uppercase;text-decoration:none;font-weight:600;transition:background .2s}
     .btn-gold:hover{background:var(--gold-light)}
-    footer{background:#060e1a;border-top:1px solid rgba(37,99,235,.1);padding:2.5rem 2rem}
-    .footer-inner{max-width:1200px;margin:0 auto;display:flex;justify-content:space-between;align-items:flex-start;gap:2rem;flex-wrap:wrap}
-    .footer-brand{font-family:'Cormorant Garamond',serif;font-size:1.2rem;color:var(--white)}
+    .btn-outline{border:1px solid rgba(255,255,255,.3);color:#fff;padding:.8rem 2rem;font-size:.72rem;letter-spacing:.15em;text-transform:uppercase;text-decoration:none;font-weight:500;transition:border-color .2s,color .2s}
+    .btn-outline:hover{border-color:#fff;color:#fff}
+    .stats-bar{background:#0a1628;padding:2rem 3rem;display:flex;justify-content:center;gap:3rem;flex-wrap:wrap;border-bottom:1px solid rgba(255,255,255,.06)}
+    .stat-item{text-align:center}
+    .stat-number{font-family:'Cormorant Garamond',serif;font-size:2.2rem;color:#fff;font-weight:300;display:block}
+    .stat-label{font-size:.65rem;letter-spacing:.2em;text-transform:uppercase;color:var(--gray);display:block}
+    .section-eyebrow{font-size:.65rem;letter-spacing:.25em;text-transform:uppercase;color:var(--gold);margin-bottom:.8rem;display:block}
+    .content-section{padding:5rem 3rem}
+    .content-section.alt-bg{background:var(--card-bg)}
+    .section-header{text-align:center;margin-bottom:3rem}
+    .section-header h2{font-family:'Cormorant Garamond',serif;font-size:clamp(2rem,3vw,2.8rem);font-weight:300;color:var(--cream);line-height:1.2}
+    .section-header h2 em{font-style:italic;color:var(--gold)}
+    .section-intro{font-size:.88rem;color:var(--gray);max-width:620px;margin:.8rem auto 0;line-height:1.75}
+    .large-card{background:#fff;border:1px solid rgba(37,99,235,.1);border-radius:4px;padding:2.5rem;max-width:860px;margin:0 auto;box-shadow:0 2px 20px rgba(0,0,0,.06)}
+    .card-badge{font-size:.6rem;letter-spacing:.2em;text-transform:uppercase;color:var(--gold);margin-bottom:.7rem;display:block;font-weight:500}
+    .card-title{font-family:'Cormorant Garamond',serif;font-size:1.6rem;color:var(--cream);margin-bottom:.3rem;font-weight:400;line-height:1.2}
+    .card-subtitle{font-size:.78rem;font-weight:500;color:var(--gold);letter-spacing:.06em;margin-bottom:1rem;display:block}
+    .card-desc{font-size:.85rem;color:var(--text-body);line-height:1.75;margin-bottom:1.2rem;max-width:72ch}
+    .card-features{list-style:none;padding:0;margin:0 0 1.5rem;display:flex;flex-wrap:wrap;gap:.4rem}
+    .card-features li{font-size:.68rem;letter-spacing:.1em;color:var(--gray);padding:.3rem .8rem;border:1px solid rgba(37,99,235,.15);border-radius:2px}
+    .card-cta{display:inline-block;font-size:.72rem;letter-spacing:.12em;text-transform:uppercase;color:var(--gold);text-decoration:none;font-weight:600;border-bottom:1px solid var(--gold);padding-bottom:2px;transition:opacity .2s}
+    .card-cta:hover{opacity:.7}
+    .ins-strip{background:#050d1a;padding:3rem;text-align:center}
+    .ins-strip h2{font-family:'Cormorant Garamond',serif;font-size:1.8rem;color:#fff;font-weight:300;margin-bottom:.5rem}
+    .ins-strip p{font-size:.82rem;color:var(--text-body);margin-bottom:1.5rem}
+    .ins-cards{display:flex;gap:1.5rem;justify-content:center;flex-wrap:wrap;margin-bottom:2rem}
+    .ins-card{background:rgba(255,255,255,.05);border:1px solid rgba(255,255,255,.1);padding:1.2rem 1.8rem;text-align:left;min-width:200px}
+    .ins-card-label{font-size:.6rem;letter-spacing:.2em;text-transform:uppercase;color:var(--gold);margin-bottom:.3rem}
+    .ins-card-val{font-size:.85rem;color:#fff}
+    footer{background:#050d1a;padding:3rem;border-top:1px solid rgba(255,255,255,.06);text-align:center}
+    .footer-brand{font-size:1.1rem;letter-spacing:.25em;text-transform:uppercase;color:#fff;font-weight:500;margin-bottom:.5rem}
     .footer-brand span{color:var(--gold)}
-    .footer-info{font-size:.7rem;color:var(--gray);line-height:1.8}
-    .footer-links{display:flex;gap:1.5rem;flex-wrap:wrap}
-    .footer-links a{font-size:.7rem;color:var(--gray);text-decoration:none}
-    .footer-links a:hover{color:var(--gold)}
-    .footer-legal{font-size:.65rem;color:#94a3b8;opacity:1;margin-top:1.5rem;padding-top:1.5rem;border-top:1px solid rgba(0,0,0,.04)}
-    @media(max-width:768px){nav{display:none}.hamburger{display:flex}.alphagen-inner{flex-direction:column;text-align:center}.footer-inner{flex-direction:column}}
+    .footer-info{font-size:.72rem;color:var(--gray);line-height:1.8}
+    .footer-license{font-size:.62rem;color:rgba(100,116,139,.6);margin-top:.8rem}
   </style>
-  <!-- Google tag (gtag.js) | GA4: G-GYL4MLT1C6 -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-GYL4MLT1C6"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', 'G-GYL4MLT1C6');
-    function trackMLS(seg){ gtag('event','mls_link_click',{segment_name:seg}); }
-    function trackInsurance(){ gtag('event','insurance_cta_click'); }
-    function trackSchedule(){ gtag('event','schedule_click'); }
-    function trackPhone(){ gtag('event','phone_click'); }
-  </script>
 </head>
 <body>
+
 <header>
-  <a href="index.html" class="logo">Savings<span>RE</span></a>
+  <a href="/" class="brand">Savings<span>RE</span></a>
   <nav>
-    <a href="investor-hub.html">Investor Hub</a>
-    <a href="commercial.html">Commercial</a>
-    <a href="luxury.html" class="active">Luxury</a>
-    <a href="about.html">About</a>
-    <a href="tel:+15612200402" onclick="trackPhone()" onclick="trackPhone()" class="nav-cta">+1 (561) 220-0402</a>
+    <a href="/investor-hub.html">Investor Hub</a>
+    <a href="/luxury.html">Luxury</a>
+    <a href="/commercial.html">Commercial</a>
+    <a href="/about.html">About</a>
   </nav>
-  <div class="hamburger" onclick="document.getElementById('mobileNav').classList.toggle('open')">
-    <span></span><span></span><span></span>
-  </div>
 </header>
-<div class="mobile-nav" id="mobileNav">
-  <a href="investor-hub.html">Investor Hub</a>
-  <a href="commercial.html">Commercial</a>
-  <a href="luxury.html">Luxury</a>
-  <a href="about.html">About</a>
-  <a href="tel:+15612200402" onclick="trackPhone()" onclick="trackPhone()">+1 (561) 220-0402</a>
-</div>
 
 <section class="hero">
-  <div class="eyebrow">Luxury Real Estate</div>
-  <h1>The Finest Properties<br><em>in Southeast Florida</em></h1>
-  <p class="hero-sub">From oceanfront estates along the Gold Coast to private golf and country club communities — two weekly-updated luxury segments curated from the Beaches MLS.</p>
+  <span class="eyebrow">Luxury &amp; Coastal Real Estate</span>
+  <h1>South Florida<br><em>Luxury Properties</em></h1>
+  <p class="hero-sub">Curated oceanfront estates, private beach access homes, and premier country club residences across Palm Beach, Boca Raton, Delray Beach, and Fort Lauderdale.</p>
+  <div class="btn-group">
+    <a href="#oceanfront" class="btn-gold">Oceanfront &amp; Waterfront</a>
+    <a href="#country-club" class="btn-outline">Country Club Estates</a>
+  </div>
 </section>
 
-<div class="lux-segments">
-  <div class="lux-card">
-    <div class="lux-card-header">
-      <div class="lux-icon">🌊</div>
-      <h2>Oceanfront &amp; <em>Waterfront Estates</em></h2>
-      <div class="lux-tagline">Ocean-front, deep-water, and Intracoastal estates</div>
-    </div>
-    <div class="lux-card-body">
-      <p class="lux-desc">The finest coastal properties along SE Florida's Gold Coast — direct ocean frontage, deep-water dockage, and Intracoastal estates in the region's most prestigious addresses.</p>
-      <div class="lux-specs">
-        <div class="lux-spec"><div class="lux-spec-val">$1.5M+</div><div class="lux-spec-lbl">Starting Price</div></div>
-        <div class="lux-spec"><div class="lux-spec-val">Weekly</div><div class="lux-spec-lbl">MLS Updates</div></div>
-        <div class="lux-spec"><div class="lux-spec-val">5 Counties</div><div class="lux-spec-lbl">Coverage Area</div></div>
-        <div class="lux-spec"><div class="lux-spec-val">Top 10</div><div class="lux-spec-lbl">Listings Shown</div></div>
-      </div>
-      <p class="lux-markets">Highland Beach &bull; Manalapan &bull; Jupiter Island &bull; Hillsboro Beach &bull; Boca Raton Oceanfront &bull; Delray Beach &bull; Palm Beach &bull; Fort Lauderdale Beach</p>
-      <a href="weekly/luxury-oceanfront.html" class="lux-cta">View This Week's Oceanfront Listings →</a>
-    </div>
+<div class="stats-bar">
+  <div class="stat-item">
+    <span class="stat-number">371</span>
+    <span class="stat-label">Oceanfront Listings</span>
   </div>
-
-  <div class="lux-card">
-    <div class="lux-card-header">
-      <div class="lux-icon">🏌️</div>
-      <h2>Country Club <em>Estates</em></h2>
-      <div class="lux-tagline">Private golf and lifestyle communities</div>
-    </div>
-    <div class="lux-card-body">
-      <p class="lux-desc">SE Florida's premier gated golf and country club communities — full resort amenities, private club memberships, and resort-caliber residences from villas to estate homes.</p>
-      <div class="lux-specs">
-        <div class="lux-spec"><div class="lux-spec-val">$750K+</div><div class="lux-spec-lbl">Starting Price</div></div>
-        <div class="lux-spec"><div class="lux-spec-val">Weekly</div><div class="lux-spec-lbl">MLS Updates</div></div>
-        <div class="lux-spec"><div class="lux-spec-val">7 Clubs</div><div class="lux-spec-lbl">Tracked</div></div>
-        <div class="lux-spec"><div class="lux-spec-val">Top 10</div><div class="lux-spec-lbl">Listings Shown</div></div>
-      </div>
-      <p class="lux-markets">Boca West &bull; Broken Sound &bull; Woodfield Country Club &bull; Mizner Country Club &bull; Ibis Golf &amp; Country Club &bull; Admirals Cove &bull; BallenIsles</p>
-      <a href="weekly/luxury-countryclub.html" class="lux-cta">View This Week's Country Club Listings →</a>
-    </div>
+  <div class="stat-item">
+    <span class="stat-number">118</span>
+    <span class="stat-label">Country Club Listings</span>
+  </div>
+  <div class="stat-item">
+    <span class="stat-number">$1.5M+</span>
+    <span class="stat-label">Oceanfront Entry</span>
+  </div>
+  <div class="stat-item">
+    <span class="stat-number">Weekly</span>
+    <span class="stat-label">Updated via MLS</span>
   </div>
 </div>
 
-<section class="insurance-section">
-  <div class="insurance-inner">
-    <h2>Why Coastal Insurance Matters<br><em>Before You Close</em></h2>
-    <p style="font-size:.88rem;color:var(--cream);opacity:.85;max-width:700px;margin-bottom:1rem">Florida's insurance market has hardened significantly — carrier exits, reinsurance cost increases, and Citizens restrictions mean you must secure coverage before closing, not after. High-value coastal properties require specialist underwriting.</p>
-    <div class="insurance-grid">
-      <div class="ins-card"><h4>Wind Coverage</h4><p>Florida's coastal exposure requires standalone wind coverage — standard homeowners policies exclude wind damage in most coastal zones.</p></div>
-      <div class="ins-card"><h4>Flood Insurance</h4><p>NFIP limits are $250K for structure. High-value properties require excess flood coverage from private carriers — often $1M–$5M in excess.</p></div>
-      <div class="ins-card"><h4>Umbrella &amp; Portfolio</h4><p>Multi-property investors need coordinated umbrella policies. AlphaGen structures coverage across your entire portfolio before any single closing.</p></div>
-    </div>
-    <a href="https://alphageninsurance.com/personal-insurance-quote/?utm_source=savingsre&utm_medium=website&utm_campaign=insurance_cta" class="btn-gold" target="_blank">Get a Coastal Property Insurance Quote →</a>
+<section id="oceanfront" class="content-section">
+  <div class="section-header">
+    <span class="section-eyebrow">Waterfront &amp; Oceanfront</span>
+    <h2>Oceanfront &amp; Coastal <em>Estates</em></h2>
+    <p class="section-intro">Direct Atlantic oceanfront, Intracoastal waterfront, and private beach access homes priced from $1.5 million.</p>
+  </div>
+  <div class="large-card">
+    <span class="card-badge">Luxury · Waterfront · Updated Weekly</span>
+    <div class="card-title">Oceanfront &amp; Waterfront Homes</div>
+    <span class="card-subtitle">From $1,500,000 — Single Family, Condo &amp; Estate</span>
+    <p class="card-desc">Direct Atlantic oceanfront, Intracoastal, and deep-water dockage properties. Single-family estates, penthouses, and beach compounds.</p>
+    <ul class="card-features">
+      <li>Palm Beach</li>
+      <li>Manalapan</li>
+      <li>Gulf Stream</li>
+      <li>Delray Beach</li>
+      <li>Boca Raton</li>
+      <li>Fort Lauderdale</li>
+      <li>Highland Beach</li>
+      <li>371 active listings</li>
+      <li>Beaches MLS</li>
+      <li>Refreshed weekly</li>
+    </ul>
+    <a href="weekly/luxury-oceanfront.html" class="card-cta">View Current Oceanfront Listings →</a>
   </div>
 </section>
 
-<section class="markets-section">
-  <h2>Key Luxury <em>Markets</em></h2>
-  <p class="intro">SE Florida's luxury corridor runs from Jupiter Island south through Palm Beach, Boca Raton, Fort Lauderdale, and into Miami-Dade — each market with distinct character and pricing dynamics.</p>
-  <div class="markets-grid">
-    <div class="market-card"><div class="market-name">Highland Beach</div><div class="market-desc">Ultra-exclusive oceanfront enclave between Boca Raton and Delray Beach. Strict zoning limits high-rises — most properties are direct oceanfront or Intracoastal estates.</div></div>
-    <div class="market-card"><div class="market-name">Manalapan</div><div class="market-desc">Palm Beach County's most exclusive barrier island municipality. Oceanfront-to-Intracoastal estates on a private island — among the most expensive per sq ft in Florida.</div></div>
-    <div class="market-card"><div class="market-name">Jupiter Island</div><div class="market-desc">Martin County's ultra-wealthy enclave. Oceanfront estates with exceptional privacy, old-money character, and strict development controls preserving exclusivity.</div></div>
-    <div class="market-card"><div class="market-name">Hillsboro Beach</div><div class="market-desc">Broward County's barrier island gem — the "Millionaire's Mile." Ocean-to-Intracoastal estates in a gated coastal corridor between Boca Raton and Deerfield Beach.</div></div>
-    <div class="market-card"><div class="market-name">Boca Raton Oceanfront</div><div class="market-desc">Palmetto Park Rd to Spanish River — Boca's direct oceanfront corridor. Mix of legacy estates, modern builds, and luxury high-rises.</div></div>
-    <div class="market-card"><div class="market-name">Palm Beach Island</div><div class="market-desc">The original Florida Gold Coast enclave. Ocean-to-lake estates on a barrier island with historic architecture and unmatched prestige.</div></div>
+<section id="country-club" class="content-section alt-bg">
+  <div class="section-header">
+    <span class="section-eyebrow">Golf &amp; Club Communities</span>
+    <h2>Country Club &amp; Golf <em>Estates</em></h2>
+    <p class="section-intro">Premier golf course communities and private club residences from $750,000. Curated weekly from the most sought-after gated communities in Palm Beach County.</p>
+  </div>
+  <div class="large-card">
+    <span class="card-badge">Luxury · Golf &amp; Club Living · Updated Weekly</span>
+    <div class="card-title">Country Club &amp; Golf Community Homes</div>
+    <span class="card-subtitle">From $750,000 — Gated &amp; Private Club Communities</span>
+    <p class="card-desc">Estate homes and club residences within Palm Beach County's most prestigious gated golf communities.</p>
+    <ul class="card-features">
+      <li>Boca Raton</li>
+      <li>Delray Beach</li>
+      <li>Palm Beach Gardens</li>
+      <li>Mizner Country Club</li>
+      <li>Broken Sound</li>
+      <li>St. Andrews</li>
+      <li>Wellington Equestrian</li>
+      <li>The Club at Ibis</li>
+      <li>118 active listings</li>
+      <li>Beaches MLS</li>
+      <li>Refreshed weekly</li>
+    </ul>
+    <a href="weekly/luxury-countryclub.html" class="card-cta">View Current Country Club Listings →</a>
   </div>
 </section>
 
-<div class="alphagen-cta">
-  <div class="alphagen-inner">
-    <div class="alphagen-text">
-      <h3>AlphaGen Insurance <em>&amp; Advisory</em></h3>
-      <p>Coastal property insurance coordination for high-value buyers and investors across SE Florida. Wind, flood, umbrella, and portfolio coverage — secured before closing.</p>
+<div class="ins-strip">
+  <h2>High-Value Coastal Property Insurance</h2>
+  <p>AlphaGen connects Florida coastal property owners with specialized coverage for oceanfront, high-value, and hard-to-place properties.</p>
+  <div class="ins-cards">
+    <div class="ins-card">
+      <div class="ins-card-label">Coverage Type</div>
+      <div class="ins-card-val">High-Value Residential</div>
     </div>
-    <a href="https://alphageninsurance.com/personal-insurance-quote/?utm_source=savingsre&utm_medium=website&utm_campaign=insurance_cta" class="btn-gold" target="_blank">Complete the Inquiry Form →</a>
+    <div class="ins-card">
+      <div class="ins-card-label">Specialty</div>
+      <div class="ins-card-val">Coastal &amp; Oceanfront</div>
+    </div>
+    <div class="ins-card">
+      <div class="ins-card-label">Markets</div>
+      <div class="ins-card-val">SE Florida</div>
+    </div>
   </div>
+  <a href="https://alphagen.pro" target="_blank" rel="noopener" class="btn-gold">Get Coverage Quotes</a>
 </div>
 
 <footer>
-  <div class="footer-inner">
-    <div>
-      <div class="footer-brand">Savings<span>RE</span></div>
-      <div class="footer-info" style="margin-top:.5rem">
-        William Spencer Seery Jr, PA<br>
-        FL License #3333692 &nbsp;|&nbsp; MLS ID 276537152<br>
-        5550 Glades Road, Boca Raton FL 33431<br>
-        +1 (561) 220-0402 &nbsp;|&nbsp; bill@savingsre.com
-      </div>
-    </div>
-    <div class="footer-links">
-      <a href="index.html">Home</a>
-      <a href="investor-hub.html">Investor Hub</a>
-      <a href="commercial.html">Commercial</a>
-      <a href="luxury.html">Luxury</a>
-      <a href="https://alphageninsurance.com/personal-insurance-quote/?utm_source=savingsre&utm_medium=website&utm_campaign=insurance_cta" target="_blank" onclick="trackInsurance()">Insurance</a>
-      <a href="https://calendar.app.google/Yv2c22sEEcKZuExq9?utm_source=savingsre&utm_medium=website&utm_campaign=schedule" target="_blank" onclick="trackSchedule()">Schedule</a>
-    </div>
+  <div class="footer-brand">Savings<span>RE</span></div>
+  <div class="footer-info">
+    South Florida Real Estate Investment Intelligence<br>
+    Beaches MLS · Weekly Updated Data · SE Florida
   </div>
-  <div class="footer-legal">
-    &copy; 2026 William Spencer Seery Jr, PA. FL License #3333692. Information deemed reliable but not guaranteed.
+  <div class="footer-license">
+    William Spencer Seery Jr, PA · FL License #3333692 · MLS ID 276537152<br>
+    © 2026 SavingsRE · All listings subject to change · Data from Beaches MLS
   </div>
 </footer>
+
 </body>
 </html>
