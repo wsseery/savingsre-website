@@ -8,7 +8,7 @@
   <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;1,400;1,600&family=Montserrat:wght@300;400;600&display=swap" rel="stylesheet">
   <style>
     *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
-    :root{--navy:#ffffff;--gold:#2563EB;--gold-light:#3b82f6;--cream:#1e293b;--white:#ffffff;--gray:#64748b;--card-bg:#f8fafc}
+    :root{--text-body:#cdd2dc;--navy:#ffffff;--gold:#2563EB;--gold-light:#3b82f6;--cream:#1e293b;--white:#ffffff;--gray:#64748b;--card-bg:#f8fafc}
     html{scroll-behavior:smooth}
     body{background:#fff;color:var(--cream);font-family:'Montserrat',sans-serif;font-weight:300;line-height:1.7}
     header{position:fixed;top:0;left:0;right:0;z-index:100;background:rgba(255,255,255,.97);border-bottom:1px solid #e2e8f0;box-shadow:0 1px 3px rgba(0,0,0,.05);padding:0 2rem;height:64px;display:flex;align-items:center;justify-content:space-between}
@@ -48,8 +48,8 @@
     .seg-card.lux::before{background:#d4af6a}
     .seg-card:hover{border-color:rgba(37,99,235,.35);transform:translateY(-2px)}
     .seg-title{font-family:'Cormorant Garamond',serif;font-size:1.1rem;color:var(--white);font-weight:600}
-    .seg-desc{font-size:.78rem;color:var(--gray);line-height:1.6}
-    .seg-cta{font-size:.7rem;font-weight:600;letter-spacing:.1em;text-transform:uppercase;color:var(--gold);margin-top:auto}
+    .seg-desc{font-size:.78rem;color:var(--text-body);line-height:1.6}
+    .seg-cta{font-size:.7rem;font-weight:600;letter-spacing:.1em;text-transform:uppercase;color:var(--gold);margin-top:auto}.card-subtitle{font-size:0.78rem;font-weight:500;color:var(--gold);letter-spacing:0.06em;margin-bottom:0.9rem;display:block}.card-title{font-family:'Cormorant Garamond',serif;font-size:1.1rem;color:var(--cream);font-weight:600}
     .data-note{max-width:900px;margin:2rem auto;padding:1.5rem 2rem;background:rgba(0,0,0,.03);border:1px solid rgba(0,0,0,.06);border-radius:4px;font-size:.8rem;color:var(--gray)}
     .data-note strong{color:var(--cream)}
     .alphagen-cta{background:linear-gradient(135deg,#EFF6FF 0%,#ffffff 100%);border-top:1px solid rgba(37,99,235,.2);border-bottom:1px solid rgba(37,99,235,.2);padding:3rem 2rem}
@@ -125,22 +125,30 @@
   </div>
   <div class="segments-grid">
     <a href="weekly/mf-small-under1m.html" class="seg-card mf">
-      <div class="seg-title">Small Multifamily — Under $1M</div>
+      <span class="card-badge">Multifamily · Entry Level</span>
+      <div class="card-title">Small Multifamily · 2–4 Units</div>
+      <span class="card-subtitle">Under $1,000,000</span>
       <div class="seg-desc">Duplexes, triplexes, and quads under $1M. Entry-level income properties with strong rent-to-price ratios across SE Florida.</div>
       <div class="seg-cta">View This Week's Listings →</div>
     </a>
     <a href="weekly/mf-small-1to3m.html" class="seg-card mf">
-      <div class="seg-title">Small Multifamily — $1M to $3M</div>
+      <span class="card-badge">Multifamily · Mid Market</span>
+      <div class="card-title">Small Multifamily · 2–4 Units</div>
+      <span class="card-subtitle">$1,000,000 – $3,000,000</span>
       <div class="seg-desc">2+ unit income properties in the $1M–$3M range. Higher-end neighborhoods with institutional-quality tenants.</div>
       <div class="seg-cta">View This Week's Listings →</div>
     </a>
     <a href="weekly/mf-mid-5plus.html" class="seg-card mf">
-      <div class="seg-title">Mid-Size Multifamily — 5+ Units</div>
+      <span class="card-badge">Apartment Buildings · Growth Play</span>
+      <div class="card-title">Mid-Size Apartments · 5–19 Units</div>
+      <span class="card-subtitle">All Price Ranges</span>
       <div class="seg-desc">Apartment buildings and complexes with 5 or more units. Institutional income plays with professional management potential.</div>
       <div class="seg-cta">View This Week's Listings →</div>
     </a>
     <a href="weekly/mf-large-20plus.html" class="seg-card mf">
-      <div class="seg-title">Large Multifamily — 20+ Units</div>
+      <span class="card-badge">Apartment Complexes · Institutional</span>
+      <div class="card-title">Large Apartment Complexes · 20+ Units</div>
+      <span class="card-subtitle">All Price Ranges</span>
       <div class="seg-desc">Apartment complexes 20 units and above. Value-add opportunities, repositioning plays, and stabilized cash-flow assets.</div>
       <div class="seg-cta">View This Week's Listings →</div>
     </a>
