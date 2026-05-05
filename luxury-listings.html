@@ -1,0 +1,384 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>List Your Luxury Home for 1.5% | SavingsRE Palm Beach &amp; Broward</title>
+<meta name="description" content="List your Palm Beach or Broward County luxury home for just 1.5% — keep more of your equity. Full MLS exposure, professional marketing, and licensed representation. Free home valuation.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,300&family=Montserrat:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root { --navy:#0a1628; --gold:#c9a84c; --gold-light:#e8c97a; --cream:#f5f0e8; --white:#ffffff; --card-bg:#111827; --text-body:#cdd2dc; }
+  * { margin:0; padding:0; box-sizing:border-box; }
+  body { background:var(--navy); color:var(--cream); font-family:'Montserrat',sans-serif; font-weight:300; overflow-x:hidden; }
+
+  header { position:fixed; top:0; width:100%; z-index:100; padding:1.2rem 3rem; display:flex; align-items:center; justify-content:space-between; background:rgba(10,22,40,0.95); backdrop-filter:blur(12px); border-bottom:1px solid rgba(201,168,76,0.25); }
+  .logo { font-family:'Cormorant Garamond',serif; font-size:1.6rem; font-weight:300; letter-spacing:0.15em; color:var(--gold); text-decoration:none; }
+  .logo span { color:var(--cream); }
+  nav a { color:#b0b5c0; text-decoration:none; font-size:0.72rem; letter-spacing:0.1em; text-transform:uppercase; margin-left:1.6rem; transition:color 0.3s; }
+  nav a:hover { color:var(--gold); }
+  nav a.active { color:var(--gold); }
+  .nav-list-cta { color:var(--gold) !important; border:1px solid rgba(201,168,76,0.5); padding:0.45rem 1rem; }
+  .nav-cta { background:var(--gold); color:var(--navy) !important; padding:0.5rem 1.4rem; font-weight:600 !important; }
+
+  /* HERO with split layout */
+  .hero { min-height:100vh; padding:9rem 3rem 5rem; position:relative; overflow:hidden; display:grid; grid-template-columns:1.1fr 1fr; gap:4rem; align-items:center; max-width:1400px; margin:0 auto; }
+  .hero::before { content:''; position:absolute; inset:0; background:radial-gradient(ellipse at 75% 35%, rgba(201,168,76,0.08) 0%, transparent 55%), radial-gradient(ellipse at 15% 85%, rgba(5,30,70,0.4) 0%, transparent 60%); }
+  .hero-grid { position:absolute; inset:0; background-image:linear-gradient(rgba(201,168,76,0.03) 1px,transparent 1px),linear-gradient(90deg,rgba(201,168,76,0.03) 1px,transparent 1px); background-size:60px 60px; }
+  .hero-left, .hero-right { position:relative; z-index:2; }
+  .hero-eyebrow { font-size:0.7rem; letter-spacing:0.35em; text-transform:uppercase; color:var(--gold); margin-bottom:1.5rem; display:flex; align-items:center; gap:1rem; }
+  .hero-eyebrow::before { content:''; display:block; width:40px; height:1px; background:var(--gold); }
+  h1 { font-family:'Cormorant Garamond',serif; font-size:clamp(2.6rem,5vw,4.5rem); font-weight:300; line-height:1.05; color:var(--white); margin-bottom:1.5rem; }
+  h1 em { font-style:italic; color:var(--gold); }
+  .hero-sub { font-size:1rem; line-height:1.85; color:var(--text-body); margin-bottom:2rem; }
+  .commission-badge { display:inline-block; background:linear-gradient(135deg,var(--gold) 0%,var(--gold-light) 100%); color:var(--navy); padding:0.6rem 1.5rem; font-size:0.85rem; font-weight:600; letter-spacing:0.08em; margin-bottom:1.5rem; }
+  .commission-badge strong { font-size:1.05rem; }
+  .key-points { list-style:none; margin-bottom:2rem; }
+  .key-points li { font-size:0.92rem; color:var(--cream); padding:0.6rem 0; padding-left:1.8rem; position:relative; line-height:1.6; }
+  .key-points li::before { content:'✓'; position:absolute; left:0; color:var(--gold); font-weight:700; font-size:1.1rem; }
+
+  .form-card { background:rgba(255,255,255,0.04); border:1px solid rgba(201,168,76,0.3); backdrop-filter:blur(8px); padding:2.5rem; }
+  .form-card-header { font-family:'Cormorant Garamond',serif; font-size:1.6rem; color:var(--white); font-weight:400; margin-bottom:0.5rem; }
+  .form-card-sub { font-size:0.82rem; color:var(--text-body); margin-bottom:1.8rem; line-height:1.6; }
+  .form-group { margin-bottom:1rem; }
+  .form-group label { display:block; font-size:0.7rem; letter-spacing:0.1em; text-transform:uppercase; color:var(--gold); margin-bottom:0.4rem; font-weight:500; }
+  .form-group input, .form-group select, .form-group textarea {
+    width:100%; background:rgba(0,0,0,0.3); border:1px solid rgba(201,168,76,0.3);
+    color:var(--cream); padding:0.7rem 0.9rem; font-family:'Montserrat',sans-serif;
+    font-size:0.88rem; font-weight:300; outline:none; transition:border-color 0.2s;
+  }
+  .form-group input:focus, .form-group select:focus, .form-group textarea:focus { border-color:var(--gold); }
+  .form-group textarea { resize:vertical; min-height:70px; }
+  .form-row { display:grid; grid-template-columns:1fr 1fr; gap:0.75rem; }
+  .form-submit {
+    width:100%; background:var(--gold); color:var(--navy); border:none; padding:1rem;
+    font-family:'Montserrat',sans-serif; font-size:0.78rem; font-weight:700;
+    letter-spacing:0.15em; text-transform:uppercase; cursor:pointer;
+    transition:background 0.2s,transform 0.2s; margin-top:0.5rem;
+  }
+  .form-submit:hover { background:var(--gold-light); transform:translateY(-1px); }
+  .form-trust { font-size:0.7rem; color:#a0a5b0; text-align:center; margin-top:1rem; line-height:1.6; }
+
+  /* SAVINGS */
+  .savings-section { background:var(--card-bg); padding:6rem 3rem; }
+  .savings-inner { max-width:1100px; margin:0 auto; }
+  .section-eyebrow { font-size:0.68rem; letter-spacing:0.3em; text-transform:uppercase; color:var(--gold); margin-bottom:1rem; display:flex; align-items:center; gap:1rem; }
+  .section-eyebrow::before { content:''; display:block; width:30px; height:1px; background:var(--gold); }
+  h2 { font-family:'Cormorant Garamond',serif; font-size:clamp(2rem,4vw,3.2rem); font-weight:300; color:var(--white); margin-bottom:1rem; line-height:1.1; }
+  h2 em { font-style:italic; color:var(--gold); }
+  .section-intro { color:var(--text-body); font-size:0.92rem; line-height:1.85; max-width:600px; margin-bottom:3rem; }
+
+  .savings-table { width:100%; border-collapse:collapse; background:rgba(0,0,0,0.2); border:1px solid rgba(201,168,76,0.2); margin-bottom:2rem; }
+  .savings-table th { background:rgba(201,168,76,0.1); color:var(--gold); font-size:0.7rem; letter-spacing:0.15em; text-transform:uppercase; padding:1rem; text-align:left; font-weight:600; }
+  .savings-table td { padding:1.1rem 1rem; border-bottom:1px solid rgba(255,255,255,0.06); font-size:0.92rem; color:var(--cream); }
+  .savings-table tr:last-child td { border-bottom:none; }
+  .savings-table .price-col { font-family:'Cormorant Garamond',serif; font-size:1.3rem; color:var(--white); font-weight:400; }
+  .savings-table .savings-col { color:var(--gold); font-weight:600; font-size:1.1rem; }
+  .savings-table .traditional { color:#a0a5b0; text-decoration:line-through; }
+
+  .features-section { padding:6rem 3rem; }
+  .features-inner { max-width:1100px; margin:0 auto; }
+  .features-grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(230px,1fr)); gap:2rem; margin-top:3rem; }
+  .feature-card { background:var(--card-bg); padding:2rem; border:1px solid rgba(201,168,76,0.1); transition:border-color 0.3s,transform 0.3s; }
+  .feature-card:hover { border-color:rgba(201,168,76,0.3); transform:translateY(-3px); }
+  .feature-num { font-family:'Cormorant Garamond',serif; font-size:2.5rem; color:var(--gold); font-weight:300; line-height:1; margin-bottom:0.8rem; display:block; }
+  .feature-title { font-size:0.9rem; font-weight:600; color:var(--white); letter-spacing:0.04em; margin-bottom:0.6rem; }
+  .feature-desc { font-size:0.82rem; color:var(--text-body); line-height:1.78; }
+
+  .coverage-section { background:var(--card-bg); padding:6rem 3rem; }
+  .coverage-inner { max-width:1100px; margin:0 auto; }
+  .coverage-grid { display:grid; grid-template-columns:1fr 1fr; gap:3rem; margin-top:2rem; }
+  .coverage-col h3 { font-family:'Cormorant Garamond',serif; font-size:1.6rem; color:var(--gold); font-weight:400; margin-bottom:1.2rem; }
+  .coverage-col ul { list-style:none; }
+  .coverage-col li { font-size:0.88rem; color:var(--cream); padding:0.5rem 0; padding-left:1.2rem; position:relative; border-bottom:1px solid rgba(255,255,255,0.05); }
+  .coverage-col li::before { content:'·'; color:var(--gold); position:absolute; left:0; font-size:1.5rem; line-height:1; top:0.3rem; }
+
+  .faq-section { padding:6rem 3rem; }
+  .faq-inner { max-width:900px; margin:0 auto; }
+  .faq-item { border-bottom:1px solid rgba(255,255,255,0.08); padding:1.5rem 0; }
+  .faq-question { font-family:'Cormorant Garamond',serif; font-size:1.3rem; color:var(--white); font-weight:400; margin-bottom:0.8rem; }
+  .faq-answer { font-size:0.92rem; color:var(--text-body); line-height:1.85; }
+
+  .final-cta { background:linear-gradient(135deg,var(--gold) 0%,#b8973f 100%); padding:5rem 3rem; text-align:center; color:var(--navy); }
+  .final-cta h2 { color:var(--navy); font-family:'Cormorant Garamond',serif; font-size:clamp(2rem,4vw,3.2rem); font-weight:300; margin-bottom:1rem; }
+  .final-cta h2 em { font-style:italic; color:var(--white); }
+  .final-cta p { font-size:1rem; color:var(--navy); margin-bottom:2rem; max-width:600px; margin-left:auto; margin-right:auto; line-height:1.7; }
+  .final-cta-btn { background:var(--navy); color:var(--gold); padding:1.1rem 2.5rem; font-size:0.85rem; letter-spacing:0.15em; text-transform:uppercase; font-weight:700; text-decoration:none; display:inline-block; transition:transform 0.2s; }
+  .final-cta-btn:hover { transform:translateY(-2px); }
+
+  .agent-strip { padding:5rem 3rem; max-width:1100px; margin:0 auto; }
+  .agent-grid { display:grid; grid-template-columns:1fr 1fr; gap:4rem; align-items:start; }
+  .credential-item { display:flex; gap:1rem; margin-bottom:1.2rem; padding-bottom:1.2rem; border-bottom:1px solid rgba(255,255,255,0.08); }
+  .credential-label { font-size:0.65rem; letter-spacing:0.2em; text-transform:uppercase; color:var(--gold); min-width:100px; padding-top:2px; }
+  .credential-value { font-size:0.87rem; color:var(--cream); line-height:1.65; }
+  .contact-item { display:flex; align-items:center; gap:0.8rem; margin-bottom:1rem; font-size:0.87rem; color:var(--cream); text-decoration:none; transition:color 0.2s; }
+  .contact-item:hover { color:var(--gold); }
+  .contact-icon { color:var(--gold); font-size:1rem; width:20px; text-align:center; }
+  .btn-gold-sm { background:var(--gold); color:var(--navy); padding:0.85rem 2rem; font-size:0.75rem; letter-spacing:0.15em; text-transform:uppercase; font-weight:600; text-decoration:none; display:inline-block; transition:background 0.3s,transform 0.2s; margin-top:1rem; }
+  .btn-gold-sm:hover { background:var(--gold-light); transform:translateY(-2px); }
+
+  footer { background:#050d1a; padding:3rem; border-top:1px solid rgba(201,168,76,0.1); display:flex; flex-wrap:wrap; gap:2rem; justify-content:space-between; align-items:center; }
+  .footer-logo { font-family:'Cormorant Garamond',serif; font-size:1.4rem; color:var(--gold); }
+  .footer-legal { font-size:0.72rem; color:#7a7f8a; max-width:500px; line-height:1.7; }
+  .footer-links { display:flex; gap:1.5rem; flex-wrap:wrap; }
+  .footer-links a { font-size:0.72rem; letter-spacing:0.1em; text-transform:uppercase; color:#7a7f8a; text-decoration:none; transition:color 0.2s; }
+  .footer-links a:hover { color:var(--gold); }
+
+  @media (max-width:900px) {
+    header { padding:1rem 1.5rem; } nav { display:none; }
+    .hero { grid-template-columns:1fr; gap:3rem; padding:7rem 1.5rem 4rem; }
+    .savings-section, .features-section, .coverage-section, .faq-section, .final-cta, .agent-strip { padding-left:1.5rem; padding-right:1.5rem; }
+    .coverage-grid { grid-template-columns:1fr; }
+    .agent-grid { grid-template-columns:1fr; }
+    .form-row { grid-template-columns:1fr; }
+    .savings-table { font-size:0.8rem; }
+    .savings-table th, .savings-table td { padding:0.7rem 0.5rem; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <a href="https://savingsre.com" class="logo">Savings<span>RE</span></a>
+  <nav>
+    <a href="investor-hub.html">Investors</a>
+    <a href="luxury-buyers.html">Luxury Buyers</a>
+    <a href="luxury-listings.html" class="active nav-list-cta">List Your Home · 1.5%</a>
+    <a href="tel:+15612200402" class="nav-cta">+1 (561) 220-0402</a>
+  </nav>
+</header>
+
+<section class="hero">
+  <div class="hero-grid"></div>
+  <div class="hero-left">
+    <div class="hero-eyebrow">Luxury Sellers · Palm Beach &amp; Broward</div>
+    <span class="commission-badge">List for just <strong>1.5%</strong> — keep your equity</span>
+    <h1>Your Luxury Home<br>Deserves a <em>Smarter Listing</em></h1>
+    <p class="hero-sub">List your Palm Beach or Broward County luxury home with SavingsRE for 1.5% — significantly less than the 2.5%–3% traditional luxury listing commission. Full MLS exposure. Professional marketing. Licensed representation.</p>
+    <ul class="key-points">
+      <li>Save tens of thousands on a $1M+ sale vs. traditional listing fees</li>
+      <li>Beaches MLS exposure with full agent network co-broke</li>
+      <li>Professional photography, video, and listing copy included</li>
+      <li>Direct seller representation — Bill Seery, MBA, Realtor®</li>
+      <li>Coastal property insurance coordination through AlphaGen</li>
+    </ul>
+  </div>
+
+  <div class="hero-right">
+    <div id="intake-form" class="form-card">
+      <div class="form-card-header">Free Home Valuation</div>
+      <p class="form-card-sub">Tell us about your property and we'll send you a free comparative market analysis within 48 hours — no obligation.</p>
+
+      <form action="https://docs.google.com/forms/d/e/1FAIpQLSc_4iijBIY5rGh6rN4-hVVMkafqbgTgKDFd6f75A9aBMXmngw/viewform" method="GET" target="_blank">
+        <div class="form-row">
+          <div class="form-group">
+            <label>First Name</label>
+            <input type="text" name="firstname" required>
+          </div>
+          <div class="form-group">
+            <label>Last Name</label>
+            <input type="text" name="lastname" required>
+          </div>
+        </div>
+        <div class="form-group">
+          <label>Email</label>
+          <input type="email" name="email" required>
+        </div>
+        <div class="form-group">
+          <label>Phone</label>
+          <input type="tel" name="phone" required>
+        </div>
+        <div class="form-group">
+          <label>Property Address</label>
+          <input type="text" name="address" placeholder="Street, City, ZIP" required>
+        </div>
+        <div class="form-row">
+          <div class="form-group">
+            <label>Property Type</label>
+            <select name="type">
+              <option>Single Family</option>
+              <option>Condominium</option>
+              <option>Townhome</option>
+              <option>Estate / Compound</option>
+              <option>Multi-Family</option>
+            </select>
+          </div>
+          <div class="form-group">
+            <label>Estimated Value</label>
+            <select name="value">
+              <option>$750K – $1M</option>
+              <option>$1M – $2M</option>
+              <option>$2M – $5M</option>
+              <option>$5M – $10M</option>
+              <option>$10M+</option>
+            </select>
+          </div>
+        </div>
+        <div class="form-group">
+          <label>Notes (optional)</label>
+          <textarea name="notes" placeholder="Timeline, special features, questions..."></textarea>
+        </div>
+        <button type="submit" class="form-submit">Get My Free Valuation →</button>
+        <p class="form-trust">100% confidential. No obligation. Response within 48 hours.</p>
+      </form>
+    </div>
+  </div>
+</section>
+
+<section id="savings" class="savings-section">
+  <div class="savings-inner">
+    <div class="section-eyebrow">The Math is Simple</div>
+    <h2>How Much You'll <em>Save</em></h2>
+    <p class="section-intro">Most luxury brokerages charge 2.5%–3% to list. SavingsRE charges 1.5%. On a multi-million-dollar luxury sale, that difference is meaningful equity — money that stays in your pocket, not a brokerage's.</p>
+
+    <table class="savings-table">
+      <thead>
+        <tr>
+          <th>Sale Price</th>
+          <th>Traditional (3%)</th>
+          <th>SavingsRE (1.5%)</th>
+          <th>Your Savings</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr><td class="price-col">$1,000,000</td><td class="traditional">$30,000</td><td>$15,000</td><td class="savings-col">$15,000</td></tr>
+        <tr><td class="price-col">$2,000,000</td><td class="traditional">$60,000</td><td>$30,000</td><td class="savings-col">$30,000</td></tr>
+        <tr><td class="price-col">$3,500,000</td><td class="traditional">$105,000</td><td>$52,500</td><td class="savings-col">$52,500</td></tr>
+        <tr><td class="price-col">$5,000,000</td><td class="traditional">$150,000</td><td>$75,000</td><td class="savings-col">$75,000</td></tr>
+        <tr><td class="price-col">$10,000,000</td><td class="traditional">$300,000</td><td>$150,000</td><td class="savings-col">$150,000</td></tr>
+      </tbody>
+    </table>
+    <p style="font-size:0.78rem;color:#a0a5b0;font-style:italic;margin-top:1rem;line-height:1.7;">Note: Listing commission of 1.5% is paid to SavingsRE. A separate buyer-agent commission may also be paid by the seller depending on transaction structure and is fully negotiable. All commission rates are negotiable and not set by law.</p>
+  </div>
+</section>
+
+<section class="features-section">
+  <div class="features-inner">
+    <div class="section-eyebrow">Full Service · No Compromise</div>
+    <h2>What's <em>Included</em></h2>
+    <p class="section-intro">A 1.5% listing commission doesn't mean reduced service. You get the same full-service luxury listing experience — just at half the traditional cost.</p>
+
+    <div class="features-grid">
+      <div class="feature-card"><span class="feature-num">01</span><div class="feature-title">Beaches MLS Exposure</div><p class="feature-desc">Full Beaches MLS listing reaching every active South Florida agent and broker. Co-brokerage commission offered to attract buyer agents.</p></div>
+      <div class="feature-card"><span class="feature-num">02</span><div class="feature-title">Professional Photography</div><p class="feature-desc">High-resolution photos, drone aerial imagery, and walk-through video tours produced by professional luxury real estate photographers.</p></div>
+      <div class="feature-card"><span class="feature-num">03</span><div class="feature-title">Listing Copy &amp; Marketing</div><p class="feature-desc">Custom-written listing descriptions, marketing flyers, and dedicated property landing pages on savingsre.com.</p></div>
+      <div class="feature-card"><span class="feature-num">04</span><div class="feature-title">Comparative Market Analysis</div><p class="feature-desc">Detailed CMA showing recent comparable sales, current competition, and a recommended pricing strategy with multiple scenarios.</p></div>
+      <div class="feature-card"><span class="feature-num">05</span><div class="feature-title">Showings &amp; Open Houses</div><p class="feature-desc">Full showing coordination, qualified-buyer screening, and broker open houses to drive activity. We attend every showing personally.</p></div>
+      <div class="feature-card"><span class="feature-num">06</span><div class="feature-title">Negotiation &amp; Closing</div><p class="feature-desc">Expert offer negotiation, contract review, contingency management, and full closing coordination through to a successful transaction.</p></div>
+      <div class="feature-card"><span class="feature-num">07</span><div class="feature-title">Insurance Coordination</div><p class="feature-desc">Through AlphaGen Insurance, ensure the buyer secures appropriate coastal wind, flood, and umbrella coverage so closings don't stall.</p></div>
+      <div class="feature-card"><span class="feature-num">08</span><div class="feature-title">Direct Agent Access</div><p class="feature-desc">Work directly with Bill Seery, MBA, Realtor® — not a junior agent. Your listing gets senior-level attention from start to finish.</p></div>
+    </div>
+  </div>
+</section>
+
+<section class="coverage-section">
+  <div class="coverage-inner">
+    <div class="section-eyebrow">Service Area</div>
+    <h2>Palm Beach &amp; <em>Broward County</em></h2>
+    <p class="section-intro">SavingsRE's 1.5% luxury listing program covers premier neighborhoods and private communities throughout Southeast Florida.</p>
+
+    <div class="coverage-grid">
+      <div class="coverage-col">
+        <h3>Palm Beach County</h3>
+        <ul>
+          <li>Palm Beach &amp; Manalapan</li>
+          <li>Boca Raton (East &amp; Royal Palm)</li>
+          <li>Delray Beach</li>
+          <li>Gulf Stream &amp; Highland Beach</li>
+          <li>Boynton Beach &amp; Lake Worth</li>
+          <li>Palm Beach Gardens &amp; Jupiter</li>
+          <li>Wellington (Equestrian)</li>
+          <li>Mizner / Broken Sound / St. Andrews</li>
+        </ul>
+      </div>
+      <div class="coverage-col">
+        <h3>Broward County</h3>
+        <ul>
+          <li>Fort Lauderdale &amp; Las Olas Isles</li>
+          <li>Hillsboro Beach &amp; Hillsboro Mile</li>
+          <li>Lighthouse Point</li>
+          <li>Pompano Beach (Hillsboro Shores)</li>
+          <li>Coral Ridge &amp; Bay Colony</li>
+          <li>Sea Ranch Lakes</li>
+          <li>Weston &amp; Parkland</li>
+          <li>Hollywood Beach &amp; Golden Beach</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="faq-section">
+  <div class="faq-inner">
+    <div class="section-eyebrow">Common Questions</div>
+    <h2>1.5% Listing — <em>FAQ</em></h2>
+
+    <div class="faq-item" style="margin-top:2rem;">
+      <div class="faq-question">Why can SavingsRE list for 1.5% when other brokerages charge 3%?</div>
+      <div class="faq-answer">Traditional brokerages spread commission across heavy office overhead and large sales teams. SavingsRE operates with low overhead and uses an investor-focused, technology-driven model — so we pass the savings to you without compromising service quality.</div>
+    </div>
+
+    <div class="faq-item">
+      <div class="faq-question">Will my home still attract buyer's agents at this commission?</div>
+      <div class="faq-answer">Absolutely. The 1.5% is the listing-side commission only. We separately offer a competitive co-brokerage commission to buyer's agents (typically 2.5%–3%, fully negotiable per transaction) — meaning your property is just as attractive to buyer-side agents as any other listing.</div>
+    </div>
+
+    <div class="faq-item">
+      <div class="faq-question">Is there a price minimum?</div>
+      <div class="faq-answer">The 1.5% program is designed for luxury homes — typically $750,000 and up. We work with sellers across all luxury price points, from entry-luxury condos to multi-million-dollar oceanfront estates.</div>
+    </div>
+
+    <div class="faq-item">
+      <div class="faq-question">What if my home doesn't sell?</div>
+      <div class="faq-answer">No commission is owed unless and until your home sells. Standard listing agreements run 6 months and may be cancelled by mutual agreement. There is no upfront fee and no marketing fee — we invest in your listing because we're aligned with your outcome.</div>
+    </div>
+
+    <div class="faq-item">
+      <div class="faq-question">How does the free valuation work?</div>
+      <div class="faq-answer">Submit your property details using the form above. We'll prepare a comparative market analysis (CMA) using recent comparable sales, active competition, and current market conditions — then send you a recommended pricing range and listing strategy within 48 hours. No obligation, no commitment.</div>
+    </div>
+  </div>
+</section>
+
+<div class="final-cta">
+  <h2>Ready to <em>List Smarter</em>?</h2>
+  <p>Get your free home valuation and see how much you could save with SavingsRE's 1.5% luxury listing program.</p>
+  <a href="#intake-form" class="final-cta-btn">Get My Free Valuation →</a>
+</div>
+
+<section class="agent-strip" id="agent">
+  <div class="section-eyebrow">Your Listing Agent</div>
+  <h2>Bill <em>Seery, MBA</em></h2>
+  <div class="agent-grid">
+    <div>
+      <p style="font-size:0.92rem;color:var(--text-body);line-height:1.85;margin-bottom:1.5rem;">Licensed Florida Realtor® specializing in luxury coastal listings, investor representation, and strategic relocation advisory across Palm Beach County and Southeast Florida. Working under United Realty Group, Inc.</p>
+      <div class="credential-item"><span class="credential-label">License</span><span class="credential-value">FL #3333692</span></div>
+      <div class="credential-item"><span class="credential-label">MLS ID</span><span class="credential-value">276537152 · Beaches MLS</span></div>
+      <div class="credential-item"><span class="credential-label">Brokerage</span><span class="credential-value">United Realty Group, Inc.<br>5550 Glades Road · Boca Raton, FL 33431</span></div>
+    </div>
+    <div>
+      <a href="tel:+15612200402" class="contact-item"><span class="contact-icon">📞</span> +1 (561) 220-0402 — Work</a>
+      <a href="tel:+13478609801" class="contact-item"><span class="contact-icon">📱</span> +1 (347) 860-9801 — Mobile</a>
+      <a href="mailto:bill@savingsre.com" class="contact-item"><span class="contact-icon">✉️</span> bill@savingsre.com</a>
+      <a href="https://calendar.app.google/Yv2c22sEEcKZuExq9" target="_blank" class="btn-gold-sm">Schedule a Listing Consultation →</a>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <div>
+    <div class="footer-logo">SavingsRE</div>
+    <div style="font-size:0.72rem;color:#7a7f8a;margin-top:0.4rem;">5550 Glades Road · Boca Raton, FL 33431</div>
+  </div>
+  <div class="footer-legal">William Spencer Seery Jr, PA · FL License #3333692 · MLS ID 276537152 · United Realty Group, Inc. Brokerage commissions are not set by law and are fully negotiable. Information provided is general and not legal, tax, or investment advice. ©2026 SavingsRE. All rights reserved.</div>
+  <div class="footer-links">
+    <a href="https://savingsre.com">Home</a>
+    <a href="investor-hub.html">Investors</a>
+    <a href="luxury-buyers.html">Luxury Buyers</a>
+    <a href="luxury-listings.html">List for 1.5%</a>
+    <a href="mailto:bill@savingsre.com">Contact</a>
+  </div>
+</footer>
+
+</body>
+</html>
