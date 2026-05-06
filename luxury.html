@@ -9,71 +9,32 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,400&family=Montserrat:wght@300;400;500;600&display=swap" rel="stylesheet">
-  <style>
-    :root{--navy:#ffffff;--gold:#2563EB;--gold-light:#3b82f6;--cream:#1e293b;--white:#ffffff;--gray:#64748b;--card-bg:#f8fafc;--text-body:#cdd2dc}
-    html{scroll-behavior:smooth}
-    body{background:#fff;color:var(--cream);font-family:'Montserrat',sans-serif;font-weight:300;line-height:1.7}
-    header{position:fixed;top:0;left:0;right:0;z-index:100;padding:1.1rem 3rem;display:flex;justify-content:space-between;align-items:center;background:rgba(255,255,255,0.95);backdrop-filter:blur(8px);border-bottom:1px solid rgba(37,99,235,.08)}
-    .brand{font-size:1.2rem;letter-spacing:.25em;text-transform:uppercase;text-decoration:none;color:var(--cream);font-weight:500}
-    .brand span{color:var(--gold)}
-    nav{display:flex;gap:2rem}
-    nav a{font-size:.7rem;letter-spacing:.15em;text-transform:uppercase;text-decoration:none;color:var(--gray);font-weight:500;transition:color .2s}
-    nav a:hover{color:var(--gold)}
-    .hero{background:#050d1a;padding:9rem 3rem 5rem;text-align:center}
-    .eyebrow{font-size:.7rem;letter-spacing:.3em;text-transform:uppercase;color:var(--gold);margin-bottom:1.2rem;display:block}
-    .hero h1{font-family:'Cormorant Garamond',serif;font-size:clamp(2.5rem,5vw,4.2rem);font-weight:300;color:#fff;line-height:1.1;margin-bottom:1.5rem}
-    .hero h1 em{font-style:italic;color:var(--gold)}
-    .hero-sub{font-size:.9rem;color:var(--text-body);max-width:600px;margin:0 auto 2.5rem;line-height:1.75}
-    .btn-group{display:flex;gap:1rem;justify-content:center;flex-wrap:wrap}
-    .btn-gold{background:var(--gold);color:#fff;padding:.8rem 2rem;font-size:.72rem;letter-spacing:.15em;text-transform:uppercase;text-decoration:none;font-weight:600;transition:background .2s}
-    .btn-gold:hover{background:var(--gold-light)}
-    .btn-outline{border:1px solid rgba(255,255,255,.3);color:#fff;padding:.8rem 2rem;font-size:.72rem;letter-spacing:.15em;text-transform:uppercase;text-decoration:none;font-weight:500;transition:border-color .2s,color .2s}
-    .btn-outline:hover{border-color:#fff;color:#fff}
-    .stats-bar{background:#0a1628;padding:2rem 3rem;display:flex;justify-content:center;gap:3rem;flex-wrap:wrap;border-bottom:1px solid rgba(255,255,255,.06)}
-    .stat-item{text-align:center}
-    .stat-number{font-family:'Cormorant Garamond',serif;font-size:2.2rem;color:#fff;font-weight:300;display:block}
-    .stat-label{font-size:.65rem;letter-spacing:.2em;text-transform:uppercase;color:var(--gray);display:block}
-    .section-eyebrow{font-size:.65rem;letter-spacing:.25em;text-transform:uppercase;color:var(--gold);margin-bottom:.8rem;display:block}
-    .content-section{padding:5rem 3rem}
-    .content-section.alt-bg{background:var(--card-bg)}
-    .section-header{text-align:center;margin-bottom:3rem}
-    .section-header h2{font-family:'Cormorant Garamond',serif;font-size:clamp(2rem,3vw,2.8rem);font-weight:300;color:var(--cream);line-height:1.2}
-    .section-header h2 em{font-style:italic;color:var(--gold)}
-    .section-intro{font-size:.88rem;color:var(--gray);max-width:620px;margin:.8rem auto 0;line-height:1.75}
-    .large-card{background:#fff;border:1px solid rgba(37,99,235,.1);border-radius:4px;padding:2.5rem;max-width:860px;margin:0 auto;box-shadow:0 2px 20px rgba(0,0,0,.06)}
-    .card-badge{font-size:.6rem;letter-spacing:.2em;text-transform:uppercase;color:var(--gold);margin-bottom:.7rem;display:block;font-weight:500}
-    .card-title{font-family:'Cormorant Garamond',serif;font-size:1.6rem;color:var(--cream);margin-bottom:.3rem;font-weight:400;line-height:1.2}
-    .card-subtitle{font-size:.78rem;font-weight:500;color:var(--gold);letter-spacing:.06em;margin-bottom:1rem;display:block}
-    .card-desc{font-size:.85rem;color:var(--text-body);line-height:1.75;margin-bottom:1.2rem;max-width:72ch}
-    .card-features{list-style:none;padding:0;margin:0 0 1.5rem;display:flex;flex-wrap:wrap;gap:.4rem}
-    .card-features li{font-size:.68rem;letter-spacing:.1em;color:var(--gray);padding:.3rem .8rem;border:1px solid rgba(37,99,235,.15);border-radius:2px}
-    .card-cta{display:inline-block;font-size:.72rem;letter-spacing:.12em;text-transform:uppercase;color:var(--gold);text-decoration:none;font-weight:600;border-bottom:1px solid var(--gold);padding-bottom:2px;transition:opacity .2s}
-    .card-cta:hover{opacity:.7}
-    .ins-strip{background:#050d1a;padding:3rem;text-align:center}
-    .ins-strip h2{font-family:'Cormorant Garamond',serif;font-size:1.8rem;color:#fff;font-weight:300;margin-bottom:.5rem}
-    .ins-strip p{font-size:.82rem;color:var(--text-body);margin-bottom:1.5rem}
-    .ins-cards{display:flex;gap:1.5rem;justify-content:center;flex-wrap:wrap;margin-bottom:2rem}
-    .ins-card{background:rgba(255,255,255,.05);border:1px solid rgba(255,255,255,.1);padding:1.2rem 1.8rem;text-align:left;min-width:200px}
-    .ins-card-label{font-size:.6rem;letter-spacing:.2em;text-transform:uppercase;color:var(--gold);margin-bottom:.3rem}
-    .ins-card-val{font-size:.85rem;color:#fff}
-    footer{background:#050d1a;padding:3rem;border-top:1px solid rgba(255,255,255,.06);text-align:center}
-    .footer-brand{font-size:1.1rem;letter-spacing:.25em;text-transform:uppercase;color:#fff;font-weight:500;margin-bottom:.5rem}
-    .footer-brand span{color:var(--gold)}
-    .footer-info{font-size:.72rem;color:var(--gray);line-height:1.8}
-    .footer-license{font-size:.62rem;color:rgba(100,116,139,.6);margin-top:.8rem}
-  </style>
+    <link rel="stylesheet" href="assets/css/site.css">
+<script defer src="assets/js/site.js"></script>
 </head>
 <body>
-
-<header>
-  <a href="/" class="brand">Savings<span>RE</span></a>
-  <nav>
-    <a href="/investor-hub.html">Investor Hub</a>
-    <a href="/luxury.html">Luxury</a>
-    <a href="/commercial.html">Commercial</a>
-    <a href="/about.html">About</a>
+<header id="site-header">
+  <a href="/" class="logo" aria-label="SavingsRE Home">Savings<span>RE</span></a>
+  <nav class="nav-links" id="nav-links" aria-label="Main navigation">
+    <a href="investor-hub.html">Investors</a>
+    <a href="luxury.html" class="active">Luxury</a>
+    <a href="luxury-listings.html" class="nav-list-cta">List Your Home · 1.5%</a>
+    <a href="tel:+15612200402" class="nav-cta" onclick="trackPhone()">+1 (561) 220-0402</a>
   </nav>
+  <button class="mobile-toggle" id="mobile-toggle" aria-label="Open menu" aria-expanded="false">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
+      <line x1="3" y1="6" x2="21" y2="6"/>
+      <line x1="3" y1="12" x2="21" y2="12"/>
+      <line x1="3" y1="18" x2="21" y2="18"/>
+    </svg>
+  </button>
 </header>
+<div class="mobile-nav" id="mobile-nav" aria-label="Mobile navigation">
+  <a href="investor-hub.html">Investors</a>
+  <a href="luxury.html">Luxury</a>
+  <a href="luxury-listings.html">List Your Home · 1.5%</a>
+  <a href="tel:+15612200402" onclick="trackPhone()">+1 (561) 220-0402</a>
+</div>
 
 <section class="hero">
   <span class="eyebrow">Luxury &amp; Coastal Real Estate</span>
@@ -180,16 +141,22 @@
 </div>
 
 <footer>
-  <div class="footer-brand">Savings<span>RE</span></div>
-  <div class="footer-info">
-    South Florida Real Estate Investment Intelligence<br>
-    Beaches MLS · Weekly Updated Data · SE Florida
+  <div class="footer-inner">
+    <div class="footer-brand">
+      <div class="footer-logo">Savings<span>RE</span></div>
+      <div class="footer-info">5550 Glades Road · Boca Raton, FL 33431<br>FL License #3333692 · MLS ID 276537152</div>
+    </div>
+    <div class="footer-links">
+      <a href="index.html">Home</a>
+      <a href="investor-hub.html">Investors</a>
+      <a href="luxury.html">Luxury</a>
+      <a href="luxury-listings.html">List for 1.5%</a>
+      <a href="mailto:bill@savingsre.com">Contact</a>
+    </div>
   </div>
-  <div class="footer-license">
-    William Spencer Seery Jr, PA · FL License #3333692 · MLS ID 276537152<br>
-    © 2026 SavingsRE · All listings subject to change · Data from Beaches MLS
+  <div class="footer-legal">
+    William Spencer Seery Jr, PA · FL License #3333692 · MLS ID 276537152. Information provided is general in nature and not legal, tax, or investment advice. All listings sourced from Beaches MLS and updated weekly. SavingsRE is a brand of William Spencer Seery Jr, PA. © 2026 SavingsRE. All rights reserved.
   </div>
 </footer>
-
 </body>
 </html>
