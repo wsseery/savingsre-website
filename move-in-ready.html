@@ -31,6 +31,13 @@
   .nav-links a:hover { color: var(--gold); }
   .nav-links a.active { color: var(--gold); }
   .nav-cta { background: var(--gold) !important; color: var(--navy) !important; font-weight: 600 !important; padding: 0.55rem 1.4rem !important; margin-left: 0.8rem; white-space: nowrap; transition: background var(--transition-interactive), transform var(--transition-interactive) !important; }
+  nav a.active { color: var(--gold); }
+  .nav-list-cta {
+    color: var(--gold) !important;
+    border: 1px solid rgba(201,168,76,0.5);
+    padding: 0.45rem 1rem;
+  }
+
   .nav-cta:hover { background: var(--gold-light) !important; transform: translateY(-1px); }
   .mobile-toggle { display: none; background: none; border: none; cursor: pointer; padding: 0.5rem; color: var(--gold); }
   .mobile-toggle svg { width: 24px; height: 24px; }
@@ -190,11 +197,10 @@
 <header id="site-header">
   <a href="index.html" class="logo" aria-label="SavingsRE Home">Savings<span>RE</span></a>
   <nav class="nav-links" id="nav-links" aria-label="Main navigation">
-    <a href="investor-hub.html">Investor Hub</a>
-    <a href="commercial.html">Commercial</a>
-    <a href="luxury.html">Luxury</a>
-    <a href="about.html">About</a>
-    <a href="tel:+15612200402" onclick="trackPhone()" onclick="trackPhone()" class="nav-cta">+1 (561) 220-0402</a>
+    <a href="investor-hub.html">Investors</a>
+    <a href="luxury-buyers.html">Luxury Buyers</a>
+    <a href="luxury-listings.html" class="nav-list-cta">List Your Home · 1.5%</a>
+    <a href="tel:+15612200402" class="nav-cta">+1 (561) 220-0402</a>
   </nav>
   <button class="mobile-toggle" id="mobile-toggle" aria-label="Open menu" aria-expanded="false">
     <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg>
@@ -363,11 +369,11 @@
       <div class="footer-license">FL License #3333692 · MLS ID 276537152</div>
     </div>
     <div class="footer-links">
-      <a href="index.html">Home</a>
-      <a href="investor-hub.html">Investor Hub</a>
+      <a href="https://savingsre.com">Home</a>
+      <a href="investor-hub.html">Investors</a>
+      <a href="luxury-buyers.html">Luxury Buyers</a>
+      <a href="luxury-listings.html">List for 1.5%</a>
       <a href="mailto:bill@savingsre.com">Contact</a>
-      <a href="https://alphageninsurance.com/personal-insurance-quote/?utm_source=savingsre&utm_medium=website&utm_campaign=insurance_cta" target="_blank" onclick="trackInsurance()" rel="noopener">Insurance</a>
-      <a href="https://calendar.app.google/Yv2c22sEEcKZuExq9?utm_source=savingsre&utm_medium=website&utm_campaign=schedule" target="_blank" onclick="trackSchedule()" rel="noopener">Schedule</a>
     </div>
   </div>
   <div class="footer-legal">
