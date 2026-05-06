@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://savingsre.com/sitemap.xml
