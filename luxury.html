@@ -8,9 +8,9 @@
   <link rel="canonical" href="https://savingsre.com/luxury.html">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,400&family=Montserrat:wght@300;400;500;600&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="assets/css/site.css">
-<script defer src="assets/js/site.js"></script>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;1,300;1,400&family=Montserrat:wght@300;400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/site.css">
+  <script defer src="assets/js/site.js"></script>
 </head>
 <body>
 <header id="site-header">
@@ -36,109 +36,159 @@
   <a href="tel:+15612200402" onclick="trackPhone()">+1 (561) 220-0402</a>
 </div>
 
-<section class="hero">
-  <span class="eyebrow">Luxury &amp; Coastal Real Estate</span>
-  <h1>South Florida<br><em>Luxury Properties</em></h1>
-  <p class="hero-sub">Curated oceanfront estates, private beach access homes, and premier country club residences across Palm Beach, Boca Raton, Delray Beach, and Fort Lauderdale.</p>
-  <div class="btn-group">
-    <a href="#oceanfront" class="btn-gold">Oceanfront &amp; Waterfront</a>
-    <a href="#country-club" class="btn-outline">Country Club Estates</a>
+<!-- HERO -->
+<section class="hero" id="hero">
+  <div class="hero-bg">
+    <div class="hero-bg-image" role="img" aria-label="Palm Beach luxury coastal homes"></div>
+    <div class="hero-bg-gradient"></div>
+  </div>
+  <div class="hero-grid"></div>
+  <div class="hero-content">
+    <div class="hero-eyebrow">Luxury &amp; Coastal Real Estate</div>
+    <h1>South Florida<br><em>Luxury Properties</em></h1>
+    <p class="hero-sub">
+      Curated oceanfront estates, private beach access homes, and premier country club residences across Palm Beach, Boca Raton, Delray Beach, and Fort Lauderdale. Direct Beaches MLS access — refreshed weekly.
+    </p>
+    <div class="hero-actions">
+      <a href="#oceanfront" class="btn-primary">Oceanfront &amp; Waterfront →</a>
+      <a href="#country-club" class="btn-outline">Country Club Estates →</a>
+    </div>
   </div>
 </section>
 
+<!-- STATS -->
 <div class="stats-bar">
-  <div class="stat-item">
+  <div class="stat">
     <span class="stat-number">371</span>
     <span class="stat-label">Oceanfront Listings</span>
   </div>
-  <div class="stat-item">
+  <div class="stat">
     <span class="stat-number">118</span>
     <span class="stat-label">Country Club Listings</span>
   </div>
-  <div class="stat-item">
+  <div class="stat">
     <span class="stat-number">$1.5M+</span>
     <span class="stat-label">Oceanfront Entry</span>
   </div>
-  <div class="stat-item">
+  <div class="stat">
     <span class="stat-number">Weekly</span>
     <span class="stat-label">Updated via MLS</span>
   </div>
 </div>
 
-<section id="oceanfront" class="content-section">
-  <div class="section-header">
-    <span class="section-eyebrow">Waterfront &amp; Oceanfront</span>
-    <h2>Oceanfront &amp; Coastal <em>Estates</em></h2>
-    <p class="section-intro">Direct Atlantic oceanfront, Intracoastal waterfront, and private beach access homes priced from $1.5 million.</p>
+<!-- OCEANFRONT SEGMENT -->
+<section id="oceanfront" class="fade-in">
+  <div class="section-eyebrow">Waterfront &amp; Oceanfront</div>
+  <h2>Oceanfront &amp; <em>Coastal Estates</em></h2>
+  <p class="section-intro">Direct Atlantic oceanfront, Intracoastal waterfront, and private beach access homes priced from $1.5 million. Weekly listings across Palm Beach County and the entire Southeast Florida coastline.</p>
+
+  <div class="weekly-notice">
+    <div class="weekly-dot"></div>
+    <span>Listings <strong style="color:var(--color-text)">refreshed weekly</strong> from Beaches MLS.</span>
   </div>
-  <div class="large-card">
-    <span class="card-badge">Luxury · Waterfront · Updated Weekly</span>
-    <div class="card-title">Oceanfront &amp; Waterfront Homes</div>
-    <span class="card-subtitle">From $1,500,000 — Single Family, Condo &amp; Estate</span>
-    <p class="card-desc">Direct Atlantic oceanfront, Intracoastal, and deep-water dockage properties. Single-family estates, penthouses, and beach compounds.</p>
-    <ul class="card-features">
-      <li>Palm Beach</li>
-      <li>Manalapan</li>
-      <li>Gulf Stream</li>
-      <li>Delray Beach</li>
-      <li>Boca Raton</li>
-      <li>Fort Lauderdale</li>
-      <li>Highland Beach</li>
-      <li>371 active listings</li>
-      <li>Beaches MLS</li>
-      <li>Refreshed weekly</li>
-    </ul>
-    <a href="weekly/luxury-oceanfront.html" class="card-cta">View Current Oceanfront Listings →</a>
+
+  <div class="segments-grid">
+    <a href="weekly/luxury-oceanfront.html" class="segment-card">
+      <span class="card-category">Luxury · Waterfront</span>
+      <div class="card-title">Oceanfront &amp; Waterfront Homes</div>
+      <span class="card-subtitle">From $1,500,000 — Single Family, Condo &amp; Estate</span>
+      <p class="card-desc">Direct Atlantic oceanfront, Intracoastal waterfront, and deep-water dockage properties. Estates, penthouses, and beach compounds across Palm Beach, Manalapan, Gulf Stream, Delray, Boca, Highland Beach, and Fort Lauderdale.</p>
+      <span class="card-meta">371 Active · Beaches MLS · Updated Weekly</span>
+      <span class="card-arrow">→</span>
+    </a>
   </div>
 </section>
 
-<section id="country-club" class="content-section alt-bg">
-  <div class="section-header">
-    <span class="section-eyebrow">Golf &amp; Club Communities</span>
-    <h2>Country Club &amp; Golf <em>Estates</em></h2>
-    <p class="section-intro">Premier golf course communities and private club residences from $750,000. Curated weekly from the most sought-after gated communities in Palm Beach County.</p>
-  </div>
-  <div class="large-card">
-    <span class="card-badge">Luxury · Golf &amp; Club Living · Updated Weekly</span>
-    <div class="card-title">Country Club &amp; Golf Community Homes</div>
-    <span class="card-subtitle">From $750,000 — Gated &amp; Private Club Communities</span>
-    <p class="card-desc">Estate homes and club residences within Palm Beach County's most prestigious gated golf communities.</p>
-    <ul class="card-features">
-      <li>Boca Raton</li>
-      <li>Delray Beach</li>
-      <li>Palm Beach Gardens</li>
-      <li>Mizner Country Club</li>
-      <li>Broken Sound</li>
-      <li>St. Andrews</li>
-      <li>Wellington Equestrian</li>
-      <li>The Club at Ibis</li>
-      <li>118 active listings</li>
-      <li>Beaches MLS</li>
-      <li>Refreshed weekly</li>
-    </ul>
-    <a href="weekly/luxury-countryclub.html" class="card-cta">View Current Country Club Listings →</a>
+<!-- COUNTRY CLUB SEGMENT -->
+<section id="country-club" class="fade-in" style="background:var(--color-surface);">
+  <div class="section-eyebrow">Golf &amp; Club Communities</div>
+  <h2>Country Club &amp; <em>Golf Estates</em></h2>
+  <p class="section-intro">Premier golf course communities and private club residences from $750,000. Curated weekly from Palm Beach County's most sought-after gated communities.</p>
+
+  <div class="segments-grid">
+    <a href="weekly/luxury-countryclub.html" class="segment-card">
+      <span class="card-category">Luxury · Golf &amp; Club Living</span>
+      <div class="card-title">Country Club &amp; Golf Community Homes</div>
+      <span class="card-subtitle">From $750,000 — Gated &amp; Private Club Communities</span>
+      <p class="card-desc">Estate homes and club residences within Palm Beach County's most prestigious gated golf communities — Mizner, Broken Sound, St. Andrews, Wellington Equestrian, Palm Beach Gardens, and beyond. Championship courses and resort-style amenities.</p>
+      <span class="card-meta">118 Active · Beaches MLS · Updated Weekly</span>
+      <span class="card-arrow">→</span>
+    </a>
   </div>
 </section>
 
-<div class="ins-strip">
-  <h2>High-Value Coastal Property Insurance</h2>
-  <p>AlphaGen connects Florida coastal property owners with specialized coverage for oceanfront, high-value, and hard-to-place properties.</p>
-  <div class="ins-cards">
-    <div class="ins-card">
-      <div class="ins-card-label">Coverage Type</div>
-      <div class="ins-card-val">High-Value Residential</div>
-    </div>
-    <div class="ins-card">
-      <div class="ins-card-label">Specialty</div>
-      <div class="ins-card-val">Coastal &amp; Oceanfront</div>
-    </div>
-    <div class="ins-card">
-      <div class="ins-card-label">Markets</div>
-      <div class="ins-card-val">SE Florida</div>
-    </div>
+<!-- BUYER FUNNEL CTA -->
+<section class="fade-in" style="text-align:center;">
+  <div class="section-eyebrow" style="justify-content:center;">For Buyers</div>
+  <h2>Ready to <em>Search Seriously</em>?</h2>
+  <p class="section-intro" style="margin-left:auto;margin-right:auto;">Looking for buyer representation, a custom MLS search, or guidance on a specific community? Let's talk about your priorities.</p>
+  <div style="display:flex;gap:1rem;justify-content:center;flex-wrap:wrap;">
+    <a href="luxury-buyers.html" class="btn-primary">Buyer Representation →</a>
+    <a href="https://calendar.app.google/Yv2c22sEEcKZuExq9?utm_source=savingsre&utm_medium=website&utm_campaign=schedule" target="_blank" rel="noopener" onclick="trackSchedule()" class="btn-outline">Schedule a Call</a>
   </div>
-  <a href="https://alphagen.pro" target="_blank" rel="noopener" class="btn-gold">Get Coverage Quotes</a>
+</section>
+
+<!-- INSURANCE STRIP -->
+<div class="insurance-strip fade-in">
+  <div class="insurance-content">
+    <h3>Coastal Property Insurance <em>for Luxury Buyers</em></h3>
+    <p>
+      Luxury oceanfront and waterfront properties in Southeast Florida require specialized wind, flood, and umbrella coverage — and lenders typically require it before closing. AlphaGen Insurance &amp; Strategic Relocation Advisory coordinates everything in advance.
+    </p>
+    <div class="accent-divider"></div>
+    <a href="https://alphageninsurance.com/personal-insurance-quote/?utm_source=savingsre&utm_medium=website&utm_campaign=insurance_cta" target="_blank" onclick="trackInsurance()" rel="noopener" class="btn-primary">Get an Insurance Quote →</a>
+  </div>
+  <div class="insurance-brand">AlphaGen<br>Insurance</div>
 </div>
+
+<!-- AGENT -->
+<section id="agent" class="fade-in">
+  <div class="section-eyebrow">Your Agent</div>
+  <h2>William Spencer <em>Seery Jr, PA</em></h2>
+  <p class="section-intro">
+    Licensed Florida real estate professional specializing in luxury coastal listings, country club estates, and buyer representation across Palm Beach County and Southeast Florida.
+  </p>
+
+  <div class="agent-grid">
+    <div class="agent-credentials">
+      <div class="credential-item">
+        <span class="credential-label">License</span>
+        <span class="credential-value">FL #3333692</span>
+      </div>
+      <div class="credential-item">
+        <span class="credential-label">MLS ID</span>
+        <span class="credential-value">276537152 · Beaches MLS</span>
+      </div>
+      <div class="credential-item">
+        <span class="credential-label">Markets</span>
+        <span class="credential-value">Palm Beach · Boca Raton · Delray Beach<br>Fort Lauderdale · Southeast Florida</span>
+      </div>
+      <div class="credential-item">
+        <span class="credential-label">Specialties</span>
+        <span class="credential-value">Luxury Coastal · Oceanfront · Country Club<br>Buyer Representation · Relocation Advisory</span>
+      </div>
+      <div class="credential-item">
+        <span class="credential-label">Office</span>
+        <span class="credential-value">5550 Glades Road<br>Boca Raton, FL 33431</span>
+      </div>
+    </div>
+
+    <div class="agent-contact">
+      <a href="tel:+15612200402" onclick="trackPhone()" class="contact-item">
+        <span class="contact-icon">📞</span> +1 (561) 220-0402 — Work
+      </a>
+      <a href="tel:+13478609801" onclick="trackPhone()" class="contact-item">
+        <span class="contact-icon">📱</span> +1 (347) 860-9801 — Mobile
+      </a>
+      <a href="mailto:bill@savingsre.com" class="contact-item">
+        <span class="contact-icon">✉️</span> bill@savingsre.com
+      </a>
+      <a href="https://calendar.app.google/Yv2c22sEEcKZuExq9?utm_source=savingsre&utm_medium=website&utm_campaign=schedule" target="_blank" onclick="trackSchedule()" rel="noopener" class="btn-primary" style="margin-top:1.5rem;">
+        Schedule a Call →
+      </a>
+    </div>
+  </div>
+</section>
 
 <footer>
   <div class="footer-inner">
