@@ -1,0 +1,60 @@
+{
+  "_comment": "Immutable per-segment metadata used by scripts/regen-links.js. Edit here when search criteria change; result_count and mls_url come from scripts/links-input.csv at regen time.",
+  "segments": {
+    "mf-small-under1m": {
+      "search_name": "WSS-MF-2plus-Under1M",
+      "label": "Small Multifamily — Under $1M",
+      "notes": "2+ units, price under $1M, all MLS counties"
+    },
+    "mf-small-1to3m": {
+      "search_name": "WSS-MF-2plus-1Mto3M",
+      "label": "Small Multifamily — $1M to $3M",
+      "notes": "2+ units, $1M–$3M, all MLS counties"
+    },
+    "mf-mid-5plus": {
+      "search_name": "WSS-MF-5plus-All",
+      "label": "Mid-Size Multifamily — 5+ Units",
+      "notes": "5+ units, any price, all MLS counties"
+    },
+    "mf-large-20plus": {
+      "search_name": "WSS-MF-20plus-All",
+      "label": "Large Multifamily — 20+ Units",
+      "notes": "20+ unit complexes; historically thin volume on Beaches MLS — consider lowering to 10+ if persistently 0 results"
+    },
+    "com-retail": {
+      "search_name": "WSS-COM-Retail",
+      "label": "Retail & Strip Centers",
+      "notes": "Retail/strip/free-standing, $750K+, all MLS counties"
+    },
+    "com-industrial": {
+      "search_name": "WSS-COM-Industrial",
+      "label": "Industrial & Warehouse",
+      "notes": "Industrial/warehouse/flex, $750K+, all MLS counties"
+    },
+    "com-office": {
+      "search_name": "WSS-COM-Office",
+      "label": "Office Buildings",
+      "notes": "Office/medical/professional, $750K+, all MLS counties"
+    },
+    "com-mixeduse": {
+      "search_name": "WSS-COM-MixedUse",
+      "label": "Mixed Use Properties",
+      "notes": "Mixed use, $750K+, all MLS counties"
+    },
+    "com-land": {
+      "search_name": "WSS-COM-Land",
+      "label": "Commercial Land",
+      "notes": "Commercial/industrial land, $750K+, all MLS counties"
+    },
+    "luxury-oceanfront": {
+      "search_name": "WSS-LUX-Oceanfront",
+      "label": "Oceanfront & Waterfront Luxury",
+      "notes": "Waterfront residential, $1.5M+, all MLS counties"
+    },
+    "luxury-countryclub": {
+      "search_name": "WSS-LUX-CountryClub",
+      "label": "Luxury Country Club Estates",
+      "notes": "Golf/CC communities, $750K+, all MLS counties"
+    }
+  }
+}

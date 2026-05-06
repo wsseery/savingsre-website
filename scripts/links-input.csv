@@ -1,0 +1,16 @@
+segment_slug,result_count,mls_url
+# Fill one row per segment. Lines starting with # are ignored.
+# result_count is an integer (0 acceptable when search returns nothing).
+# mls_url is the FlexMLS share link, may be left blank when result_count=0.
+# Expected slugs (11):
+#   mf-small-under1m
+#   mf-small-1to3m
+#   mf-mid-5plus
+#   mf-large-20plus       (often 0 — see notes in data/links.template.json)
+#   com-retail
+#   com-industrial
+#   com-office
+#   com-mixeduse
+#   com-land
+#   luxury-oceanfront
+#   luxury-countryclub
