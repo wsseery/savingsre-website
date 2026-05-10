@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Buyer Survey | Find Your South Florida Home | SavingsRE</title>
+  <meta name="description" content="Tell us what you're looking for and we'll set up a custom Beaches MLS search delivered to your inbox. All price ranges, all of South Florida — no obligation.">
+  <link rel="canonical" href="https://savingsre.com/buyersurvey.html">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;1,300;1,400&family=Montserrat:wght@300;400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/site.css">
+  <script defer src="assets/js/site.js"></script>
+</head>
+<body>
+<header id="site-header">
+  <a href="/" class="logo" aria-label="SavingsRE Home">Savings<span>RE</span></a>
+  <nav class="nav-links" id="nav-links" aria-label="Main navigation">
+    <a href="investor-hub.html">Investors</a>
+    <a href="luxury.html">Luxury</a>
+    <a href="buyersurvey.html" class="active">Buyer Survey</a>
+    <a href="luxury-listings.html" class="nav-list-cta">List Your Home · 1.5%</a>
+    <a href="tel:+15612200402" class="nav-cta" onclick="trackPhone()">+1 (561) 220-0402</a>
+  </nav>
+  <button class="mobile-toggle" id="mobile-toggle" aria-label="Open menu" aria-expanded="false">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
+      <line x1="3" y1="6" x2="21" y2="6"/>
+      <line x1="3" y1="12" x2="21" y2="12"/>
+      <line x1="3" y1="18" x2="21" y2="18"/>
+    </svg>
+  </button>
+</header>
+<div class="mobile-nav" id="mobile-nav" aria-label="Mobile navigation">
+  <a href="investor-hub.html">Investors</a>
+  <a href="luxury.html">Luxury</a>
+  <a href="buyersurvey.html">Buyer Survey</a>
+  <a href="luxury-listings.html">List Your Home · 1.5%</a>
+  <a href="tel:+15612200402" onclick="trackPhone()">+1 (561) 220-0402</a>
+</div>
+
+<!-- HERO -->
+<section class="hero" id="hero" style="min-height:auto;padding-bottom:3rem;">
+  <div class="hero-bg">
+    <div class="hero-bg-gradient"></div>
+  </div>
+  <div class="hero-grid"></div>
+  <div class="hero-content">
+    <div class="hero-eyebrow">South Florida Buyer Survey</div>
+    <h1>Find Your Next<br><em>South Florida Home</em></h1>
+    <p class="hero-sub">
+      Tell us what you're looking for — community, price, property type, timeline — and we'll set up a custom Beaches MLS search delivered to your inbox. Direct MLS access, no third-party portals, no obligation.
+    </p>
+    <div class="hero-actions">
+      <a href="#intake" class="btn-primary">Start the Survey →</a>
+      <a href="https://calendar.app.google/Yv2c22sEEcKZuExq9?utm_source=savingsre&utm_medium=website&utm_campaign=schedule" target="_blank" rel="noopener" onclick="trackSchedule()" class="btn-outline">Schedule a Call</a>
+    </div>
+  </div>
+</section>
+
+<!-- VALUE PROPS -->
+<section class="fade-in" style="background:var(--color-surface);">
+  <div class="section-eyebrow">Why Work With SavingsRE</div>
+  <h2>Buyer Representation, <em>Done Right</em></h2>
+
+  <div class="services-grid" style="margin-top:2.5rem;">
+    <div class="service-card">
+      <span class="service-icon">📡</span>
+      <div class="service-title">Live MLS Access</div>
+      <p class="service-desc">Direct weekly pulls from Beaches MLS — not aggregated third-party data. See what's active, price-reduced, and new before it hits public portals.</p>
+    </div>
+    <div class="service-card">
+      <span class="service-icon">💰</span>
+      <div class="service-title">No Direct Cost</div>
+      <p class="service-desc">In most transactions the seller pays buyer representation fees. You get full professional representation at no direct cost to you.</p>
+    </div>
+    <div class="service-card">
+      <span class="service-icon">🛡️</span>
+      <div class="service-title">Insurance Coordination</div>
+      <p class="service-desc">AlphaGen Insurance handles wind, flood, and umbrella coverage — especially important for coastal Florida properties.</p>
+    </div>
+    <div class="service-card">
+      <span class="service-icon">🗺️</span>
+      <div class="service-title">Local Expertise</div>
+      <p class="service-desc">Community comparisons, flood zone mapping, school district analysis, and lifestyle matching across Palm Beach and Broward.</p>
+    </div>
+  </div>
+</section>
+
+<!-- LEAD INTAKE -->
+<section id="intake" class="fade-in">
+  <div class="section-eyebrow">Custom Property Search</div>
+  <h2>Tell Us What You're <em>Looking For</em></h2>
+  <p class="section-intro">All fields below help us tailor your search. The more detail you provide, the better the matches we send.</p>
+
+  <div style="max-width:760px;margin:0 auto;background:var(--color-surface);border:1px solid var(--color-border);padding:2.5rem;">
+    <!--
+      Submits to Google Form "Real Estate Search Survey" (buyer intake)
+      formId: 150Tm5GEg2Reqt6Vvc89zDhB7Q1ogVIHSE7gnKJv5SQg
+      Responses sheet: 1Jk00DzhWwKWGUEVYdx_ZazjolhfKVVim6xmASQvCrjY (Real Estate Survey)
+      Field mapping is below; do not rename name= attributes without updating both sides.
+    -->
+    <form id="buyer-survey-form"
+          action="https://docs.google.com/forms/d/e/1FAIpQLSc_4iijBIY5rGh6rN4-hVVMkafqbgTgKDFd6f75A9aBMXmngw/formResponse"
+          method="POST"
+          target="hidden_iframe_buyersurvey"
+          onsubmit="return savingsreSubmitBuyerSurvey(this)">
+      <div class="form-row">
+        <div class="form-group">
+          <label>First Name</label>
+          <input type="text" name="entry.1278692118" required>
+        </div>
+        <div class="form-group">
+          <label>Last Name</label>
+          <input type="text" name="entry.1953954792" required>
+        </div>
+      </div>
+      <div class="form-group">
+        <label>Email</label>
+        <input type="email" name="emailAddress" required>
+      </div>
+      <div class="form-group">
+        <label>Phone</label>
+        <input type="tel" name="entry.951643722" placeholder="(optional)">
+      </div>
+      <div class="form-group">
+        <label>Where are you looking?</label>
+        <input type="text" name="entry.856250213" placeholder="e.g. Boca Raton, Delray Beach, Jupiter, Fort Lauderdale">
+      </div>
+      <div class="form-row">
+        <div class="form-group">
+          <label>Property Type</label>
+          <select name="entry.700768458">
+            <option>Single Family</option>
+            <option>Condo</option>
+            <option>Townhouse</option>
+            <option>Various - all above</option>
+            <option>Commercial / Investment</option>
+          </select>
+        </div>
+        <div class="form-group">
+          <label>Bedrooms</label>
+          <select name="entry.2086355335">
+            <option>1</option>
+            <option>2</option>
+            <option>3</option>
+            <option>4</option>
+            <option>Multiple Units</option>
+          </select>
+        </div>
+      </div>
+      <div class="form-row">
+        <div class="form-group">
+          <label>Price Range</label>
+          <select name="entry.354279127">
+            <option>400-600</option>
+            <option>600-999</option>
+            <option>1 million +</option>
+          </select>
+        </div>
+        <div class="form-group">
+          <label>Timeline</label>
+          <select name="entry.1232145576">
+            <option>Right away</option>
+            <option>Next couple months</option>
+            <option>Longer term</option>
+            <option>Just looking for now</option>
+          </select>
+        </div>
+      </div>
+      <div class="form-row">
+        <div class="form-group">
+          <label>Special Requirements</label>
+          <select name="entry.1496596451">
+            <option>Garage</option>
+            <option>Pool</option>
+            <option>Patio</option>
+            <option>Screened Patio</option>
+            <option>Move-in ready</option>
+          </select>
+        </div>
+        <div class="form-group">
+          <label>Working with another broker?</label>
+          <select name="entry.1924795609">
+            <option>No</option>
+            <option>Yes</option>
+          </select>
+        </div>
+      </div>
+      <div class="form-group">
+        <label>Communication Preference</label>
+        <select name="entry.947131711">
+          <option>Phone</option>
+          <option>Text</option>
+          <option>e-mail</option>
+        </select>
+      </div>
+      <div class="form-group">
+        <label>Anything else? (Optional)</label>
+        <textarea name="entry.75457957" placeholder="Style preferences, communities of interest, must-haves, deal-breakers, fixer-upper or move-in ready, etc."></textarea>
+      </div>
+      <button type="submit" class="form-submit">Send My Custom Search →</button>
+      <p class="form-trust">100% confidential. No obligation. We'll respond within 48 hours.</p>
+      <div id="buyer-survey-success" class="form-success" hidden>
+        <strong>Thanks — your custom search request was received.</strong>
+        <p>We'll set up your Beaches MLS search and respond within 48 hours.</p>
+      </div>
+    </form>
+    <iframe name="hidden_iframe_buyersurvey" id="hidden_iframe_buyersurvey" style="display:none;" aria-hidden="true" tabindex="-1"></iframe>
+    <script>
+      function savingsreSubmitBuyerSurvey(form) {
+        setTimeout(function() {
+          var btn = form.querySelector('.form-submit');
+          var trust = form.querySelector('.form-trust');
+          var success = form.querySelector('#buyer-survey-success');
+          for (var i = 0; i < form.elements.length; i++) form.elements[i].disabled = true;
+          if (btn) btn.style.display = 'none';
+          if (trust) trust.style.display = 'none';
+          if (success) success.hidden = false;
+          if (window.gtag) gtag('event', 'generate_lead', { form_name: 'buyer_survey' });
+        }, 600);
+        return true;
+      }
+    </script>
+  </div>
+</section>
+
+<!-- SHORT CONTACT BLOCK -->
+<section class="fade-in" style="background:var(--color-surface);text-align:center;">
+  <div class="section-eyebrow" style="justify-content:center;">Or Reach Out Directly</div>
+  <h2>Talk to <em>Bill Seery, MBA</em></h2>
+  <p class="section-intro" style="margin-left:auto;margin-right:auto;">Licensed Florida Realtor® · FL #3333692 · MLS ID 276537152</p>
+
+  <div style="display:flex;gap:1rem;justify-content:center;flex-wrap:wrap;align-items:center;">
+    <a href="tel:+15612200402" onclick="trackPhone()" class="btn-primary">📞 Call (561) 220-0402</a>
+    <a href="mailto:bill@savingsre.com" class="btn-outline">✉️ bill@savingsre.com</a>
+    <a href="https://calendar.app.google/Yv2c22sEEcKZuExq9?utm_source=savingsre&utm_medium=website&utm_campaign=schedule" target="_blank" rel="noopener" onclick="trackSchedule()" class="btn-outline">Schedule a Call</a>
+  </div>
+</section>
+
+<!-- BUYER REP TERMS (legal) -->
+<section style="padding:2.5rem 3rem;background:var(--color-bg);border-top:1px solid var(--color-border);border-bottom:1px solid var(--color-border);">
+  <div style="max-width:900px;margin:0 auto;">
+    <p style="font-size:0.68rem;letter-spacing:0.2em;text-transform:uppercase;color:var(--color-primary);margin-bottom:0.75rem;font-weight:500;">Buyer Representation Terms</p>
+    <p style="font-size:0.78rem;color:var(--color-text-muted);line-height:1.75;margin-bottom:0.75rem;">By receiving, reviewing, or responding to any property listing, search result, or real estate communication from William Spencer Seery Jr, PA, you acknowledge that an exclusive buyer representation relationship exists and that the terms of the Exclusive Buyer Representation Agreement govern our work together. This agreement covers all properties sent to you by any means — whether received before or after today.</p>
+    <p style="font-size:0.78rem;color:var(--color-text-muted);line-height:1.75;margin-bottom:0;">📄 <a href="https://bit.ly/buyer_rep_agreement" target="_blank" style="color:var(--color-primary);text-decoration:none;">Review the full Buyer Representation Agreement →</a> &nbsp;·&nbsp; William Spencer Seery Jr, PA · FL #3333692 · <a href="mailto:bill@savingsre.com" style="color:var(--color-primary);text-decoration:none;">bill@savingsre.com</a> · (561) 220-0402</p>
+  </div>
+</section>
+
+<footer>
+  <div class="footer-inner">
+    <div class="footer-brand">
+      <div class="footer-logo">Savings<span>RE</span></div>
+      <div class="footer-info">5550 Glades Road · Boca Raton, FL 33431<br>FL License #3333692 · MLS ID 276537152</div>
+    </div>
+    <div class="footer-links">
+      <a href="index.html">Home</a>
+      <a href="investor-hub.html">Investors</a>
+      <a href="luxury.html">Luxury</a>
+      <a href="buyersurvey.html">Buyer Survey</a>
+      <a href="luxury-listings.html">List for 1.5%</a>
+      <a href="mailto:bill@savingsre.com">Contact</a>
+    </div>
+  </div>
+  <div class="footer-legal">
+    William Spencer Seery Jr, PA · FL License #3333692 · MLS ID 276537152. Information provided is general in nature and not legal, tax, or investment advice. All listings sourced from Beaches MLS and updated weekly. SavingsRE is a brand of William Spencer Seery Jr, PA. © 2026 SavingsRE. All rights reserved.
+  </div>
+</footer>
+</body>
+</html>

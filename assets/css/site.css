@@ -213,7 +213,9 @@ nav a.active { color: var(--color-primary); }
     linear-gradient(90deg, rgba(37,99,235,0.03) 1px, transparent 1px);
   background-size: 60px 60px;
   z-index: 1;
+  pointer-events: none;
 }
+.hero-bg, .hero-bg-gradient { pointer-events: none; }
 .hero-content { position: relative; z-index: 2; max-width: 720px; }
 .hero-eyebrow {
   font-size: 0.68rem;
