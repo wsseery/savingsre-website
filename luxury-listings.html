@@ -55,33 +55,43 @@
       <div class="form-card-header">Free Home Valuation</div>
       <p class="form-card-sub">Tell us about your property and we'll send you a free comparative market analysis within 48 hours — no obligation.</p>
 
-      <form action="https://docs.google.com/forms/d/e/1FAIpQLSc_4iijBIY5rGh6rN4-hVVMkafqbgTgKDFd6f75A9aBMXmngw/viewform" method="GET" target="_blank">
+      <!--
+        Submits to Google Form "Real Estate Seller Survey"
+        formId: 1wZOMAcxD1j1kWcwNtWCqC7i9sbIkn6nuSiOofrlLC_U
+        Responses sheet: 1qL6KkJwnf2fatAANhIPLeezCcfpwgLbjSuaWrQ8HfpA (Seller Survey (Responses))
+        Field mapping is below; do not rename name= attributes without updating both sides.
+      -->
+      <form id="valuation-form"
+            action="https://docs.google.com/forms/d/e/1FAIpQLSehEOferezpxmjA0fuiytsTDGwEe_jxWEXqP1EWZJmWPRWYwQ/formResponse"
+            method="POST"
+            target="hidden_iframe"
+            onsubmit="return savingsreSubmitValuation(this)">
         <div class="form-row">
           <div class="form-group">
             <label>First Name</label>
-            <input type="text" name="firstname" required>
+            <input type="text" name="entry.1470335293" required>
           </div>
           <div class="form-group">
             <label>Last Name</label>
-            <input type="text" name="lastname" required>
+            <input type="text" name="entry.1191344265" required>
           </div>
         </div>
         <div class="form-group">
           <label>Email</label>
-          <input type="email" name="email" required>
+          <input type="email" name="emailAddress" required>
         </div>
         <div class="form-group">
           <label>Phone</label>
-          <input type="tel" name="phone" required>
+          <input type="tel" name="entry.951643722" required>
         </div>
         <div class="form-group">
           <label>Property Address</label>
-          <input type="text" name="address" placeholder="Street, City, ZIP" required>
+          <input type="text" name="entry.856250213" placeholder="Street, City, ZIP" required>
         </div>
         <div class="form-row">
           <div class="form-group">
             <label>Property Type</label>
-            <select name="type">
+            <select name="entry.1508827474">
               <option>Single Family</option>
               <option>Condominium</option>
               <option>Townhome</option>
@@ -91,7 +101,7 @@
           </div>
           <div class="form-group">
             <label>Estimated Value</label>
-            <select name="value">
+            <select name="entry.354279127">
               <option>$750K – $1M</option>
               <option>$1M – $2M</option>
               <option>$2M – $5M</option>
@@ -102,11 +112,32 @@
         </div>
         <div class="form-group">
           <label>Notes (optional)</label>
-          <textarea name="notes" placeholder="Timeline, special features, questions..."></textarea>
+          <textarea name="entry.75457957" placeholder="Timeline, special features, questions..."></textarea>
         </div>
         <button type="submit" class="form-submit">Get My Free Valuation →</button>
         <p class="form-trust">100% confidential. No obligation. Response within 48 hours.</p>
+        <div id="valuation-form-success" class="form-success" hidden>
+          <strong>Thanks — your valuation request was received.</strong>
+          <p>We’ll respond within 48 hours.</p>
+        </div>
       </form>
+      <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" aria-hidden="true" tabindex="-1"></iframe>
+      <script>
+        function savingsreSubmitValuation(form) {
+          // Let the browser POST to the hidden iframe; show inline success after a beat.
+          setTimeout(function() {
+            var btn = form.querySelector('.form-submit');
+            var trust = form.querySelector('.form-trust');
+            var success = form.querySelector('#valuation-form-success');
+            for (var i = 0; i < form.elements.length; i++) form.elements[i].disabled = true;
+            if (btn) btn.style.display = 'none';
+            if (trust) trust.style.display = 'none';
+            if (success) success.hidden = false;
+            if (window.gtag) gtag('event', 'generate_lead', { form_name: 'luxury_valuation' });
+          }, 600);
+          return true;
+        }
+      </script>
     </div>
   </div>
 </section>
