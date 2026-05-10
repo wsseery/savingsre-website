@@ -94,29 +94,39 @@
   <p class="section-intro">A particular community, school district, lot size, or feature? Tell us what you want and we'll set up a custom Beaches MLS search delivered to your inbox weekly.</p>
 
   <div style="max-width:760px;margin:0 auto;background:var(--color-surface);border:1px solid var(--color-border);padding:2.5rem;">
-    <form action="https://docs.google.com/forms/d/e/1FAIpQLSc_4iijBIY5rGh6rN4-hVVMkafqbgTgKDFd6f75A9aBMXmngw/viewform" method="GET" target="_blank">
+    <!--
+      Submits to Google Form "Real Estate Search Survey" (buyer intake)
+      formId: 150Tm5GEg2Reqt6Vvc89zDhB7Q1ogVIHSE7gnKJv5SQg
+      Responses sheet: 1Jk00DzhWwKWGUEVYdx_ZazjolhfKVVim6xmASQvCrjY (Real Estate Survey)
+      Field mapping is below; do not rename name= attributes without updating both sides.
+    -->
+    <form id="buyer-form"
+          action="https://docs.google.com/forms/d/e/1FAIpQLSc_4iijBIY5rGh6rN4-hVVMkafqbgTgKDFd6f75A9aBMXmngw/formResponse"
+          method="POST"
+          target="hidden_iframe_buyer"
+          onsubmit="return savingsreSubmitBuyer(this)">
       <div class="form-row">
         <div class="form-group">
           <label>First Name</label>
-          <input type="text" name="firstname" required>
+          <input type="text" name="entry.1278692118" required>
         </div>
         <div class="form-group">
           <label>Last Name</label>
-          <input type="text" name="lastname" required>
+          <input type="text" name="entry.1953954792" required>
         </div>
       </div>
       <div class="form-group">
         <label>Email</label>
-        <input type="email" name="email" required>
+        <input type="email" name="emailAddress" required>
       </div>
       <div class="form-group">
         <label>Phone</label>
-        <input type="tel" name="phone">
+        <input type="tel" name="entry.951643722">
       </div>
       <div class="form-row">
         <div class="form-group">
           <label>Desired Area</label>
-          <select name="area">
+          <select name="entry.856250213">
             <option>Palm Beach / Manalapan</option>
             <option>Boca Raton</option>
             <option>Delray Beach</option>
@@ -131,7 +141,7 @@
         </div>
         <div class="form-group">
           <label>Price Range</label>
-          <select name="price">
+          <select name="entry.354279127">
             <option>$750K – $1.5M</option>
             <option>$1.5M – $3M</option>
             <option>$3M – $5M</option>
@@ -143,7 +153,7 @@
       <div class="form-row">
         <div class="form-group">
           <label>Property Type</label>
-          <select name="type">
+          <select name="entry.700768458">
             <option>Single Family Home</option>
             <option>Oceanfront / Waterfront</option>
             <option>Condominium / Penthouse</option>
@@ -154,7 +164,7 @@
         </div>
         <div class="form-group">
           <label>Timeline</label>
-          <select name="timeline">
+          <select name="entry.1232145576">
             <option>Ready now (0–3 months)</option>
             <option>Soon (3–6 months)</option>
             <option>Exploring (6–12 months)</option>
@@ -164,10 +174,32 @@
       </div>
       <div class="form-group">
         <label>Specific Requirements (Optional)</label>
-        <textarea name="notes" placeholder="Communities of interest, must-haves, deal breakers, etc."></textarea>
+        <textarea name="entry.75457957" placeholder="Communities of interest, must-haves, deal breakers, etc."></textarea>
       </div>
       <button type="submit" class="form-submit">Send My Custom Search →</button>
+      <p class="form-trust">100% confidential. No obligation. We'll respond within 48 hours.</p>
+      <div id="buyer-form-success" class="form-success" hidden>
+        <strong>Thanks — your custom search request was received.</strong>
+        <p>We'll set up your Beaches MLS search and respond within 48 hours.</p>
+      </div>
     </form>
+    <iframe name="hidden_iframe_buyer" id="hidden_iframe_buyer" style="display:none;" aria-hidden="true" tabindex="-1"></iframe>
+    <script>
+      function savingsreSubmitBuyer(form) {
+        // Let the browser POST to the hidden iframe; show inline success after a beat.
+        setTimeout(function() {
+          var btn = form.querySelector('.form-submit');
+          var trust = form.querySelector('.form-trust');
+          var success = form.querySelector('#buyer-form-success');
+          for (var i = 0; i < form.elements.length; i++) form.elements[i].disabled = true;
+          if (btn) btn.style.display = 'none';
+          if (trust) trust.style.display = 'none';
+          if (success) success.hidden = false;
+          if (window.gtag) gtag('event', 'generate_lead', { form_name: 'luxury_buyer_search' });
+        }, 600);
+        return true;
+      }
+    </script>
   </div>
 </section>
 
