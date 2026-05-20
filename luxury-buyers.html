@@ -102,7 +102,7 @@
       Responses sheet: 1Jk00DzhWwKWGUEVYdx_ZazjolhfKVVim6xmASQvCrjY (Real Estate Survey)
       Field mapping is below; do not rename name= attributes without updating both sides.
     -->
-    <form id="buyer-form"
+    <form id="buyer-form" data-form="luxury_buyer_intake"
           action="https://docs.google.com/forms/d/e/1FAIpQLSc_4iijBIY5rGh6rN4-hVVMkafqbgTgKDFd6f75A9aBMXmngw/formResponse"
           method="POST"
           target="hidden_iframe_buyer"
@@ -183,7 +183,13 @@
           if (btn) btn.style.display = 'none';
           if (trust) trust.style.display = 'none';
           if (success) success.hidden = false;
-          if (window.gtag) gtag('event', 'generate_lead', { form_name: 'luxury_buyer_search' });
+          if (window.gtag) window.dataLayer = window.dataLayer || [];
+      window.dataLayer.push({
+        event: 'form_submit_luxury_buyer_intake',
+        form_id: 'buyer-form',
+        form_name: 'luxury_buyer_intake',
+        page_path: '/luxury-buyers.html'
+      });
         }, 600);
         return true;
       }
