@@ -1,9 +1,15 @@
-/* SavingsRE — shared site script
+// === Google Tag Manager (SavingsRE GTM-K4HVBNM) ===
+// Loads GTM as early as possible. GTM owns GA4 (G-GYL4MLT1C6),
+// Google Ads conversions, and any future tags managed via tagmanager.google.com.
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-K4HVBNM');
+// === End GTM ===
+
+/* SavingsRE â shared site script
    Defensive: every element is feature-detected before binding. */
 (function () {
   'use strict';
 
-  // ── GA4 setup ─────────────────────────────────────────
+  // ââ GA4 setup âââââââââââââââââââââââââââââââââââââââââ
   var GA_ID = 'G-GYL4MLT1C6';
   if (!window.dataLayer) window.dataLayer = [];
   window.gtag = window.gtag || function () { window.dataLayer.push(arguments); };
@@ -16,15 +22,13 @@
     document.head.appendChild(s);
   }
   window.gtag('js', new Date());
-  window.gtag('config', GA_ID);
+  // Tracking helpers â exposed globally so inline onclicks keep working
+  window.trackMLS = function (seg) { window.dataLayer = window.dataLayer || []; window.dataLayer.push({ event: 'mls_link_click', segment: seg }); }); };
+  window.trackInsurance = function () { window.dataLayer = window.dataLayer || []; window.dataLayer.push({ event: 'insurance_cta_click', destination: 'alphageninsurance.com' }); };
+  window.trackSchedule = function () { window.dataLayer = window.dataLayer || []; window.dataLayer.push({ event: 'schedule_click', destination: 'calendar.app.google' }); };
+  window.trackPhone = function () { window.dataLayer = window.dataLayer || []; window.dataLayer.push({ event: 'phone_click', phone_number: '+15612200402', link_label: 'header_cta' }); };
 
-  // Tracking helpers — exposed globally so inline onclicks keep working
-  window.trackMLS = function (seg) { window.gtag('event', 'mls_link_click', { segment_name: seg }); };
-  window.trackInsurance = function () { window.gtag('event', 'insurance_cta_click'); };
-  window.trackSchedule = function () { window.gtag('event', 'schedule_click'); };
-  window.trackPhone = function () { window.gtag('event', 'phone_click'); };
-
-  // ── DOM ready ─────────────────────────────────────────
+  // ââ DOM ready âââââââââââââââââââââââââââââââââââââââââ
   function ready(fn) {
     if (document.readyState !== 'loading') fn();
     else document.addEventListener('DOMContentLoaded', fn);
@@ -40,7 +44,7 @@
       }, { passive: true });
     }
 
-    // Mobile menu — modern pattern: .mobile-toggle button + #nav-links list
+    // Mobile menu â modern pattern: .mobile-toggle button + #nav-links list
     var modernToggle = document.getElementById('mobile-toggle');
     var modernNav = document.getElementById('nav-links');
     if (modernToggle && modernNav) {
@@ -62,8 +66,8 @@
       });
     }
 
-    // Mobile menu — also bind the standard slide-down panel pattern
-    // (.mobile-toggle / .hamburger) ↔ (#mobile-nav / #mobileNav / .mobile-nav)
+    // Mobile menu â also bind the standard slide-down panel pattern
+    // (.mobile-toggle / .hamburger) â (#mobile-nav / #mobileNav / .mobile-nav)
     var altToggle = document.querySelector('.mobile-toggle, .hamburger');
     var altPanel = document.getElementById('mobile-nav') || document.getElementById('mobileNav') || document.querySelector('.mobile-nav');
     if (altToggle && altPanel && altPanel !== modernNav) {
