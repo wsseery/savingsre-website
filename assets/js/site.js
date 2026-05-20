@@ -3,19 +3,6 @@
 (function () {
   'use strict';
 
-  // ââ GA4 setup âââââââââââââââââââââââââââââââââââââââââ
-  var GA_ID = 'G-GYL4MLT1C6';
-  if (!window.dataLayer) window.dataLayer = [];
-  window.gtag = window.gtag || function () { window.dataLayer.push(arguments); };
-
-  // Inject the gtag.js loader if not already present
-  if (!document.querySelector('script[src*="googletagmanager.com/gtag/js"]')) {
-    var s = document.createElement('script');
-    s.async = true;
-    s.src = 'https://www.googletagmanager.com/gtag/js?id=' + GA_ID;
-    document.head.appendChild(s);
-  }
-  window.gtag('js', new Date());
   // Tracking helpers â exposed globally so inline onclicks keep working
   window.trackMLS = function (seg) { window.dataLayer = window.dataLayer || []; window.dataLayer.push({ event: 'mls_link_click', segment: seg }); };
   window.trackInsurance = function () { window.dataLayer = window.dataLayer || []; window.dataLayer.push({ event: 'insurance_cta_click', destination: 'alphageninsurance.com' }); };
