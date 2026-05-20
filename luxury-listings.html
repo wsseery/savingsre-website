@@ -63,7 +63,7 @@
         Responses sheet: 1qL6KkJwnf2fatAANhIPLeezCcfpwgLbjSuaWrQ8HfpA (Seller Survey (Responses))
         Field mapping is below; do not rename name= attributes without updating both sides.
       -->
-      <form id="valuation-form"
+      <form id="valuation-form" data-form="luxury_listing_intake"
             action="https://docs.google.com/forms/d/e/1FAIpQLSehEOferezpxmjA0fuiytsTDGwEe_jxWEXqP1EWZJmWPRWYwQ/formResponse"
             method="POST"
             target="hidden_iframe"
@@ -135,7 +135,13 @@
             if (btn) btn.style.display = 'none';
             if (trust) trust.style.display = 'none';
             if (success) success.hidden = false;
-            if (window.gtag) gtag('event', 'generate_lead', { form_name: 'luxury_valuation' });
+            if (window.gtag) window.dataLayer = window.dataLayer || [];
+      window.dataLayer.push({
+        event: 'form_submit_luxury_listing_intake',
+        form_id: 'valuation-form',
+        form_name: 'luxury_listing_intake',
+        page_path: '/luxury-listings.html'
+      });
           }, 600);
           return true;
         }
