@@ -1,9 +1,3 @@
-// === Google Tag Manager (SavingsRE GTM-K4HVBNM) ===
-// Loads GTM as early as possible. GTM owns GA4 (G-GYL4MLT1C6),
-// Google Ads conversions, and any future tags managed via tagmanager.google.com.
-(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-K4HVBNM');
-// === End GTM ===
-
 /* SavingsRE â shared site script
    Defensive: every element is feature-detected before binding. */
 (function () {
