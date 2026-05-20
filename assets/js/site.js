@@ -23,7 +23,7 @@
   }
   window.gtag('js', new Date());
   // Tracking helpers â exposed globally so inline onclicks keep working
-  window.trackMLS = function (seg) { window.dataLayer = window.dataLayer || []; window.dataLayer.push({ event: 'mls_link_click', segment: seg }); }); };
+  window.trackMLS = function (seg) { window.dataLayer = window.dataLayer || []; window.dataLayer.push({ event: 'mls_link_click', segment: seg }); };
   window.trackInsurance = function () { window.dataLayer = window.dataLayer || []; window.dataLayer.push({ event: 'insurance_cta_click', destination: 'alphageninsurance.com' }); };
   window.trackSchedule = function () { window.dataLayer = window.dataLayer || []; window.dataLayer.push({ event: 'schedule_click', destination: 'calendar.app.google' }); };
   window.trackPhone = function () { window.dataLayer = window.dataLayer || []; window.dataLayer.push({ event: 'phone_click', phone_number: '+15612200402', link_label: 'header_cta' }); };
