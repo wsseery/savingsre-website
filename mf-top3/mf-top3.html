@@ -3,149 +3,18 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>SavingsRE — This Week's Top 3 Multifamily (Up to $3M, East)</title>
-<style>
-  :root{
-    --charcoal:#1a1f2b; --charcoal2:#232a39; --gold:#c9a24b; --gold-soft:#e3c884;
-    --ink:#1a1f2b; --muted:#6b7280; --line:#e6e8ec; --bg:#f4f5f7; --card:#ffffff;
-    --good:#1f8a55;
-  }
-  *{box-sizing:border-box}
-  body{margin:0;background:var(--bg);color:var(--ink);
-       font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;}
-  .wrap{max-width:980px;margin:0 auto;padding:22px 18px 40px;}
-  header.hd{display:flex;align-items:center;justify-content:space-between;gap:16px;
-       background:linear-gradient(135deg,var(--charcoal),var(--charcoal2));
-       color:#fff;border-radius:14px;padding:20px 24px;}
-  .hd .title{font-size:21px;font-weight:700;letter-spacing:.2px;line-height:1.25}
-  .hd .title small{display:block;font-weight:500;color:var(--gold-soft);font-size:13px;margin-top:4px;letter-spacing:.6px;text-transform:uppercase}
-  .hd .meta{text-align:right;font-size:12px;color:#c8cdd6;white-space:nowrap}
-  .hd .meta b{color:#fff}
-  .legend{display:flex;flex-wrap:wrap;gap:14px;margin:16px 2px 4px;font-size:12px;color:var(--muted)}
-  .legend span{display:inline-flex;align-items:center;gap:6px}
-  .dot{width:9px;height:9px;border-radius:50%;display:inline-block}
-  .cards{display:grid;gap:16px;margin-top:14px}
-  .card{background:var(--card);border:1px solid var(--line);border-radius:14px;overflow:hidden;
-        display:grid;grid-template-columns:64px 1fr 220px;box-shadow:0 1px 2px rgba(16,24,40,.04)}
-  .rankcol{background:linear-gradient(180deg,var(--charcoal),var(--charcoal2));color:var(--gold-soft);
-        display:flex;flex-direction:column;align-items:center;justify-content:center;font-weight:800}
-  .rankcol .n{font-size:30px;color:#fff;line-height:1}
-  .rankcol .lbl{font-size:9px;letter-spacing:1px;margin-top:6px;text-transform:uppercase;color:var(--gold)}
-  .body{padding:16px 18px}
-  .addr{font-size:17px;font-weight:700}
-  .sub{color:var(--muted);font-size:13px;margin-top:3px}
-  .chips{margin-top:11px;display:flex;flex-wrap:wrap;gap:7px}
-  .chip{font-size:11.5px;background:#f1f2f4;border:1px solid var(--line);border-radius:999px;padding:3px 9px;color:#374151}
-  .chip b{color:var(--ink)}
-  .metrics{border-left:1px solid var(--line);padding:16px 18px;display:flex;flex-direction:column;justify-content:center;gap:8px;background:#fbfbfc}
-  .cap{font-size:13px;color:var(--muted)}
-  .cap .v{font-size:30px;font-weight:800;color:var(--good);letter-spacing:-.5px}
-  .cap .v small{font-size:14px;font-weight:700}
-  .row2{display:flex;gap:18px;font-size:12px;color:var(--muted)}
-  .row2 b{display:block;color:var(--ink);font-size:14px;font-weight:700}
-  .scorebar{margin-top:8px}
-  .scorebar .sline{display:flex;align-items:center;gap:8px;font-size:11px;color:var(--muted);margin:3px 0}
-  .scorebar .track{flex:1;height:6px;border-radius:4px;background:#edeef1;overflow:hidden}
-  .scorebar .fill{height:100%;background:var(--gold)}
-  .scorebar .num{width:30px;text-align:right;color:var(--ink);font-weight:600}
-  .composite{font-size:11px;color:var(--muted);margin-top:6px}
-  .composite b{color:var(--ink)}
-  footer.ft{margin-top:22px;font-size:11.5px;color:var(--muted);line-height:1.6;
-        border-top:1px solid var(--line);padding-top:14px}
-  .cta{display:inline-block;margin-top:14px;background:var(--gold);color:#1a1f2b;font-weight:700;
-       text-decoration:none;padding:11px 20px;border-radius:9px;font-size:14px}
-  @media(max-width:720px){
-    .card{grid-template-columns:48px 1fr}
-    .metrics{grid-column:1 / -1;border-left:none;border-top:1px solid var(--line);flex-direction:row;flex-wrap:wrap;align-items:center}
-    .scorebar{width:100%}
-  }
-</style>
-</head>
-<body>
-<div class="wrap">
-  <header class="hd">
-    <div class="title">This Week's Top 3 Multifamily Opportunities
-      <small>Income Properties · Up to $3M · East Palm Beach &amp; Broward</small>
-    </div>
-    <div class="meta">Updated <b id="gen">—</b><br>Refreshed weekly · SavingsRE</div>
-  </header>
-
-  <div class="legend">
-    <span><i class="dot" style="background:var(--good)"></i> NOI cap rate (reported financials only)</span>
-    <span><i class="dot" style="background:var(--gold)"></i> Composite score = NOI 55% · Appreciation 25% · Strategic 20%</span>
-  </div>
-
-  <div class="cards" id="cards"></div>
-
-  <a class="cta" id="cta" href="#">View All Income-Property Listings →</a>
-
-  <footer class="ft" id="ft"></footer>
-</div>
-
+<title>This Week's Top 3 — SavingsRE</title>
+<link rel="canonical" href="https://savingsre.com/top3/top3.html?seg=mf-upto3m-east">
+<meta http-equiv="refresh" content="0; url=/top3/top3.html?seg=mf-upto3m-east">
 <script>
-// Fallback data so the page renders even when opened directly (file://).
-// On GitHub Pages the page re-fetches ./weekly-top3-data.json so weekly updates
-// require overwriting ONLY that JSON file.
-const FALLBACK = {"search_name": "WSS-MF-upto3mmeast", "generated": "2026-06-04", "expires": "2026-07-04", "total_results": 41, "eligible_with_noi": 13, "methodology": "Top 3 ranked by composite of NOI return (cap rate, 55%), appreciation proxy (25%), and strategic-ownership fit (20%). NOI return uses ONLY listings with both expenses and NOI reported in the MLS. Appreciation and strategic scores are transparent proxies from objective listing attributes, not market forecasts.", "weights": {"noi_return": 0.55, "appreciation": 0.25, "strategic": 0.2}, "top3": [{"rank": 1, "mls": "R11161477", "address": "805 20th Street A,b,c", "city": "West Palm Beach", "subtype": "Triplex", "units": 3, "year_built": 1929, "living_area": "2,716", "price": "$700,000", "noi": "$62,800", "expense": "$9,800", "gross_income": "$72,600", "cap_rate": "8.97%", "grm": "9.6", "scores": {"noi": 100.0, "appreciation": 73.3, "strategic": 78, "composite": 88.9}, "waterfront": "No", "pool": "No"}, {"rank": 2, "mls": "B26022899", "address": "817 NW 7th Street", "city": "West Palm Beach", "subtype": "Quadruplex", "units": 4, "year_built": 1935, "living_area": "2,196", "price": "$775,000", "noi": "$66,120", "expense": "$14,880", "gross_income": "$81,000", "cap_rate": "8.53%", "grm": "9.6", "scores": {"noi": 93.7, "appreciation": 66.3, "strategic": 93, "composite": 86.7}, "waterfront": "No", "pool": "No"}, {"rank": 3, "mls": "R11157280", "address": "304 SE 3rd Street", "city": "Delray Beach", "subtype": "Quadruplex", "units": 4, "year_built": 1960, "living_area": "3,028", "price": "$2,700,000", "noi": "$197,866", "expense": "$49,350", "gross_income": "$336,776", "cap_rate": "7.33%", "grm": "8.0", "scores": {"noi": 76.4, "appreciation": 75.0, "strategic": 77, "composite": 76.2}, "waterfront": "No", "pool": "Yes"}]};
-const MLS_LINK = "https://savingsre.com/investor-hub.html?utm_source=mf_top3&utm_medium=web&utm_campaign=weekly_top3_mf";
-
-function render(d){
-  document.getElementById('gen').textContent = new Date(d.generated+'T12:00:00').toLocaleDateString('en-US',{month:'short',day:'numeric',year:'numeric'});
-  const cards = document.getElementById('cards');
-  cards.innerHTML = '';
-  d.top3.forEach(c=>{
-    const s = c.scores;
-    const bar = (label,val)=>`<div class="sline"><span style="width:74px">${label}</span>
-       <span class="track"><span class="fill" style="width:${val}%"></span></span>
-       <span class="num">${Math.round(val)}</span></div>`;
-    cards.insertAdjacentHTML('beforeend', `
-      <div class="card">
-        <div class="rankcol"><div class="n">${c.rank}</div><div class="lbl">Rank</div></div>
-        <div class="body">
-          <div class="addr">${c.address}</div>
-          <div class="sub">${c.city}, FL · ${c.subtype} · ${c.units} units · Built ${c.year_built} · MLS ${c.mls}</div>
-          <div class="chips">
-            <span class="chip">List <b>${c.price}</b></span>
-            <span class="chip">NOI <b>${c.noi}</b></span>
-            <span class="chip">Gross <b>${c.gross_income}</b></span>
-            <span class="chip">GRM <b>${c.grm}</b></span>
-            <span class="chip">${c.living_area} sf</span>
-            ${c.waterfront==='Yes'?'<span class="chip"><b>Waterfront</b></span>':''}
-          </div>
-          <div class="scorebar">
-            ${bar('NOI', s.noi)}
-            ${bar('Apprec.', s.appreciation)}
-            ${bar('Strategic', s.strategic)}
-          </div>
-          <div class="composite">Composite fit score: <b>${s.composite}/100</b></div>
-        </div>
-        <div class="metrics">
-          <div class="cap">Current cap rate<br><span class="v">${c.cap_rate}</span></div>
-          <div class="row2">
-            <div>Price<br><b>${c.price}</b></div>
-            <div>NOI<br><b>${c.noi}</b></div>
-          </div>
-        </div>
-      </div>`);
-  });
-  document.getElementById('cta').href = MLS_LINK;
-  document.getElementById('ft').innerHTML =
-    `<b>Methodology.</b> ${d.methodology} Ranked from ${d.eligible_with_noi} of ${d.total_results} `+
-    `active listings in <b>${d.search_name}</b> that report both operating expenses and NOI in the MLS; `+
-    `listings without reported financials are excluded from the NOI ranking. Appreciation and strategic `+
-    `scores are directional proxies from objective listing attributes, not market forecasts or investment advice. `+
-    `Figures are as reported by listing brokers and not independently verified. `+
-    `Equal Housing Opportunity. SavingsRE / United Realty Group — Bill Seery, FL Lic. 3333692.`;
-}
-
-(async function(){
-  let d = FALLBACK;
-  try{
-    const r = await fetch('./weekly-top3-data.json', {cache:'no-store'});
-    if(r.ok) d = await r.json();
-  }catch(e){ /* use fallback */ }
-  render(d);
-})();
+  // Preserve any UTM/query params when forwarding to the new canonical Top-3 page.
+  (function(){
+    var qs = location.search ? (location.search.indexOf('?')===0 ? '&'+location.search.slice(1) : '&'+location.search) : '';
+    location.replace('/top3/top3.html?seg=mf-upto3m-east' + qs);
+  })();
 </script>
+</head>
+<body style="font-family:Arial,Helvetica,sans-serif;color:#0f2b4c;text-align:center;padding:60px 20px;">
+  This page has moved. <a href="/top3/top3.html?seg=mf-upto3m-east">View this week's Top 3 →</a>
 </body>
 </html>
