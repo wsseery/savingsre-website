@@ -1,0 +1,88 @@
+{
+  "segment": "mf-upto3m-east",
+  "search_name": "WSS-MF-upto3mmeast",
+  "generated": "2026-06-04",
+  "expires": "2026-07-04",
+  "total_results": 41,
+  "eligible_with_noi": 13,
+  "methodology": "Top 3 ranked by composite of NOI return (cap rate, 55%), appreciation proxy (25%), and strategic-ownership fit (20%). NOI return uses ONLY listings with both expenses and NOI reported in the MLS. Appreciation and strategic scores are transparent proxies from objective listing attributes, not market forecasts.",
+  "weights": {
+    "noi_return": 0.55,
+    "appreciation": 0.25,
+    "strategic": 0.2
+  },
+  "top3": [
+    {
+      "rank": 1,
+      "mls": "R11161477",
+      "address": "805 20th Street A,b,c",
+      "city": "West Palm Beach",
+      "subtype": "Triplex",
+      "units": 3,
+      "year_built": 1929,
+      "living_area": "2,716",
+      "price": "$700,000",
+      "noi": "$62,800",
+      "expense": "$9,800",
+      "gross_income": "$72,600",
+      "cap_rate": "8.97%",
+      "grm": "9.6",
+      "scores": {
+        "noi": 100.0,
+        "appreciation": 73.3,
+        "strategic": 78,
+        "composite": 88.9
+      },
+      "waterfront": "No",
+      "pool": "No"
+    },
+    {
+      "rank": 2,
+      "mls": "B26022899",
+      "address": "817 NW 7th Street",
+      "city": "West Palm Beach",
+      "subtype": "Quadruplex",
+      "units": 4,
+      "year_built": 1935,
+      "living_area": "2,196",
+      "price": "$775,000",
+      "noi": "$66,120",
+      "expense": "$14,880",
+      "gross_income": "$81,000",
+      "cap_rate": "8.53%",
+      "grm": "9.6",
+      "scores": {
+        "noi": 93.7,
+        "appreciation": 66.3,
+        "strategic": 93,
+        "composite": 86.7
+      },
+      "waterfront": "No",
+      "pool": "No"
+    },
+    {
+      "rank": 3,
+      "mls": "R11157280",
+      "address": "304 SE 3rd Street",
+      "city": "Delray Beach",
+      "subtype": "Quadruplex",
+      "units": 4,
+      "year_built": 1960,
+      "living_area": "3,028",
+      "price": "$2,700,000",
+      "noi": "$197,866",
+      "expense": "$49,350",
+      "gross_income": "$336,776",
+      "cap_rate": "7.33%",
+      "grm": "8.0",
+      "scores": {
+        "noi": 76.4,
+        "appreciation": 75.0,
+        "strategic": 77,
+        "composite": 76.2
+      },
+      "waterfront": "No",
+      "pool": "Yes"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "note": "Registry of Top-3 segments. To add a segment: add an entry here and drop a data/<key>__<date>.json snapshot + data/<key>__index.json. The hub and renderer read this file.",
+  "order": ["mf-upto3m-east"],
+  "segments": {
+    "mf-upto3m-east": {
+      "label": "Multifamily — Up to $3M",
+      "tagline": "Income Properties · 2–4 Units up to $3M · East Palm Beach & Broward",
+      "search_name": "WSS-MF-upto3mmeast",
+      "browse_url": "/investor-hub.html",
+      "browse_label": "View all income-property listings"
+    }
+  }
+}
