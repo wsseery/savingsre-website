@@ -223,6 +223,10 @@
         <label>Company website</label>
         <input type="text" id="bs_hp" autocomplete="off" tabindex="-1">
       </div>
+      <!-- Required server-side verification token: the Google Form REQUIRES entry.1001481582,
+           so any POST that omits it (e.g. bots replaying old submissions) is rejected by Google. -->
+      <input type="hidden" name="entry.1001481582" value="web-ok">
+
 
       <!-- Lightweight human check (no name attribute = not sent to Google) -->
       <div class="form-group" style="margin-top:0.25rem;">
