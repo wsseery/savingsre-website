@@ -107,12 +107,16 @@
   <h2>Tell Us What You're <em>Looking For</em></h2>
   <p class="section-intro">All fields below help us tailor your search. The more detail you provide, the better the matches we send.</p>
 
+  <p style="max-width:760px;margin:-1.5rem auto 1.5rem;font-size:0.82rem;color:var(--color-text-muted);">Investing in commercial or 5+ unit multifamily? Use the <a href="commercial-buyer-search.html" style="color:var(--color-primary);text-decoration:none;font-weight:500;">Commercial &amp; Multifamily Buyer Search →</a></p>
+
   <div style="max-width:760px;margin:0 auto;background:var(--color-surface);border:1px solid var(--color-border);padding:2.5rem;">
     <!--
       Submits to Google Form "Real Estate Search Survey" (buyer intake)
       formId: 150Tm5GEg2Reqt6Vvc89zDhB7Q1ogVIHSE7gnKJv5SQg
-      Responses sheet: 1Jk00DzhWwKWGUEVYdx_ZazjolhfKVVim6xmASQvCrjY (Real Estate Survey)
-      Field mapping is below; do not rename name= attributes without updating both sides.
+      Field mapping below; do not rename name= attributes without updating both sides.
+      Anti-spam (2026-06): honeypot + time-trap + human-check gate submission client-side,
+      and a [WEBVERIFIED] marker is prepended to entry.75457957 so genuine web leads are
+      distinguishable from bots that POST directly to the Google endpoint.
     -->
     <form id="buyer-survey-form"
           action="https://docs.google.com/forms/d/e/1FAIpQLSc_4iijBIY5rGh6rN4-hVVMkafqbgTgKDFd6f75A9aBMXmngw/formResponse"
@@ -211,10 +215,27 @@
       </div>
       <div class="form-group">
         <label>Anything else? (Optional)</label>
-        <textarea name="entry.75457957" placeholder="Style preferences, communities of interest, must-haves, deal-breakers, fixer-upper or move-in ready, etc."></textarea>
+        <textarea name="entry.75457957" id="bs_notes" placeholder="Style preferences, communities of interest, must-haves, deal-breakers, fixer-upper or move-in ready, etc."></textarea>
       </div>
+
+      <!-- Honeypot: off-screen; humans won't fill it, many bots will. No name = not submitted. -->
+      <div aria-hidden="true" style="position:absolute;left:-9999px;top:-9999px;height:0;overflow:hidden;" tabindex="-1">
+        <label>Company website</label>
+        <input type="text" id="bs_hp" autocomplete="off" tabindex="-1">
+      </div>
+
+      <!-- Lightweight human check (no name attribute = not sent to Google) -->
+      <div class="form-group" style="margin-top:0.25rem;">
+        <label>Quick check: what is <span id="bs_a">3</span> + <span id="bs_b">4</span>?</label>
+        <input type="text" id="bs_human" inputmode="numeric" placeholder="Type the number" required style="max-width:160px;">
+      </div>
+      <label style="font-weight:400;text-transform:none;letter-spacing:0;color:var(--color-text);font-size:0.85rem;display:flex;gap:0.5rem;align-items:flex-start;margin-bottom:1rem;">
+        <input type="checkbox" id="bs_consent" style="width:auto;min-height:0;margin-top:3px;"> I'm a real buyer (not a bot) and consent to be contacted about my search.
+      </label>
+
       <button type="submit" class="form-submit">Send My Custom Search →</button>
       <p class="form-trust">100% confidential. No obligation. We'll respond within 48 hours.</p>
+      <p id="bs-error" style="display:none;color:#b91c1c;font-size:0.85rem;margin-top:0.5rem;"></p>
       <div id="buyer-survey-success" class="form-success" hidden>
         <strong>Thanks — your custom search request was received.</strong>
         <p>We'll set up your Beaches MLS search and respond within 48 hours.</p>
@@ -222,7 +243,27 @@
     </form>
     <iframe name="hidden_iframe_buyersurvey" id="hidden_iframe_buyersurvey" style="display:none;" aria-hidden="true" tabindex="-1"></iframe>
     <script>
+      (function(){
+        var a = Math.floor(Math.random()*6)+2, b = Math.floor(Math.random()*6)+2;
+        document.getElementById('bs_a').textContent = a;
+        document.getElementById('bs_b').textContent = b;
+        window.__bsAns = a + b;
+        window.__bsLoad = Date.now();
+      })();
       function savingsreSubmitBuyerSurvey(form) {
+        var err = document.getElementById('bs-error');
+        err.style.display='none';
+        // 1) honeypot — silently drop bots
+        if (document.getElementById('bs_hp').value) { return false; }
+        // 2) time-trap
+        if (Date.now() - window.__bsLoad < 4000) { err.textContent='Please take a moment to complete the form.'; err.style.display='block'; return false; }
+        // 3) human check
+        if (parseInt(document.getElementById('bs_human').value,10) !== window.__bsAns) { err.textContent='Quick check answer is incorrect — please try again.'; err.style.display='block'; return false; }
+        if (!document.getElementById('bs_consent').checked) { err.textContent='Please confirm you are a real buyer.'; err.style.display='block'; return false; }
+        // tag genuine web submissions so they are distinguishable from endpoint spam
+        var notes = document.getElementById('bs_notes');
+        if (notes && notes.value.indexOf('[WEBVERIFIED]')===-1) { notes.value = '[WEBVERIFIED via savingsre.com] ' + notes.value; }
+        // success UI (POST proceeds to hidden iframe)
         setTimeout(function() {
           var btn = form.querySelector('.form-submit');
           var trust = form.querySelector('.form-trust');
@@ -281,6 +322,6 @@
     William Spencer Seery Jr, PA · FL License #3333692 · MLS ID 276537152. Information provided is general in nature and not legal, tax, or investment advice. All listings sourced from Beaches MLS and updated weekly. SavingsRE is a brand of William Spencer Seery Jr, PA. © 2026 SavingsRE. All rights reserved.
   </div>
 </footer>
-  <!-- Buyer survey form_submit tracking (GA4 via GTM) --><script>(function(){document.addEventListener('submit',function(e){var form=e.target;if(!form||form.tagName!=='FORM')return;var action=form.getAttribute('action')||'';if(action.indexOf('1FAIpQLSc_4iijBIY5rGh6rN4-hVVMkafqbgTgKDFd6f75A9aBMXmngw')===-1)return;try{var fd=new FormData(form);var firstName=(fd.get('entry.1278692118')||'').toString().trim();var lastName=(fd.get('entry.1953954792')||'').toString().trim();var email=(fd.get('emailAddress')||'').toString().trim().toLowerCase();var phoneRaw=(fd.get('entry.951643722')||'').toString();var phone=phoneRaw.replace(/[^0-9]/g,'');window.dataLayer=window.dataLayer||[];window.dataLayer.push({event:'buyer_survey_submit',form_name:'buyer_survey',form_id:form.id||'buyer-survey',user_data:{email_address:email,phone_number:phone?('+1'+phone.replace(/^1/,'')):'',address:{first_name:firstName,last_name:lastName}}});}catch(err){}},true);})();</script></script>
+  <!-- Buyer survey form_submit tracking (GA4 via GTM) --><script>(function(){document.addEventListener('submit',function(e){var form=e.target;if(!form||form.tagName!=='FORM')return;var action=form.getAttribute('action')||'';if(action.indexOf('1FAIpQLSc_4iijBIY5rGh6rN4-hVVMkafqbgTgKDFd6f75A9aBMXmngw')===-1)return;try{var fd=new FormData(form);var firstName=(fd.get('entry.1278692118')||'').toString().trim();var lastName=(fd.get('entry.1953954792')||'').toString().trim();var email=(fd.get('emailAddress')||'').toString().trim().toLowerCase();var phoneRaw=(fd.get('entry.951643722')||'').toString();var phone=phoneRaw.replace(/[^0-9]/g,'');window.dataLayer=window.dataLayer||[];window.dataLayer.push({event:'buyer_survey_submit',form_name:'buyer_survey',form_id:form.id||'buyer-survey',user_data:{email_address:email,phone_number:phone?('+1'+phone.replace(/^1/,'')):'',address:{first_name:firstName,last_name:lastName}}});}catch(err){}},true);})();</script>
 </body>
 </html>
