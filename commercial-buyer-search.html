@@ -175,6 +175,9 @@
       <input type="text" name="entry.951643722" id="d_phone">
       <input type="text" name="entry.856250213" id="d_markets">
       <textarea name="entry.75457957" id="d_notes"></textarea>
+      <!-- Required server-side verification token: the investor Google Form REQUIRES entry.643669903,
+           so any POST that omits it (bots replaying old submissions) is rejected by Google. -->
+      <input type="hidden" name="entry.643669903" value="web-ok">
     </form>
     <iframe name="cre_iframe" id="cre_iframe" style="display:none;" aria-hidden="true" tabindex="-1"></iframe>
 
