@@ -1,0 +1,12 @@
+{
+  "note": "Runtime segments data file for the SavingsRE Luxury Value Finder. Same engine as /top3/. Edit this file to add/edit/reorder luxury segments — no page rebuild. Public data is DISGUISED (area + beds/baths + $/sqft band + price band + Ref); exact address/photos/financials live only in the private ledger. Thumbnails are REFERENCED via thumb_url (hotlinked, never stored) and must be IDX-permitted or owned imagery.",
+  "version": 1,
+  "templates": { "luxury-value": "Disguised luxury card: area + beds/baths/type + price band + $/sqft band + optional referenced thumbnail. Ranked by LOWEST $/sqft (best value)." },
+  "collections": { "luxury": { "label": "Luxury — Best Value by $/sqft", "tag": "Updated Weekly · Beaches MLS", "blurb": "Each week we surface the best-value luxury listings by price per square foot — oceanfront, intracoastal, and country-club. Pick a segment to see this week's leaders and browse past weeks. Photos referenced from IDX-permitted sources; exact address & financials shared with qualified buyers on request." } },
+  "order": ["oceanfront-value","intracoastal-value","countryclub-value"],
+  "lists": {
+    "oceanfront-value": { "collection":"luxury","label":"Oceanfront — Best Value by $/sqft","tagline":"Lowest $/sqft oceanfront luxury · SE Florida","list_size":10,"template":"luxury-value","cadence":"weekly","source":"Beaches MLS","search_name":"WSS-LUX-oceanfront","browse_url":"/luxury-listings.html","browse_label":"List your home · 1.5%" },
+    "intracoastal-value": { "collection":"luxury","label":"Intracoastal — Best Value by $/sqft","tagline":"Lowest $/sqft intracoastal luxury · SE Florida","list_size":10,"template":"luxury-value","cadence":"weekly","source":"Beaches MLS","search_name":"WSS-LUX-intracoastal","browse_url":"/luxury-listings.html","browse_label":"List your home · 1.5%" },
+    "countryclub-value": { "collection":"luxury","label":"Country Club — Best Value by $/sqft","tagline":"Lowest $/sqft golf & country-club luxury · SE Florida","list_size":10,"template":"luxury-value","cadence":"weekly","source":"Beaches MLS","search_name":"WSS-LUX-countryclub","browse_url":"/luxury-listings.html","browse_label":"List your home · 1.5%" }
+  }
+}
