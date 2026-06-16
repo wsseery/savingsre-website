@@ -1,0 +1,125 @@
+{
+  "segment": "nnn-fl",
+  "collection": "curated",
+  "template": "curated-generic",
+  "label": "NNN Commercial — Florida",
+  "tagline": "Top triple-net (NNN) single-tenant deals statewide · under $10M · ranked by cap rate",
+  "search_name": "",
+  "generated": "2026-06-14",
+  "expires": "2026-07-14",
+  "methodology": "Live LoopNet pull 2026-06-14 (signed in): Florida single-tenant Triple-Net (NNN) retail, under $10M, ranked by published cap rate. Cap rates broker-reported. Exact address, tenant lease terms & OM shared with qualified buyers on request.",
+  "metric_label": "Cap rate",
+  "pdf": "pdf/nnn-fl__2026-06-14.pdf",
+  "items": [
+    {
+      "id": "nnn-fl-2026-06-14-01",
+      "analytics_id": "A-00015",
+      "rank": 1,
+      "submarket": "Panama City",
+      "profile": "Single-Tenant NNN · Amazon",
+      "price_band": "$1.0M–$1.5M",
+      "cap_label": "~10% Cap Rate",
+      "desc": "Highest-cap NNN on the list — single-tenant Amazon last-mile, ~10% in-place.",
+      "inquiry_subject": "Inquiry: Panama City NNN Amazon (10% cap)"
+    },
+    {
+      "id": "nnn-fl-2026-06-14-02",
+      "analytics_id": "A-00016",
+      "rank": 2,
+      "submarket": "Monticello",
+      "profile": "Single-Tenant NNN Retail",
+      "price_band": "$4M–$4.5M",
+      "cap_label": "~7.3% Cap Rate",
+      "desc": "Net-lease retail, ~7.3% in-place cap, North Florida.",
+      "inquiry_subject": "Inquiry: Monticello NNN retail (7.3% cap)"
+    },
+    {
+      "id": "nnn-fl-2026-06-14-03",
+      "analytics_id": "A-00017",
+      "rank": 3,
+      "submarket": "Zephyrhills",
+      "profile": "Single-Tenant NNN Retail",
+      "price_band": "$3.5M–$4M",
+      "cap_label": "~7.2% Cap Rate",
+      "desc": "Net-lease retail near Tampa, ~7.15% in-place cap.",
+      "inquiry_subject": "Inquiry: Zephyrhills NNN retail (7.15% cap)"
+    },
+    {
+      "id": "nnn-fl-2026-06-14-04",
+      "analytics_id": "A-00018",
+      "rank": 4,
+      "submarket": "Dade City",
+      "profile": "Single-Tenant NNN Retail",
+      "price_band": "$3.5M–$4M",
+      "cap_label": "~7.1% Cap Rate",
+      "desc": "US-301 frontage net-lease retail, ~7.1% in-place cap.",
+      "inquiry_subject": "Inquiry: Dade City NNN retail (7.1% cap)"
+    },
+    {
+      "id": "nnn-fl-2026-06-14-05",
+      "analytics_id": "A-00019",
+      "rank": 5,
+      "submarket": "Jacksonville",
+      "profile": "Single-Tenant NNN · Dollar General",
+      "price_band": "$2M–$2.5M",
+      "cap_label": "~6.4% Cap Rate",
+      "desc": "Corporate-guaranteed Dollar General net lease, ~6.35% cap.",
+      "inquiry_subject": "Inquiry: Jacksonville NNN Dollar General (6.35% cap)"
+    },
+    {
+      "id": "nnn-fl-2026-06-14-06",
+      "analytics_id": "A-00020",
+      "rank": 6,
+      "submarket": "Naples",
+      "profile": "Single-Tenant NNN · CVS",
+      "price_band": "$7M–$8M",
+      "cap_label": "~6.3% Cap Rate",
+      "desc": "Pharmacy net lease, recent tenant commitment, ±53K VPD, ~6.25% cap.",
+      "inquiry_subject": "Inquiry: Naples NNN CVS (6.25% cap)"
+    },
+    {
+      "id": "nnn-fl-2026-06-14-07",
+      "analytics_id": "A-00021",
+      "rank": 7,
+      "submarket": "Fort Walton Beach",
+      "profile": "Single-Tenant NNN · Aspen Dental + Dunkin",
+      "price_band": "$2.5M–$3M",
+      "cap_label": "~6.3% Cap Rate",
+      "desc": "Two-tenant drive-thru net lease (Aspen Dental + Dunkin), ~6.25% cap.",
+      "inquiry_subject": "Inquiry: Fort Walton Beach NNN (6.25% cap)"
+    },
+    {
+      "id": "nnn-fl-2026-06-14-08",
+      "analytics_id": "A-00022",
+      "rank": 8,
+      "submarket": "Lake City",
+      "profile": "Single-Tenant NNN · Dollar General",
+      "price_band": "$2.5M–$3M",
+      "cap_label": "~6% Cap Rate",
+      "desc": "Dollar General net lease, North Florida, ~6.05% cap.",
+      "inquiry_subject": "Inquiry: Lake City NNN Dollar General (6.05% cap)"
+    },
+    {
+      "id": "nnn-fl-2026-06-14-09",
+      "analytics_id": "A-00023",
+      "rank": 9,
+      "submarket": "Naples",
+      "profile": "Single-Tenant NNN Retail",
+      "price_band": "$7M–$8M",
+      "cap_label": "~6% Cap Rate",
+      "desc": "Expanding retail corridor, no rent holiday, ~6% in-place cap.",
+      "inquiry_subject": "Inquiry: Naples NNN retail (6% cap)"
+    },
+    {
+      "id": "nnn-fl-2026-06-14-10",
+      "analytics_id": "A-00024",
+      "rank": 10,
+      "submarket": "Macclenny",
+      "profile": "Single-Tenant NNN · Dollar General",
+      "price_band": "$2.5M–$3M",
+      "cap_label": "~6% Cap Rate",
+      "desc": "Dollar General net lease, ~6% cap, NE Florida.",
+      "inquiry_subject": "Inquiry: Macclenny NNN Dollar General (6% cap)"
+    }
+  ]
+}
