@@ -1,0 +1,48 @@
+{
+  "segment": "high-yield-sfl",
+  "collection": "curated",
+  "template": "curated-generic",
+  "label": "High-Yield Multifamily — 8%+ Cap",
+  "tagline": "Top 5 · South Florida · 5–25 units · stabilized & light value-add",
+  "search_name": "",
+  "generated": "2026-06-14",
+  "expires": "2026-07-14",
+  "methodology": "Live Crexi pull 2026-06-14 (signed in), ranked by published in-place cap rate. Best-available: verified cap-bearing South Florida multifamily; cap rates are broker-reported. Exact address, pricing & OM shared with qualified buyers on request.",
+  "metric_label": "Cap rate",
+  "pdf": "pdf/high-yield-sfl__2026-06-14.pdf",
+  "items": [
+    {
+      "id": "high-yield-sfl-2026-06-14-01",
+      "analytics_id": "A-00007",
+      "rank": 1,
+      "submarket": "Lauderhill",
+      "profile": "3-Unit Multifamily",
+      "price_band": "$1.0M–$1.5M",
+      "cap_label": "~9.1% Cap Rate",
+      "desc": "Highest published cap on this week's list — small-multifamily value play in central Broward.",
+      "inquiry_subject": "Inquiry: Lauderhill 3-unit (9.1% cap)"
+    },
+    {
+      "id": "high-yield-sfl-2026-06-14-02",
+      "analytics_id": "A-00008",
+      "rank": 2,
+      "submarket": "Lake Worth",
+      "profile": "10-Unit Multifamily",
+      "price_band": "$2.5M–$3M",
+      "cap_label": "~8.4% Cap Rate",
+      "desc": "Most scale on the list — ten-unit income asset at a verified 8%+ in-place cap.",
+      "inquiry_subject": "Inquiry: Lake Worth 10-unit (8.4% cap)"
+    },
+    {
+      "id": "high-yield-sfl-2026-06-14-03",
+      "analytics_id": "A-00009",
+      "rank": 3,
+      "submarket": "Miami",
+      "profile": "4-Unit Multifamily",
+      "price_band": "$1.0M–$1.5M",
+      "cap_label": "~7.8% Cap Rate",
+      "desc": "Core Miami location; sub-8% cap but high-barrier coastal market with rent upside.",
+      "inquiry_subject": "Inquiry: Miami 4-unit (7.8% cap)"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "segment": "large-statewide",
+  "collection": "curated",
+  "template": "curated-generic",
+  "label": "Larger Investments — 40+ Units",
+  "tagline": "Top 10 · Statewide · 7%+ in-place or deep value",
+  "search_name": "",
+  "generated": "2026-06-14",
+  "expires": "2026-07-14",
+  "methodology": "Live LoopNet pull 2026-06-14 (signed in): Florida apartment buildings, 40+ units, 7%+ published cap rate, ranked by cap. Cap rates broker-reported. Exact address, pricing & OM shared with qualified buyers on request.",
+  "metric_label": "Cap rate",
+  "pdf": "pdf/large-statewide__2026-06-14.pdf",
+  "items": [
+    {
+      "id": "large-statewide-2026-06-14-01",
+      "analytics_id": "A-00010",
+      "rank": 1,
+      "submarket": "Orlando",
+      "profile": "40-Unit Multifamily",
+      "price_band": "$5M–$6M",
+      "cap_label": "~7.9% Cap Rate",
+      "desc": "Highest published cap on the statewide list — 40-unit value-add in the Orlando MSA.",
+      "inquiry_subject": "Inquiry: Orlando 40-unit (7.9% cap)"
+    },
+    {
+      "id": "large-statewide-2026-06-14-02",
+      "analytics_id": "A-00011",
+      "rank": 2,
+      "submarket": "DeFuniak Springs",
+      "profile": "55-Unit Community",
+      "price_band": "$5M–$6M",
+      "cap_label": "~7.7% Cap Rate",
+      "desc": "~$100K/unit basis with a 7%+ in-place yield — strong day-one cash flow.",
+      "inquiry_subject": "Inquiry: DeFuniak Springs 55-unit (7.7% cap)"
+    },
+    {
+      "id": "large-statewide-2026-06-14-03",
+      "analytics_id": "A-00012",
+      "rank": 3,
+      "submarket": "Tallahassee",
+      "profile": "200-Unit Institutional",
+      "price_band": "$29M–$30M",
+      "cap_label": "~7.6% Cap Rate",
+      "desc": "Stabilized 200-unit community; institutional scale at a 7.5%+ yield in a landlord-friendly market.",
+      "inquiry_subject": "Inquiry: Tallahassee 200-unit (7.6% cap)"
+    },
+    {
+      "id": "large-statewide-2026-06-14-04",
+      "analytics_id": "A-00013",
+      "rank": 4,
+      "submarket": "Tallahassee",
+      "profile": "72-Unit Multifamily",
+      "price_band": "$6M–$7M",
+      "cap_label": "~7.1% Cap Rate",
+      "desc": "~$89K/unit — one of the lowest bases on the list paired with a published 7%+ cap.",
+      "inquiry_subject": "Inquiry: Tallahassee 72-unit (7.1% cap)"
+    },
+    {
+      "id": "large-statewide-2026-06-14-05",
+      "analytics_id": "A-00014",
+      "rank": 5,
+      "submarket": "Tallahassee",
+      "profile": "123-Unit Condo-Quality",
+      "price_band": "$15M–$16M",
+      "cap_label": "~7.1% Cap Rate",
+      "desc": "Bulk 123-unit basis below individual condo resale value — built-in spread, 7%+ in-place.",
+      "inquiry_subject": "Inquiry: Tallahassee 123-unit (7.1% cap)"
+    }
+  ]
+}

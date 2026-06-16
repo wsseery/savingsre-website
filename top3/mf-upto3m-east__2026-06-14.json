@@ -5,16 +5,16 @@
   "label": "Multifamily — Up to $3M",
   "tagline": "Income Properties · 2–4 Units up to $3M · East Palm Beach & Broward",
   "search_name": "WSS-MF-upto3mmeast",
-  "generated": "2026-06-04",
-  "expires": "2026-07-04",
+  "generated": "2026-06-14",
+  "expires": "2026-07-14",
   "total_results": 41,
-  "eligible_with_noi": 13,
-  "methodology": "Top 3 ranked by composite of NOI return (cap rate, 55%), appreciation proxy (25%), and strategic-ownership fit (20%). NOI return uses ONLY listings with both expenses and NOI reported in the MLS. Appreciation and strategic scores are transparent proxies from objective listing attributes, not market forecasts.",
+  "eligible_with_noi": 10,
+  "methodology": "Top 3 ranked by reported NOI cap rate (NOI ÷ price), using ONLY active listings that report both Annual Total Expense and Net Operating Income in the MLS (10 of 41 this week). Live Beaches MLS pull 2026-06-14.",
   "metric_label": "Cap rate",
-  "pdf": "pdf/mf-upto3m-east__2026-06-04.pdf",
+  "pdf": "pdf/mf-upto3m-east__2026-06-14.pdf",
   "items": [
     {
-      "id": "mf-upto3m-east-2026-06-04-01",
+      "id": "mf-upto3m-east-2026-06-14-01",
       "analytics_id": "A-00001",
       "rank": 1,
       "submarket": "West Palm Beach",
@@ -25,7 +25,7 @@
       "inquiry_subject": "Inquiry: West Palm Beach Triplex (~9% cap)"
     },
     {
-      "id": "mf-upto3m-east-2026-06-04-02",
+      "id": "mf-upto3m-east-2026-06-14-02",
       "analytics_id": "A-00002",
       "rank": 2,
       "submarket": "West Palm Beach",
@@ -36,7 +36,7 @@
       "inquiry_subject": "Inquiry: West Palm Beach Quadruplex (~8.5% cap)"
     },
     {
-      "id": "mf-upto3m-east-2026-06-04-03",
+      "id": "mf-upto3m-east-2026-06-14-03",
       "analytics_id": "A-00003",
       "rank": 3,
       "submarket": "Delray Beach",

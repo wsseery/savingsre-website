@@ -1,20 +1,24 @@
-# SavingsRE Top 3 — weekly best-value income properties
+# SavingsRE Top Investments — unified, self-archiving system
 
-Expandable, self-archiving Top-3 system served from GitHub Pages.
+One renderer + one registry serve every "best investments" list (Top 3 weekly by
+segment, Top 5 high-yield, Top 10 larger) from GitHub Pages. Public display only —
+sensitive attributes live in a private master ledger kept OUTSIDE this repo.
 
-## How it works
-- `index.html` — hub listing every segment (reads `segments.json`).
-- `top3.html?seg=<key>&date=<YYYY-MM-DD>` — renders one segment's Top 3. Defaults to the latest week. The "View week" dropdown lets visitors browse past weeks.
-- `segments.json` — registry of segments (label, tagline, search_name, browse link).
-- `<key>__index.json` — per-segment archive index: `{ "latest": "YYYY-MM-DD", "dates": [...] }`.
-- `<key>__<YYYY-MM-DD>.json` — one weekly snapshot (the Top-3 data for that week). These accumulate = the archive.
+## Files
+- `catalog.json` — registry of all lists (label, tagline, list_size, template, collection, cadence, source).
+- `index.html` — hub; renders every list grouped by collection.
+- `top3.html?seg=<key>&date=<YYYY-MM-DD>` — renderer. Defaults to latest; "View week/month" dropdown browses past periods. Two card templates: `mls-financial` (address public) and `curated-generic` (no address).
+- `<key>__index.json` — `{latest, dates[]}` archive index.
+- `<key>__<YYYY-MM-DD>.json` — one period's public snapshot (display-safe fields only).
 
-## Add a new segment
-1. Add an entry under `segments` in `segments.json` (and to `order`).
-2. Drop a `<key>__<date>.json` snapshot and a `<key>__index.json` listing that date.
-That's it — the hub and renderer pick it up automatically.
+## Add a list/segment (no code)
+1. Add an entry under `lists` in `catalog.json` (and to `order`).
+2. Drop a `<key>__<date>.json` snapshot + `<key>__index.json`.
+The hub and renderer pick it up automatically.
 
-## Weekly update (existing segment)
-Each run writes a new `<key>__<date>.json`, updates `<key>__index.json` (append date, set `latest`), and commits. The email/page always point at the latest automatically. Old snapshots stay as the archive.
+## Weekly update
+Run `top_build.py` (in the private repo) → it writes the public snapshot + index here
+and the private ledger there. Commit only the `top3/` files to this public repo.
 
-The email and any old links to `/mf-top3/mf-top3.html` redirect here.
+URL stays `/top3/`. Old `/mf-top3/` and the former static `high-yield-multifamily.html` /
+`value-multifamily.html` redirect into the renderer.

@@ -1,0 +1,49 @@
+{
+  "segment": "airbnb-str-east",
+  "collection": "weekly-top3",
+  "template": "str-airbnb",
+  "label": "Airbnb / Short-Term Rental",
+  "tagline": "Top projected-STR-yield homes & condos · Delray, Deerfield, Ft. Lauderdale, Pompano, Hollywood, Lake Worth Beach, Lauderdale-by-the-Sea",
+  "search_name": "WSS-STR-airbnb-east",
+  "generated": "2026-06-14",
+  "expires": "2026-07-14",
+  "total_results": 64,
+  "methodology": "Top 3 of 10 in-segment listings (Delray, Deerfield, Ft. Lauderdale, Pompano, Hollywood, Lake Worth Beach, Lauderdale-by-the-Sea) ranked by est. gross STR yield = market ADR × 65% occupancy × 365 ÷ price. ADR/occupancy are market estimates, NOT actual host data; multi-unit upside not counted. Live Beaches MLS pull 2026-06-14. Verify local STR registration & HOA rules.",
+  "metric_label": "Est. STR yield",
+  "pdf": "pdf/airbnb-str-east__2026-06-14.pdf",
+  "items": [
+    {
+      "id": "airbnb-str-east-2026-06-14-01",
+      "analytics_id": "A-00004",
+      "rank": 1,
+      "submarket": "Hollywood",
+      "profile": "Duplex",
+      "price_band": "$500K–$600K",
+      "cap_label": "~11% est. yield",
+      "desc": "Short-term-rental Duplex in Hollywood; ~11% est. gross STR yield. Address & projections on request — verify local STR rules.",
+      "inquiry_subject": "Inquiry: Hollywood STR Duplex (~11% est. yield)"
+    },
+    {
+      "id": "airbnb-str-east-2026-06-14-02",
+      "analytics_id": "A-00005",
+      "rank": 2,
+      "submarket": "Hollywood",
+      "profile": "Duplex",
+      "price_band": "$600K–$700K",
+      "cap_label": "~9.5% est. yield",
+      "desc": "Short-term-rental Duplex in Hollywood; ~9.5% est. gross STR yield. Address & projections on request — verify local STR rules.",
+      "inquiry_subject": "Inquiry: Hollywood STR Duplex (~9.5% est. yield)"
+    },
+    {
+      "id": "airbnb-str-east-2026-06-14-03",
+      "analytics_id": "A-00006",
+      "rank": 3,
+      "submarket": "Hollywood",
+      "profile": "Triplex",
+      "price_band": "$600K–$700K",
+      "cap_label": "~9.5% est. yield",
+      "desc": "Short-term-rental Triplex in Hollywood; ~9.5% est. gross STR yield. Address & projections on request — verify local STR rules.",
+      "inquiry_subject": "Inquiry: Hollywood STR Triplex (~9.5% est. yield)"
+    }
+  ]
+}
