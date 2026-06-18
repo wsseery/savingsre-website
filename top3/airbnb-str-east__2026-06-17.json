@@ -1,0 +1,48 @@
+{
+ "segment": "airbnb-str-east",
+ "collection": "weekly-top3",
+ "template": "str-airbnb",
+ "label": "Airbnb / Short-Term Rental",
+ "tagline": "Top projected-STR-yield homes & condos · Delray, Deerfield, Ft. Lauderdale, Pompano, Hollywood, Lake Worth Beach, Lauderdale-by-the-Sea",
+ "search_name": "WSS-STR-airbnb-east",
+ "generated": "2026-06-17",
+ "expires": "2026-07-17",
+ "methodology": "Top 3 ranked by ESTIMATED gross short-term-rental yield = market ADR (by city) x ~65% occupancy x 365 / price, across MLS-active small multifamily in the 7 target cities. Revenue is an ESTIMATE, not actual booked income. Live Beaches MLS pull 2026-06-17.",
+ "metric_label": "Est. gross STR yield",
+ "pdf": "pdf/airbnb-str-east__2026-06-17.pdf",
+ "items": [
+  {
+   "id": "airbnb-str-east-2026-06-17-01",
+   "analytics_id": "A-00078",
+   "rank": 1,
+   "submarket": "Hollywood",
+   "profile": "Triplex · 3 units",
+   "price_band": "$600K–$700K",
+   "cap_label": "~18% est.",
+   "desc": "Triplex in Hollywood; highest projected gross STR yield on this week's list (estimated). Exact address & full STR pro-forma on request.",
+   "inquiry_subject": "Inquiry: Hollywood Triplex STR (~18% est. yield)"
+  },
+  {
+   "id": "airbnb-str-east-2026-06-17-02",
+   "analytics_id": "A-00079",
+   "rank": 2,
+   "submarket": "Fort Lauderdale",
+   "profile": "Quadruplex · 4 units",
+   "price_band": "$1M–$1.5M",
+   "cap_label": "~15.5% est.",
+   "desc": "Quadruplex in Fort Lauderdale; strong projected gross STR yield (estimated). Exact address & full STR pro-forma on request.",
+   "inquiry_subject": "Inquiry: Fort Lauderdale Quadruplex STR (~15.5% est. yield)"
+  },
+  {
+   "id": "airbnb-str-east-2026-06-17-03",
+   "analytics_id": "A-00080",
+   "rank": 3,
+   "submarket": "Hollywood",
+   "profile": "Duplex · 2 units",
+   "price_band": "$500K–$600K",
+   "cap_label": "~14.5% est.",
+   "desc": "Duplex in Hollywood; attractive projected gross STR yield at a low entry price (estimated). Exact address & STR pro-forma on request.",
+   "inquiry_subject": "Inquiry: Hollywood Duplex STR (~14.5% est. yield)"
+  }
+ ]
+}

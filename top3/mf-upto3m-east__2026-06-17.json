@@ -1,0 +1,50 @@
+{
+ "segment": "mf-upto3m-east",
+ "collection": "weekly-top3",
+ "template": "mls-financial",
+ "label": "Multifamily — Up to $3M",
+ "tagline": "Income Properties · 2–4 Units up to $3M · East Palm Beach & Broward",
+ "search_name": "WSS-MF-upto3mmeast",
+ "generated": "2026-06-17",
+ "expires": "2026-07-17",
+ "methodology": "Top 3 ranked by reported NOI cap rate (NOI ÷ price), using ONLY active listings that report both Annual Total Expense and Net Operating Income in the MLS (10 of 41 this week). Live Beaches MLS pull 2026-06-17.",
+ "metric_label": "Cap rate",
+ "pdf": "pdf/mf-upto3m-east__2026-06-17.pdf",
+ "items": [
+  {
+   "id": "mf-upto3m-east-2026-06-17-01",
+   "analytics_id": "A-00075",
+   "rank": 1,
+   "submarket": "West Palm Beach",
+   "profile": "Triplex · 3 units",
+   "price_band": "$700K–$800K",
+   "cap_label": "~9%",
+   "desc": "Triplex income property in West Palm Beach; ~9% reported cap. Exact address, price & financials on request.",
+   "inquiry_subject": "Inquiry: West Palm Beach Triplex (~9% cap)"
+  },
+  {
+   "id": "mf-upto3m-east-2026-06-17-02",
+   "analytics_id": "A-00076",
+   "rank": 2,
+   "submarket": "West Palm Beach",
+   "profile": "Quadruplex · 4 units",
+   "price_band": "$700K–$800K",
+   "cap_label": "~8.5%",
+   "desc": "Quadruplex income property in West Palm Beach; ~8.5% reported cap. Exact address, price & financials on request.",
+   "inquiry_subject": "Inquiry: West Palm Beach Quadruplex (~8.5% cap)"
+  },
+  {
+   "id": "mf-upto3m-east-2026-06-17-03",
+   "analytics_id": "A-00077",
+   "rank": 3,
+   "submarket": "Delray Beach",
+   "profile": "Quadruplex · 4 units",
+   "price_band": "$2.5M–$3M",
+   "cap_label": "~7.5%",
+   "desc": "Quadruplex income property in Delray Beach; ~7.5% reported cap. Exact address, price & financials on request.",
+   "inquiry_subject": "Inquiry: Delray Beach Quadruplex (~7.5% cap)"
+  }
+ ],
+ "total_results": 41,
+ "eligible_with_noi": 10
+}

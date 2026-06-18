@@ -1,0 +1,92 @@
+{
+ "segment": "medical-fl",
+ "collection": "curated",
+ "template": "curated-generic",
+ "label": "Medical Office — Florida",
+ "tagline": "Top medical office & healthcare-tenant deals statewide · ranked by cap rate",
+ "search_name": "",
+ "generated": "2026-06-17",
+ "expires": "2026-07-17",
+ "methodology": "Live LoopNet pull 2026-06-17 (signed in): Florida medical office for sale, filtered to >=8% published cap rate, ranked high-to-low. Cap rates are broker-reported. Exact address, pricing & OM shared with qualified buyers on request.",
+ "metric_label": "Cap rate",
+ "pdf": "pdf/medical-fl__2026-06-17.pdf",
+ "items": [
+  {
+   "id": "medical-fl-2026-06-17-01",
+   "analytics_id": "A-00091",
+   "rank": 1,
+   "submarket": "Deland",
+   "profile": "Medical office · 64,075 SF",
+   "price_band": "$5M–$6M",
+   "cap_label": "~11.5%",
+   "desc": "Medical office / healthcare-tenant asset in Deland, FL; ~11.5% published cap. Exact address, pricing & OM shared with qualified buyers on request.",
+   "inquiry_subject": "Inquiry: Deland medical office (~11.5% cap)"
+  },
+  {
+   "id": "medical-fl-2026-06-17-02",
+   "analytics_id": "A-00092",
+   "rank": 2,
+   "submarket": "Pensacola",
+   "profile": "Medical office · 17,040 SF",
+   "price_band": "$1.5M–$2M",
+   "cap_label": "~10%",
+   "desc": "Medical office / healthcare-tenant asset in Pensacola, FL; ~10% published cap. Exact address, pricing & OM shared with qualified buyers on request.",
+   "inquiry_subject": "Inquiry: Pensacola medical office (~10% cap)"
+  },
+  {
+   "id": "medical-fl-2026-06-17-03",
+   "analytics_id": "A-00093",
+   "rank": 3,
+   "submarket": "Saint Petersburg",
+   "profile": "Medical office · 1,472 SF",
+   "price_band": "$1M–$1.5M",
+   "cap_label": "~10%",
+   "desc": "Medical office / healthcare-tenant asset in Saint Petersburg, FL; ~10% published cap. Exact address, pricing & OM shared with qualified buyers on request.",
+   "inquiry_subject": "Inquiry: Saint Petersburg medical office (~10% cap)"
+  },
+  {
+   "id": "medical-fl-2026-06-17-04",
+   "analytics_id": "A-00094",
+   "rank": 4,
+   "submarket": "Key West",
+   "profile": "Medical office · 2,046 SF",
+   "price_band": "$1M–$1.5M",
+   "cap_label": "~10%",
+   "desc": "Medical office / healthcare-tenant asset in Key West, FL; ~10% published cap. Exact address, pricing & OM shared with qualified buyers on request.",
+   "inquiry_subject": "Inquiry: Key West medical office (~10% cap)"
+  },
+  {
+   "id": "medical-fl-2026-06-17-05",
+   "analytics_id": "A-00095",
+   "rank": 5,
+   "submarket": "Clearwater",
+   "profile": "Medical office · 84,300 SF",
+   "price_band": "$12M–$13M",
+   "cap_label": "~9.5%",
+   "desc": "Medical office / healthcare-tenant asset in Clearwater, FL; ~9.5% published cap. Exact address, pricing & OM shared with qualified buyers on request.",
+   "inquiry_subject": "Inquiry: Clearwater medical office (~9.5% cap)"
+  },
+  {
+   "id": "medical-fl-2026-06-17-06",
+   "analytics_id": "A-00096",
+   "rank": 6,
+   "submarket": "Jacksonville",
+   "profile": "Medical office · 34,938 SF",
+   "price_band": "$5M–$6M",
+   "cap_label": "~9%",
+   "desc": "Medical office / healthcare-tenant asset in Jacksonville, FL; ~9% published cap. Exact address, pricing & OM shared with qualified buyers on request.",
+   "inquiry_subject": "Inquiry: Jacksonville medical office (~9% cap)"
+  },
+  {
+   "id": "medical-fl-2026-06-17-07",
+   "analytics_id": "A-00097",
+   "rank": 7,
+   "submarket": "Orlando",
+   "profile": "Medical office",
+   "price_band": "$1.5M–$2M",
+   "cap_label": "~9%",
+   "desc": "Medical office / healthcare-tenant asset in Orlando, FL; ~9% published cap. Exact address, pricing & OM shared with qualified buyers on request.",
+   "inquiry_subject": "Inquiry: Orlando medical office (~9% cap)"
+  }
+ ]
+}

@@ -1,0 +1,125 @@
+{
+ "segment": "strip-mall-fl",
+ "collection": "curated",
+ "template": "curated-generic",
+ "label": "Strip Malls & Retail Centers — Florida",
+ "tagline": "Top multi-tenant strip & neighborhood retail centers statewide · ranked by cap rate",
+ "search_name": "",
+ "generated": "2026-06-17",
+ "expires": "2026-07-17",
+ "methodology": "Live LoopNet pull 2026-06-17 (signed in): Florida retail for sale, filtered to >=8% published cap rate, ranked high-to-low. Mix of freestanding and multi-tenant retail; cap rates are broker-reported. Exact address, pricing & OM shared with qualified buyers on request.",
+ "metric_label": "Cap rate",
+ "pdf": "pdf/strip-mall-fl__2026-06-17.pdf",
+ "items": [
+  {
+   "id": "strip-mall-fl-2026-06-17-01",
+   "analytics_id": "A-00081",
+   "rank": 1,
+   "submarket": "Hudson",
+   "profile": "Retail · 1,696 SF",
+   "price_band": "$500K–$600K",
+   "cap_label": "~15%",
+   "desc": "Freestanding/small retail in Hudson, FL; ~15% published cap. Exact address, pricing & OM shared with qualified buyers on request.",
+   "inquiry_subject": "Inquiry: Hudson retail (~15% cap)"
+  },
+  {
+   "id": "strip-mall-fl-2026-06-17-02",
+   "analytics_id": "A-00082",
+   "rank": 2,
+   "submarket": "Panama City",
+   "profile": "Retail · 3,486 SF",
+   "price_band": "$500K–$600K",
+   "cap_label": "~14%",
+   "desc": "Freestanding/small retail in Panama City, FL; ~14% published cap. Exact address, pricing & OM shared with qualified buyers on request.",
+   "inquiry_subject": "Inquiry: Panama City retail (~14% cap)"
+  },
+  {
+   "id": "strip-mall-fl-2026-06-17-03",
+   "analytics_id": "A-00083",
+   "rank": 3,
+   "submarket": "Hastings",
+   "profile": "Retail · 3,964 SF",
+   "price_band": "$800K–$900K",
+   "cap_label": "~12.5%",
+   "desc": "Freestanding/small retail in Hastings, FL; ~12.5% published cap. Exact address, pricing & OM shared with qualified buyers on request.",
+   "inquiry_subject": "Inquiry: Hastings retail (~12.5% cap)"
+  },
+  {
+   "id": "strip-mall-fl-2026-06-17-04",
+   "analytics_id": "A-00084",
+   "rank": 4,
+   "submarket": "Cudjoe Key",
+   "profile": "Retail · 1,250 SF",
+   "price_band": "$1M–$1.5M",
+   "cap_label": "~10.5%",
+   "desc": "Freestanding/small retail in Cudjoe Key, FL; ~10.5% published cap. Exact address, pricing & OM shared with qualified buyers on request.",
+   "inquiry_subject": "Inquiry: Cudjoe Key retail (~10.5% cap)"
+  },
+  {
+   "id": "strip-mall-fl-2026-06-17-05",
+   "analytics_id": "A-00085",
+   "rank": 5,
+   "submarket": "Tampa",
+   "profile": "Retail · 1,900 SF",
+   "price_band": "$800K–$900K",
+   "cap_label": "~10.5%",
+   "desc": "Freestanding/small retail in Tampa, FL; ~10.5% published cap. Exact address, pricing & OM shared with qualified buyers on request.",
+   "inquiry_subject": "Inquiry: Tampa retail (~10.5% cap)"
+  },
+  {
+   "id": "strip-mall-fl-2026-06-17-06",
+   "analytics_id": "A-00086",
+   "rank": 6,
+   "submarket": "Winter Springs",
+   "profile": "Retail · 5,880 SF",
+   "price_band": "$900K–$1M",
+   "cap_label": "~10%",
+   "desc": "Multi-tenant retail center in Winter Springs, FL; ~10% published cap. Exact address, pricing & OM shared with qualified buyers on request.",
+   "inquiry_subject": "Inquiry: Winter Springs retail (~10% cap)"
+  },
+  {
+   "id": "strip-mall-fl-2026-06-17-07",
+   "analytics_id": "A-00087",
+   "rank": 7,
+   "submarket": "Panama City",
+   "profile": "Retail · 5,450 SF",
+   "price_band": "$1M–$1.5M",
+   "cap_label": "~10%",
+   "desc": "Multi-tenant retail center in Panama City, FL; ~10% published cap. Exact address, pricing & OM shared with qualified buyers on request.",
+   "inquiry_subject": "Inquiry: Panama City retail (~10% cap)"
+  },
+  {
+   "id": "strip-mall-fl-2026-06-17-08",
+   "analytics_id": "A-00088",
+   "rank": 8,
+   "submarket": "Saint George Island",
+   "profile": "Retail · 2,142 SF",
+   "price_band": "$1.5M–$2M",
+   "cap_label": "~10%",
+   "desc": "Freestanding/small retail in Saint George Island, FL; ~10% published cap. Exact address, pricing & OM shared with qualified buyers on request.",
+   "inquiry_subject": "Inquiry: Saint George Island retail (~10% cap)"
+  },
+  {
+   "id": "strip-mall-fl-2026-06-17-09",
+   "analytics_id": "A-00089",
+   "rank": 9,
+   "submarket": "Saint Petersburg",
+   "profile": "Retail · 2,332 SF",
+   "price_band": "$1M–$1.5M",
+   "cap_label": "~10%",
+   "desc": "Freestanding/small retail in Saint Petersburg, FL; ~10% published cap. Exact address, pricing & OM shared with qualified buyers on request.",
+   "inquiry_subject": "Inquiry: Saint Petersburg retail (~10% cap)"
+  },
+  {
+   "id": "strip-mall-fl-2026-06-17-10",
+   "analytics_id": "A-00090",
+   "rank": 10,
+   "submarket": "Seffner",
+   "profile": "Retail · 8,373 SF",
+   "price_band": "$1M–$1.5M",
+   "cap_label": "~10%",
+   "desc": "Multi-tenant retail center in Seffner, FL; ~10% published cap. Exact address, pricing & OM shared with qualified buyers on request.",
+   "inquiry_subject": "Inquiry: Seffner retail (~10% cap)"
+  }
+ ]
+}

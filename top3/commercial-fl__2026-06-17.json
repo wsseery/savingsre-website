@@ -1,0 +1,48 @@
+{
+ "segment": "commercial-fl",
+ "collection": "curated",
+ "template": "curated-generic",
+ "label": "Commercial & Office — Florida",
+ "tagline": "Top general commercial, office & mixed-use deals statewide · ranked by cap rate",
+ "search_name": "",
+ "generated": "2026-06-17",
+ "expires": "2026-07-17",
+ "methodology": "Live LoopNet pull 2026-06-17 (signed in): Florida office/commercial for sale, filtered to >=8% published cap rate, ranked high-to-low, de-duplicated against the Medical and Strip-Mall lists. Cap rates are broker-reported. Exact address, pricing & OM shared with qualified buyers on request.",
+ "metric_label": "Cap rate",
+ "pdf": "pdf/commercial-fl__2026-06-17.pdf",
+ "items": [
+  {
+   "id": "commercial-fl-2026-06-17-01",
+   "analytics_id": "A-00098",
+   "rank": 1,
+   "submarket": "Cape Canaveral",
+   "profile": "Office · 6,173 SF",
+   "price_band": "$1M–$1.5M",
+   "cap_label": "~10.5%",
+   "desc": "Commercial / office asset in Cape Canaveral, FL; ~10.5% published cap. Exact address, pricing & OM shared with qualified buyers on request.",
+   "inquiry_subject": "Inquiry: Cape Canaveral commercial/office (~10.5% cap)"
+  },
+  {
+   "id": "commercial-fl-2026-06-17-02",
+   "analytics_id": "A-00099",
+   "rank": 2,
+   "submarket": "Saint Petersburg",
+   "profile": "Office · 2,160 SF",
+   "price_band": "$400K–$500K",
+   "cap_label": "~9.5%",
+   "desc": "Commercial / office asset in Saint Petersburg, FL; ~9.5% published cap. Exact address, pricing & OM shared with qualified buyers on request.",
+   "inquiry_subject": "Inquiry: Saint Petersburg commercial/office (~9.5% cap)"
+  },
+  {
+   "id": "commercial-fl-2026-06-17-03",
+   "analytics_id": "A-00100",
+   "rank": 3,
+   "submarket": "North Lauderdale",
+   "profile": "Office · 55,000 SF",
+   "price_band": "$7M–$8M",
+   "cap_label": "~9.5%",
+   "desc": "Commercial / office asset in North Lauderdale, FL; ~9.5% published cap. Exact address, pricing & OM shared with qualified buyers on request.",
+   "inquiry_subject": "Inquiry: North Lauderdale commercial/office (~9.5% cap)"
+  }
+ ]
+}
