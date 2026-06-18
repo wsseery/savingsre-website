@@ -1,0 +1,175 @@
+{
+ "segment": "large-statewide",
+ "collection": "curated",
+ "template": "curated-generic",
+ "label": "Larger Investments — 40+ Units",
+ "tagline": "Top 10 · Florida (statewide) · 40+ units · ranked by scale; institutional & value-add",
+ "search_name": "Crexi (FL Multifamily, Units high-to-low)",
+ "generated": "2026-06-18",
+ "expires": "2026-07-18",
+ "total_results": 3370,
+ "methodology": "Crexi FL multifamily listings 2026-06-18, sorted by unit count (Units high-to-low), 40+ units. Large multifamily caps are generally not broker-published, so ranked by scale; price/unit shown where reported. Implausible outliers dropped. Disguised: area + units + price band public; exact address & financials on request.",
+ "metric_label": "Scale / price-per-unit",
+ "items": [
+  {
+   "id": "large-statewide-2026-06-18-01",
+   "analytics_id": "A-00106",
+   "rank": 1,
+   "submarket": "FL portfolio (4 properties)",
+   "profile": "207-Unit Portfolio",
+   "price_band": "$46M–$48M",
+   "cap_label": "~$224.6K/unit",
+   "desc": "207-Unit Portfolio in FL portfolio (4 properties); 207 units. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 207-Unit Portfolio, FL portfolio (4 properties) (207 units)",
+   "highlights": [
+    "207 units · 13-building portfolio",
+    "~$224.6K/unit",
+    "Institutional-scale FL portfolio"
+   ]
+  },
+  {
+   "id": "large-statewide-2026-06-18-02",
+   "analytics_id": "A-00107",
+   "rank": 2,
+   "submarket": "Tallahassee",
+   "profile": "200-Unit Multifamily",
+   "price_band": "$28M–$30M",
+   "cap_label": "~$149.5K/unit",
+   "desc": "200-Unit Multifamily in Tallahassee; 200 units. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 200-Unit Multifamily, Tallahassee (200 units)",
+   "highlights": [
+    "200 units · ~$149.5K/unit",
+    "Largest single asset on the list",
+    "Tallahassee (capital market)"
+   ]
+  },
+  {
+   "id": "large-statewide-2026-06-18-03",
+   "analytics_id": "A-00108",
+   "rank": 3,
+   "submarket": "Tallahassee",
+   "profile": "123-Unit Multifamily",
+   "price_band": "$15M–$16M",
+   "cap_label": "~$126.0K/unit",
+   "desc": "123-Unit Multifamily in Tallahassee; 123 units. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 123-Unit Multifamily, Tallahassee (123 units)",
+   "highlights": [
+    "123 units · ~$126K/unit",
+    "Condo-quality multifamily",
+    "Tallahassee"
+   ]
+  },
+  {
+   "id": "large-statewide-2026-06-18-04",
+   "analytics_id": "A-00109",
+   "rank": 4,
+   "submarket": "Tampa",
+   "profile": "72-Unit Multifamily",
+   "price_band": "$17M–$18M",
+   "cap_label": "~$236.1K/unit",
+   "desc": "72-Unit Multifamily in Tampa; 72 units. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 72-Unit Multifamily, Tampa (72 units)",
+   "highlights": [
+    "72 units · ~$236.1K/unit",
+    "Student-housing candidate (near USF)",
+    "Tampa"
+   ]
+  },
+  {
+   "id": "large-statewide-2026-06-18-05",
+   "analytics_id": "A-00110",
+   "rank": 5,
+   "submarket": "Tallahassee",
+   "profile": "72-Unit Multifamily",
+   "price_band": "$6M–$6.5M",
+   "cap_label": "~$88.9K/unit",
+   "desc": "72-Unit Multifamily in Tallahassee; 72 units. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 72-Unit Multifamily, Tallahassee (72 units)",
+   "highlights": [
+    "72 units · ~$88.9K/unit",
+    "Lowest price/unit at this scale",
+    "Value-add"
+   ]
+  },
+  {
+   "id": "large-statewide-2026-06-18-06",
+   "analytics_id": "A-00111",
+   "rank": 6,
+   "submarket": "South Florida (2 properties)",
+   "profile": "48-Unit Multifamily",
+   "price_band": "$9.5M–$10M",
+   "cap_label": "48 units",
+   "desc": "48-Unit Multifamily in South Florida (2 properties); 48 units. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 48-Unit Multifamily, South Florida (2 properties) (48 units)",
+   "highlights": [
+    "48 units · all 2BR",
+    "Two-property package",
+    "Value-add upside"
+   ]
+  },
+  {
+   "id": "large-statewide-2026-06-18-07",
+   "analytics_id": "A-00112",
+   "rank": 7,
+   "submarket": "Coral Springs (Broward)",
+   "profile": "40-Unit Condo Community",
+   "price_band": "$9M–$9.5M",
+   "cap_label": "40 units",
+   "desc": "40-Unit Condo Community in Coral Springs (Broward); 40 units. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 40-Unit Condo Community, Coral Springs (Broward) (40 units)",
+   "highlights": [
+    "40 units · offered by original developer",
+    "Coral Springs (Broward)",
+    "Single-owner condo community"
+   ]
+  },
+  {
+   "id": "large-statewide-2026-06-18-08",
+   "analytics_id": "A-00113",
+   "rank": 8,
+   "submarket": "Downtown Orlando",
+   "profile": "37-Unit Multifamily",
+   "price_band": "$4M–$4.5M",
+   "cap_label": "~$121.6K/unit",
+   "desc": "37-Unit Multifamily in Downtown Orlando; 37 units. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 37-Unit Multifamily, Downtown Orlando (37 units)",
+   "highlights": [
+    "37 units · ~$121.6K/unit",
+    "Downtown Orlando",
+    "Value-add"
+   ]
+  },
+  {
+   "id": "large-statewide-2026-06-18-09",
+   "analytics_id": "A-00114",
+   "rank": 9,
+   "submarket": "Hollywood (Broward)",
+   "profile": "36-Unit Multifamily",
+   "price_band": "$2M–$2.5M",
+   "cap_label": "36 units",
+   "desc": "36-Unit Multifamily in Hollywood (Broward); 36 units. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 36-Unit Multifamily, Hollywood (Broward) (36 units)",
+   "highlights": [
+    "36 units",
+    "Hollywood (Broward) infill",
+    "Coastal South FL"
+   ]
+  },
+  {
+   "id": "large-statewide-2026-06-18-10",
+   "analytics_id": "A-00115",
+   "rank": 10,
+   "submarket": "FL (2 properties)",
+   "profile": "28-Unit Multifamily",
+   "price_band": "$4.5M–$5M",
+   "cap_label": "~$173.4K/unit",
+   "desc": "28-Unit Multifamily in FL (2 properties); 28 units. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 28-Unit Multifamily, FL (2 properties) (28 units)",
+   "highlights": [
+    "28 units · ~$173.4K/unit",
+    "Two-property package",
+    "Urban infill"
+   ]
+  }
+ ]
+}

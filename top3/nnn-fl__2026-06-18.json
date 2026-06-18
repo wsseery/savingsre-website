@@ -1,0 +1,175 @@
+{
+ "segment": "nnn-fl",
+ "collection": "curated",
+ "template": "curated-generic",
+ "label": "NNN Commercial — Florida",
+ "tagline": "Top 10 · Florida (statewide) · single & multi-tenant net lease · ranked by cap rate",
+ "search_name": "Crexi (FL Retail / net lease)",
+ "generated": "2026-06-18",
+ "expires": "2026-07-18",
+ "total_results": 4560,
+ "methodology": "Crexi FL retail/net-lease listings 2026-06-18. Single-tenant absolute-NNN (credit retail) and multi-tenant net-leased centers, ranked by broker-reported cap rate (not independently verified). Listings without a published cap excluded. Disguised: area + type + price band + cap band public; exact address, tenant & lease terms on request.",
+ "metric_label": "Cap rate",
+ "items": [
+  {
+   "id": "nnn-fl-2026-06-18-01",
+   "analytics_id": "A-00116",
+   "rank": 1,
+   "submarket": "Ocoee (Orlando MSA)",
+   "profile": "Multi-Tenant Retail Center",
+   "price_band": "$7M–$7.5M",
+   "cap_label": "~8.56% cap",
+   "desc": "Multi-Tenant Retail Center in Ocoee (Orlando MSA); 8.56% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Multi-Tenant Retail Center, Ocoee (Orlando MSA) (~8.56% cap)",
+   "highlights": [
+    "Multi-tenant retail center · ~61,100 SF",
+    "~8.56% cap — highest on the list",
+    "Ocoee (Orlando MSA)"
+   ]
+  },
+  {
+   "id": "nnn-fl-2026-06-18-02",
+   "analytics_id": "A-00117",
+   "rank": 2,
+   "submarket": "Tampa Bay MSA",
+   "profile": "Multi-Tenant Shopping Center",
+   "price_band": "$16M–$17M",
+   "cap_label": "~7.9% cap",
+   "desc": "Multi-Tenant Shopping Center in Tampa Bay MSA; 7.9% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Multi-Tenant Shopping Center, Tampa Bay MSA (~7.9% cap)",
+   "highlights": [
+    "Multi-tenant shopping center · ~$1.3M NOI",
+    "~7.9% cap",
+    "Tampa Bay MSA"
+   ]
+  },
+  {
+   "id": "nnn-fl-2026-06-18-03",
+   "analytics_id": "A-00118",
+   "rank": 3,
+   "submarket": "Boynton Beach (Palm Beach)",
+   "profile": "Single-Tenant Net Lease (Fitness)",
+   "price_band": "$12M–$13M",
+   "cap_label": "~7.7% cap",
+   "desc": "Single-Tenant Net Lease (Fitness) in Boynton Beach (Palm Beach); 7.7% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Single-Tenant Net Lease (Fitness), Boynton Beach (Palm Beach) (~7.7% cap)",
+   "highlights": [
+    "Single-tenant net lease · ~43,000 SF",
+    "~7.7% cap",
+    "Boynton Beach (Palm Beach)"
+   ]
+  },
+  {
+   "id": "nnn-fl-2026-06-18-04",
+   "analytics_id": "A-00119",
+   "rank": 4,
+   "submarket": "Apopka (Orlando MSA)",
+   "profile": "Anchored Retail Center",
+   "price_band": "$23M–$24M",
+   "cap_label": "~7.3% cap",
+   "desc": "Anchored Retail Center in Apopka (Orlando MSA); 7.3% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Anchored Retail Center, Apopka (Orlando MSA) (~7.3% cap)",
+   "highlights": [
+    "Anchored retail center · ~171,000 SF",
+    "~7.3% cap",
+    "Orlando MSA"
+   ]
+  },
+  {
+   "id": "nnn-fl-2026-06-18-05",
+   "analytics_id": "A-00120",
+   "rank": 5,
+   "submarket": "Ocoee (Orlando MSA)",
+   "profile": "Single-Tenant Net Lease (Fitness)",
+   "price_band": "$13M–$14M",
+   "cap_label": "~7.25% cap",
+   "desc": "Single-Tenant Net Lease (Fitness) in Ocoee (Orlando MSA); 7.25% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Single-Tenant Net Lease (Fitness), Ocoee (Orlando MSA) (~7.25% cap)",
+   "highlights": [
+    "Single-tenant net lease",
+    "~7.25% cap",
+    "Ocoee (Orlando MSA)"
+   ]
+  },
+  {
+   "id": "nnn-fl-2026-06-18-06",
+   "analytics_id": "A-00121",
+   "rank": 6,
+   "submarket": "New Smyrna Beach",
+   "profile": "Multi-Tenant Shopping Center",
+   "price_band": "$13M–$14M",
+   "cap_label": "~7% cap",
+   "desc": "Multi-Tenant Shopping Center in New Smyrna Beach; 7% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Multi-Tenant Shopping Center, New Smyrna Beach (~7% cap)",
+   "highlights": [
+    "Multi-tenant center · ~99,961 SF",
+    "~7.0% cap",
+    "New Smyrna Beach"
+   ]
+  },
+  {
+   "id": "nnn-fl-2026-06-18-07",
+   "analytics_id": "A-00122",
+   "rank": 7,
+   "submarket": "Lakeland",
+   "profile": "Multi-Tenant Retail Center",
+   "price_band": "$11M–$12M",
+   "cap_label": "~6.46% cap",
+   "desc": "Multi-Tenant Retail Center in Lakeland; 6.46% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Multi-Tenant Retail Center, Lakeland (~6.46% cap)",
+   "highlights": [
+    "Multi-tenant retail · ~40,395 SF",
+    "~6.46% cap",
+    "Lakeland"
+   ]
+  },
+  {
+   "id": "nnn-fl-2026-06-18-08",
+   "analytics_id": "A-00123",
+   "rank": 8,
+   "submarket": "North Palm Beach",
+   "profile": "Multi-Tenant Retail Center",
+   "price_band": "$12M–$13M",
+   "cap_label": "~6.36% cap",
+   "desc": "Multi-Tenant Retail Center in North Palm Beach; 6.36% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Multi-Tenant Retail Center, North Palm Beach (~6.36% cap)",
+   "highlights": [
+    "Multi-tenant retail · ~20,008 SF",
+    "~6.36% cap",
+    "North Palm Beach"
+   ]
+  },
+  {
+   "id": "nnn-fl-2026-06-18-09",
+   "analytics_id": "A-00124",
+   "rank": 9,
+   "submarket": "Hialeah Gardens (Miami MSA)",
+   "profile": "Multi-Tenant Retail Center",
+   "price_band": "$12M–$13M",
+   "cap_label": "~6.34% cap",
+   "desc": "Multi-Tenant Retail Center in Hialeah Gardens (Miami MSA); 6.34% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Multi-Tenant Retail Center, Hialeah Gardens (Miami MSA) (~6.34% cap)",
+   "highlights": [
+    "Multi-tenant retail · ~20,741 SF",
+    "~6.34% cap",
+    "Hialeah Gardens (Miami MSA)"
+   ]
+  },
+  {
+   "id": "nnn-fl-2026-06-18-10",
+   "analytics_id": "A-00125",
+   "rank": 10,
+   "submarket": "Boca Raton (Palm Beach)",
+   "profile": "Single-Tenant NNN (Fuel/Retail)",
+   "price_band": "$10M–$11M",
+   "cap_label": "~6.15% cap",
+   "desc": "Single-Tenant NNN (Fuel/Retail) in Boca Raton (Palm Beach); 6.15% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Single-Tenant NNN (Fuel/Retail), Boca Raton (Palm Beach) (~6.15% cap)",
+   "highlights": [
+    "Single-tenant NNN (fuel/retail)",
+    "~6.15% cap",
+    "Boca Raton (Palm Beach)"
+   ]
+  }
+ ]
+}
