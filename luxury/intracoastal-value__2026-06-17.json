@@ -21,7 +21,11 @@
    "cap_label": "~$400/sqft",
    "thumb_url": "",
    "desc": "Luxury Intracoastal Estate in Cape Coral; ~$400/sqft. Exact address, photos & financials on request.",
-   "inquiry_subject": "Inquiry: Cape Coral Intracoastal Estate (~$400/sqft)"
+   "inquiry_subject": "Inquiry: Cape Coral Intracoastal Estate (~$400/sqft)",
+   "highlights": [
+    "~7,000 sq ft · built 2008",
+    "Lowest price/sqft in this list"
+   ]
   },
   {
    "id": "intracoastal-value-2026-06-17-02",
@@ -33,7 +37,11 @@
    "cap_label": "~$400/sqft",
    "thumb_url": "",
    "desc": "Luxury Intracoastal Home in Sebastian; ~$400/sqft. Exact address, photos & financials on request.",
-   "inquiry_subject": "Inquiry: Sebastian Intracoastal Home (~$400/sqft)"
+   "inquiry_subject": "Inquiry: Sebastian Intracoastal Home (~$400/sqft)",
+   "highlights": [
+    "~3,700 sq ft · built 1989",
+    "#2 best value by price/sqft"
+   ]
   },
   {
    "id": "intracoastal-value-2026-06-17-03",
@@ -45,7 +53,11 @@
    "cap_label": "~$450/sqft",
    "thumb_url": "",
    "desc": "Luxury Intracoastal Estate in Fort Pierce; ~$450/sqft. Exact address, photos & financials on request.",
-   "inquiry_subject": "Inquiry: Fort Pierce Intracoastal Estate (~$450/sqft)"
+   "inquiry_subject": "Inquiry: Fort Pierce Intracoastal Estate (~$450/sqft)",
+   "highlights": [
+    "~7,400 sq ft · built 2009",
+    "#3 best value by price/sqft"
+   ]
   },
   {
    "id": "intracoastal-value-2026-06-17-04",
@@ -57,7 +69,11 @@
    "cap_label": "~$475/sqft",
    "thumb_url": "",
    "desc": "Luxury Intracoastal Home in Jensen Beach; ~$475/sqft. Exact address, photos & financials on request.",
-   "inquiry_subject": "Inquiry: Jensen Beach Intracoastal Home (~$475/sqft)"
+   "inquiry_subject": "Inquiry: Jensen Beach Intracoastal Home (~$475/sqft)",
+   "highlights": [
+    "~3,600 sq ft · built 1960",
+    "#4 best value by price/sqft"
+   ]
   },
   {
    "id": "intracoastal-value-2026-06-17-05",
@@ -69,7 +85,11 @@
    "cap_label": "~$500/sqft",
    "thumb_url": "",
    "desc": "Luxury Intracoastal Condo in Jensen Beach; ~$500/sqft. Exact address, photos & financials on request.",
-   "inquiry_subject": "Inquiry: Jensen Beach Intracoastal Condo (~$500/sqft)"
+   "inquiry_subject": "Inquiry: Jensen Beach Intracoastal Condo (~$500/sqft)",
+   "highlights": [
+    "~4,000 sq ft · built 2008",
+    "#5 best value by price/sqft"
+   ]
   },
   {
    "id": "intracoastal-value-2026-06-17-06",
@@ -81,7 +101,11 @@
    "cap_label": "~$550/sqft",
    "thumb_url": "",
    "desc": "Luxury Intracoastal Estate in Port St Lucie; ~$550/sqft. Exact address, photos & financials on request.",
-   "inquiry_subject": "Inquiry: Port St Lucie Intracoastal Estate (~$550/sqft)"
+   "inquiry_subject": "Inquiry: Port St Lucie Intracoastal Estate (~$550/sqft)",
+   "highlights": [
+    "~6,200 sq ft · built 2014",
+    "#6 best value by price/sqft"
+   ]
   },
   {
    "id": "intracoastal-value-2026-06-17-07",
@@ -93,7 +117,11 @@
    "cap_label": "~$550/sqft",
    "thumb_url": "",
    "desc": "Luxury Intracoastal Home in Port St Lucie; ~$550/sqft. Exact address, photos & financials on request.",
-   "inquiry_subject": "Inquiry: Port St Lucie Intracoastal Home (~$550/sqft)"
+   "inquiry_subject": "Inquiry: Port St Lucie Intracoastal Home (~$550/sqft)",
+   "highlights": [
+    "~4,800 sq ft · built 1997",
+    "#7 best value by price/sqft"
+   ]
   },
   {
    "id": "intracoastal-value-2026-06-17-08",
@@ -105,7 +133,11 @@
    "cap_label": "~$550/sqft",
    "thumb_url": "",
    "desc": "Luxury Intracoastal Home in Fort Pierce; ~$550/sqft. Exact address, photos & financials on request.",
-   "inquiry_subject": "Inquiry: Fort Pierce Intracoastal Home (~$550/sqft)"
+   "inquiry_subject": "Inquiry: Fort Pierce Intracoastal Home (~$550/sqft)",
+   "highlights": [
+    "~4,600 sq ft · built 2007",
+    "#8 best value by price/sqft"
+   ]
   },
   {
    "id": "intracoastal-value-2026-06-17-09",
@@ -117,7 +149,11 @@
    "cap_label": "~$575/sqft",
    "thumb_url": "",
    "desc": "Luxury Intracoastal Estate in Lighthouse Point; ~$575/sqft. Exact address, photos & financials on request.",
-   "inquiry_subject": "Inquiry: Lighthouse Point Intracoastal Estate (~$575/sqft)"
+   "inquiry_subject": "Inquiry: Lighthouse Point Intracoastal Estate (~$575/sqft)",
+   "highlights": [
+    "~6,600 sq ft · built 1974",
+    "#9 best value by price/sqft"
+   ]
   },
   {
    "id": "intracoastal-value-2026-06-17-10",
@@ -129,7 +165,11 @@
    "cap_label": "~$600/sqft",
    "thumb_url": "",
    "desc": "Luxury Intracoastal Home in Riviera Beach; ~$600/sqft. Exact address, photos & financials on request.",
-   "inquiry_subject": "Inquiry: Riviera Beach Intracoastal Home (~$600/sqft)"
+   "inquiry_subject": "Inquiry: Riviera Beach Intracoastal Home (~$600/sqft)",
+   "highlights": [
+    "~3,800 sq ft · built 2026",
+    "#10 best value by price/sqft"
+   ]
   }
  ]
 }

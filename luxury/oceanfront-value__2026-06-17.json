@@ -21,7 +21,11 @@
    "cap_label": "~$1000/sqft",
    "thumb_url": "",
    "desc": "Luxury Oceanfront Estate in Hallandale Beach; ~$1000/sqft. Exact address, photos & financials on request.",
-   "inquiry_subject": "Inquiry: Hallandale Beach Oceanfront Estate (~$1000/sqft)"
+   "inquiry_subject": "Inquiry: Hallandale Beach Oceanfront Estate (~$1000/sqft)",
+   "highlights": [
+    "~7,000 sq ft · built 1980",
+    "Lowest price/sqft in this list"
+   ]
   },
   {
    "id": "oceanfront-value-2026-06-17-02",
@@ -33,7 +37,11 @@
    "cap_label": "~$1175/sqft",
    "thumb_url": "",
    "desc": "Luxury Oceanfront Home in Deerfield Beach; ~$1175/sqft. Exact address, photos & financials on request.",
-   "inquiry_subject": "Inquiry: Deerfield Beach Oceanfront Home (~$1175/sqft)"
+   "inquiry_subject": "Inquiry: Deerfield Beach Oceanfront Home (~$1175/sqft)",
+   "highlights": [
+    "~4,600 sq ft · built 2027",
+    "#2 best value by price/sqft"
+   ]
   },
   {
    "id": "oceanfront-value-2026-06-17-03",
@@ -45,7 +53,11 @@
    "cap_label": "~$1250/sqft",
    "thumb_url": "",
    "desc": "Luxury Oceanfront Home in Coral Gables; ~$1250/sqft. Exact address, photos & financials on request.",
-   "inquiry_subject": "Inquiry: Coral Gables Oceanfront Home (~$1250/sqft)"
+   "inquiry_subject": "Inquiry: Coral Gables Oceanfront Home (~$1250/sqft)",
+   "highlights": [
+    "~4,800 sq ft · built 1982",
+    "#3 best value by price/sqft"
+   ]
   },
   {
    "id": "oceanfront-value-2026-06-17-04",
@@ -57,7 +69,11 @@
    "cap_label": "~$1300/sqft",
    "thumb_url": "",
    "desc": "Luxury Oceanfront Estate in Vero Beach; ~$1300/sqft. Exact address, photos & financials on request.",
-   "inquiry_subject": "Inquiry: Vero Beach Oceanfront Estate (~$1300/sqft)"
+   "inquiry_subject": "Inquiry: Vero Beach Oceanfront Estate (~$1300/sqft)",
+   "highlights": [
+    "~7,700 sq ft · built 2011",
+    "#4 best value by price/sqft"
+   ]
   },
   {
    "id": "oceanfront-value-2026-06-17-05",
@@ -69,7 +85,11 @@
    "cap_label": "~$1400/sqft",
    "thumb_url": "",
    "desc": "Luxury Oceanfront Estate in Miami; ~$1400/sqft. Exact address, photos & financials on request.",
-   "inquiry_subject": "Inquiry: Miami Oceanfront Estate (~$1400/sqft)"
+   "inquiry_subject": "Inquiry: Miami Oceanfront Estate (~$1400/sqft)",
+   "highlights": [
+    "~12,900 sq ft · built 2009",
+    "#5 best value by price/sqft"
+   ]
   },
   {
    "id": "oceanfront-value-2026-06-17-06",
@@ -81,7 +101,11 @@
    "cap_label": "~$1425/sqft",
    "thumb_url": "",
    "desc": "Luxury Oceanfront Home in Marathon; ~$1425/sqft. Exact address, photos & financials on request.",
-   "inquiry_subject": "Inquiry: Marathon Oceanfront Home (~$1425/sqft)"
+   "inquiry_subject": "Inquiry: Marathon Oceanfront Home (~$1425/sqft)",
+   "highlights": [
+    "~4,100 sq ft · built 2022",
+    "#6 best value by price/sqft"
+   ]
   },
   {
    "id": "oceanfront-value-2026-06-17-07",
@@ -93,7 +117,11 @@
    "cap_label": "~$1475/sqft",
    "thumb_url": "",
    "desc": "Luxury Oceanfront Estate in Marathon; ~$1475/sqft. Exact address, photos & financials on request.",
-   "inquiry_subject": "Inquiry: Marathon Oceanfront Estate (~$1475/sqft)"
+   "inquiry_subject": "Inquiry: Marathon Oceanfront Estate (~$1475/sqft)",
+   "highlights": [
+    "~18,800 sq ft · built 2025",
+    "#7 best value by price/sqft"
+   ]
   },
   {
    "id": "oceanfront-value-2026-06-17-08",
@@ -105,7 +133,11 @@
    "cap_label": "~$1550/sqft",
    "thumb_url": "",
    "desc": "Luxury Oceanfront Estate in Boca Raton; ~$1550/sqft. Exact address, photos & financials on request.",
-   "inquiry_subject": "Inquiry: Boca Raton Oceanfront Estate (~$1550/sqft)"
+   "inquiry_subject": "Inquiry: Boca Raton Oceanfront Estate (~$1550/sqft)",
+   "highlights": [
+    "~11,600 sq ft · built 2003",
+    "#8 best value by price/sqft"
+   ]
   },
   {
    "id": "oceanfront-value-2026-06-17-09",
@@ -117,7 +149,11 @@
    "cap_label": "~$1725/sqft",
    "thumb_url": "",
    "desc": "Luxury Oceanfront Home in Miami Beach; ~$1725/sqft. Exact address, photos & financials on request.",
-   "inquiry_subject": "Inquiry: Miami Beach Oceanfront Home (~$1725/sqft)"
+   "inquiry_subject": "Inquiry: Miami Beach Oceanfront Home (~$1725/sqft)",
+   "highlights": [
+    "~4,500 sq ft · built 1951",
+    "#9 best value by price/sqft"
+   ]
   },
   {
    "id": "oceanfront-value-2026-06-17-10",
@@ -129,7 +165,11 @@
    "cap_label": "~$1775/sqft",
    "thumb_url": "",
    "desc": "Luxury Oceanfront Estate in Hillsboro Beach; ~$1775/sqft. Exact address, photos & financials on request.",
-   "inquiry_subject": "Inquiry: Hillsboro Beach Oceanfront Estate (~$1775/sqft)"
+   "inquiry_subject": "Inquiry: Hillsboro Beach Oceanfront Estate (~$1775/sqft)",
+   "highlights": [
+    "~8,900 sq ft · built 1964",
+    "#10 best value by price/sqft"
+   ]
   }
  ]
 }
