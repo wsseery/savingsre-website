@@ -1,0 +1,95 @@
+{
+ "segment": "high-yield-sfl",
+ "collection": "curated",
+ "template": "curated-generic",
+ "label": "High-Yield Multifamily — 8%+ Cap",
+ "tagline": "Top 5 · Florida (statewide) · 5–25 units · value-add & high-yield",
+ "search_name": "LoopNet (FL multifamily, 8%+ cap)",
+ "generated": "2026-06-17",
+ "expires": "2026-07-17",
+ "total_results": 750,
+ "methodology": "LoopNet FL apartment-building listings 2026-06-17, sorted by cap rate (broker-reported, not independently verified), 5–25 units, 8%+ cap; implausible/pro-forma outliers (>15% in strong coastal markets) dropped. Disguised: area + units + price band + cap band public; exact address & financials on request.",
+ "metric_label": "Cap rate",
+ "items": [
+  {
+   "id": "high-yield-sfl-2026-06-17-01",
+   "analytics_id": "A-00101",
+   "rank": 1,
+   "submarket": "Tallahassee",
+   "profile": "22-Unit Multifamily",
+   "price_band": "$1.5M–$2M",
+   "cap_label": "~13.5% cap",
+   "desc": "22-unit value-add multifamily in Tallahassee; ~13.5% cap. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Tallahassee 22-unit multifamily (~13.5% cap)",
+   "highlights": [
+    "22 units · ~13,700 SF",
+    "~13.5% cap rate (broker-reported)",
+    "Value-add / high-yield"
+   ]
+  },
+  {
+   "id": "high-yield-sfl-2026-06-17-02",
+   "analytics_id": "A-00102",
+   "rank": 2,
+   "submarket": "Tampa",
+   "profile": "8-Unit Multifamily",
+   "price_band": "$1.5M–$2M",
+   "cap_label": "~13% cap",
+   "desc": "8-unit value-add multifamily in Tampa; ~13% cap. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Tampa 8-unit multifamily (~13% cap)",
+   "highlights": [
+    "8 units · ~4,500 SF",
+    "~13% cap rate (broker-reported)",
+    "Value-add / high-yield"
+   ]
+  },
+  {
+   "id": "high-yield-sfl-2026-06-17-03",
+   "analytics_id": "A-00103",
+   "rank": 3,
+   "submarket": "Okeechobee",
+   "profile": "10-Unit Multifamily",
+   "price_band": "$1M–$1.5M",
+   "cap_label": "~12.5% cap",
+   "desc": "10-unit value-add multifamily in Okeechobee; ~12.5% cap. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Okeechobee 10-unit multifamily (~12.5% cap)",
+   "highlights": [
+    "10 units · ~3,200 SF",
+    "~12.5% cap rate (broker-reported)",
+    "Value-add / high-yield"
+   ]
+  },
+  {
+   "id": "high-yield-sfl-2026-06-17-04",
+   "analytics_id": "A-00104",
+   "rank": 4,
+   "submarket": "Tampa",
+   "profile": "6-Unit Multifamily",
+   "price_band": "$2.5M–$3M",
+   "cap_label": "~12% cap",
+   "desc": "6-unit value-add multifamily in Tampa; ~12% cap. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Tampa 6-unit multifamily (~12% cap)",
+   "highlights": [
+    "6 units · ~7,500 SF",
+    "~12% cap rate (broker-reported)",
+    "Value-add / high-yield"
+   ]
+  },
+  {
+   "id": "high-yield-sfl-2026-06-17-05",
+   "analytics_id": "A-00105",
+   "rank": 5,
+   "submarket": "Spring Hill",
+   "profile": "13-Unit Multifamily",
+   "price_band": "$0.5M–$1M",
+   "cap_label": "~12% cap",
+   "desc": "13-unit value-add multifamily in Spring Hill; ~12% cap. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Spring Hill 13-unit multifamily (~12% cap)",
+   "highlights": [
+    "13 units · ~8,000 SF",
+    "~12% cap rate (broker-reported)",
+    "Value-add / high-yield"
+   ]
+  }
+ ]
+}
