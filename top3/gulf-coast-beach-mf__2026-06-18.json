@@ -1,0 +1,159 @@
+{
+ "segment": "gulf-coast-beach-mf",
+ "collection": "curated",
+ "template": "curated-generic",
+ "label": "Coastal Multifamily — Gulf Beaches",
+ "tagline": "Within ~1 mi of the Gulf · Siesta Key · Anna Maria Island · Longboat Key · Englewood · ranked by scale",
+ "search_name": "Crexi / Realmo (Gulf-coast beach MF)",
+ "generated": "2026-06-18",
+ "expires": "2026-07-18",
+ "total_results": 9,
+ "metric_label": "Scale / price-per-unit",
+ "methodology": "On-market FL coastal multifamily 2026-06-18 (Crexi/Realmo/Moody's CRE), within ~1 mi of the beach where noted, deduped by address, ranked by unit count. Disguised: area + profile + price band + scale band public; exact address & financials on request.",
+ "items": [
+  {
+   "id": "gulf-coast-beach-mf-2026-06-18-01",
+   "analytics_id": "A-00126",
+   "rank": 1,
+   "submarket": "Siesta Key",
+   "profile": "9-Unit Condo Complex (Siesta Key)",
+   "price_band": "$6M-$7M",
+   "cap_label": "~$722K/unit",
+   "desc": "Nine-unit condominium complex on Siesta Key — a barrier-island location within steps of the Gulf, with strong vacation-rental demand at roughly $722K/unit. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 9-Unit Condo Complex (Siesta Key), Siesta Key",
+   "highlights": [
+    "9 units · on Siesta Key (barrier island)",
+    "~$722K/unit",
+    "Walk to Gulf beaches"
+   ]
+  },
+  {
+   "id": "gulf-coast-beach-mf-2026-06-18-02",
+   "analytics_id": "A-00127",
+   "rank": 2,
+   "submarket": "Anna Maria",
+   "profile": "4-Unit Beachfront Building (Anna Maria)",
+   "price_band": "$4M-$5M",
+   "cap_label": "~$1.25M/unit",
+   "desc": "Rare four-unit apartment building on Anna Maria Island — roughly 50 feet from the Gulf shoreline, turnkey-furnished with redevelopment upside on the lot. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 4-Unit Beachfront Building (Anna Maria), Anna Maria",
+   "highlights": [
+    "4 units · ~50 ft from the beach",
+    "Anna Maria Island · walk to shops & dining",
+    "Turnkey furnished + redevelopment upside"
+   ]
+  },
+  {
+   "id": "gulf-coast-beach-mf-2026-06-18-03",
+   "analytics_id": "A-00128",
+   "rank": 3,
+   "submarket": "Englewood",
+   "profile": "3-Unit Renovated Triplex (Englewood)",
+   "price_band": "$800K-$900K",
+   "cap_label": "~$288K/unit",
+   "desc": "Fully renovated 2025 triplex near the Englewood coast — three two-bedroom units with all-new systems, configured for turnkey income. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 3-Unit Renovated Triplex (Englewood), Englewood",
+   "highlights": [
+    "3 units · all 2BR",
+    "Renovated 2025 (new roof/HVAC/plumbing)",
+    "Englewood coast"
+   ]
+  },
+  {
+   "id": "gulf-coast-beach-mf-2026-06-18-04",
+   "analytics_id": "A-00129",
+   "rank": 4,
+   "submarket": "Holmes Beach",
+   "profile": "2-Unit Beach Duplex (Holmes Beach)",
+   "price_band": "$2M-$2.5M",
+   "cap_label": "~$1.05M/unit",
+   "desc": "Renovated duplex on Anna Maria Island moments from the Gulf — two cottages (3BR and 2BR) each with a private heated pool, and a strong rental history. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 2-Unit Beach Duplex (Holmes Beach), Holmes Beach",
+   "highlights": [
+    "2 units · each w/ private heated pool",
+    "Anna Maria Island · moments to beach",
+    "Renovated · strong rental history"
+   ]
+  },
+  {
+   "id": "gulf-coast-beach-mf-2026-06-18-05",
+   "analytics_id": "A-00130",
+   "rank": 5,
+   "submarket": "Bradenton Beach",
+   "profile": "2-Unit Beach Duplex (Bradenton Beach)",
+   "price_band": "$1M-$1.5M",
+   "cap_label": "~$600K/unit",
+   "desc": "Turnkey duplex in the Bradenton Beach transient-rental district on Anna Maria Island — two 2-bedroom units generating roughly $100K gross annually. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 2-Unit Beach Duplex (Bradenton Beach), Bradenton Beach",
+   "highlights": [
+    "2 units · transient-rental zoned",
+    "Anna Maria Island (Bradenton Beach)",
+    "~$100K gross / year"
+   ]
+  },
+  {
+   "id": "gulf-coast-beach-mf-2026-06-18-06",
+   "analytics_id": "A-00131",
+   "rank": 6,
+   "submarket": "Sarasota",
+   "profile": "2-Unit Duplex (near Siesta Key)",
+   "price_band": "$800K-$900K",
+   "cap_label": "~$424K/unit",
+   "desc": "Residential duplex minutes from Siesta Key with a community boat ramp — coastal rental and lifestyle appeal at an accessible price. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 2-Unit Duplex (near Siesta Key), Sarasota",
+   "highlights": [
+    "2 units · near Siesta Key",
+    "Community boat ramp",
+    "Coastal rental + lifestyle"
+   ]
+  },
+  {
+   "id": "gulf-coast-beach-mf-2026-06-18-07",
+   "analytics_id": "A-00132",
+   "rank": 7,
+   "submarket": "Longboat Key",
+   "profile": "Gulf-Front Resort Condo (Longboat Key)",
+   "price_band": "$1M-$1.5M",
+   "cap_label": "~$1.20M/unit",
+   "desc": "Direct Gulf-front corner suite on Longboat Key with resort amenities and professionally managed rentals averaging about $140K per year — single-unit beachfront income. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Gulf-Front Resort Condo (Longboat Key), Longboat Key",
+   "highlights": [
+    "Single unit · direct Gulf-front",
+    "Longboat Key · resort amenities",
+    "~$140K/yr managed rental"
+   ]
+  },
+  {
+   "id": "gulf-coast-beach-mf-2026-06-18-08",
+   "analytics_id": "A-00133",
+   "rank": 8,
+   "submarket": "Siesta Key",
+   "profile": "Beachfront Condo (Siesta Key)",
+   "price_band": "$500K-$600K",
+   "cap_label": "~$558K/unit",
+   "desc": "Turnkey one-bed beachfront condo on Siesta Key with private beach access and multiple heated pools — an accessible single-unit beach income play. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Beachfront Condo (Siesta Key), Siesta Key",
+   "highlights": [
+    "Single unit · private beachfront access",
+    "Siesta Key · heated pools",
+    "Turnkey furnished"
+   ]
+  },
+  {
+   "id": "gulf-coast-beach-mf-2026-06-18-09",
+   "analytics_id": "A-00134",
+   "rank": 9,
+   "submarket": "Siesta Key",
+   "profile": "Multifamily Build-Out Parcel (Siesta Key)",
+   "price_band": "$4M-$5M",
+   "cap_label": "On request",
+   "desc": "Rare multifamily parcel near Siesta Key Beach, ready for a luxury multi-unit build-out — a development play steps from the Gulf. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Multifamily Build-Out Parcel (Siesta Key), Siesta Key",
+   "highlights": [
+    "Multifamily development parcel",
+    "Near Siesta Key Beach",
+    "Luxury build-out potential"
+   ]
+  }
+ ]
+}

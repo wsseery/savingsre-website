@@ -1,6 +1,6 @@
 {
 "note": "Unified registry for the SavingsRE Top Investments system. ONE renderer (top3.html) and ONE hub (index.html) read this file. To add a list/segment: add an entry under 'lists' (and to 'order'), then drop a <key>__<date>.json public snapshot + a <key>__index.json. No HTML changes. 'collection' groups lists on the hub; 'template' selects the card layout in the renderer. Public data is DISGUISED (area/type/price band/cap band); exact data lives only in the private ledger. Segments with no snapshot file yet render as 'Coming soon'. Each public item may include a 'highlights' array (2-3 short, disguise-safe value-driver bullets) shown under the row and in the PDF.",
-"version": 6,
+"version": 7,
 "templates": {
 "mls-financial": "Disguised income-property card (banded from MLS NOI/cap). Address/MLS/exact $ stripped to the ledger.",
 "curated-generic": "Disguised curated card: submarket + profile + price band + cap band, no address. Exact data on request.",
@@ -20,6 +20,8 @@
 },
 "order": [
 "high-yield-sfl",
+"gulf-coast-beach-mf",
+"east-coast-beach-mf",
 "large-statewide",
 "nnn-fl",
 "strip-mall-fl",
@@ -119,6 +121,30 @@
 "template": "curated-generic",
 "cadence": "monthly",
 "source": "Crexi / LoopNet (commercial / office / mixed-use, FL)",
+"browse_url": "/commercial-buyer-search.html",
+"browse_label": "Build your buy box"
+},
+"gulf-coast-beach-mf": {
+"collection": "curated",
+"featured": true,
+"label": "Coastal Multifamily — Gulf Beaches",
+"tagline": "Top 9 · within ~1 mi of the Gulf · Siesta Key · Anna Maria Is. · Longboat Key · Englewood · ranked by scale",
+"list_size": 9,
+"template": "curated-generic",
+"cadence": "monthly",
+"source": "Crexi / Realmo / Moody's CRE",
+"browse_url": "/commercial-buyer-search.html",
+"browse_label": "Build your buy box"
+},
+"east-coast-beach-mf": {
+"collection": "curated",
+"featured": true,
+"label": "Coastal Multifamily — Atlantic Beaches",
+"tagline": "Top 10 · Fort Lauderdale to Vero Beach · coastal income multifamily · ranked by scale",
+"list_size": 10,
+"template": "curated-generic",
+"cadence": "monthly",
+"source": "Realmo / Crexi / Moody's CRE",
 "browse_url": "/commercial-buyer-search.html",
 "browse_label": "Build your buy box"
 }

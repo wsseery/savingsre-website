@@ -1,0 +1,175 @@
+{
+ "segment": "east-coast-beach-mf",
+ "collection": "curated",
+ "template": "curated-generic",
+ "label": "Coastal Multifamily — Atlantic Beaches",
+ "tagline": "Fort Lauderdale to Vero Beach · coastal income multifamily · ranked by scale",
+ "search_name": "Realmo / Crexi (Atlantic-coast MF)",
+ "generated": "2026-06-18",
+ "expires": "2026-07-18",
+ "total_results": 10,
+ "metric_label": "Scale / price-per-unit",
+ "methodology": "On-market FL coastal multifamily 2026-06-18 (Crexi/Realmo/Moody's CRE), within ~1 mi of the beach where noted, deduped by address, ranked by unit count. Disguised: area + profile + price band + scale band public; exact address & financials on request.",
+ "items": [
+  {
+   "id": "east-coast-beach-mf-2026-06-18-01",
+   "analytics_id": "A-00135",
+   "rank": 1,
+   "submarket": "Boynton Beach",
+   "profile": "8-Unit Apartment Building (Boynton Beach)",
+   "price_band": "$1M-$1.5M",
+   "cap_label": "~$169K/unit",
+   "desc": "Renovated 8-unit apartment building in Boynton Beach with government-guaranteed (HUD-VASH) income and value-add upside — about $94.6K NOI (~7% cap, broker-reported). Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 8-Unit Apartment Building (Boynton Beach), Boynton Beach",
+   "highlights": [
+    "8 units · ~$169K/unit",
+    "~7% cap · HUD-VASH guaranteed income (broker-reported)",
+    "Renovated since 2018 · new roof"
+   ]
+  },
+  {
+   "id": "east-coast-beach-mf-2026-06-18-02",
+   "analytics_id": "A-00136",
+   "rank": 2,
+   "submarket": "Jensen Beach",
+   "profile": "6-Unit Income Property (Jensen Beach)",
+   "price_band": "$800K-$900K",
+   "cap_label": "~$150K/unit",
+   "desc": "Six-unit income property minutes from downtown Jensen Beach — about $88K/year gross across a mix of apartments plus a separate cottage. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 6-Unit Income Property (Jensen Beach), Jensen Beach",
+   "highlights": [
+    "6 units · ~$150K/unit",
+    "~$88K/yr gross",
+    "Coastal Martin County (Jensen Beach)"
+   ]
+  },
+  {
+   "id": "east-coast-beach-mf-2026-06-18-03",
+   "analytics_id": "A-00137",
+   "rank": 3,
+   "submarket": "Pompano Beach",
+   "profile": "4-Unit Beach Fourplex (Pompano)",
+   "price_band": "$2M-$2.5M",
+   "cap_label": "~$550K/unit",
+   "desc": "Fully renovated beachside fourplex in Hillsboro Shores, Pompano Beach — a turnkey licensed short-term rental with solar, a heated pool and impact windows. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 4-Unit Beach Fourplex (Pompano), Pompano Beach",
+   "highlights": [
+    "4 units · all 2BR/2BA · steps to the beach",
+    "Turnkey STR · solar · heated pool",
+    "Hillsboro Shores (Pompano Beach)"
+   ]
+  },
+  {
+   "id": "east-coast-beach-mf-2026-06-18-04",
+   "analytics_id": "A-00138",
+   "rank": 4,
+   "submarket": "Deerfield Beach",
+   "profile": "4-Unit Quadplex (Deerfield Beach)",
+   "price_band": "$1M-$1.5M",
+   "cap_label": "~$262K/unit",
+   "desc": "Fully occupied quadplex on an oversized corner lot near Deerfield's beaches, shopping and dining — three units furnished, separate meters, CBS construction. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 4-Unit Quadplex (Deerfield Beach), Deerfield Beach",
+   "highlights": [
+    "4 units · fully occupied",
+    "Near Deerfield Beach",
+    "CBS · separate meters · on-site laundry"
+   ]
+  },
+  {
+   "id": "east-coast-beach-mf-2026-06-18-05",
+   "analytics_id": "A-00139",
+   "rank": 5,
+   "submarket": "Fort Lauderdale",
+   "profile": "4-Unit Fourplex (Fort Lauderdale)",
+   "price_band": "$900K-$1M",
+   "cap_label": "~$248K/unit",
+   "desc": "Fully occupied Fort Lauderdale fourplex of four 1-bed units (RD-15 zoning) with projected $7.2–8K/month gross and townhome-conversion feasibility. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 4-Unit Fourplex (Fort Lauderdale), Fort Lauderdale",
+   "highlights": [
+    "4 units · all 1BR · fully occupied",
+    "~$7.2–8K/mo projected gross",
+    "RD-15 zoning · townhome-conversion upside"
+   ]
+  },
+  {
+   "id": "east-coast-beach-mf-2026-06-18-06",
+   "analytics_id": "A-00140",
+   "rank": 6,
+   "submarket": "Vero Beach",
+   "profile": "4-Unit Income Property (Vero Beach)",
+   "price_band": "$600K-$700K",
+   "cap_label": "~$174K/unit",
+   "desc": "Four-unit income property in downtown Vero Beach at about an 8% cap (broker-reported), fully occupied, with a newer rear duplex and value-add conversion upside on the front. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 4-Unit Income Property (Vero Beach), Vero Beach",
+   "highlights": [
+    "4 units · ~8% cap (broker-reported)",
+    "~$71.9K/yr gross · fully occupied",
+    "Indian River County (Vero Beach)"
+   ]
+  },
+  {
+   "id": "east-coast-beach-mf-2026-06-18-07",
+   "analytics_id": "A-00141",
+   "rank": 7,
+   "submarket": "West Palm Beach",
+   "profile": "3-Unit Multifamily (West Palm Beach)",
+   "price_band": "$700K-$800K",
+   "cap_label": "~$262K/unit",
+   "desc": "Three-unit property on a half-acre in West Palm Beach — a single-family plus an updated duplex with impact windows, on month-to-month leases for investor flexibility. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 3-Unit Multifamily (West Palm Beach), West Palm Beach",
+   "highlights": [
+    "3 units · 0.52-acre lot",
+    "Updated duplex · impact windows",
+    "Month-to-month leases (flexible)"
+   ]
+  },
+  {
+   "id": "east-coast-beach-mf-2026-06-18-08",
+   "analytics_id": "A-00142",
+   "rank": 8,
+   "submarket": "Riviera Beach",
+   "profile": "3-Unit Triplex (Riviera Beach)",
+   "price_band": "$400K-$500K",
+   "cap_label": "~$162K/unit",
+   "desc": "Three-unit triplex in Riviera Beach (two 1-bed units plus a studio) with on-site parking — the most accessible entry on this list. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 3-Unit Triplex (Riviera Beach), Riviera Beach",
+   "highlights": [
+    "3 units · on-site parking",
+    "CBS construction",
+    "Most accessible price (Palm Beach County)"
+   ]
+  },
+  {
+   "id": "east-coast-beach-mf-2026-06-18-09",
+   "analytics_id": "A-00143",
+   "rank": 9,
+   "submarket": "Stuart",
+   "profile": "2-Unit Waterfront Duplex (Stuart)",
+   "price_band": "$500K-$600K",
+   "cap_label": "~$270K/unit",
+   "desc": "Waterfront duplex in Port Salerno Village, Stuart — two 3-bed units with canal and lake views, no HOA, and recent 2025 upgrades. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 2-Unit Waterfront Duplex (Stuart), Stuart",
+   "highlights": [
+    "2 units · 3BR each · canal/lake views",
+    "No HOA · 2025 upgrades",
+    "Port Salerno (Stuart)"
+   ]
+  },
+  {
+   "id": "east-coast-beach-mf-2026-06-18-10",
+   "analytics_id": "A-00144",
+   "rank": 10,
+   "submarket": "Boca Raton",
+   "profile": "2-Unit Duplex (Boca Raton)",
+   "price_band": "$700K-$800K",
+   "cap_label": "~$398K/unit",
+   "desc": "Income-producing duplex minutes from downtown Boca Raton and the beach — stable long-term tenants, a new 2024 roof, near the planned 30-acre downtown redevelopment. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 2-Unit Duplex (Boca Raton), Boca Raton",
+   "highlights": [
+    "2 units · near downtown Boca & beach",
+    "New roof (2024) · renovated kitchens",
+    "Adjacent to 30-acre redevelopment"
+   ]
+  }
+ ]
+}
