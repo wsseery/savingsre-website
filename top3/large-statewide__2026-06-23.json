@@ -1,0 +1,175 @@
+{
+ "segment": "large-statewide",
+ "collection": "curated",
+ "template": "curated-generic",
+ "label": "Larger Investments \u2014 40+ Units",
+ "tagline": "Top 10 \u00b7 Statewide \u00b7 40+ units \u00b7 ranked by scale; institutional & value-add",
+ "search_name": "Crexi (FL Multifamily, by units)",
+ "generated": "2026-06-23",
+ "expires": "2026-07-23",
+ "total_results": 3367,
+ "metric_label": "Price / unit",
+ "methodology": "Crexi FL multifamily listings 2026-06-23, sorted by unit count (Crexi publishes no cap-rate sort and large MF rarely post caps), ranked by scale. Existing/stabilized apartment communities & portfolios only; land/development/MHP-RV excluded. Metric shown is price per unit. Disguised: submarket + units + price band + $/unit public; exact address on request.",
+ "items": [
+  {
+   "id": "large-statewide-2026-06-23-01",
+   "analytics_id": "A-00186",
+   "rank": 1,
+   "submarket": "Sunrise (Broward)",
+   "profile": "Multifamily Community (40+ units)",
+   "price_band": "$46M\u2013$48M",
+   "cap_label": "~$225K/unit",
+   "desc": "207-unit multifamily in Sunrise (Broward); ~$225K/unit. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 207-unit multifamily, Sunrise (Broward) (~$225K/unit)",
+   "highlights": [
+    "207 units \u00b7 Sunrise (Broward)",
+    "~$225K/unit",
+    "Institutional / value-add scale"
+   ]
+  },
+  {
+   "id": "large-statewide-2026-06-23-02",
+   "analytics_id": "A-00187",
+   "rank": 2,
+   "submarket": "Tallahassee",
+   "profile": "Multifamily Community (40+ units)",
+   "price_band": "$28M\u2013$30M",
+   "cap_label": "~$150K/unit",
+   "desc": "200-unit multifamily in Tallahassee; ~$150K/unit. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 200-unit multifamily, Tallahassee (~$150K/unit)",
+   "highlights": [
+    "200 units \u00b7 Tallahassee",
+    "~$150K/unit",
+    "Institutional / value-add scale"
+   ]
+  },
+  {
+   "id": "large-statewide-2026-06-23-03",
+   "analytics_id": "A-00188",
+   "rank": 3,
+   "submarket": "Lauderhill (Broward)",
+   "profile": "Multifamily Community (40+ units)",
+   "price_band": "$44M\u2013$46M",
+   "cap_label": "~$234K/unit",
+   "desc": "192-unit multifamily in Lauderhill (Broward); ~$234K/unit. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 192-unit multifamily, Lauderhill (Broward) (~$234K/unit)",
+   "highlights": [
+    "192 units \u00b7 Lauderhill (Broward)",
+    "~$234K/unit",
+    "Institutional / value-add scale"
+   ]
+  },
+  {
+   "id": "large-statewide-2026-06-23-04",
+   "analytics_id": "A-00189",
+   "rank": 4,
+   "submarket": "Okeechobee",
+   "profile": "Multifamily Community (40+ units)",
+   "price_band": "$9M\u2013$10M",
+   "cap_label": "~$57K/unit",
+   "desc": "175-unit multifamily in Okeechobee; ~$57K/unit. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 175-unit multifamily, Okeechobee (~$57K/unit)",
+   "highlights": [
+    "175 units \u00b7 Okeechobee",
+    "~$57K/unit",
+    "Institutional / value-add scale"
+   ]
+  },
+  {
+   "id": "large-statewide-2026-06-23-05",
+   "analytics_id": "A-00190",
+   "rank": 5,
+   "submarket": "Clearwater (Tampa Bay)",
+   "profile": "Multifamily Community (40+ units)",
+   "price_band": "$32M\u2013$34M",
+   "cap_label": "~$218K/unit",
+   "desc": "155-unit multifamily in Clearwater (Tampa Bay); ~$218K/unit. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 155-unit multifamily, Clearwater (Tampa Bay) (~$218K/unit)",
+   "highlights": [
+    "155 units \u00b7 Clearwater (Tampa Bay)",
+    "~$218K/unit",
+    "~6% cap"
+   ]
+  },
+  {
+   "id": "large-statewide-2026-06-23-06",
+   "analytics_id": "A-00191",
+   "rank": 6,
+   "submarket": "Tallahassee",
+   "profile": "Multifamily Community (40+ units)",
+   "price_band": "$15M\u2013$16M",
+   "cap_label": "~$126K/unit",
+   "desc": "123-unit multifamily in Tallahassee; ~$126K/unit. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 123-unit multifamily, Tallahassee (~$126K/unit)",
+   "highlights": [
+    "123 units \u00b7 Tallahassee",
+    "~$126K/unit",
+    "Institutional / value-add scale"
+   ]
+  },
+  {
+   "id": "large-statewide-2026-06-23-07",
+   "analytics_id": "A-00192",
+   "rank": 7,
+   "submarket": "Okeechobee",
+   "profile": "Multifamily Community (40+ units)",
+   "price_band": "$5M\u2013$6M",
+   "cap_label": "~$48K/unit",
+   "desc": "123-unit multifamily in Okeechobee; ~$48K/unit. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 123-unit multifamily, Okeechobee (~$48K/unit)",
+   "highlights": [
+    "123 units \u00b7 Okeechobee",
+    "~$48K/unit",
+    "Institutional / value-add scale"
+   ]
+  },
+  {
+   "id": "large-statewide-2026-06-23-08",
+   "analytics_id": "A-00193",
+   "rank": 8,
+   "submarket": "Cape Canaveral (Space Coast)",
+   "profile": "Multifamily Community (40+ units)",
+   "price_band": "$8M\u2013$9M",
+   "cap_label": "~$74K/unit",
+   "desc": "112-unit multifamily in Cape Canaveral (Space Coast); ~$74K/unit. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 112-unit multifamily, Cape Canaveral (Space Coast) (~$74K/unit)",
+   "highlights": [
+    "112 units \u00b7 Cape Canaveral (Space Coast)",
+    "~$74K/unit",
+    "Institutional / value-add scale"
+   ]
+  },
+  {
+   "id": "large-statewide-2026-06-23-09",
+   "analytics_id": "A-00194",
+   "rank": 9,
+   "submarket": "Lake City",
+   "profile": "Multifamily Community (40+ units)",
+   "price_band": "$10M\u2013$11M",
+   "cap_label": "~$95K/unit",
+   "desc": "107-unit multifamily in Lake City; ~$95K/unit. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 107-unit multifamily, Lake City (~$95K/unit)",
+   "highlights": [
+    "107 units \u00b7 Lake City",
+    "~$95K/unit",
+    "Institutional / value-add scale"
+   ]
+  },
+  {
+   "id": "large-statewide-2026-06-23-10",
+   "analytics_id": "A-00195",
+   "rank": 10,
+   "submarket": "New Port Richey (Tampa MSA)",
+   "profile": "Multifamily Community (40+ units)",
+   "price_band": "$12M\u2013$13M",
+   "cap_label": "~$115K/unit",
+   "desc": "107-unit multifamily in New Port Richey (Tampa MSA); ~$115K/unit. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 107-unit multifamily, New Port Richey (Tampa MSA) (~$115K/unit)",
+   "highlights": [
+    "107 units \u00b7 New Port Richey (Tampa MSA)",
+    "~$115K/unit",
+    "Institutional / value-add scale"
+   ]
+  }
+ ]
+}

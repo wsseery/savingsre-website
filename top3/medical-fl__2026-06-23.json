@@ -1,0 +1,111 @@
+{
+ "segment": "medical-fl",
+ "collection": "curated",
+ "template": "curated-generic",
+ "label": "Medical Office \u2014 Florida",
+ "tagline": "Top medical office & healthcare-tenant deals statewide \u00b7 ranked by cap rate",
+ "search_name": "Crexi (FL medical office)",
+ "generated": "2026-06-23",
+ "expires": "2026-07-23",
+ "total_results": 836,
+ "metric_label": "Cap rate",
+ "methodology": "Crexi FL office (medical/healthcare) pull 2026-06-23, ranked by broker-reported cap rate (not independently verified). Listings without a published cap excluded. Disguised: area + type + price band + cap band public; exact address, tenant & lease terms on request.",
+ "items": [
+  {
+   "id": "medical-fl-2026-06-23-01",
+   "analytics_id": "A-00212",
+   "rank": 1,
+   "submarket": "Lauderhill (Broward)",
+   "profile": "Medical Office Plaza",
+   "price_band": "$7M\u2013$8M",
+   "cap_label": "~8.00% cap",
+   "desc": "Medical Office Plaza in Lauderhill (Broward); ~8.00% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Medical Office Plaza, Lauderhill (Broward) (~8.00% cap)",
+   "highlights": [
+    "Medical Office Plaza \u00b7 ~33,178 SF",
+    "~8.00% cap",
+    "Lauderhill (Broward) submarket"
+   ]
+  },
+  {
+   "id": "medical-fl-2026-06-23-02",
+   "analytics_id": "A-00213",
+   "rank": 2,
+   "submarket": "Miami Beach",
+   "profile": "Medical Office",
+   "price_band": "$32M\u2013$34M",
+   "cap_label": "~6.73% cap",
+   "desc": "Medical Office in Miami Beach; ~6.73% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Medical Office, Miami Beach (~6.73% cap)",
+   "highlights": [
+    "Medical Office \u00b7 ~85,162 SF",
+    "~6.73% cap",
+    "Miami Beach submarket"
+   ]
+  },
+  {
+   "id": "medical-fl-2026-06-23-03",
+   "analytics_id": "A-00214",
+   "rank": 3,
+   "submarket": "Florida (multi-site)",
+   "profile": "Medical Office",
+   "price_band": "$7M\u2013$8M",
+   "cap_label": "~6.50% cap",
+   "desc": "Medical Office in Florida (multi-site); ~6.50% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Medical Office, Florida (multi-site) (~6.50% cap)",
+   "highlights": [
+    "Medical Office \u00b7 100% occupancy",
+    "~6.50% cap",
+    "Florida (multi-site) submarket"
+   ]
+  },
+  {
+   "id": "medical-fl-2026-06-23-04",
+   "analytics_id": "A-00215",
+   "rank": 4,
+   "submarket": "Lakewood Ranch (Sarasota MSA)",
+   "profile": "Single-Tenant Medical",
+   "price_band": "$6M\u2013$7M",
+   "cap_label": "~6.50% cap",
+   "desc": "Single-Tenant Medical in Lakewood Ranch (Sarasota MSA); ~6.50% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Single-Tenant Medical, Lakewood Ranch (Sarasota MSA) (~6.50% cap)",
+   "highlights": [
+    "Single-Tenant Medical \u00b7 ~8,046 SF",
+    "~6.50% cap",
+    "Lakewood Ranch (Sarasota MSA) submarket"
+   ]
+  },
+  {
+   "id": "medical-fl-2026-06-23-05",
+   "analytics_id": "A-00216",
+   "rank": 5,
+   "submarket": "Hialeah (Miami MSA)",
+   "profile": "Medical Office",
+   "price_band": "$6M\u2013$7M",
+   "cap_label": "~6.47% cap",
+   "desc": "Medical Office in Hialeah (Miami MSA); ~6.47% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Medical Office, Hialeah (Miami MSA) (~6.47% cap)",
+   "highlights": [
+    "Medical Office \u00b7 ~5,991 SF",
+    "~6.47% cap",
+    "Hialeah (Miami MSA) submarket"
+   ]
+  },
+  {
+   "id": "medical-fl-2026-06-23-06",
+   "analytics_id": "A-00217",
+   "rank": 6,
+   "submarket": "Palm Beach Gardens",
+   "profile": "Single-Tenant Medical",
+   "price_band": "$9M\u2013$10M",
+   "cap_label": "~5.25% cap",
+   "desc": "Single-Tenant Medical in Palm Beach Gardens; ~5.25% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Single-Tenant Medical, Palm Beach Gardens (~5.25% cap)",
+   "highlights": [
+    "Single-Tenant Medical \u00b7 ~10,068 SF",
+    "~5.25% cap",
+    "Credit healthcare tenant (NYU Langone)"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,111 @@
+{
+ "segment": "strip-mall-fl",
+ "collection": "curated",
+ "template": "curated-generic",
+ "label": "Strip Malls & Retail Centers \u2014 Florida",
+ "tagline": "Top multi-tenant strip & neighborhood retail centers statewide \u00b7 ranked by cap rate",
+ "search_name": "LoopNet (FL retail, 8%+ cap)",
+ "generated": "2026-06-23",
+ "expires": "2026-07-23",
+ "total_results": 23,
+ "metric_label": "Cap rate",
+ "methodology": "LoopNet FL retail (multi-tenant, 8%+ cap) pull 2026-06-23, ranked by broker-reported cap rate (not independently verified). Listings without a published cap excluded. Disguised: area + type + price band + cap band public; exact address, tenant & lease terms on request.",
+ "items": [
+  {
+   "id": "strip-mall-fl-2026-06-23-01",
+   "analytics_id": "A-00206",
+   "rank": 1,
+   "submarket": "Winter Springs (Orlando MSA)",
+   "profile": "Multi-Tenant Retail/Strip Center",
+   "price_band": "$0.5M\u2013$1M",
+   "cap_label": "~10.20% cap",
+   "desc": "Multi-Tenant Retail/Strip Center in Winter Springs (Orlando MSA); ~10.20% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Multi-Tenant Retail/Strip Center, Winter Springs (Orlando MSA) (~10.20% cap)",
+   "highlights": [
+    "Multi-Tenant Retail/Strip Center \u00b7 ~5,880 SF",
+    "~10.20% cap",
+    "Winter Springs (Orlando MSA) submarket"
+   ]
+  },
+  {
+   "id": "strip-mall-fl-2026-06-23-02",
+   "analytics_id": "A-00207",
+   "rank": 2,
+   "submarket": "Seffner (Tampa MSA)",
+   "profile": "Multi-Tenant Retail/Strip Center",
+   "price_band": "$1M\u2013$1.5M",
+   "cap_label": "~10.09% cap",
+   "desc": "Multi-Tenant Retail/Strip Center in Seffner (Tampa MSA); ~10.09% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Multi-Tenant Retail/Strip Center, Seffner (Tampa MSA) (~10.09% cap)",
+   "highlights": [
+    "Multi-Tenant Retail/Strip Center \u00b7 ~8,373 SF",
+    "~10.09% cap",
+    "Seffner (Tampa MSA) submarket"
+   ]
+  },
+  {
+   "id": "strip-mall-fl-2026-06-23-03",
+   "analytics_id": "A-00208",
+   "rank": 3,
+   "submarket": "Merritt Island (Space Coast)",
+   "profile": "Multi-Tenant Retail/Strip Center",
+   "price_band": "$1M\u2013$1.5M",
+   "cap_label": "~8.29% cap",
+   "desc": "Multi-Tenant Retail/Strip Center in Merritt Island (Space Coast); ~8.29% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Multi-Tenant Retail/Strip Center, Merritt Island (Space Coast) (~8.29% cap)",
+   "highlights": [
+    "Multi-Tenant Retail/Strip Center \u00b7 ~6,600 SF",
+    "~8.29% cap",
+    "Merritt Island (Space Coast) submarket"
+   ]
+  },
+  {
+   "id": "strip-mall-fl-2026-06-23-04",
+   "analytics_id": "A-00209",
+   "rank": 4,
+   "submarket": "Cocoa (Space Coast)",
+   "profile": "Multi-Tenant Retail/Strip Center",
+   "price_band": "$2.5M\u2013$3M",
+   "cap_label": "~8.27% cap",
+   "desc": "Multi-Tenant Retail/Strip Center in Cocoa (Space Coast); ~8.27% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Multi-Tenant Retail/Strip Center, Cocoa (Space Coast) (~8.27% cap)",
+   "highlights": [
+    "Multi-Tenant Retail/Strip Center \u00b7 ~16,976 SF",
+    "~8.27% cap",
+    "Cocoa (Space Coast) submarket"
+   ]
+  },
+  {
+   "id": "strip-mall-fl-2026-06-23-05",
+   "analytics_id": "A-00210",
+   "rank": 5,
+   "submarket": "Fort Pierce",
+   "profile": "Multi-Tenant Retail/Strip Center",
+   "price_band": "$0.5M\u2013$1M",
+   "cap_label": "~8.11% cap",
+   "desc": "Multi-Tenant Retail/Strip Center in Fort Pierce; ~8.11% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Multi-Tenant Retail/Strip Center, Fort Pierce (~8.11% cap)",
+   "highlights": [
+    "Multi-Tenant Retail/Strip Center \u00b7 ~5,209 SF",
+    "~8.11% cap",
+    "Fort Pierce submarket"
+   ]
+  },
+  {
+   "id": "strip-mall-fl-2026-06-23-06",
+   "analytics_id": "A-00211",
+   "rank": 6,
+   "submarket": "Daytona Beach",
+   "profile": "Multi-Tenant Retail/Strip Center",
+   "price_band": "$1.5M\u2013$2M",
+   "cap_label": "~8.08% cap",
+   "desc": "Multi-Tenant Retail/Strip Center in Daytona Beach; ~8.08% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Multi-Tenant Retail/Strip Center, Daytona Beach (~8.08% cap)",
+   "highlights": [
+    "Multi-Tenant Retail/Strip Center \u00b7 ~4,806 SF",
+    "~8.08% cap",
+    "Daytona Beach submarket"
+   ]
+  }
+ ]
+}

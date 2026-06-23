@@ -1,0 +1,175 @@
+{
+ "segment": "commercial-fl",
+ "collection": "curated",
+ "template": "curated-generic",
+ "label": "Commercial & Office \u2014 Florida",
+ "tagline": "Top general commercial, office & mixed-use deals statewide \u00b7 ranked by cap rate",
+ "search_name": "Crexi (FL office/mixed-use)",
+ "generated": "2026-06-23",
+ "expires": "2026-07-23",
+ "total_results": 3413,
+ "metric_label": "Cap rate",
+ "methodology": "Crexi FL office/commercial pull 2026-06-23, ranked by broker-reported cap rate (not independently verified). Listings without a published cap excluded. Disguised: area + type + price band + cap band public; exact address, tenant & lease terms on request.",
+ "items": [
+  {
+   "id": "commercial-fl-2026-06-23-01",
+   "analytics_id": "A-00218",
+   "rank": 1,
+   "submarket": "Jacksonville",
+   "profile": "Office",
+   "price_band": "$5M\u2013$6M",
+   "cap_label": "~9.23% cap",
+   "desc": "Office in Jacksonville; ~9.23% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Office, Jacksonville (~9.23% cap)",
+   "highlights": [
+    "Office \u00b7 ~34,938 SF",
+    "~9.23% cap",
+    "Jacksonville submarket"
+   ]
+  },
+  {
+   "id": "commercial-fl-2026-06-23-02",
+   "analytics_id": "A-00219",
+   "rank": 2,
+   "submarket": "Coral Springs (Broward)",
+   "profile": "Office",
+   "price_band": "$7M\u2013$8M",
+   "cap_label": "~8.34% cap",
+   "desc": "Office in Coral Springs (Broward); ~8.34% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Office, Coral Springs (Broward) (~8.34% cap)",
+   "highlights": [
+    "Office \u00b7 ~53,337 SF",
+    "~8.34% cap",
+    "Coral Springs (Broward) submarket"
+   ]
+  },
+  {
+   "id": "commercial-fl-2026-06-23-03",
+   "analytics_id": "A-00220",
+   "rank": 3,
+   "submarket": "Clermont (Orlando MSA)",
+   "profile": "Office",
+   "price_band": "$6M\u2013$7M",
+   "cap_label": "~8.20% cap",
+   "desc": "Office in Clermont (Orlando MSA); ~8.20% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Office, Clermont (Orlando MSA) (~8.20% cap)",
+   "highlights": [
+    "Office \u00b7 ~21,406 SF",
+    "~8.20% cap",
+    "Clermont (Orlando MSA) submarket"
+   ]
+  },
+  {
+   "id": "commercial-fl-2026-06-23-04",
+   "analytics_id": "A-00221",
+   "rank": 4,
+   "submarket": "Coral Springs (Broward)",
+   "profile": "Office",
+   "price_band": "$5M\u2013$6M",
+   "cap_label": "~8.00% cap",
+   "desc": "Office in Coral Springs (Broward); ~8.00% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Office, Coral Springs (Broward) (~8.00% cap)",
+   "highlights": [
+    "Office \u00b7 Net-leased",
+    "~8.00% cap",
+    "Coral Springs (Broward) submarket"
+   ]
+  },
+  {
+   "id": "commercial-fl-2026-06-23-05",
+   "analytics_id": "A-00222",
+   "rank": 5,
+   "submarket": "Pensacola",
+   "profile": "Office",
+   "price_band": "$14M\u2013$15M",
+   "cap_label": "~7.98% cap",
+   "desc": "Office in Pensacola; ~7.98% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Office, Pensacola (~7.98% cap)",
+   "highlights": [
+    "Office \u00b7 ~69,213 SF",
+    "~7.98% cap",
+    "Pensacola submarket"
+   ]
+  },
+  {
+   "id": "commercial-fl-2026-06-23-06",
+   "analytics_id": "A-00223",
+   "rank": 6,
+   "submarket": "Jacksonville",
+   "profile": "Office",
+   "price_band": "$11M\u2013$12M",
+   "cap_label": "~7.76% cap",
+   "desc": "Office in Jacksonville; ~7.76% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Office, Jacksonville (~7.76% cap)",
+   "highlights": [
+    "Office \u00b7 ~83,069 SF",
+    "~7.76% cap",
+    "Jacksonville submarket"
+   ]
+  },
+  {
+   "id": "commercial-fl-2026-06-23-07",
+   "analytics_id": "A-00224",
+   "rank": 7,
+   "submarket": "Tallahassee",
+   "profile": "Office",
+   "price_band": "$11M\u2013$12M",
+   "cap_label": "~7.51% cap",
+   "desc": "Office in Tallahassee; ~7.51% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Office, Tallahassee (~7.51% cap)",
+   "highlights": [
+    "Office \u00b7 Net-leased",
+    "~7.51% cap",
+    "Tallahassee submarket"
+   ]
+  },
+  {
+   "id": "commercial-fl-2026-06-23-08",
+   "analytics_id": "A-00225",
+   "rank": 8,
+   "submarket": "Miami Gardens (Miami MSA)",
+   "profile": "Mixed-Use",
+   "price_band": "$6M\u2013$7M",
+   "cap_label": "~7.03% cap",
+   "desc": "Mixed-Use in Miami Gardens (Miami MSA); ~7.03% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Mixed-Use, Miami Gardens (Miami MSA) (~7.03% cap)",
+   "highlights": [
+    "Mixed-Use \u00b7 ~24,964 SF",
+    "~7.03% cap",
+    "Miami Gardens (Miami MSA) submarket"
+   ]
+  },
+  {
+   "id": "commercial-fl-2026-06-23-09",
+   "analytics_id": "A-00226",
+   "rank": 9,
+   "submarket": "Orlando",
+   "profile": "Office",
+   "price_band": "$11M\u2013$12M",
+   "cap_label": "~7.00% cap",
+   "desc": "Office in Orlando; ~7.00% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Office, Orlando (~7.00% cap)",
+   "highlights": [
+    "Office \u00b7 ~35,601 SF",
+    "~7.00% cap",
+    "Orlando submarket"
+   ]
+  },
+  {
+   "id": "commercial-fl-2026-06-23-10",
+   "analytics_id": "A-00227",
+   "rank": 10,
+   "submarket": "Pompano Beach (Broward)",
+   "profile": "Office",
+   "price_band": "$11M\u2013$12M",
+   "cap_label": "~7.00% cap",
+   "desc": "Office in Pompano Beach (Broward); ~7.00% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Office, Pompano Beach (Broward) (~7.00% cap)",
+   "highlights": [
+    "Office \u00b7 ~46,462 SF",
+    "~7.00% cap",
+    "Pompano Beach (Broward) submarket"
+   ]
+  }
+ ]
+}

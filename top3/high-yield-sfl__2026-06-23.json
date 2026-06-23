@@ -1,0 +1,95 @@
+{
+ "segment": "high-yield-sfl",
+ "collection": "curated",
+ "template": "curated-generic",
+ "label": "High-Yield Multifamily \u2014 8%+ Cap",
+ "tagline": "Top 5 \u00b7 Florida (statewide) \u00b7 5\u201325 units \u00b7 value-add & high-yield",
+ "search_name": "LoopNet (FL apartments, 8%+ cap)",
+ "generated": "2026-06-23",
+ "expires": "2026-07-23",
+ "total_results": 23,
+ "metric_label": "Cap rate",
+ "methodology": "LoopNet FL apartment-building listings 2026-06-23, min cap 8%, ranked by broker-reported cap rate. Implausible outliers dropped (cap>15% strong coastal, >20% anywhere); MHP/RV excluded. 8%+ deals are statewide (Tallahassee/Tampa/Jacksonville), not South FL. Disguised: area + type + price band + cap band public.",
+ "items": [
+  {
+   "id": "high-yield-sfl-2026-06-23-01",
+   "analytics_id": "A-00181",
+   "rank": 1,
+   "submarket": "Tallahassee",
+   "profile": "Value-Add Multifamily",
+   "price_band": "$1.5M\u2013$2M",
+   "cap_label": "~13.68% cap",
+   "desc": "Value-add multifamily in Tallahassee; ~13.68% cap. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Tallahassee value-add multifamily (~13.68% cap)",
+   "highlights": [
+    "Value-add multifamily \u00b7 ~13,748 SF",
+    "~13.68% broker-reported cap",
+    "Tallahassee \u2014 high-yield market"
+   ]
+  },
+  {
+   "id": "high-yield-sfl-2026-06-23-02",
+   "analytics_id": "A-00182",
+   "rank": 2,
+   "submarket": "Tampa",
+   "profile": "Value-Add Multifamily",
+   "price_band": "$2.5M\u2013$3M",
+   "cap_label": "~12.00% cap",
+   "desc": "Value-add multifamily in Tampa; ~12.00% cap. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Tampa value-add multifamily (~12.00% cap)",
+   "highlights": [
+    "Value-add multifamily \u00b7 ~7,544 SF",
+    "~12.00% broker-reported cap",
+    "Tampa \u2014 high-yield market"
+   ]
+  },
+  {
+   "id": "high-yield-sfl-2026-06-23-03",
+   "analytics_id": "A-00183",
+   "rank": 3,
+   "submarket": "Jacksonville",
+   "profile": "Value-Add Multifamily",
+   "price_band": "$0.5M\u2013$1M",
+   "cap_label": "~11.00% cap",
+   "desc": "Value-add multifamily in Jacksonville; ~11.00% cap. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Jacksonville value-add multifamily (~11.00% cap)",
+   "highlights": [
+    "Value-add multifamily \u00b7 ~8,313 SF",
+    "~11.00% broker-reported cap",
+    "Jacksonville \u2014 high-yield market"
+   ]
+  },
+  {
+   "id": "high-yield-sfl-2026-06-23-04",
+   "analytics_id": "A-00184",
+   "rank": 4,
+   "submarket": "Tampa",
+   "profile": "Value-Add Multifamily",
+   "price_band": "$0.5M\u2013$1M",
+   "cap_label": "~9.60% cap",
+   "desc": "Value-add multifamily in Tampa; ~9.60% cap. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Tampa value-add multifamily (~9.60% cap)",
+   "highlights": [
+    "Value-add multifamily \u00b7 ~4,528 SF",
+    "~9.60% broker-reported cap",
+    "Tampa \u2014 high-yield market"
+   ]
+  },
+  {
+   "id": "high-yield-sfl-2026-06-23-05",
+   "analytics_id": "A-00185",
+   "rank": 5,
+   "submarket": "Miami",
+   "profile": "Value-Add Multifamily",
+   "price_band": "$2M\u2013$2.5M",
+   "cap_label": "~9.45% cap",
+   "desc": "Value-add multifamily in Miami; ~9.45% cap. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Miami value-add multifamily (~9.45% cap)",
+   "highlights": [
+    "Value-add multifamily \u00b7 ~3,768 SF",
+    "~9.45% broker-reported cap",
+    "Miami \u2014 high-yield market"
+   ]
+  }
+ ]
+}

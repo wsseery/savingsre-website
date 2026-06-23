@@ -1,0 +1,175 @@
+{
+ "segment": "nnn-fl",
+ "collection": "curated",
+ "template": "curated-generic",
+ "label": "NNN Commercial \u2014 Florida",
+ "tagline": "Top 10 \u00b7 Florida (statewide) \u00b7 single & multi-tenant net lease \u00b7 ranked by cap rate",
+ "search_name": "Crexi (FL Retail / net lease)",
+ "generated": "2026-06-23",
+ "expires": "2026-07-23",
+ "total_results": 4609,
+ "metric_label": "Cap rate",
+ "methodology": "Crexi FL retail/net-lease pull 2026-06-23, ranked by broker-reported cap rate (not independently verified). Listings without a published cap excluded. Disguised: area + type + price band + cap band public; exact address, tenant & lease terms on request.",
+ "items": [
+  {
+   "id": "nnn-fl-2026-06-23-01",
+   "analytics_id": "A-00196",
+   "rank": 1,
+   "submarket": "Ocoee (Orlando MSA)",
+   "profile": "Multi-Tenant Retail Center",
+   "price_band": "$7M\u2013$8M",
+   "cap_label": "~8.56% cap",
+   "desc": "Multi-Tenant Retail Center in Ocoee (Orlando MSA); ~8.56% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Multi-Tenant Retail Center, Ocoee (Orlando MSA) (~8.56% cap)",
+   "highlights": [
+    "Multi-Tenant Retail Center \u00b7 ~61,100 SF",
+    "~8.56% cap",
+    "~8.56% cap \u2014 highest on the list"
+   ]
+  },
+  {
+   "id": "nnn-fl-2026-06-23-02",
+   "analytics_id": "A-00197",
+   "rank": 2,
+   "submarket": "New Port Richey (Tampa Bay MSA)",
+   "profile": "Shopping Center",
+   "price_band": "$16M\u2013$17M",
+   "cap_label": "~7.90% cap",
+   "desc": "Shopping Center in New Port Richey (Tampa Bay MSA); ~7.90% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Shopping Center, New Port Richey (Tampa Bay MSA) (~7.90% cap)",
+   "highlights": [
+    "Shopping Center \u00b7 ~$1.3M NOI",
+    "~7.90% cap",
+    "Grocery/anchor-style center \u00b7 ~$1.3M NOI"
+   ]
+  },
+  {
+   "id": "nnn-fl-2026-06-23-03",
+   "analytics_id": "A-00198",
+   "rank": 3,
+   "submarket": "Boynton Beach",
+   "profile": "Single-Tenant NNN",
+   "price_band": "$12M\u2013$13M",
+   "cap_label": "~7.70% cap",
+   "desc": "Single-Tenant NNN in Boynton Beach; ~7.70% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Single-Tenant NNN, Boynton Beach (~7.70% cap)",
+   "highlights": [
+    "Single-Tenant NNN \u00b7 ~43,000 SF",
+    "~7.70% cap",
+    "Credit fitness tenant \u00b7 absolute NNN"
+   ]
+  },
+  {
+   "id": "nnn-fl-2026-06-23-04",
+   "analytics_id": "A-00199",
+   "rank": 4,
+   "submarket": "Apopka (Orlando MSA)",
+   "profile": "Shopping Center",
+   "price_band": "$23M\u2013$24M",
+   "cap_label": "~7.30% cap",
+   "desc": "Shopping Center in Apopka (Orlando MSA); ~7.30% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Shopping Center, Apopka (Orlando MSA) (~7.30% cap)",
+   "highlights": [
+    "Shopping Center \u00b7 ~170,993 SF",
+    "~7.30% cap",
+    "Large multi-tenant center \u00b7 ~171K SF"
+   ]
+  },
+  {
+   "id": "nnn-fl-2026-06-23-05",
+   "analytics_id": "A-00200",
+   "rank": 5,
+   "submarket": "Ocoee (Orlando MSA)",
+   "profile": "Single-Tenant NNN",
+   "price_band": "$13M\u2013$14M",
+   "cap_label": "~7.25% cap",
+   "desc": "Single-Tenant NNN in Ocoee (Orlando MSA); ~7.25% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Single-Tenant NNN, Ocoee (Orlando MSA) (~7.25% cap)",
+   "highlights": [
+    "Single-Tenant NNN \u00b7 Net-leased",
+    "~7.25% cap",
+    "Credit fitness tenant \u00b7 NNN"
+   ]
+  },
+  {
+   "id": "nnn-fl-2026-06-23-06",
+   "analytics_id": "A-00201",
+   "rank": 6,
+   "submarket": "Orlando",
+   "profile": "Single-Tenant NNN",
+   "price_band": "$11M\u2013$12M",
+   "cap_label": "~7.25% cap",
+   "desc": "Single-Tenant NNN in Orlando; ~7.25% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Single-Tenant NNN, Orlando (~7.25% cap)",
+   "highlights": [
+    "Single-Tenant NNN \u00b7 ~37,780 SF",
+    "~7.25% cap",
+    "Credit fitness tenant \u00b7 NNN"
+   ]
+  },
+  {
+   "id": "nnn-fl-2026-06-23-07",
+   "analytics_id": "A-00202",
+   "rank": 7,
+   "submarket": "New Smyrna Beach",
+   "profile": "Shopping Center",
+   "price_band": "$13M\u2013$14M",
+   "cap_label": "~7.00% cap",
+   "desc": "Shopping Center in New Smyrna Beach; ~7.00% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Shopping Center, New Smyrna Beach (~7.00% cap)",
+   "highlights": [
+    "Shopping Center \u00b7 ~99,961 SF",
+    "~7.00% cap",
+    "~100K SF multi-tenant center"
+   ]
+  },
+  {
+   "id": "nnn-fl-2026-06-23-08",
+   "analytics_id": "A-00203",
+   "rank": 8,
+   "submarket": "Lakeland",
+   "profile": "Multi-Tenant Retail Center",
+   "price_band": "$11M\u2013$12M",
+   "cap_label": "~6.46% cap",
+   "desc": "Multi-Tenant Retail Center in Lakeland; ~6.46% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Multi-Tenant Retail Center, Lakeland (~6.46% cap)",
+   "highlights": [
+    "Multi-Tenant Retail Center \u00b7 ~40,395 SF",
+    "~6.46% cap",
+    "Lakeland submarket"
+   ]
+  },
+  {
+   "id": "nnn-fl-2026-06-23-09",
+   "analytics_id": "A-00204",
+   "rank": 9,
+   "submarket": "North Palm Beach",
+   "profile": "Multi-Tenant Retail Center",
+   "price_band": "$12M\u2013$13M",
+   "cap_label": "~6.36% cap",
+   "desc": "Multi-Tenant Retail Center in North Palm Beach; ~6.36% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Multi-Tenant Retail Center, North Palm Beach (~6.36% cap)",
+   "highlights": [
+    "Multi-Tenant Retail Center \u00b7 ~20,008 SF",
+    "~6.36% cap",
+    "North Palm Beach submarket"
+   ]
+  },
+  {
+   "id": "nnn-fl-2026-06-23-10",
+   "analytics_id": "A-00205",
+   "rank": 10,
+   "submarket": "Hialeah Gardens",
+   "profile": "Multi-Tenant Retail Center",
+   "price_band": "$12M\u2013$13M",
+   "cap_label": "~6.34% cap",
+   "desc": "Multi-Tenant Retail Center in Hialeah Gardens; ~6.34% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Multi-Tenant Retail Center, Hialeah Gardens (~6.34% cap)",
+   "highlights": [
+    "Multi-Tenant Retail Center \u00b7 ~20,741 SF",
+    "~6.34% cap",
+    "Hialeah Gardens submarket"
+   ]
+  }
+ ]
+}
