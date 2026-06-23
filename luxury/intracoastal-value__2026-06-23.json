@@ -1,0 +1,175 @@
+{
+ "segment": "intracoastal-value",
+ "collection": "luxury",
+ "template": "luxury-value",
+ "label": "Intracoastal \u2014 Best Value by $/sqft",
+ "tagline": "Lowest $/sqft intracoastal luxury \u00b7 Florida",
+ "search_name": "WSS-LUX-Intracoastal",
+ "generated": "2026-06-23",
+ "expires": "2026-07-23",
+ "total_results": 10,
+ "metric_label": "$/sqft",
+ "methodology": "Live Beaches MLS pull 2026-06-23 (WSS-LUX-Intracoastal), Florida only, ranked by LOWEST price per square foot (best value). Disguised: area + beds/baths + $/sqft band + price band public; exact address & photos on request.",
+ "items": [
+  {
+   "id": "intracoastal-value-2026-06-23-01",
+   "analytics_id": "A-00155",
+   "rank": 1,
+   "submarket": "Sebastian",
+   "profile": "3bd / 2ba \u00b7 Intracoastal Residence",
+   "price_band": "$1.5M\u2013$2M",
+   "cap_label": "~$400/sqft",
+   "thumb_url": "",
+   "desc": "Luxury Intracoastal Residence in Sebastian; ~$400/sqft. Exact address, photos & financials on request.",
+   "inquiry_subject": "Inquiry: Sebastian Intracoastal Residence (~$400/sqft)",
+   "highlights": [
+    "~3,714 sq ft \u00b7 built 1989",
+    "Lowest price/sqft in this list"
+   ]
+  },
+  {
+   "id": "intracoastal-value-2026-06-23-02",
+   "analytics_id": "A-00156",
+   "rank": 2,
+   "submarket": "Fort Pierce",
+   "profile": "8bd / 5ba \u00b7 Intracoastal Residence",
+   "price_band": "$3M\u2013$4M",
+   "cap_label": "~$450/sqft",
+   "thumb_url": "",
+   "desc": "Luxury Intracoastal Residence in Fort Pierce; ~$450/sqft. Exact address, photos & financials on request.",
+   "inquiry_subject": "Inquiry: Fort Pierce Intracoastal Residence (~$450/sqft)",
+   "highlights": [
+    "~7,389 sq ft \u00b7 built 2009",
+    "#2 best value by price/sqft"
+   ]
+  },
+  {
+   "id": "intracoastal-value-2026-06-23-03",
+   "analytics_id": "A-00157",
+   "rank": 3,
+   "submarket": "Jensen Beach",
+   "profile": "5bd / 3ba \u00b7 Intracoastal Residence",
+   "price_band": "$1.5M\u2013$2M",
+   "cap_label": "~$475/sqft",
+   "thumb_url": "",
+   "desc": "Luxury Intracoastal Residence in Jensen Beach; ~$475/sqft. Exact address, photos & financials on request.",
+   "inquiry_subject": "Inquiry: Jensen Beach Intracoastal Residence (~$475/sqft)",
+   "highlights": [
+    "~3,600 sq ft \u00b7 built 1960",
+    "#3 best value by price/sqft"
+   ]
+  },
+  {
+   "id": "intracoastal-value-2026-06-23-04",
+   "analytics_id": "A-00158",
+   "rank": 4,
+   "submarket": "Jensen Beach",
+   "profile": "3bd / 3ba \u00b7 Intracoastal Residence",
+   "price_band": "$1.5M\u2013$2M",
+   "cap_label": "~$500/sqft",
+   "thumb_url": "",
+   "desc": "Luxury Intracoastal Residence in Jensen Beach; ~$500/sqft. Exact address, photos & financials on request.",
+   "inquiry_subject": "Inquiry: Jensen Beach Intracoastal Residence (~$500/sqft)",
+   "highlights": [
+    "~3,960 sq ft \u00b7 built 2008",
+    "#4 best value by price/sqft"
+   ]
+  },
+  {
+   "id": "intracoastal-value-2026-06-23-05",
+   "analytics_id": "A-00159",
+   "rank": 5,
+   "submarket": "Port St Lucie",
+   "profile": "6bd / 7ba \u00b7 Intracoastal Residence",
+   "price_band": "$3M\u2013$4M",
+   "cap_label": "~$550/sqft",
+   "thumb_url": "",
+   "desc": "Luxury Intracoastal Residence in Port St Lucie; ~$550/sqft. Exact address, photos & financials on request.",
+   "inquiry_subject": "Inquiry: Port St Lucie Intracoastal Residence (~$550/sqft)",
+   "highlights": [
+    "~6,213 sq ft \u00b7 built 2014",
+    "#5 best value by price/sqft"
+   ]
+  },
+  {
+   "id": "intracoastal-value-2026-06-23-06",
+   "analytics_id": "A-00160",
+   "rank": 6,
+   "submarket": "Port St Lucie",
+   "profile": "5bd / 7ba \u00b7 Intracoastal Residence",
+   "price_band": "$2.5M\u2013$3M",
+   "cap_label": "~$550/sqft",
+   "thumb_url": "",
+   "desc": "Luxury Intracoastal Residence in Port St Lucie; ~$550/sqft. Exact address, photos & financials on request.",
+   "inquiry_subject": "Inquiry: Port St Lucie Intracoastal Residence (~$550/sqft)",
+   "highlights": [
+    "~4,825 sq ft \u00b7 built 1997",
+    "#6 best value by price/sqft"
+   ]
+  },
+  {
+   "id": "intracoastal-value-2026-06-23-07",
+   "analytics_id": "A-00161",
+   "rank": 7,
+   "submarket": "Fort Pierce",
+   "profile": "4bd / 4ba \u00b7 Intracoastal Residence",
+   "price_band": "$2.5M\u2013$3M",
+   "cap_label": "~$550/sqft",
+   "thumb_url": "",
+   "desc": "Luxury Intracoastal Residence in Fort Pierce; ~$550/sqft. Exact address, photos & financials on request.",
+   "inquiry_subject": "Inquiry: Fort Pierce Intracoastal Residence (~$550/sqft)",
+   "highlights": [
+    "~4,610 sq ft \u00b7 built 2007",
+    "#7 best value by price/sqft"
+   ]
+  },
+  {
+   "id": "intracoastal-value-2026-06-23-08",
+   "analytics_id": "A-00162",
+   "rank": 8,
+   "submarket": "Lighthouse Point",
+   "profile": "7bd / 6ba \u00b7 Intracoastal Residence",
+   "price_band": "$3M\u2013$4M",
+   "cap_label": "~$575/sqft",
+   "thumb_url": "",
+   "desc": "Luxury Intracoastal Residence in Lighthouse Point; ~$575/sqft. Exact address, photos & financials on request.",
+   "inquiry_subject": "Inquiry: Lighthouse Point Intracoastal Residence (~$575/sqft)",
+   "highlights": [
+    "~6,575 sq ft \u00b7 built 1974",
+    "#8 best value by price/sqft"
+   ]
+  },
+  {
+   "id": "intracoastal-value-2026-06-23-09",
+   "analytics_id": "A-00163",
+   "rank": 9,
+   "submarket": "Riviera Beach",
+   "profile": "3bd / 3ba \u00b7 Intracoastal Residence",
+   "price_band": "$2M\u2013$2.5M",
+   "cap_label": "~$600/sqft",
+   "thumb_url": "",
+   "desc": "Luxury Intracoastal Residence in Riviera Beach; ~$600/sqft. Exact address, photos & financials on request.",
+   "inquiry_subject": "Inquiry: Riviera Beach Intracoastal Residence (~$600/sqft)",
+   "highlights": [
+    "~3,790 sq ft \u00b7 built 2026",
+    "#9 best value by price/sqft"
+   ]
+  },
+  {
+   "id": "intracoastal-value-2026-06-23-10",
+   "analytics_id": "A-00164",
+   "rank": 10,
+   "submarket": "Sewalls Point",
+   "profile": "6bd / 4ba \u00b7 Intracoastal Residence",
+   "price_band": "$3M\u2013$4M",
+   "cap_label": "~$650/sqft",
+   "thumb_url": "",
+   "desc": "Luxury Intracoastal Residence in Sewalls Point; ~$650/sqft. Exact address, photos & financials on request.",
+   "inquiry_subject": "Inquiry: Sewalls Point Intracoastal Residence (~$650/sqft)",
+   "highlights": [
+    "~4,936 sq ft \u00b7 built 1988",
+    "#10 best value by price/sqft"
+   ]
+  }
+ ]
+}

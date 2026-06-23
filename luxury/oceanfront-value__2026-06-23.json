@@ -1,0 +1,175 @@
+{
+ "segment": "oceanfront-value",
+ "collection": "luxury",
+ "template": "luxury-value",
+ "label": "Oceanfront \u2014 Best Value by $/sqft",
+ "tagline": "Lowest $/sqft oceanfront luxury \u00b7 Florida",
+ "search_name": "WSS-LUX-Oceanfront",
+ "generated": "2026-06-23",
+ "expires": "2026-07-23",
+ "total_results": 10,
+ "metric_label": "$/sqft",
+ "methodology": "Live Beaches MLS pull 2026-06-23 (WSS-LUX-Oceanfront), Florida only, ranked by LOWEST price per square foot (best value). Disguised: area + beds/baths + $/sqft band + price band public; exact address & photos on request.",
+ "items": [
+  {
+   "id": "oceanfront-value-2026-06-23-01",
+   "analytics_id": "A-00145",
+   "rank": 1,
+   "submarket": "Hallandale Beach",
+   "profile": "5bd / 4ba \u00b7 Oceanfront Estate",
+   "price_band": "$6M\u2013$7M",
+   "cap_label": "~$1000/sqft",
+   "thumb_url": "",
+   "desc": "Luxury Oceanfront Estate in Hallandale Beach; ~$1000/sqft. Exact address, photos & financials on request.",
+   "inquiry_subject": "Inquiry: Hallandale Beach Oceanfront Estate (~$1000/sqft)",
+   "highlights": [
+    "~7,016 sq ft \u00b7 built 1980",
+    "Lowest price/sqft in this list"
+   ]
+  },
+  {
+   "id": "oceanfront-value-2026-06-23-02",
+   "analytics_id": "A-00146",
+   "rank": 2,
+   "submarket": "Deerfield Beach",
+   "profile": "4bd / 5ba \u00b7 Oceanfront Estate",
+   "price_band": "$5M\u2013$6M",
+   "cap_label": "~$1175/sqft",
+   "thumb_url": "",
+   "desc": "Luxury Oceanfront Estate in Deerfield Beach; ~$1175/sqft. Exact address, photos & financials on request.",
+   "inquiry_subject": "Inquiry: Deerfield Beach Oceanfront Estate (~$1175/sqft)",
+   "highlights": [
+    "~4,572 sq ft \u00b7 built 2027",
+    "#2 best value by price/sqft"
+   ]
+  },
+  {
+   "id": "oceanfront-value-2026-06-23-03",
+   "analytics_id": "A-00147",
+   "rank": 3,
+   "submarket": "Coral Gables",
+   "profile": "5bd / 4ba \u00b7 Oceanfront Estate",
+   "price_band": "$5M\u2013$6M",
+   "cap_label": "~$1250/sqft",
+   "thumb_url": "",
+   "desc": "Luxury Oceanfront Estate in Coral Gables; ~$1250/sqft. Exact address, photos & financials on request.",
+   "inquiry_subject": "Inquiry: Coral Gables Oceanfront Estate (~$1250/sqft)",
+   "highlights": [
+    "~4,785 sq ft \u00b7 built 1982",
+    "#3 best value by price/sqft"
+   ]
+  },
+  {
+   "id": "oceanfront-value-2026-06-23-04",
+   "analytics_id": "A-00148",
+   "rank": 4,
+   "submarket": "Vero Beach",
+   "profile": "5bd / 4ba \u00b7 Oceanfront Estate",
+   "price_band": "$9M\u2013$10M",
+   "cap_label": "~$1300/sqft",
+   "thumb_url": "",
+   "desc": "Luxury Oceanfront Estate in Vero Beach; ~$1300/sqft. Exact address, photos & financials on request.",
+   "inquiry_subject": "Inquiry: Vero Beach Oceanfront Estate (~$1300/sqft)",
+   "highlights": [
+    "~7,687 sq ft \u00b7 built 2011",
+    "#4 best value by price/sqft"
+   ]
+  },
+  {
+   "id": "oceanfront-value-2026-06-23-05",
+   "analytics_id": "A-00149",
+   "rank": 5,
+   "submarket": "Miami",
+   "profile": "5bd / 5ba \u00b7 Oceanfront Estate",
+   "price_band": "$17M\u2013$18M",
+   "cap_label": "~$1400/sqft",
+   "thumb_url": "",
+   "desc": "Luxury Oceanfront Estate in Miami; ~$1400/sqft. Exact address, photos & financials on request.",
+   "inquiry_subject": "Inquiry: Miami Oceanfront Estate (~$1400/sqft)",
+   "highlights": [
+    "~12,863 sq ft \u00b7 built 2009",
+    "#5 best value by price/sqft"
+   ]
+  },
+  {
+   "id": "oceanfront-value-2026-06-23-06",
+   "analytics_id": "A-00150",
+   "rank": 6,
+   "submarket": "Marathon",
+   "profile": "5bd / 4ba \u00b7 Oceanfront Estate",
+   "price_band": "$5M\u2013$6M",
+   "cap_label": "~$1425/sqft",
+   "thumb_url": "",
+   "desc": "Luxury Oceanfront Estate in Marathon; ~$1425/sqft. Exact address, photos & financials on request.",
+   "inquiry_subject": "Inquiry: Marathon Oceanfront Estate (~$1425/sqft)",
+   "highlights": [
+    "~4,146 sq ft \u00b7 built 2022",
+    "#6 best value by price/sqft"
+   ]
+  },
+  {
+   "id": "oceanfront-value-2026-06-23-07",
+   "analytics_id": "A-00151",
+   "rank": 7,
+   "submarket": "Marathon",
+   "profile": "9bd / 9ba \u00b7 Oceanfront Estate",
+   "price_band": "$26M\u2013$28M",
+   "cap_label": "~$1475/sqft",
+   "thumb_url": "",
+   "desc": "Luxury Oceanfront Estate in Marathon; ~$1475/sqft. Exact address, photos & financials on request.",
+   "inquiry_subject": "Inquiry: Marathon Oceanfront Estate (~$1475/sqft)",
+   "highlights": [
+    "~18,763 sq ft \u00b7 built 2025",
+    "#7 best value by price/sqft"
+   ]
+  },
+  {
+   "id": "oceanfront-value-2026-06-23-08",
+   "analytics_id": "A-00152",
+   "rank": 8,
+   "submarket": "Boca Raton",
+   "profile": "5bd / 6ba \u00b7 Oceanfront Estate",
+   "price_band": "$17M\u2013$18M",
+   "cap_label": "~$1550/sqft",
+   "thumb_url": "",
+   "desc": "Luxury Oceanfront Estate in Boca Raton; ~$1550/sqft. Exact address, photos & financials on request.",
+   "inquiry_subject": "Inquiry: Boca Raton Oceanfront Estate (~$1550/sqft)",
+   "highlights": [
+    "~11,612 sq ft \u00b7 built 2003",
+    "#8 best value by price/sqft"
+   ]
+  },
+  {
+   "id": "oceanfront-value-2026-06-23-09",
+   "analytics_id": "A-00153",
+   "rank": 9,
+   "submarket": "Hillsboro Beach",
+   "profile": "5bd / 5ba \u00b7 Oceanfront Estate",
+   "price_band": "$15M\u2013$16M",
+   "cap_label": "~$1775/sqft",
+   "thumb_url": "",
+   "desc": "Luxury Oceanfront Estate in Hillsboro Beach; ~$1775/sqft. Exact address, photos & financials on request.",
+   "inquiry_subject": "Inquiry: Hillsboro Beach Oceanfront Estate (~$1775/sqft)",
+   "highlights": [
+    "~8,928 sq ft \u00b7 built 1964",
+    "#9 best value by price/sqft"
+   ]
+  },
+  {
+   "id": "oceanfront-value-2026-06-23-10",
+   "analytics_id": "A-00154",
+   "rank": 10,
+   "submarket": "Sarasota",
+   "profile": "4bd / 4ba \u00b7 Oceanfront Estate",
+   "price_band": "$7M\u2013$8M",
+   "cap_label": "~$1875/sqft",
+   "thumb_url": "",
+   "desc": "Luxury Oceanfront Estate in Sarasota; ~$1875/sqft. Exact address, photos & financials on request.",
+   "inquiry_subject": "Inquiry: Sarasota Oceanfront Estate (~$1875/sqft)",
+   "highlights": [
+    "~4,015 sq ft \u00b7 built 2015",
+    "#10 best value by price/sqft"
+   ]
+  }
+ ]
+}
