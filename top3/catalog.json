@@ -1,152 +1,165 @@
 {
-"note": "Unified registry for the SavingsRE Top Investments system. ONE renderer (top3.html) and ONE hub (index.html) read this file. To add a list/segment: add an entry under 'lists' (and to 'order'), then drop a <key>__<date>.json public snapshot + a <key>__index.json. No HTML changes. 'collection' groups lists on the hub; 'template' selects the card layout in the renderer. Public data is DISGUISED (area/type/price band/cap band); exact data lives only in the private ledger. Segments with no snapshot file yet render as 'Coming soon'. Each public item may include a 'highlights' array (2-3 short, disguise-safe value-driver bullets) shown under the row and in the PDF.",
-"version": 7,
-"templates": {
-"mls-financial": "Disguised income-property card (banded from MLS NOI/cap). Address/MLS/exact $ stripped to the ledger.",
-"curated-generic": "Disguised curated card: submarket + profile + price band + cap band, no address. Exact data on request.",
-"str-airbnb": "Disguised short-term-rental card: area + type + price band + est. STR yield band. Revenue ESTIMATED from market ADR x occupancy."
-},
-"collections": {
-"weekly-top3": {
-"label": "This Week's Top 3 by Segment",
-"tag": "Updated Weekly · Beaches MLS",
-"blurb": "Each week we rank the best-value active income properties by reported NOI cap rate, rent-to-value upside, and ownership fit. Pick a segment to see this week's leaders — and browse past weeks."
-},
-"curated": {
-"label": "Curated Collections — Multifamily, Larger, NNN & Commercial",
-"tag": "Curated Collections",
-"blurb": "Hand-screened from Crexi, LoopNet and broker networks. Generic by design — reach out for addresses, financials, and off-market deals."
-}
-},
-"order": [
-"high-yield-sfl",
-"gulf-coast-beach-mf",
-"east-coast-beach-mf",
-"large-statewide",
-"nnn-fl",
-"strip-mall-fl",
-"medical-fl",
-"commercial-fl",
-"mf-upto3m-east",
-"airbnb-str-east"
-],
-"lists": {
-"mf-upto3m-east": {
-"collection": "weekly-top3",
-"label": "Multifamily — Up to $3M",
-"tagline": "Income Properties · 2–4 Units up to $3M · East Palm Beach & Broward",
-"list_size": 3,
-"template": "mls-financial",
-"cadence": "weekly",
-"source": "Beaches MLS",
-"search_name": "WSS-MF-upto3mmeast",
-"browse_url": "/investor-hub.html",
-"browse_label": "View all income-property listings"
-},
-"airbnb-str-east": {
-"collection": "weekly-top3",
-"label": "Airbnb / Short-Term Rental",
-"tagline": "Top projected-STR-yield homes & condos · Delray, Deerfield, Ft. Lauderdale, Pompano, Hollywood, Lake Worth Beach, Lauderdale-by-the-Sea",
-"list_size": 3,
-"template": "str-airbnb",
-"cadence": "weekly",
-"source": "Beaches MLS + market STR estimates",
-"search_name": "WSS-STR-airbnb-east",
-"browse_url": "/investor-hub.html",
-"browse_label": "View all listings"
-},
-"high-yield-sfl": {
-"collection": "curated",
-"featured": true,
-"label": "High-Yield Multifamily — 8%+ Cap",
-"tagline": "Top 5 · Florida (statewide) · 5–25 units · value-add & high-yield",
-"list_size": 5,
-"template": "curated-generic",
-"cadence": "monthly",
-"source": "Crexi / LoopNet / broker network",
-"browse_url": "/commercial-buyer-search.html",
-"browse_label": "Build your buy box"
-},
-"large-statewide": {
-"collection": "curated",
-"featured": true,
-"label": "Larger Investments — 40+ Units",
-"tagline": "Top 10 · Statewide · 40+ units · ranked by scale; institutional & value-add",
-"list_size": 10,
-"template": "curated-generic",
-"cadence": "monthly",
-"source": "Crexi / LoopNet / broker network",
-"browse_url": "/commercial-buyer-search.html",
-"browse_label": "Build your buy box"
-},
-"nnn-fl": {
-"collection": "curated",
-"featured": true,
-"label": "NNN Commercial — Florida",
-"tagline": "Top triple-net (NNN) deals statewide — single & multi-tenant · ranked by cap rate",
-"list_size": 10,
-"template": "curated-generic",
-"cadence": "monthly",
-"source": "Crexi / LoopNet (NNN, FL, single & multi-tenant)",
-"browse_url": "/commercial-buyer-search.html",
-"browse_label": "Build your buy box"
-},
-"strip-mall-fl": {
-"collection": "curated",
-"label": "Strip Malls & Retail Centers — Florida",
-"tagline": "Top multi-tenant strip & neighborhood retail centers statewide · ranked by cap rate",
-"list_size": 10,
-"template": "curated-generic",
-"cadence": "monthly",
-"source": "Crexi / LoopNet (multi-tenant retail, FL)",
-"browse_url": "/commercial-buyer-search.html",
-"browse_label": "Build your buy box"
-},
-"medical-fl": {
-"collection": "curated",
-"label": "Medical Office — Florida",
-"tagline": "Top medical office & healthcare-tenant deals statewide · ranked by cap rate",
-"list_size": 10,
-"template": "curated-generic",
-"cadence": "monthly",
-"source": "Crexi / LoopNet (medical office, FL)",
-"browse_url": "/commercial-buyer-search.html",
-"browse_label": "Build your buy box"
-},
-"commercial-fl": {
-"collection": "curated",
-"label": "Commercial & Office — Florida",
-"tagline": "Top general commercial, office & mixed-use deals statewide · ranked by cap rate",
-"list_size": 10,
-"template": "curated-generic",
-"cadence": "monthly",
-"source": "Crexi / LoopNet (commercial / office / mixed-use, FL)",
-"browse_url": "/commercial-buyer-search.html",
-"browse_label": "Build your buy box"
-},
-"gulf-coast-beach-mf": {
-"collection": "curated",
-"featured": true,
-"label": "Coastal Multifamily — Gulf Beaches",
-"tagline": "Top 9 · within ~1 mi of the Gulf · Siesta Key · Anna Maria Is. · Longboat Key · Englewood · ranked by scale",
-"list_size": 9,
-"template": "curated-generic",
-"cadence": "monthly",
-"source": "Crexi / Realmo / Moody's CRE",
-"browse_url": "/commercial-buyer-search.html",
-"browse_label": "Build your buy box"
-},
-"east-coast-beach-mf": {
-"collection": "curated",
-"featured": true,
-"label": "Coastal Multifamily — Atlantic Beaches",
-"tagline": "Top 10 · Fort Lauderdale to Vero Beach · coastal income multifamily · ranked by scale",
-"list_size": 10,
-"template": "curated-generic",
-"cadence": "monthly",
-"source": "Realmo / Crexi / Moody's CRE",
-"browse_url": "/commercial-buyer-search.html",
-"browse_label": "Build your buy box"
-}
-}
+ "note": "Unified registry for the SavingsRE Top Investments system. ONE renderer (top3.html) and ONE hub (index.html) read this file. To add a list/segment: add an entry under 'lists' (and to 'order'), then drop a <key>__<date>.json public snapshot + a <key>__index.json. No HTML changes. 'collection' groups lists on the hub; 'template' selects the card layout in the renderer. Public data is DISGUISED (area/type/price band/cap band); exact data lives only in the private ledger. Segments with no snapshot file yet render as 'Coming soon'. Each public item may include a 'highlights' array (2-3 short, disguise-safe value-driver bullets) shown under the row and in the PDF.",
+ "version": 8,
+ "templates": {
+  "mls-financial": "Disguised income-property card (banded from MLS NOI/cap). Address/MLS/exact $ stripped to the ledger.",
+  "curated-generic": "Disguised curated card: submarket + profile + price band + cap band, no address. Exact data on request.",
+  "str-airbnb": "Disguised short-term-rental card: area + type + price band + est. STR yield band. Revenue ESTIMATED from market ADR x occupancy."
+ },
+ "collections": {
+  "weekly-top3": {
+   "label": "This Week's Top 3 by Segment",
+   "tag": "Updated Weekly · Beaches MLS",
+   "blurb": "Each week we rank the best-value active income properties by reported NOI cap rate, rent-to-value upside, and ownership fit. Pick a segment to see this week's leaders — and browse past weeks."
+  },
+  "curated": {
+   "label": "Curated Collections — Multifamily, Larger, NNN & Commercial",
+   "tag": "Curated Collections",
+   "blurb": "Hand-screened from Crexi, LoopNet and broker networks. Generic by design — reach out for addresses, financials, and off-market deals."
+  }
+ },
+ "order": [
+  "high-yield-sfl",
+  "gulf-coast-beach-mf",
+  "east-coast-beach-mf",
+  "delray-beach-mf",
+  "large-statewide",
+  "nnn-fl",
+  "strip-mall-fl",
+  "medical-fl",
+  "commercial-fl",
+  "mf-upto3m-east",
+  "airbnb-str-east"
+ ],
+ "lists": {
+  "mf-upto3m-east": {
+   "collection": "weekly-top3",
+   "label": "Multifamily — Up to $3M",
+   "tagline": "Income Properties · 2–4 Units up to $3M · East Palm Beach & Broward",
+   "list_size": 3,
+   "template": "mls-financial",
+   "cadence": "weekly",
+   "source": "Beaches MLS",
+   "search_name": "WSS-MF-upto3mmeast",
+   "browse_url": "/investor-hub.html",
+   "browse_label": "View all income-property listings"
+  },
+  "airbnb-str-east": {
+   "collection": "weekly-top3",
+   "label": "Airbnb / Short-Term Rental",
+   "tagline": "Top projected-STR-yield homes & condos · Delray, Deerfield, Ft. Lauderdale, Pompano, Hollywood, Lake Worth Beach, Lauderdale-by-the-Sea",
+   "list_size": 3,
+   "template": "str-airbnb",
+   "cadence": "weekly",
+   "source": "Beaches MLS + market STR estimates",
+   "search_name": "WSS-STR-airbnb-east",
+   "browse_url": "/investor-hub.html",
+   "browse_label": "View all listings"
+  },
+  "high-yield-sfl": {
+   "collection": "curated",
+   "featured": true,
+   "label": "High-Yield Multifamily — 8%+ Cap",
+   "tagline": "Top 5 · Florida (statewide) · 5–25 units · value-add & high-yield",
+   "list_size": 5,
+   "template": "curated-generic",
+   "cadence": "monthly",
+   "source": "Crexi / LoopNet / broker network",
+   "browse_url": "/commercial-buyer-search.html",
+   "browse_label": "Build your buy box"
+  },
+  "large-statewide": {
+   "collection": "curated",
+   "featured": true,
+   "label": "Larger Investments — 40+ Units",
+   "tagline": "Top 10 · Statewide · 40+ units · ranked by scale; institutional & value-add",
+   "list_size": 10,
+   "template": "curated-generic",
+   "cadence": "monthly",
+   "source": "Crexi / LoopNet / broker network",
+   "browse_url": "/commercial-buyer-search.html",
+   "browse_label": "Build your buy box"
+  },
+  "nnn-fl": {
+   "collection": "curated",
+   "featured": true,
+   "label": "NNN Commercial — Florida",
+   "tagline": "Top triple-net (NNN) deals statewide — single & multi-tenant · ranked by cap rate",
+   "list_size": 10,
+   "template": "curated-generic",
+   "cadence": "monthly",
+   "source": "Crexi / LoopNet (NNN, FL, single & multi-tenant)",
+   "browse_url": "/commercial-buyer-search.html",
+   "browse_label": "Build your buy box"
+  },
+  "strip-mall-fl": {
+   "collection": "curated",
+   "label": "Strip Malls & Retail Centers — Florida",
+   "tagline": "Top multi-tenant strip & neighborhood retail centers statewide · ranked by cap rate",
+   "list_size": 10,
+   "template": "curated-generic",
+   "cadence": "monthly",
+   "source": "Crexi / LoopNet (multi-tenant retail, FL)",
+   "browse_url": "/commercial-buyer-search.html",
+   "browse_label": "Build your buy box"
+  },
+  "medical-fl": {
+   "collection": "curated",
+   "label": "Medical Office — Florida",
+   "tagline": "Top medical office & healthcare-tenant deals statewide · ranked by cap rate",
+   "list_size": 10,
+   "template": "curated-generic",
+   "cadence": "monthly",
+   "source": "Crexi / LoopNet (medical office, FL)",
+   "browse_url": "/commercial-buyer-search.html",
+   "browse_label": "Build your buy box"
+  },
+  "commercial-fl": {
+   "collection": "curated",
+   "label": "Commercial & Office — Florida",
+   "tagline": "Top general commercial, office & mixed-use deals statewide · ranked by cap rate",
+   "list_size": 10,
+   "template": "curated-generic",
+   "cadence": "monthly",
+   "source": "Crexi / LoopNet (commercial / office / mixed-use, FL)",
+   "browse_url": "/commercial-buyer-search.html",
+   "browse_label": "Build your buy box"
+  },
+  "gulf-coast-beach-mf": {
+   "collection": "curated",
+   "featured": true,
+   "label": "Coastal Multifamily — Gulf Beaches",
+   "tagline": "Top 9 · within ~1 mi of the Gulf · Siesta Key · Anna Maria Is. · Longboat Key · Englewood · ranked by scale",
+   "list_size": 9,
+   "template": "curated-generic",
+   "cadence": "monthly",
+   "source": "Crexi / Realmo / Moody's CRE",
+   "browse_url": "/commercial-buyer-search.html",
+   "browse_label": "Build your buy box"
+  },
+  "east-coast-beach-mf": {
+   "collection": "curated",
+   "featured": true,
+   "label": "Coastal Multifamily — Atlantic Beaches",
+   "tagline": "Top 10 · Fort Lauderdale to Vero Beach · coastal income multifamily · ranked by scale",
+   "list_size": 10,
+   "template": "curated-generic",
+   "cadence": "monthly",
+   "source": "Realmo / Crexi / Moody's CRE",
+   "browse_url": "/commercial-buyer-search.html",
+   "browse_label": "Build your buy box"
+  },
+  "delray-beach-mf": {
+   "collection": "curated",
+   "featured": true,
+   "label": "Coastal Multifamily — Delray Beach",
+   "tagline": "Top on-market multifamily in Delray Beach · downtown, Tropic Isles & East Delray · ranked by cap rate",
+   "list_size": 5,
+   "template": "curated-generic",
+   "cadence": "monthly",
+   "source": "Crexi / LoopNet / broker network",
+   "browse_url": "/commercial-buyer-search.html",
+   "browse_label": "Build your buy box"
+  }
+ }
 }

@@ -1,0 +1,96 @@
+{
+ "segment": "delray-beach-mf",
+ "collection": "curated",
+ "template": "curated-generic",
+ "label": "Coastal Multifamily — Delray Beach",
+ "tagline": "Top on-market multifamily in Delray Beach · downtown, Tropic Isles & East Delray · ranked by cap rate",
+ "search_name": "Crexi / LoopNet (Delray Beach MF)",
+ "generated": "2026-06-27",
+ "pdf": "pdf/delray-beach-mf__2026-06-27.pdf",
+ "expires": "2026-07-27",
+ "total_results": 5,
+ "metric_label": "Cap rate / $-per-unit (income-ranked)",
+ "methodology": "On-market Delray Beach multifamily as of 2026-06-27, deduped by address, ranked by reported NOI cap rate (price-per-unit where a cap rate is not reported). Disguised: area + profile + price band + cap/scale band public; exact address & financials on request.",
+ "items": [
+  {
+   "id": "delray-beach-mf-2026-06-27-01",
+   "analytics_id": "A-00228",
+   "rank": 1,
+   "submarket": "Tropic Isles, East Delray Beach",
+   "profile": "4-Unit Luxury Fourplex (Delray Beach)",
+   "price_band": "$2.5M–$3M",
+   "cap_label": "~8.9% cap",
+   "desc": "Ultra-luxury fourplex in the coveted Tropic Isles neighborhood of East Delray Beach — fully remodeled and turnkey, deliverable furnished, at roughly an 8.9% cap (broker-reported). Two ~625 SF 2BR/1BA units plus two larger ~1,000 SF 2BR/1BA units with quartz kitchens, designer finishes and floor-to-ceiling tiled baths. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 4-Unit Luxury Fourplex (Delray Beach), Delray Beach",
+   "highlights": [
+    "4 units · ~$625K/unit · built 2025",
+    "~8.9% cap · turnkey, deliverable furnished",
+    "Tropic Isles · coastal East Delray Beach"
+   ]
+  },
+  {
+   "id": "delray-beach-mf-2026-06-27-02",
+   "analytics_id": "A-00229",
+   "rank": 2,
+   "submarket": "Downtown Delray Beach",
+   "profile": "2-Unit Income Property (Downtown Delray)",
+   "price_band": "$2M–$2.5M",
+   "cap_label": "~6.4% cap",
+   "desc": "Recently renovated two-unit property one block north of Atlantic Avenue in the heart of downtown Delray Beach — about a 6.4% cap (broker-reported). CBD Core zoning permits a wide range of uses (retail, office, medical, multifamily), and it sits under a mile from the public beaches. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 2-Unit Income Property (Downtown Delray), Delray Beach",
+   "highlights": [
+    "2 units · one block off Atlantic Ave",
+    "~6.4% cap · CBD Core zoning (flexible uses)",
+    "Under 1 mile to the beach · downtown Delray"
+   ]
+  },
+  {
+   "id": "delray-beach-mf-2026-06-27-03",
+   "analytics_id": "A-00230",
+   "rank": 3,
+   "submarket": "Downtown Delray Beach (East)",
+   "profile": "9-Unit Apartment Building (Delray Beach)",
+   "price_band": "$3M–$4M",
+   "cap_label": "~6.2% cap",
+   "desc": "Fully renovated nine-unit apartment complex minutes from Atlantic Avenue, leased to a single master tenant operating under a hotel license for short-term rentals — about a 6.2% cap (broker-reported). New hurricane windows, doors and roof; heated pool and patio; all units furnished with new appliances. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 9-Unit Apartment Building (Delray Beach), Delray Beach",
+   "highlights": [
+    "9 units · ~$394K/unit · built 2023 (Class B)",
+    "~6.2% cap · master-tenant STR (hotel license)",
+    "Heated pool · new roof/windows · furnished"
+   ]
+  },
+  {
+   "id": "delray-beach-mf-2026-06-27-04",
+   "analytics_id": "A-00231",
+   "rank": 4,
+   "submarket": "Northeast Delray Beach",
+   "profile": "10-Unit Apartment Building (Delray Beach)",
+   "price_band": "$4M–$5M",
+   "cap_label": "~$400K/unit",
+   "desc": "Ten-unit apartment building in Northeast Delray Beach — the largest unit count on this list at about $400K/unit. Two-story CBS construction on nearly a half-acre, offering scale and value-add upside close to downtown and the beach. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 10-Unit Apartment Building (Delray Beach), Delray Beach",
+   "highlights": [
+    "10 units · ~$400K/unit · largest on this list",
+    "Two-story CBS · ~0.45-acre lot",
+    "Northeast Delray · value-add upside"
+   ]
+  },
+  {
+   "id": "delray-beach-mf-2026-06-27-05",
+   "analytics_id": "A-00232",
+   "rank": 5,
+   "submarket": "Palm Trail, East Delray Beach",
+   "profile": "2-Unit Income Duplex (Delray Beach)",
+   "price_band": "$2M–$2.5M",
+   "cap_label": "~$1.0M/unit",
+   "desc": "Income duplex on an oversized corner lot in the sought-after Palm Trail community of East Delray Beach — blocks from Atlantic Avenue, the beach, shops and restaurants, with value-add and redevelopment optionality. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 2-Unit Income Duplex (Delray Beach), Delray Beach",
+   "highlights": [
+    "2 units · corner lot · Palm Trail",
+    "Blocks to Atlantic Ave & the beach",
+    "Value-add / redevelopment optionality"
+   ]
+  }
+ ]
+}
