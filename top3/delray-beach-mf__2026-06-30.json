@@ -1,0 +1,96 @@
+{
+ "segment": "delray-beach-mf",
+ "collection": "curated",
+ "template": "curated-generic",
+ "label": "Coastal Multifamily — Delray Beach",
+ "tagline": "Top on-market multifamily in Delray Beach · downtown, Tropic Isles & East Delray · ranked by scale",
+ "search_name": "Crexi (Delray Beach MF)",
+ "generated": "2026-06-30",
+ "pdf": "pdf/delray-beach-mf__2026-06-30.pdf",
+ "expires": "2026-07-30",
+ "total_results": 15,
+ "metric_label": "Price / unit",
+ "methodology": "On-market Delray Beach multifamily as of 2026-06-30 (Crexi), deduped by address, ranked by scale / price-per-unit (broker cap rates not published this cycle). Disguised: area + profile + price band + $/unit public; exact address & financials on request.",
+ "items": [
+  {
+   "id": "delray-beach-mf-2026-06-30-01",
+   "analytics_id": "A-00338",
+   "rank": 1,
+   "submarket": "Downtown Delray Beach (Swinton)",
+   "profile": "17-Unit Multifamily (Delray Beach)",
+   "price_band": "$8M–$9M",
+   "cap_label": "~$500K/unit",
+   "desc": "17-unit Delray Beach multifamily in Downtown Delray Beach (Swinton); ~$500K/unit. Walkable to Atlantic Ave / the beach corridor. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 17-Unit Multifamily (Delray Beach), Downtown Delray Beach (Swinton)",
+   "highlights": [
+    "17 units · Downtown Delray Beach (Swinton)",
+    "~$500K/unit",
+    "Coastal Delray Beach · income / value-add"
+   ]
+  },
+  {
+   "id": "delray-beach-mf-2026-06-30-02",
+   "analytics_id": "A-00339",
+   "rank": 2,
+   "submarket": "Northeast Delray Beach",
+   "profile": "10-Unit Multifamily (Delray Beach)",
+   "price_band": "$4M–$5M",
+   "cap_label": "~$400K/unit",
+   "desc": "10-unit Delray Beach multifamily in Northeast Delray Beach; ~$400K/unit. Walkable to Atlantic Ave / the beach corridor. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 10-Unit Multifamily (Delray Beach), Northeast Delray Beach",
+   "highlights": [
+    "10 units · Northeast Delray Beach",
+    "~$400K/unit",
+    "Coastal Delray Beach · income / value-add"
+   ]
+  },
+  {
+   "id": "delray-beach-mf-2026-06-30-03",
+   "analytics_id": "A-00340",
+   "rank": 3,
+   "submarket": "Downtown Delray Beach",
+   "profile": "5-Unit Multifamily (Delray Beach)",
+   "price_band": "$2.5M–$3M",
+   "cap_label": "~$578K/unit",
+   "desc": "5-unit Delray Beach multifamily in Downtown Delray Beach; ~$578K/unit. Walkable to Atlantic Ave / the beach corridor. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 5-Unit Multifamily (Delray Beach), Downtown Delray Beach",
+   "highlights": [
+    "5 units · Downtown Delray Beach",
+    "~$578K/unit",
+    "Coastal Delray Beach · income / value-add"
+   ]
+  },
+  {
+   "id": "delray-beach-mf-2026-06-30-04",
+   "analytics_id": "A-00341",
+   "rank": 4,
+   "submarket": "East Delray Beach",
+   "profile": "4-Unit Multifamily (Delray Beach)",
+   "price_band": "$2M–$2.5M",
+   "cap_label": "~$531K/unit",
+   "desc": "4-unit Delray Beach multifamily in East Delray Beach; ~$531K/unit. Walkable to Atlantic Ave / the beach corridor. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 4-Unit Multifamily (Delray Beach), East Delray Beach",
+   "highlights": [
+    "4 units · East Delray Beach",
+    "~$531K/unit",
+    "Coastal Delray Beach · income / value-add"
+   ]
+  },
+  {
+   "id": "delray-beach-mf-2026-06-30-05",
+   "analytics_id": "A-00342",
+   "rank": 5,
+   "submarket": "Delray Beach",
+   "profile": "4-Unit Multifamily (Delray Beach)",
+   "price_band": "$1M–$1.5M",
+   "cap_label": "~$275K/unit",
+   "desc": "4-unit Delray Beach multifamily in Delray Beach; ~$275K/unit. Walkable to Atlantic Ave / the beach corridor. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 4-Unit Multifamily (Delray Beach), Delray Beach",
+   "highlights": [
+    "4 units · Delray Beach",
+    "~$275K/unit",
+    "Coastal Delray Beach · income / value-add"
+   ]
+  }
+ ]
+}

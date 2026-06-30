@@ -1,0 +1,176 @@
+{
+ "segment": "east-coast-beach-mf",
+ "collection": "curated",
+ "template": "curated-generic",
+ "label": "Coastal Multifamily — Atlantic Beaches",
+ "tagline": "Top 10 · Fort Lauderdale & Palm Beach coast · coastal income multifamily · ranked by scale",
+ "search_name": "Crexi (Fort Lauderdale / Palm Beach coast MF)",
+ "generated": "2026-06-30",
+ "pdf": "pdf/east-coast-beach-mf__2026-06-30.pdf",
+ "expires": "2026-07-30",
+ "total_results": 277,
+ "metric_label": "Price / unit",
+ "methodology": "Crexi Fort Lauderdale & coastal Palm Beach multifamily pull 2026-06-30, sorted by unit count and ranked by scale; existing/stabilized income communities only (land/development excluded). Metric is price per unit. Disguised: submarket + units + price band + $/unit public; exact address on request.",
+ "items": [
+  {
+   "id": "east-coast-beach-mf-2026-06-30-01",
+   "analytics_id": "A-00328",
+   "rank": 1,
+   "submarket": "Fort Lauderdale",
+   "profile": "Coastal Multifamily (48 units)",
+   "price_band": "$9M–$10M",
+   "cap_label": "~$203K/unit",
+   "desc": "48-unit coastal multifamily in Fort Lauderdale; ~$203K/unit (broker-reported). Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 48-unit coastal multifamily, Fort Lauderdale (~$203K/unit)",
+   "highlights": [
+    "48 units · Fort Lauderdale",
+    "~$203K/unit",
+    "Coastal income / value-add"
+   ]
+  },
+  {
+   "id": "east-coast-beach-mf-2026-06-30-02",
+   "analytics_id": "A-00329",
+   "rank": 2,
+   "submarket": "Central Fort Lauderdale",
+   "profile": "Coastal Multifamily (40 units)",
+   "price_band": "$5M–$6M",
+   "cap_label": "~$145K/unit",
+   "desc": "40-unit coastal multifamily in Central Fort Lauderdale; ~$145K/unit (broker-reported). Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 40-unit coastal multifamily, Central Fort Lauderdale (~$145K/unit)",
+   "highlights": [
+    "40 units · Central Fort Lauderdale",
+    "~$145K/unit",
+    "Coastal income / value-add"
+   ]
+  },
+  {
+   "id": "east-coast-beach-mf-2026-06-30-03",
+   "analytics_id": "A-00330",
+   "rank": 3,
+   "submarket": "Boynton Beach (coastal)",
+   "profile": "Coastal Multifamily (24 units)",
+   "price_band": "$5M–$6M",
+   "cap_label": "~$241K/unit",
+   "desc": "24-unit coastal multifamily in Boynton Beach (coastal); ~$241K/unit (broker-reported). Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 24-unit coastal multifamily, Boynton Beach (coastal) (~$241K/unit)",
+   "highlights": [
+    "24 units · Boynton Beach (coastal)",
+    "~$241K/unit",
+    "Coastal income / value-add"
+   ]
+  },
+  {
+   "id": "east-coast-beach-mf-2026-06-30-04",
+   "analytics_id": "A-00331",
+   "rank": 4,
+   "submarket": "East Fort Lauderdale (Rio Vista/Las Olas)",
+   "profile": "Coastal Multifamily (22 units)",
+   "price_band": "$4M–$5M",
+   "cap_label": "~$218K/unit",
+   "desc": "22-unit coastal multifamily in East Fort Lauderdale (Rio Vista/Las Olas); ~$218K/unit (broker-reported). Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 22-unit coastal multifamily, East Fort Lauderdale (Rio Vista/Las Olas) (~$218K/unit)",
+   "highlights": [
+    "22 units · East Fort Lauderdale (Rio Vista/Las Olas)",
+    "~$218K/unit",
+    "Coastal income / value-add"
+   ]
+  },
+  {
+   "id": "east-coast-beach-mf-2026-06-30-05",
+   "analytics_id": "A-00332",
+   "rank": 5,
+   "submarket": "Fort Lauderdale",
+   "profile": "Coastal Multifamily (17 units)",
+   "price_band": "$5M–$6M",
+   "cap_label": "~$306K/unit",
+   "desc": "17-unit coastal multifamily in Fort Lauderdale; ~$306K/unit (broker-reported). Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 17-unit coastal multifamily, Fort Lauderdale (~$306K/unit)",
+   "highlights": [
+    "17 units · Fort Lauderdale",
+    "~$306K/unit",
+    "Coastal income / value-add"
+   ]
+  },
+  {
+   "id": "east-coast-beach-mf-2026-06-30-06",
+   "analytics_id": "A-00333",
+   "rank": 6,
+   "submarket": "East Fort Lauderdale (Harbor Beach)",
+   "profile": "Coastal Multifamily (16 units)",
+   "price_band": "$4M–$5M",
+   "cap_label": "~$250K/unit",
+   "desc": "16-unit coastal multifamily in East Fort Lauderdale (Harbor Beach); ~$250K/unit (broker-reported). Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 16-unit coastal multifamily, East Fort Lauderdale (Harbor Beach) (~$250K/unit)",
+   "highlights": [
+    "16 units · East Fort Lauderdale (Harbor Beach)",
+    "~$250K/unit",
+    "Coastal income / value-add"
+   ]
+  },
+  {
+   "id": "east-coast-beach-mf-2026-06-30-07",
+   "analytics_id": "A-00334",
+   "rank": 7,
+   "submarket": "Fort Lauderdale",
+   "profile": "Coastal Multifamily (16 units)",
+   "price_band": "$2.5M–$3M",
+   "cap_label": "~$164K/unit",
+   "desc": "16-unit coastal multifamily in Fort Lauderdale; ~$164K/unit (broker-reported). Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 16-unit coastal multifamily, Fort Lauderdale (~$164K/unit)",
+   "highlights": [
+    "16 units · Fort Lauderdale",
+    "~$164K/unit",
+    "Coastal income / value-add"
+   ]
+  },
+  {
+   "id": "east-coast-beach-mf-2026-06-30-08",
+   "analytics_id": "A-00335",
+   "rank": 8,
+   "submarket": "Fort Lauderdale (Progresso)",
+   "profile": "Coastal Multifamily (16 units)",
+   "price_band": "$3M–$4M",
+   "cap_label": "~$219K/unit",
+   "desc": "16-unit coastal multifamily in Fort Lauderdale (Progresso); ~$219K/unit (broker-reported). Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 16-unit coastal multifamily, Fort Lauderdale (Progresso) (~$219K/unit)",
+   "highlights": [
+    "16 units · Fort Lauderdale (Progresso)",
+    "~$219K/unit",
+    "Coastal income / value-add"
+   ]
+  },
+  {
+   "id": "east-coast-beach-mf-2026-06-30-09",
+   "analytics_id": "A-00336",
+   "rank": 9,
+   "submarket": "East Fort Lauderdale",
+   "profile": "Coastal Multifamily (14 units)",
+   "price_band": "$3M–$4M",
+   "cap_label": "~$236K/unit",
+   "desc": "14-unit coastal multifamily in East Fort Lauderdale; ~$236K/unit (broker-reported). Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 14-unit coastal multifamily, East Fort Lauderdale (~$236K/unit)",
+   "highlights": [
+    "14 units · East Fort Lauderdale",
+    "~$236K/unit",
+    "Coastal income / value-add"
+   ]
+  },
+  {
+   "id": "east-coast-beach-mf-2026-06-30-10",
+   "analytics_id": "A-00337",
+   "rank": 10,
+   "submarket": "Victoria Park, East Fort Lauderdale",
+   "profile": "Coastal Multifamily (13 units)",
+   "price_band": "$2.5M–$3M",
+   "cap_label": "~$200K/unit",
+   "desc": "13-unit coastal multifamily in Victoria Park, East Fort Lauderdale; ~$200K/unit (broker-reported). Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 13-unit coastal multifamily, Victoria Park, East Fort Lauderdale (~$200K/unit)",
+   "highlights": [
+    "13 units · Victoria Park, East Fort Lauderdale",
+    "~$200K/unit",
+    "~5.97% cap"
+   ]
+  }
+ ]
+}

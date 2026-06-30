@@ -1,0 +1,160 @@
+{
+ "segment": "gulf-coast-beach-mf",
+ "collection": "curated",
+ "template": "curated-generic",
+ "label": "Coastal Multifamily — Gulf Beaches",
+ "tagline": "Top 9 · Sarasota–Bradenton Gulf Coast · incl. Siesta Key · ranked by scale",
+ "search_name": "Crexi (Sarasota/Bradenton Gulf Coast MF)",
+ "generated": "2026-06-30",
+ "pdf": "pdf/gulf-coast-beach-mf__2026-06-30.pdf",
+ "expires": "2026-07-30",
+ "total_results": 32,
+ "metric_label": "Price / unit",
+ "methodology": "Crexi Sarasota–Bradenton Gulf Coast multifamily pull 2026-06-30, sorted by unit count and ranked by scale; existing/stabilized income communities only (land/development/assemblage excluded). Metric is price per unit. Disguised: submarket + units + price band + $/unit public; exact address on request.",
+ "items": [
+  {
+   "id": "gulf-coast-beach-mf-2026-06-30-01",
+   "analytics_id": "A-00319",
+   "rank": 1,
+   "submarket": "Downtown Sarasota (Gulf Coast)",
+   "profile": "Coastal Multifamily (242 units)",
+   "price_band": "Unpriced",
+   "cap_label": "242 units",
+   "desc": "242-unit coastal multifamily community in Downtown Sarasota (Gulf Coast). Pricing & financials on request.",
+   "inquiry_subject": "Inquiry: 242-unit coastal multifamily, Downtown Sarasota (Gulf Coast) (242 units)",
+   "highlights": [
+    "242 units · Downtown Sarasota (Gulf Coast)",
+    "242 units",
+    "Coastal income / value-add"
+   ]
+  },
+  {
+   "id": "gulf-coast-beach-mf-2026-06-30-02",
+   "analytics_id": "A-00320",
+   "rank": 2,
+   "submarket": "Bradenton (Gulf Coast)",
+   "profile": "Coastal Multifamily (92 units)",
+   "price_band": "Unpriced",
+   "cap_label": "92 units",
+   "desc": "92-unit coastal multifamily community in Bradenton (Gulf Coast). Pricing & financials on request.",
+   "inquiry_subject": "Inquiry: 92-unit coastal multifamily, Bradenton (Gulf Coast) (92 units)",
+   "highlights": [
+    "92 units · Bradenton (Gulf Coast)",
+    "92 units",
+    "Coastal income / value-add"
+   ]
+  },
+  {
+   "id": "gulf-coast-beach-mf-2026-06-30-03",
+   "analytics_id": "A-00321",
+   "rank": 3,
+   "submarket": "Bradenton (Gulf Coast)",
+   "profile": "Coastal Multifamily (30 units)",
+   "price_band": "$5M–$6M",
+   "cap_label": "~$180K/unit",
+   "desc": "30-unit coastal multifamily in Bradenton (Gulf Coast); ~$180K/unit (broker-reported). Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 30-unit coastal multifamily, Bradenton (Gulf Coast) (~$180K/unit)",
+   "highlights": [
+    "30 units · Bradenton (Gulf Coast)",
+    "~$180K/unit",
+    "Coastal income / value-add"
+   ]
+  },
+  {
+   "id": "gulf-coast-beach-mf-2026-06-30-04",
+   "analytics_id": "A-00322",
+   "rank": 4,
+   "submarket": "Bradenton (Gulf Coast)",
+   "profile": "Coastal Multifamily (29 units)",
+   "price_band": "$5M–$6M",
+   "cap_label": "~$186K/unit",
+   "desc": "29-unit coastal multifamily in Bradenton (Gulf Coast); ~$186K/unit (broker-reported). Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 29-unit coastal multifamily, Bradenton (Gulf Coast) (~$186K/unit)",
+   "highlights": [
+    "29 units · Bradenton (Gulf Coast)",
+    "~$186K/unit",
+    "Coastal income / value-add"
+   ]
+  },
+  {
+   "id": "gulf-coast-beach-mf-2026-06-30-05",
+   "analytics_id": "A-00323",
+   "rank": 5,
+   "submarket": "Bradenton (Gulf Coast)",
+   "profile": "Coastal Multifamily (29 units)",
+   "price_band": "$5M–$6M",
+   "cap_label": "~$183K/unit",
+   "desc": "29-unit coastal multifamily in Bradenton (Gulf Coast); ~$183K/unit (broker-reported). Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 29-unit coastal multifamily, Bradenton (Gulf Coast) (~$183K/unit)",
+   "highlights": [
+    "29 units · Bradenton (Gulf Coast)",
+    "~$183K/unit",
+    "Coastal income / value-add"
+   ]
+  },
+  {
+   "id": "gulf-coast-beach-mf-2026-06-30-06",
+   "analytics_id": "A-00324",
+   "rank": 6,
+   "submarket": "Sarasota (near Gulf)",
+   "profile": "Coastal Multifamily (17 units)",
+   "price_band": "Unpriced",
+   "cap_label": "17 units",
+   "desc": "17-unit coastal multifamily community in Sarasota (near Gulf). Pricing & financials on request.",
+   "inquiry_subject": "Inquiry: 17-unit coastal multifamily, Sarasota (near Gulf) (17 units)",
+   "highlights": [
+    "17 units · Sarasota (near Gulf)",
+    "17 units",
+    "Coastal income / value-add"
+   ]
+  },
+  {
+   "id": "gulf-coast-beach-mf-2026-06-30-07",
+   "analytics_id": "A-00325",
+   "rank": 7,
+   "submarket": "Bradenton (Gulf Coast)",
+   "profile": "Coastal Multifamily (15 units)",
+   "price_band": "$2.5M–$3M",
+   "cap_label": "~$170K/unit",
+   "desc": "15-unit coastal multifamily in Bradenton (Gulf Coast); ~$170K/unit (broker-reported). Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 15-unit coastal multifamily, Bradenton (Gulf Coast) (~$170K/unit)",
+   "highlights": [
+    "15 units · Bradenton (Gulf Coast)",
+    "~$170K/unit",
+    "Coastal income / value-add"
+   ]
+  },
+  {
+   "id": "gulf-coast-beach-mf-2026-06-30-08",
+   "analytics_id": "A-00326",
+   "rank": 8,
+   "submarket": "Sarasota (Gulf Coast)",
+   "profile": "Coastal Multifamily (10 units)",
+   "price_band": "Unpriced",
+   "cap_label": "10 units",
+   "desc": "10-unit coastal multifamily community in Sarasota (Gulf Coast). Pricing & financials on request.",
+   "inquiry_subject": "Inquiry: 10-unit coastal multifamily, Sarasota (Gulf Coast) (10 units)",
+   "highlights": [
+    "10 units · Sarasota (Gulf Coast)",
+    "10 units",
+    "Coastal income / value-add"
+   ]
+  },
+  {
+   "id": "gulf-coast-beach-mf-2026-06-30-09",
+   "analytics_id": "A-00327",
+   "rank": 9,
+   "submarket": "Siesta Key (Gulf beachfront)",
+   "profile": "Coastal Multifamily (9 units)",
+   "price_band": "$6M–$7M",
+   "cap_label": "~$722K/unit",
+   "desc": "9-unit coastal multifamily in Siesta Key (Gulf beachfront); ~$722K/unit (broker-reported). Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 9-unit coastal multifamily, Siesta Key (Gulf beachfront) (~$722K/unit)",
+   "highlights": [
+    "9 units · Siesta Key (Gulf beachfront)",
+    "~$722K/unit",
+    "Coastal income / value-add"
+   ]
+  }
+ ]
+}
