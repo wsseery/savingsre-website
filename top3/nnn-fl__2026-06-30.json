@@ -1,0 +1,175 @@
+{
+ "segment": "nnn-fl",
+ "collection": "curated",
+ "template": "curated-generic",
+ "label": "NNN Commercial — Florida",
+ "tagline": "Top 10 · Florida (statewide) · single & multi-tenant net lease · ranked by cap rate",
+ "search_name": "Crexi (FL Retail / net lease)",
+ "generated": "2026-06-30",
+ "expires": "2026-07-30",
+ "total_results": 4637,
+ "metric_label": "Cap rate",
+ "methodology": "Crexi FL retail/net-lease pull 2026-06-30, ranked by broker-reported cap rate (not independently verified). Listings without a published cap excluded. Disguised: area + type + price band + cap band public; exact address, tenant & lease terms on request.",
+ "items": [
+  {
+   "id": "nnn-fl-2026-06-30-01",
+   "analytics_id": "A-00284",
+   "rank": 1,
+   "submarket": "Ocoee (Orlando MSA)",
+   "profile": "Shopping Center",
+   "price_band": "$7M–$8M",
+   "cap_label": "~8.56% cap",
+   "desc": "Shopping Center in Ocoee (Orlando MSA); ~8.56% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Shopping Center, Ocoee (Orlando MSA) (~8.56% cap)",
+   "highlights": [
+    "Shopping Center · ~61,100 SF",
+    "~8.56% cap",
+    "~8.56% cap — highest on the list"
+   ]
+  },
+  {
+   "id": "nnn-fl-2026-06-30-02",
+   "analytics_id": "A-00285",
+   "rank": 2,
+   "submarket": "New Port Richey (Tampa Bay MSA)",
+   "profile": "Shopping Center",
+   "price_band": "$16M–$17M",
+   "cap_label": "~7.90% cap",
+   "desc": "Shopping Center in New Port Richey (Tampa Bay MSA); ~7.90% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Shopping Center, New Port Richey (Tampa Bay MSA) (~7.90% cap)",
+   "highlights": [
+    "Shopping Center · ~$1.3M NOI",
+    "~7.90% cap",
+    "New Port Richey submarket"
+   ]
+  },
+  {
+   "id": "nnn-fl-2026-06-30-03",
+   "analytics_id": "A-00286",
+   "rank": 3,
+   "submarket": "Boynton Beach",
+   "profile": "Single-Tenant NNN",
+   "price_band": "$12M–$13M",
+   "cap_label": "~7.70% cap",
+   "desc": "Single-Tenant NNN in Boynton Beach; ~7.70% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Single-Tenant NNN, Boynton Beach (~7.70% cap)",
+   "highlights": [
+    "Single-Tenant NNN · ~43,000 SF",
+    "~7.70% cap",
+    "Credit tenant · absolute/NNN lease"
+   ]
+  },
+  {
+   "id": "nnn-fl-2026-06-30-04",
+   "analytics_id": "A-00287",
+   "rank": 4,
+   "submarket": "Orlando",
+   "profile": "Multi-Tenant Retail Center",
+   "price_band": "$8M–$9M",
+   "cap_label": "~7.50% cap",
+   "desc": "Multi-Tenant Retail Center in Orlando; ~7.50% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Multi-Tenant Retail Center, Orlando (~7.50% cap)",
+   "highlights": [
+    "Multi-Tenant Retail Center · ~13,445 SF",
+    "~7.50% cap",
+    "Orlando submarket"
+   ]
+  },
+  {
+   "id": "nnn-fl-2026-06-30-05",
+   "analytics_id": "A-00288",
+   "rank": 5,
+   "submarket": "Apopka (Orlando MSA)",
+   "profile": "Shopping Center",
+   "price_band": "$23M–$24M",
+   "cap_label": "~7.30% cap",
+   "desc": "Shopping Center in Apopka (Orlando MSA); ~7.30% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Shopping Center, Apopka (Orlando MSA) (~7.30% cap)",
+   "highlights": [
+    "Shopping Center · ~170,993 SF",
+    "~7.30% cap",
+    "Apopka submarket"
+   ]
+  },
+  {
+   "id": "nnn-fl-2026-06-30-06",
+   "analytics_id": "A-00289",
+   "rank": 6,
+   "submarket": "Ocoee (Orlando MSA)",
+   "profile": "Single-Tenant NNN",
+   "price_band": "$13M–$14M",
+   "cap_label": "~7.25% cap",
+   "desc": "Single-Tenant NNN in Ocoee (Orlando MSA); ~7.25% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Single-Tenant NNN, Ocoee (Orlando MSA) (~7.25% cap)",
+   "highlights": [
+    "Single-Tenant NNN · Net-leased",
+    "~7.25% cap",
+    "Credit tenant · absolute/NNN lease"
+   ]
+  },
+  {
+   "id": "nnn-fl-2026-06-30-07",
+   "analytics_id": "A-00290",
+   "rank": 7,
+   "submarket": "Orlando",
+   "profile": "Single-Tenant NNN",
+   "price_band": "$11M–$12M",
+   "cap_label": "~7.25% cap",
+   "desc": "Single-Tenant NNN in Orlando; ~7.25% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Single-Tenant NNN, Orlando (~7.25% cap)",
+   "highlights": [
+    "Single-Tenant NNN · ~37,780 SF",
+    "~7.25% cap",
+    "Credit tenant · absolute/NNN lease"
+   ]
+  },
+  {
+   "id": "nnn-fl-2026-06-30-08",
+   "analytics_id": "A-00291",
+   "rank": 8,
+   "submarket": "New Smyrna Beach",
+   "profile": "Shopping Center",
+   "price_band": "$13M–$14M",
+   "cap_label": "~7.00% cap",
+   "desc": "Shopping Center in New Smyrna Beach; ~7.00% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Shopping Center, New Smyrna Beach (~7.00% cap)",
+   "highlights": [
+    "Shopping Center · ~99,961 SF",
+    "~7.00% cap",
+    "New Smyrna submarket"
+   ]
+  },
+  {
+   "id": "nnn-fl-2026-06-30-09",
+   "analytics_id": "A-00292",
+   "rank": 9,
+   "submarket": "Coconut Creek",
+   "profile": "Single-Tenant NNN",
+   "price_band": "$14M–$15M",
+   "cap_label": "~6.75% cap",
+   "desc": "Single-Tenant NNN in Coconut Creek; ~6.75% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Single-Tenant NNN, Coconut Creek (~6.75% cap)",
+   "highlights": [
+    "Single-Tenant NNN · ~41,000 SF",
+    "~6.75% cap",
+    "Credit tenant · absolute/NNN lease"
+   ]
+  },
+  {
+   "id": "nnn-fl-2026-06-30-10",
+   "analytics_id": "A-00293",
+   "rank": 10,
+   "submarket": "Lakeland",
+   "profile": "Multi-Tenant Retail Center",
+   "price_band": "$11M–$12M",
+   "cap_label": "~6.46% cap",
+   "desc": "Multi-Tenant Retail Center in Lakeland; ~6.46% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Multi-Tenant Retail Center, Lakeland (~6.46% cap)",
+   "highlights": [
+    "Multi-Tenant Retail Center · ~40,395 SF",
+    "~6.46% cap",
+    "Lakeland submarket"
+   ]
+  }
+ ]
+}

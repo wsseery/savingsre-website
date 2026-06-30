@@ -1,0 +1,111 @@
+{
+ "segment": "medical-fl",
+ "collection": "curated",
+ "template": "curated-generic",
+ "label": "Medical Office — Florida",
+ "tagline": "Top medical office & healthcare-tenant deals statewide · ranked by cap rate",
+ "search_name": "Crexi (FL medical office)",
+ "generated": "2026-06-30",
+ "expires": "2026-07-30",
+ "total_results": 3426,
+ "metric_label": "Cap rate",
+ "methodology": "Crexi FL office pull 2026-06-30, filtered to medical/healthcare-tenant assets, ranked by broker-reported cap rate (unverified). Listings without a published cap excluded. Disguised: area + type + price band + cap band public; exact address on request.",
+ "items": [
+  {
+   "id": "medical-fl-2026-06-30-01",
+   "analytics_id": "A-00303",
+   "rank": 1,
+   "submarket": "Lauderhill",
+   "profile": "Medical Office Plaza",
+   "price_band": "$7M–$8M",
+   "cap_label": "~8.00% cap",
+   "desc": "Medical Office Plaza in Lauderhill; ~8.00% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Medical Office Plaza, Lauderhill (~8.00% cap)",
+   "highlights": [
+    "Medical Office Plaza · ~33,178 SF",
+    "~8.00% cap",
+    "~8.00% cap — highest on the list"
+   ]
+  },
+  {
+   "id": "medical-fl-2026-06-30-02",
+   "analytics_id": "A-00304",
+   "rank": 2,
+   "submarket": "Miami Beach",
+   "profile": "Medical Office Plaza",
+   "price_band": "$32M–$34M",
+   "cap_label": "~6.73% cap",
+   "desc": "Medical Office Plaza in Miami Beach; ~6.73% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Medical Office Plaza, Miami Beach (~6.73% cap)",
+   "highlights": [
+    "Medical Office Plaza · ~85,162 SF",
+    "~6.73% cap",
+    "Healthcare/medical tenancy"
+   ]
+  },
+  {
+   "id": "medical-fl-2026-06-30-03",
+   "analytics_id": "A-00305",
+   "rank": 3,
+   "submarket": "Orlando",
+   "profile": "Medical Office",
+   "price_band": "$7M–$8M",
+   "cap_label": "~6.50% cap",
+   "desc": "Medical Office in Orlando; ~6.50% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Medical Office, Orlando (~6.50% cap)",
+   "highlights": [
+    "Medical Office · healthcare-tenant",
+    "~6.50% cap",
+    "Healthcare/medical tenancy"
+   ]
+  },
+  {
+   "id": "medical-fl-2026-06-30-04",
+   "analytics_id": "A-00306",
+   "rank": 4,
+   "submarket": "Lakewood Ranch (Sarasota MSA)",
+   "profile": "Medical Office",
+   "price_band": "$6M–$7M",
+   "cap_label": "~6.50% cap",
+   "desc": "Medical Office in Lakewood Ranch (Sarasota MSA); ~6.50% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Medical Office, Lakewood Ranch (Sarasota MSA) (~6.50% cap)",
+   "highlights": [
+    "Medical Office · ~8,046 SF",
+    "~6.50% cap",
+    "Healthcare/medical tenancy"
+   ]
+  },
+  {
+   "id": "medical-fl-2026-06-30-05",
+   "analytics_id": "A-00307",
+   "rank": 5,
+   "submarket": "Hialeah",
+   "profile": "Medical Office",
+   "price_band": "$6M–$7M",
+   "cap_label": "~6.47% cap",
+   "desc": "Medical Office in Hialeah; ~6.47% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Medical Office, Hialeah (~6.47% cap)",
+   "highlights": [
+    "Medical Office · ~5,991 SF",
+    "~6.47% cap",
+    "Healthcare/medical tenancy"
+   ]
+  },
+  {
+   "id": "medical-fl-2026-06-30-06",
+   "analytics_id": "A-00308",
+   "rank": 6,
+   "submarket": "Palm Beach Gardens",
+   "profile": "Medical Office",
+   "price_band": "$9M–$10M",
+   "cap_label": "~5.25% cap",
+   "desc": "Medical Office in Palm Beach Gardens; ~5.25% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Medical Office, Palm Beach Gardens (~5.25% cap)",
+   "highlights": [
+    "Medical Office · ~10,068 SF",
+    "~5.25% cap",
+    "Healthcare/medical tenancy"
+   ]
+  }
+ ]
+}

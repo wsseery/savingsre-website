@@ -1,0 +1,63 @@
+{
+ "segment": "mf-upto3m-east",
+ "collection": "weekly-top3",
+ "template": "mls-financial",
+ "label": "Multifamily — Up to $3M",
+ "tagline": "Income Properties · 2–4 Units up to $3M · East Palm Beach & Broward",
+ "search_name": "WSS-MF-upto3mmeast",
+ "generated": "2026-06-30",
+ "expires": "2026-07-30",
+ "total_results": 42,
+ "metric_label": "Cap rate",
+ "methodology": "Live Beaches MLS pull 2026-06-30 (WSS-MF-upto3mmeast). Cap rate = reported NET OPERATING INCOME / list price, computed only where the listing reports both expenses>0 and NOI>0 (11 of 42 eligible). Broker-reported, unverified. Disguised: area + units + price band + cap band public; exact address & financials on request.",
+ "items": [
+  {
+   "id": "mf-upto3m-east-2026-06-30-01",
+   "analytics_id": "A-00263",
+   "rank": 1,
+   "submarket": "West Palm Beach",
+   "profile": "3-Unit Triplex",
+   "price_band": "$0.5M–$1M",
+   "cap_label": "~8.97% cap",
+   "desc": "3-Unit Triplex in West Palm Beach; 8.97% reported NOI cap rate. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 3-Unit Triplex, West Palm Beach (~8.97% cap)",
+   "highlights": [
+    "3-unit Triplex",
+    "~8.97% reported NOI cap rate",
+    "West Palm Beach value-add income property"
+   ]
+  },
+  {
+   "id": "mf-upto3m-east-2026-06-30-02",
+   "analytics_id": "A-00264",
+   "rank": 2,
+   "submarket": "West Palm Beach",
+   "profile": "4-Unit Quadruplex",
+   "price_band": "$0.5M–$1M",
+   "cap_label": "~8.53% cap",
+   "desc": "4-Unit Quadruplex in West Palm Beach; 8.53% reported NOI cap rate. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 4-Unit Quadruplex, West Palm Beach (~8.53% cap)",
+   "highlights": [
+    "4-unit Quadruplex",
+    "~8.53% reported NOI cap rate",
+    "West Palm Beach value-add income property"
+   ]
+  },
+  {
+   "id": "mf-upto3m-east-2026-06-30-03",
+   "analytics_id": "A-00265",
+   "rank": 3,
+   "submarket": "Lake Worth Beach",
+   "profile": "4-Unit Quadruplex",
+   "price_band": "$0.5M–$1M",
+   "cap_label": "~7.23% cap",
+   "desc": "4-Unit Quadruplex in Lake Worth Beach; 7.23% reported NOI cap rate. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 4-Unit Quadruplex, Lake Worth Beach (~7.23% cap)",
+   "highlights": [
+    "4-unit Quadruplex",
+    "~7.23% reported NOI cap rate",
+    "Lake Worth Beach value-add income property"
+   ]
+  }
+ ]
+}

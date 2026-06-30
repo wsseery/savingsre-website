@@ -1,0 +1,95 @@
+{
+ "segment": "high-yield-sfl",
+ "collection": "curated",
+ "template": "curated-generic",
+ "label": "High-Yield Multifamily — 8%+ Cap",
+ "tagline": "Top 5 · Florida (statewide) · 5–25 units · value-add & high-yield",
+ "search_name": "LoopNet (FL apartments, cap high-to-low)",
+ "generated": "2026-06-30",
+ "expires": "2026-07-30",
+ "total_results": 5,
+ "metric_label": "Cap rate",
+ "methodology": "LoopNet FL apartment-building pull 2026-06-30, sorted by broker-reported cap rate (high to low). 5–25 unit value-add focus; implausible outliers dropped (cap>20% anywhere, >15% in strong coastal markets, sub-scale data errors). Broker-reported, unverified. Disguised: submarket + price band + cap band public; exact address & financials on request.",
+ "items": [
+  {
+   "id": "high-yield-sfl-2026-06-30-01",
+   "analytics_id": "A-00269",
+   "rank": 1,
+   "submarket": "Naples",
+   "profile": "Value-Add Multifamily (5–25 units)",
+   "price_band": "$1M–$1.5M",
+   "cap_label": "~14.13% cap",
+   "desc": "Value-Add Multifamily in Naples; ~14.13% cap. Exact address, financials & unit mix on request.",
+   "inquiry_subject": "Inquiry: Value-Add Multifamily, Naples (~14.13% cap)",
+   "highlights": [
+    "Value-add multifamily · ~5,000 SF",
+    "~14.13% cap",
+    "Naples — high-yield income"
+   ]
+  },
+  {
+   "id": "high-yield-sfl-2026-06-30-02",
+   "analytics_id": "A-00270",
+   "rank": 2,
+   "submarket": "Tallahassee",
+   "profile": "Value-Add Multifamily (5–25 units)",
+   "price_band": "$1.5M–$2M",
+   "cap_label": "~13.68% cap",
+   "desc": "Value-Add Multifamily in Tallahassee; ~13.68% cap. Exact address, financials & unit mix on request.",
+   "inquiry_subject": "Inquiry: Value-Add Multifamily, Tallahassee (~13.68% cap)",
+   "highlights": [
+    "Value-add multifamily · ~13,748 SF",
+    "~13.68% cap",
+    "Tallahassee — high-yield income"
+   ]
+  },
+  {
+   "id": "high-yield-sfl-2026-06-30-03",
+   "analytics_id": "A-00271",
+   "rank": 3,
+   "submarket": "Melbourne",
+   "profile": "Value-Add Multifamily (5–25 units)",
+   "price_band": "$1M–$1.5M",
+   "cap_label": "~13.52% cap",
+   "desc": "Value-Add Multifamily in Melbourne; ~13.52% cap. Exact address, financials & unit mix on request.",
+   "inquiry_subject": "Inquiry: Value-Add Multifamily, Melbourne (~13.52% cap)",
+   "highlights": [
+    "Value-add multifamily · ~4,176 SF",
+    "~13.52% cap",
+    "Melbourne — high-yield income"
+   ]
+  },
+  {
+   "id": "high-yield-sfl-2026-06-30-04",
+   "analytics_id": "A-00272",
+   "rank": 4,
+   "submarket": "Tampa",
+   "profile": "Value-Add Multifamily (5–25 units)",
+   "price_band": "$2.5M–$3M",
+   "cap_label": "~12.00% cap",
+   "desc": "Value-Add Multifamily in Tampa; ~12.00% cap. Exact address, financials & unit mix on request.",
+   "inquiry_subject": "Inquiry: Value-Add Multifamily, Tampa (~12.00% cap)",
+   "highlights": [
+    "Value-add multifamily · ~7,544 SF",
+    "~12.00% cap",
+    "Tampa — high-yield income"
+   ]
+  },
+  {
+   "id": "high-yield-sfl-2026-06-30-05",
+   "analytics_id": "A-00273",
+   "rank": 5,
+   "submarket": "Spring Hill",
+   "profile": "Value-Add Multifamily (5–25 units)",
+   "price_band": "$0.5M–$1M",
+   "cap_label": "~11.86% cap",
+   "desc": "Value-Add Multifamily in Spring Hill; ~11.86% cap. Exact address, financials & unit mix on request.",
+   "inquiry_subject": "Inquiry: Value-Add Multifamily, Spring Hill (~11.86% cap)",
+   "highlights": [
+    "Value-add multifamily · ~8,000 SF",
+    "~11.86% cap",
+    "Spring Hill — high-yield income"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,175 @@
+{
+ "segment": "large-statewide",
+ "collection": "curated",
+ "template": "curated-generic",
+ "label": "Larger Investments — 40+ Units",
+ "tagline": "Top 10 · Statewide · 40+ units · ranked by scale; institutional & value-add",
+ "search_name": "Crexi (FL Multifamily, by units)",
+ "generated": "2026-06-30",
+ "expires": "2026-07-30",
+ "total_results": 3336,
+ "metric_label": "Price / unit",
+ "methodology": "Crexi FL multifamily listings 2026-06-30, sorted by unit count (Crexi publishes no cap-rate sort and large MF rarely post caps), ranked by scale. Existing/stabilized apartment communities & portfolios only; land/development/MHP-RV excluded. Metric shown is price per unit. Disguised: submarket + units + price band + $/unit public; exact address on request.",
+ "items": [
+  {
+   "id": "large-statewide-2026-06-30-01",
+   "analytics_id": "A-00274",
+   "rank": 1,
+   "submarket": "Sunrise (Broward)",
+   "profile": "Multifamily Community (40+ units)",
+   "price_band": "$46M–$48M",
+   "cap_label": "~$225K/unit",
+   "desc": "207-unit multifamily in Sunrise (Broward); ~$225K/unit. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 207-unit multifamily, Sunrise (Broward) (~$225K/unit)",
+   "highlights": [
+    "207 units · Sunrise (Broward)",
+    "~$225K/unit",
+    "Institutional / value-add scale"
+   ]
+  },
+  {
+   "id": "large-statewide-2026-06-30-02",
+   "analytics_id": "A-00275",
+   "rank": 2,
+   "submarket": "Tallahassee",
+   "profile": "Multifamily Community (40+ units)",
+   "price_band": "$28M–$30M",
+   "cap_label": "~$150K/unit",
+   "desc": "200-unit multifamily in Tallahassee; ~$150K/unit. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 200-unit multifamily, Tallahassee (~$150K/unit)",
+   "highlights": [
+    "200 units · Tallahassee",
+    "~$150K/unit",
+    "Institutional / value-add scale"
+   ]
+  },
+  {
+   "id": "large-statewide-2026-06-30-03",
+   "analytics_id": "A-00276",
+   "rank": 3,
+   "submarket": "Lauderhill (Broward)",
+   "profile": "Multifamily Community (40+ units)",
+   "price_band": "$44M–$46M",
+   "cap_label": "~$234K/unit",
+   "desc": "192-unit multifamily in Lauderhill (Broward); ~$234K/unit. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 192-unit multifamily, Lauderhill (Broward) (~$234K/unit)",
+   "highlights": [
+    "192 units · Lauderhill (Broward)",
+    "~$234K/unit",
+    "Institutional / value-add scale"
+   ]
+  },
+  {
+   "id": "large-statewide-2026-06-30-04",
+   "analytics_id": "A-00277",
+   "rank": 4,
+   "submarket": "Naples",
+   "profile": "Multifamily Community (40+ units)",
+   "price_band": "Unpriced",
+   "cap_label": "188 units",
+   "desc": "188-unit multifamily community in Naples. Pricing & financials on request.",
+   "inquiry_subject": "Inquiry: 188-unit multifamily, Naples (188 units)",
+   "highlights": [
+    "188 units · Naples",
+    "188 units",
+    "Institutional / value-add scale"
+   ]
+  },
+  {
+   "id": "large-statewide-2026-06-30-05",
+   "analytics_id": "A-00278",
+   "rank": 5,
+   "submarket": "Clearwater (Tampa Bay)",
+   "profile": "Multifamily Community (40+ units)",
+   "price_band": "$32M–$34M",
+   "cap_label": "~$218K/unit",
+   "desc": "155-unit multifamily in Clearwater (Tampa Bay); ~$218K/unit. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 155-unit multifamily, Clearwater (Tampa Bay) (~$218K/unit)",
+   "highlights": [
+    "155 units · Clearwater (Tampa Bay)",
+    "~$218K/unit",
+    "~6% cap"
+   ]
+  },
+  {
+   "id": "large-statewide-2026-06-30-06",
+   "analytics_id": "A-00279",
+   "rank": 6,
+   "submarket": "Bradenton",
+   "profile": "Multifamily Community (40+ units)",
+   "price_band": "Unpriced",
+   "cap_label": "145 units",
+   "desc": "145-unit multifamily community in Bradenton. Pricing & financials on request.",
+   "inquiry_subject": "Inquiry: 145-unit multifamily, Bradenton (145 units)",
+   "highlights": [
+    "145 units · Bradenton",
+    "145 units",
+    "Institutional / value-add scale"
+   ]
+  },
+  {
+   "id": "large-statewide-2026-06-30-07",
+   "analytics_id": "A-00280",
+   "rank": 7,
+   "submarket": "Fort Myers (SW FL)",
+   "profile": "Multifamily Community (40+ units)",
+   "price_band": "Unpriced",
+   "cap_label": "134 units",
+   "desc": "134-unit multifamily community in Fort Myers (SW FL). Pricing & financials on request.",
+   "inquiry_subject": "Inquiry: 134-unit multifamily, Fort Myers (SW FL) (134 units)",
+   "highlights": [
+    "134 units · Fort Myers (SW FL)",
+    "134 units",
+    "Institutional / value-add scale"
+   ]
+  },
+  {
+   "id": "large-statewide-2026-06-30-08",
+   "analytics_id": "A-00281",
+   "rank": 8,
+   "submarket": "Fort Pierce",
+   "profile": "Multifamily Community (40+ units)",
+   "price_band": "Unpriced",
+   "cap_label": "130 units",
+   "desc": "130-unit multifamily community in Fort Pierce. Pricing & financials on request.",
+   "inquiry_subject": "Inquiry: 130-unit multifamily, Fort Pierce (130 units)",
+   "highlights": [
+    "130 units · Fort Pierce",
+    "130 units",
+    "Institutional / value-add scale"
+   ]
+  },
+  {
+   "id": "large-statewide-2026-06-30-09",
+   "analytics_id": "A-00282",
+   "rank": 9,
+   "submarket": "Tallahassee",
+   "profile": "Multifamily Community (40+ units)",
+   "price_band": "$15M–$16M",
+   "cap_label": "~$126K/unit",
+   "desc": "123-unit multifamily in Tallahassee; ~$126K/unit. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 123-unit multifamily, Tallahassee (~$126K/unit)",
+   "highlights": [
+    "123 units · Tallahassee",
+    "~$126K/unit",
+    "Institutional / value-add scale"
+   ]
+  },
+  {
+   "id": "large-statewide-2026-06-30-10",
+   "analytics_id": "A-00283",
+   "rank": 10,
+   "submarket": "Cape Canaveral (Space Coast)",
+   "profile": "Multifamily Community (40+ units)",
+   "price_band": "$8M–$9M",
+   "cap_label": "~$74K/unit",
+   "desc": "112-unit multifamily in Cape Canaveral (Space Coast); ~$74K/unit. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 112-unit multifamily, Cape Canaveral (Space Coast) (~$74K/unit)",
+   "highlights": [
+    "112 units · Cape Canaveral (Space Coast)",
+    "~$74K/unit",
+    "Institutional / value-add scale"
+   ]
+  }
+ ]
+}

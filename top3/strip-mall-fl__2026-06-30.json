@@ -1,0 +1,159 @@
+{
+ "segment": "strip-mall-fl",
+ "collection": "curated",
+ "template": "curated-generic",
+ "label": "Strip Malls & Retail Centers — Florida",
+ "tagline": "Top multi-tenant strip & neighborhood retail centers statewide · ranked by cap rate",
+ "search_name": "Crexi (FL multi-tenant retail)",
+ "generated": "2026-06-30",
+ "expires": "2026-07-30",
+ "total_results": 4637,
+ "metric_label": "Cap rate",
+ "methodology": "Crexi FL retail pull 2026-06-30, multi-tenant strip/neighborhood centers only, ranked by broker-reported cap rate (unverified). Single-tenant net-lease boxes excluded (see NNN list). Disguised: area + type + price band + cap band public; exact address on request.",
+ "items": [
+  {
+   "id": "strip-mall-fl-2026-06-30-01",
+   "analytics_id": "A-00294",
+   "rank": 1,
+   "submarket": "Ocoee (Orlando MSA)",
+   "profile": "Shopping Center",
+   "price_band": "$7M–$8M",
+   "cap_label": "~8.56% cap",
+   "desc": "Shopping Center (multi-tenant strip/neighborhood retail) in Ocoee (Orlando MSA); ~8.56% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Shopping Center, Ocoee (Orlando MSA) (~8.56% cap)",
+   "highlights": [
+    "Shopping Center · ~61,100 SF",
+    "~8.56% cap",
+    "~8.56% cap — highest on the list"
+   ]
+  },
+  {
+   "id": "strip-mall-fl-2026-06-30-02",
+   "analytics_id": "A-00295",
+   "rank": 2,
+   "submarket": "New Port Richey (Tampa Bay MSA)",
+   "profile": "Multi-Tenant Retail Center",
+   "price_band": "$16M–$17M",
+   "cap_label": "~7.90% cap",
+   "desc": "Multi-Tenant Retail Center (multi-tenant strip/neighborhood retail) in New Port Richey (Tampa Bay MSA); ~7.90% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Multi-Tenant Retail Center, New Port Richey (Tampa Bay MSA) (~7.90% cap)",
+   "highlights": [
+    "Multi-Tenant Retail Center · multi-tenant",
+    "~7.90% cap",
+    "New Port Richey submarket"
+   ]
+  },
+  {
+   "id": "strip-mall-fl-2026-06-30-03",
+   "analytics_id": "A-00296",
+   "rank": 3,
+   "submarket": "Apopka (Orlando MSA)",
+   "profile": "Shopping Center",
+   "price_band": "$23M–$24M",
+   "cap_label": "~7.30% cap",
+   "desc": "Shopping Center (multi-tenant strip/neighborhood retail) in Apopka (Orlando MSA); ~7.30% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Shopping Center, Apopka (Orlando MSA) (~7.30% cap)",
+   "highlights": [
+    "Shopping Center · ~170,993 SF",
+    "~7.30% cap",
+    "Apopka submarket"
+   ]
+  },
+  {
+   "id": "strip-mall-fl-2026-06-30-04",
+   "analytics_id": "A-00297",
+   "rank": 4,
+   "submarket": "New Smyrna Beach",
+   "profile": "Shopping Center",
+   "price_band": "$13M–$14M",
+   "cap_label": "~7.00% cap",
+   "desc": "Shopping Center (multi-tenant strip/neighborhood retail) in New Smyrna Beach; ~7.00% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Shopping Center, New Smyrna Beach (~7.00% cap)",
+   "highlights": [
+    "Shopping Center · ~99,961 SF",
+    "~7.00% cap",
+    "New Smyrna submarket"
+   ]
+  },
+  {
+   "id": "strip-mall-fl-2026-06-30-05",
+   "analytics_id": "A-00298",
+   "rank": 5,
+   "submarket": "Lakeland",
+   "profile": "Multi-Tenant Retail Center",
+   "price_band": "$11M–$12M",
+   "cap_label": "~6.46% cap",
+   "desc": "Multi-Tenant Retail Center (multi-tenant strip/neighborhood retail) in Lakeland; ~6.46% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Multi-Tenant Retail Center, Lakeland (~6.46% cap)",
+   "highlights": [
+    "Multi-Tenant Retail Center · ~40,395 SF",
+    "~6.46% cap",
+    "Lakeland submarket"
+   ]
+  },
+  {
+   "id": "strip-mall-fl-2026-06-30-06",
+   "analytics_id": "A-00299",
+   "rank": 6,
+   "submarket": "North Palm Beach",
+   "profile": "Multi-Tenant Retail Center",
+   "price_band": "$12M–$13M",
+   "cap_label": "~6.36% cap",
+   "desc": "Multi-Tenant Retail Center (multi-tenant strip/neighborhood retail) in North Palm Beach; ~6.36% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Multi-Tenant Retail Center, North Palm Beach (~6.36% cap)",
+   "highlights": [
+    "Multi-Tenant Retail Center · ~20,008 SF",
+    "~6.36% cap",
+    "North Palm Beach submarket"
+   ]
+  },
+  {
+   "id": "strip-mall-fl-2026-06-30-07",
+   "analytics_id": "A-00300",
+   "rank": 7,
+   "submarket": "Hialeah Gardens",
+   "profile": "Multi-Tenant Retail Center",
+   "price_band": "$12M–$13M",
+   "cap_label": "~6.34% cap",
+   "desc": "Multi-Tenant Retail Center (multi-tenant strip/neighborhood retail) in Hialeah Gardens; ~6.34% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Multi-Tenant Retail Center, Hialeah Gardens (~6.34% cap)",
+   "highlights": [
+    "Multi-Tenant Retail Center · ~20,741 SF",
+    "~6.34% cap",
+    "Hialeah Gardens submarket"
+   ]
+  },
+  {
+   "id": "strip-mall-fl-2026-06-30-08",
+   "analytics_id": "A-00301",
+   "rank": 8,
+   "submarket": "Winter Garden (Orlando MSA)",
+   "profile": "Shopping Center",
+   "price_band": "$18M–$19M",
+   "cap_label": "~6.00% cap",
+   "desc": "Shopping Center (multi-tenant strip/neighborhood retail) in Winter Garden (Orlando MSA); ~6.00% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Shopping Center, Winter Garden (Orlando MSA) (~6.00% cap)",
+   "highlights": [
+    "Shopping Center · ~64,204 SF",
+    "~6.00% cap",
+    "Winter Garden submarket"
+   ]
+  },
+  {
+   "id": "strip-mall-fl-2026-06-30-09",
+   "analytics_id": "A-00302",
+   "rank": 9,
+   "submarket": "Orlando",
+   "profile": "Multi-Tenant Retail Center",
+   "price_band": "$15M–$16M",
+   "cap_label": "~5.16% cap",
+   "desc": "Multi-Tenant Retail Center (multi-tenant strip/neighborhood retail) in Orlando; ~5.16% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Multi-Tenant Retail Center, Orlando (~5.16% cap)",
+   "highlights": [
+    "Multi-Tenant Retail Center · ~37,291 SF",
+    "~5.16% cap",
+    "Orlando submarket"
+   ]
+  }
+ ]
+}
