@@ -1,0 +1,64 @@
+{
+  "meta": {
+    "updated": "2026-07-02",
+    "period": "Data through May-June 2026",
+    "coverage": "SE Florida (Palm Beach, Broward, Martin, St. Lucie, Miami-Dade) + statewide FL",
+    "disclaimer": "Figures compiled from public market reports (Florida Realtors, MIAMI Realtors, CBRE, Freddie Mac, FL OIR) and are informational only - not investment, tax, or financial advice. Deemed reliable but not guaranteed.",
+    "note_showingtime": "County/segment residential metrics can be refreshed from the RAPB-GFLR ShowingTime members portal via logged-in browser session; current values below are from public Florida Realtors / association releases."
+  },
+  "residential": {
+    "columns": ["Area", "SF Median", "SF YoY", "Condo Median", "Closed Sales YoY", "Homes for Sale YoY"],
+    "source": "BeachesMLS Monthly Market Indicators, May 2026 (RAPB / Broward, Palm Beaches & St. Lucie Realtors); statewide from Florida Realtors.",
+    "note": "Median prices are single-family and townhouse/condo. YoY changes per association releases.",
+    "rows": [
+      { "area": "South Palm Beach County", "sfMedian": "$725,000", "sfYoy": "+13.3%", "condoMedian": "$300,000", "closedYoy": "+3.9%", "homesYoy": "-21.3%" },
+      { "area": "North Palm Beach County", "sfMedian": "$760,000", "sfYoy": "+6.1%", "condoMedian": "$380,000", "closedYoy": "+4.0%", "homesYoy": "-14.8%" },
+      { "area": "Broward County", "sfMedian": "$632,000", "sfYoy": "+1.1%", "condoMedian": "$270,000", "closedYoy": "-0.3%", "homesYoy": "-16.5%" },
+      { "area": "Treasure Coast (Martin / St. Lucie)", "sfMedian": "$432,500", "sfYoy": "+2.0%", "condoMedian": "$300,000", "closedYoy": "-5.8%", "homesYoy": "-15.2%" },
+      { "area": "Florida (statewide SF)", "sfMedian": "$425,000", "sfYoy": "+2.4%", "condoMedian": "-", "closedYoy": "+ (9th straight mo)", "homesYoy": "-" }
+    ]
+  },
+  "luxury": {
+    "headline": "South Florida $1M+ sales +22% in Q1 2026; 361 sales above $10M in 2025 (highest since 2021)",
+    "cards": [
+      { "label": "$1M+ Sales, Q1 2026 (SE FL)", "value": "+22%", "sub": "vs Q1 2025" },
+      { "label": "Miami-Dade $1M+ Sales, May", "value": "+14.7%", "sub": "YoY unit sales" },
+      { "label": "$10M+ Sales in 2025", "value": "361", "sub": "highest since 2021" },
+      { "label": "PB County Avg Price YTD", "value": "$1.025M", "sub": "+11% YTD" }
+    ]
+  },
+  "commercial": {
+    "columns": ["Market", "Multifamily Cap Rate", "Vacancy", "Avg Asking Rent"],
+    "note": "CBRE / Yardi Matrix, late 2025 - Q1 2026.",
+    "rows": [
+      { "market": "Fort Lauderdale / Broward", "cap": "6.27%", "vacancy": "7.9%", "rent": "$2,411" },
+      { "market": "Palm Beach / Boca Raton", "cap": "4.98%", "vacancy": "7.3%", "rent": "$2,546" },
+      { "market": "Miami-Dade", "cap": "5.79%", "vacancy": "9.1%", "rent": "-" }
+    ],
+    "highlights": [
+      "Fort Lauderdale ranked #1 U.S. market for multifamily investment profitability (through late 2025).",
+      "Broward multifamily sales volume $1.28B, +20% YoY.",
+      "Net absorption outpacing new deliveries in Broward and Palm Beach.",
+      "West Palm Beach office pipeline ~3.3M SF (~700K SF under construction)."
+    ]
+  },
+  "rates": {
+    "updated": "2026-06-30",
+    "cards": [
+      { "label": "30-Yr Fixed (conforming)", "value": "6.43%", "sub": "Freddie Mac PMMS, down from 6.49%" },
+      { "label": "30-Yr Jumbo", "value": "~6.58%", "sub": "Forbes Advisor avg (Bankrate ~6.67%)" },
+      { "label": "Jumbo loan threshold", "value": "$832,750", "sub": "2026 FHFA baseline (most areas)" }
+    ]
+  },
+  "insurance": {
+    "updated": "2026-06-30",
+    "trend": "Improving / stabilizing",
+    "cards": [
+      { "label": "FL Avg Annual Premium (w/ wind)", "value": "~$3,815", "sub": "still ~40-50% above U.S. avg" },
+      { "label": "SE FL County Rate Filings", "value": "-11% to -14%", "sub": "average decreases filed" },
+      { "label": "Citizens Policy Count", "value": "~395K", "sub": "down from 1.42M in late 2023 - lowest since 2012" },
+      { "label": "June 2026 Reinsurance Pricing", "value": "-15% to -20%", "sub": "risk-adjusted, many layers" }
+    ],
+    "note": "Coastal properties, older homes, and condos may see less relief than standard inland single-family homes."
+  }
+}

@@ -1,0 +1,178 @@
+[
+  {
+    "id": 1,
+    "date": "2026-06-30",
+    "title": "Florida Property-Insurance Cat Reinsurance Prices Fall 15-20% at June Renewals",
+    "summary": "Guy Carpenter reports risk-adjusted Florida property-catastrophe reinsurance pricing down roughly 15-20% across many layers at the June 2026 renewals, easing a key cost driver for coastal-property carriers and, in turn, homeowner premiums.",
+    "source": "Insurance Journal",
+    "sourceUrl": "https://www.insurancejournal.com/news/southeast/2026/06/30/875651.htm",
+    "category": "Policy/Insurance",
+    "tags": ["insurance", "reinsurance", "coastal", "premiums"],
+    "importance": "high"
+  },
+  {
+    "id": 2,
+    "date": "2026-06-30",
+    "title": "30-Year Mortgage Slides to 6.43%; Jumbo Near 6.58%",
+    "summary": "Freddie Mac's 30-year fixed averaged 6.43% heading into July, down from 6.49% a week earlier, while 30-year jumbo pricing sat near 6.58-6.67% - a modestly friendlier financing backdrop for SE Florida buyers and investors.",
+    "source": "Freddie Mac / Forbes Advisor",
+    "sourceUrl": "https://www.forbes.com/advisor/mortgages/mortgage-rates-06-30-26/",
+    "category": "Market Data",
+    "tags": ["mortgage rates", "jumbo", "financing"],
+    "importance": "high"
+  },
+  {
+    "id": 3,
+    "date": "2026-06-15",
+    "title": "SE Florida Home Sales Up Year-Over-Year for Consecutive Spring Months",
+    "summary": "Miami-Dade, Broward and Palm Beach each posted higher total home sales year-over-year across consecutive spring months, signaling sustained tri-county momentum even as pricing cools from recent highs.",
+    "source": "Avanti Way / Miami Realtors",
+    "sourceUrl": "https://avantiway.com/2026/07/01/south-florida-midyear-market-playbook-2026-where-opportunity-lives-and-how-agents-investors-and-sellers-win/",
+    "category": "Market Data",
+    "tags": ["closed sales", "tri-county", "spring 2026"],
+    "importance": "medium"
+  },
+  {
+    "id": 4,
+    "date": "2026-06-10",
+    "title": "Palm Beach County Average Sale Price Climbs 11% YTD to $1.025M",
+    "summary": "Palm Beach County's average sale price rose 11% year-to-date from $924,000 to just over $1,025,000, with the median up 3% to $518,500. An unusually high share of cash closings underscores that liquidity, not leverage, is setting the pace.",
+    "source": "Discover South Florida",
+    "sourceUrl": "https://www.discoversouthflorida.com/blog/south-florida-housing-market-report-palm-beach-and-broward-county-q1-2026",
+    "category": "Market Data",
+    "tags": ["Palm Beach", "median price", "cash buyers"],
+    "importance": "high"
+  },
+  {
+    "id": 5,
+    "date": "2026-05-30",
+    "title": "South Florida $1M+ Sales Up 22% in Q1 2026",
+    "summary": "Sales of properties priced above $1 million across South Florida rose 22% in Q1 2026 versus a year earlier. In May, Miami-Dade million-dollar sales were up 14.7% year-over-year, extending a strong luxury run.",
+    "source": "MillionLuxury",
+    "sourceUrl": "https://www.millionluxury.com/news/south-florida-luxury-market-2026-miami-vs-palm-beach",
+    "category": "Luxury",
+    "tags": ["luxury", "$1M+", "Miami-Dade", "Q1 2026"],
+    "importance": "high"
+  },
+  {
+    "id": 6,
+    "date": "2026-05-05",
+    "title": "Boca Raton Spec Mansion Asking $80M Poised to Shatter City Record",
+    "summary": "An $80 million spec mansion leading Boca Raton contracts is positioned to set a new city price record, reflecting continued demand for turnkey, ultra-high-end waterfront product in southern Palm Beach County.",
+    "source": "The Real Deal",
+    "sourceUrl": "https://therealdeal.com/miami/2026/05/05/boca-raton-spec-mansion-asking-80-million-leads-contracts/",
+    "category": "Luxury",
+    "tags": ["Boca Raton", "record sale", "waterfront", "spec mansion"],
+    "importance": "high"
+  },
+  {
+    "id": 7,
+    "date": "2026-04-24",
+    "title": "Developer Sells Renovated Palm Beach Waterfront Home for $30.8M",
+    "summary": "Developer Mosie Miller and his wife sold a renovated Palm Beach waterfront home for $30.8 million after more than a year on the market - a sign that even trophy assets are trading on positioning and pricing discipline.",
+    "source": "The Real Deal",
+    "sourceUrl": "https://therealdeal.com/miami/2026/04/24/mosie-miller-sells-renovated-palm-beach-home-for-31-million/",
+    "category": "Luxury",
+    "tags": ["Palm Beach", "waterfront", "trophy home"],
+    "importance": "medium"
+  },
+  {
+    "id": 8,
+    "date": "2026-04-20",
+    "title": "Palm Beach Oceanfront Estate Closes at $37M on South Ocean Boulevard",
+    "summary": "A $37 million oceanfront estate with a rare dual-pool configuration and Atlantic frontage closed on South Ocean Boulevard, reinforcing the corridor as one of the world's most valuable residential streets.",
+    "source": "Angle Real Estate / The Real Deal",
+    "sourceUrl": "https://therealdeal.com/miami/2026/04/20/a-look-at-south-floridas-many-record-home-sales-this-season/",
+    "category": "Luxury",
+    "tags": ["Palm Beach", "oceanfront", "record season"],
+    "importance": "medium"
+  },
+  {
+    "id": 9,
+    "date": "2026-04-08",
+    "title": "Former Red Bull COO Buys Palm Beach Mansion for $55.2M",
+    "summary": "Gary Smith, former COO of Red Bull, and his wife purchased a waterfront Palm Beach mansion for $55.2 million, part of a wave of season closings driven by demand for turnkey trophy estates.",
+    "source": "The Real Deal",
+    "sourceUrl": "https://therealdeal.com/miami/2026/04/08/former-red-bull-coo-buys-55-million-palm-beach-mansion/",
+    "category": "Luxury",
+    "tags": ["Palm Beach", "waterfront", "turnkey"],
+    "importance": "medium"
+  },
+  {
+    "id": 10,
+    "date": "2026-04-15",
+    "title": "Fort Lauderdale Ranked No. 1 U.S. Market for Multifamily Investment Profitability",
+    "summary": "Fort Lauderdale led 30 major U.S. markets in multifamily investment returns through late 2025, with higher cap rates outpacing expensive gateway markets like Manhattan and Los Angeles.",
+    "source": "Miami Realtors",
+    "sourceUrl": "https://www.miamirealtors.com/2025/10/20/fort-lauderdale-ranked-no-1-in-multifamily-investment-profitability/",
+    "category": "Multifamily",
+    "tags": ["Fort Lauderdale", "multifamily", "cap rates", "returns"],
+    "importance": "high"
+  },
+  {
+    "id": 11,
+    "date": "2026-03-28",
+    "title": "Broward Multifamily Sales Volume Jumps 20% to $1.28B",
+    "summary": "Broward County multifamily sales volume rose to $1.28 billion, up 20% year-over-year, as net absorption outpaced new deliveries across Broward and Palm Beach - a tightening supply-demand backdrop for apartment investors.",
+    "source": "CBRE / ONE Commercial RE",
+    "sourceUrl": "https://mediaassets.cbre.com/-/media/project/cbre/shared-site/teams/united-states/ft-lauderdale/calum-weaver/weave-report-2025.pdf",
+    "category": "Commercial/CRE",
+    "tags": ["Broward", "multifamily", "sales volume", "absorption"],
+    "importance": "medium"
+  },
+  {
+    "id": 12,
+    "date": "2026-05-20",
+    "title": "West Palm Beach Office Pipeline Tops 3.3M SF as Corporate Relocations Continue",
+    "summary": "West Palm Beach has roughly 3.3 million SF of office space in the pipeline - nearly 700,000 SF under construction - as corporate relocations and financial-services migration cement the city as a regional commercial hub.",
+    "source": "Discover South Florida / Markets of Tomorrow",
+    "sourceUrl": "https://www.discoversouthflorida.com/blog/south-florida-development-boom-fort-lauderdale-and-west-palm-beach-on-the-rise/",
+    "category": "Development",
+    "tags": ["West Palm Beach", "office", "development pipeline"],
+    "importance": "medium"
+  },
+  {
+    "id": 13,
+    "date": "2026-05-12",
+    "title": "Related Breaks Ground / Advances Marquee West Palm Beach Luxury Condos",
+    "summary": "Related Cos. is advancing South Flagler House, and the Nora District marked the groundbreaking of a 201-key boutique hotel - part of a deep West Palm Beach luxury-condo and mixed-use pipeline delivering into 2026-2027.",
+    "source": "Markets of Tomorrow",
+    "sourceUrl": "https://www.oftmw.com/post/six-new-projects-that-are-reshaping-the-future-of-west-palm-beach",
+    "category": "Development",
+    "tags": ["West Palm Beach", "luxury condo", "mixed-use", "hotel"],
+    "importance": "low"
+  },
+  {
+    "id": 14,
+    "date": "2026-05-08",
+    "title": "Florida Statewide Single-Family Median Hits $425K, Up 2.4% YoY",
+    "summary": "Florida Realtors' May 2026 data put the statewide single-family median at about $425,000, up 2.4% year-over-year, with closed sales rising for the ninth straight month as the market approached a summer inflection point.",
+    "source": "Florida Realtors",
+    "sourceUrl": "https://www.floridarealtors.org/newsroom/market-data",
+    "category": "Market Data",
+    "tags": ["Florida", "median price", "closed sales", "statewide"],
+    "importance": "medium"
+  },
+  {
+    "id": 15,
+    "date": "2026-04-30",
+    "title": "Florida Insurance Trends Shift Toward Relief; Citizens Down to ~395K Policies",
+    "summary": "State-backed Citizens has fallen from 1.42 million policies in late 2023 to roughly 395,000 in January 2026 - the lowest since 2012 - as private carriers file rate decreases and take back risk. SE Florida counties are averaging 11-14% decreases.",
+    "source": "Florida Realtors",
+    "sourceUrl": "https://www.floridarealtors.org/news-media/news-articles/2026/04/florida-insurance-trends-shift-toward-relief",
+    "category": "Policy/Insurance",
+    "tags": ["insurance", "Citizens", "rate decrease", "SE Florida"],
+    "importance": "medium"
+  },
+  {
+    "id": 16,
+    "date": "2026-03-15",
+    "title": "South Florida Recorded 361 Sales Above $10M in 2025 - Highest Since 2021",
+    "summary": "South Florida logged 361 residential sales above $10 million in 2025, the strongest ultra-luxury tally since 2021, led by Palm Beach island and Miami-Dade waterfront enclaves like Indian Creek.",
+    "source": "MillionLuxury",
+    "sourceUrl": "https://www.millionluxury.com/news/south-florida-ultra-luxury-real-estate-2026",
+    "category": "Luxury",
+    "tags": ["ultra-luxury", "$10M+", "Palm Beach", "Indian Creek"],
+    "importance": "medium"
+  }
+]

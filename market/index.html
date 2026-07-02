@@ -1,0 +1,400 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Market Intel | SavingsRE — SE Florida Real Estate News &amp; Data</title>
+<meta name="description" content="Weekly-curated South Florida luxury and commercial real estate news, county market data, mortgage rates, and coastal-insurance trends. By William Spencer Seery Jr, PA.">
+<meta property="og:title" content="Market Intel | SavingsRE">
+<meta property="og:description" content="SE Florida luxury &amp; commercial real estate news and market data, curated weekly.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://savingsre.com/market/">
+<style>
+  :root{
+    --navy:#11294a; --gold:#b8860b; --blue:#285aaa; --slate:#334155;
+    --muted:#64748b; --border:#e0e6ee; --bg:#f7f9fc; --card:#ffffff;
+    --green:#0f7b4a; --red:#b4232a;
+    --serif:Georgia,'Times New Roman',serif;
+    --sans:-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,Helvetica,sans-serif;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{font-family:var(--sans);color:var(--slate);background:var(--bg);line-height:1.5}
+  a{color:var(--blue);text-decoration:none}
+  a:hover{text-decoration:underline}
+
+  /* NAV */
+  .nav{position:sticky;top:0;z-index:100;background:var(--navy);color:#fff;
+    display:flex;align-items:center;justify-content:space-between;gap:16px;
+    padding:12px 22px;flex-wrap:wrap}
+  .brand{font-family:var(--serif);font-size:1.25rem;font-weight:700;letter-spacing:.3px;color:#fff}
+  .brand span{color:var(--gold)}
+  .nav-links{display:flex;gap:4px;flex-wrap:wrap;align-items:center}
+  .nav-links a{color:#cdd7e6;font-size:.78rem;text-transform:uppercase;letter-spacing:.5px;
+    padding:7px 12px;border-radius:5px;transition:.2s}
+  .nav-links a:hover{color:#fff;background:rgba(255,255,255,.08);text-decoration:none}
+  .nav-links a.active{color:var(--navy);background:var(--gold);font-weight:600}
+  .nav-phone{color:#fff;font-size:.8rem;font-weight:600;white-space:nowrap}
+
+  /* HERO */
+  .hero{background:linear-gradient(135deg,var(--navy) 0%,#0b1c33 100%);color:#fff;
+    padding:38px 22px 30px;text-align:center;border-bottom:3px solid var(--gold)}
+  .hero .eyebrow{font-size:.7rem;letter-spacing:2px;text-transform:uppercase;color:var(--gold);margin-bottom:10px}
+  .hero h1{font-family:var(--serif);font-size:2rem;font-weight:700;margin-bottom:8px}
+  .hero h1 em{color:var(--gold);font-style:italic}
+  .hero p{color:#c7d2e2;font-size:.95rem;max-width:720px;margin:0 auto}
+  .hero .updated{margin-top:14px;font-size:.72rem;letter-spacing:1px;text-transform:uppercase;color:#9fb0c8}
+  .hero .updated .dot{display:inline-block;width:8px;height:8px;border-radius:50%;background:var(--gold);margin-right:6px;vertical-align:middle}
+
+  .wrap{max-width:1180px;margin:0 auto;padding:26px 20px}
+
+  /* SECTION HEAD */
+  .sec-head{font-family:var(--serif);font-size:1.3rem;color:var(--navy);font-weight:700;
+    margin:6px 0 4px;display:flex;align-items:baseline;gap:10px}
+  .sec-head .tag{font-family:var(--sans);font-size:.62rem;font-weight:700;letter-spacing:1px;
+    text-transform:uppercase;color:var(--gold);border:1px solid var(--gold);border-radius:100px;padding:2px 9px}
+  .sec-sub{color:var(--muted);font-size:.82rem;margin-bottom:16px}
+
+  /* METRIC CARDS */
+  .cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:12px;margin-bottom:14px}
+  .card{background:var(--card);border:1px solid var(--border);border-top:3px solid var(--gold);
+    border-radius:8px;padding:14px 16px}
+  .card .label{font-size:.68rem;text-transform:uppercase;letter-spacing:.5px;color:var(--muted);margin-bottom:6px}
+  .card .value{font-family:var(--serif);font-size:1.5rem;font-weight:700;color:var(--navy)}
+  .card .sub{font-size:.72rem;color:var(--slate);margin-top:3px}
+  .up{color:var(--green)} .down{color:var(--red)}
+
+  /* CTA button */
+  .cta{display:inline-block;background:var(--gold);color:var(--navy)!important;font-weight:700;
+    font-size:.82rem;padding:12px 22px;border-radius:6px;text-transform:uppercase;letter-spacing:.4px;
+    text-decoration:none;transition:.2s;border:1px solid var(--gold)}
+  .cta:hover{background:#a2760a;text-decoration:none}
+  .cta.navy{background:var(--navy);color:#fff!important;border-color:var(--navy)}
+  .cta.navy:hover{background:#0b1c33}
+
+  /* TABLE */
+  .tbl-wrap{background:var(--card);border:1px solid var(--border);border-radius:8px;overflow-x:auto;margin-bottom:14px}
+  table{width:100%;border-collapse:collapse;font-size:.82rem;min-width:520px}
+  th{background:var(--navy);color:#fff;text-align:left;padding:9px 12px;font-size:.68rem;
+    text-transform:uppercase;letter-spacing:.5px;font-weight:600}
+  td{padding:9px 12px;border-top:1px solid var(--border);color:var(--slate)}
+  tr:nth-child(even) td{background:#fbfcfe}
+  .note{font-size:.72rem;color:var(--muted);font-style:italic;margin:2px 0 22px}
+
+  .grid2{display:grid;grid-template-columns:1fr 1fr;gap:20px}
+  @media(max-width:760px){.grid2{grid-template-columns:1fr}}
+
+  .highlights{list-style:none;margin:2px 0 22px}
+  .highlights li{padding:7px 0 7px 20px;position:relative;font-size:.85rem;color:var(--slate);border-bottom:1px solid var(--border)}
+  .highlights li:before{content:"";position:absolute;left:2px;top:13px;width:7px;height:7px;background:var(--gold);border-radius:50%}
+
+  .divider{height:1px;background:var(--border);margin:28px 0}
+
+  /* NEWS CONTROLS */
+  .controls{display:flex;gap:12px;flex-wrap:wrap;align-items:center;margin-bottom:14px}
+  .search{flex:0 1 300px;position:relative}
+  .search input{width:100%;padding:10px 14px;font-size:.85rem;border:1px solid var(--border);
+    border-radius:6px;background:#fff;color:var(--slate);outline:none}
+  .search input:focus{border-color:var(--blue);box-shadow:0 0 0 3px rgba(40,90,170,.12)}
+  .filters{display:flex;gap:6px;flex-wrap:wrap}
+  .fbtn{font-size:.7rem;text-transform:uppercase;letter-spacing:.5px;padding:8px 13px;
+    border:1px solid var(--border);border-radius:6px;background:#fff;color:var(--slate);cursor:pointer;transition:.2s}
+  .fbtn:hover{border-color:var(--blue);color:var(--navy)}
+  .fbtn.active{background:var(--navy);border-color:var(--navy);color:#fff}
+  .stats{font-size:.72rem;text-transform:uppercase;letter-spacing:.5px;color:var(--muted);margin-bottom:14px}
+  .stats b{color:var(--gold)}
+
+  /* NEWS CARDS */
+  .feed{display:flex;flex-direction:column;gap:10px}
+  .item{background:var(--card);border:1px solid var(--border);border-radius:8px;padding:13px 16px;
+    display:flex;gap:14px;align-items:flex-start;transition:.2s}
+  .item:hover{border-color:var(--blue);box-shadow:0 2px 10px rgba(17,41,74,.06)}
+  .item.high{border-left:3px solid var(--gold)}
+  .item-left{flex-shrink:0;width:150px}
+  .item-date{font-size:.68rem;color:var(--muted);white-space:nowrap}
+  .cat{display:inline-block;margin-top:5px;font-size:.6rem;font-weight:700;text-transform:uppercase;
+    letter-spacing:.3px;padding:2px 8px;border-radius:100px;white-space:nowrap}
+  .cat-luxury{background:#f5edd8;color:#8a6608;border:1px solid #e4d19a}
+  .cat-commercial\/cre{background:#dde7f4;color:#1f477e;border:1px solid #b6cae4}
+  .cat-multifamily{background:#dcefe6;color:#0f6b45;border:1px solid #b2ddc8}
+  .cat-market-data{background:#e7e3f4;color:#4a3a86;border:1px solid #cabfe8}
+  .cat-policy\/insurance{background:#f6e2df;color:#8f322b;border:1px solid #e8bcb6}
+  .cat-development{background:#eae7e0;color:#5b5240;border:1px solid #d4cbb8}
+  .item-body{flex:1;min-width:0}
+  .item-title{font-size:.92rem;font-weight:600;color:var(--navy);line-height:1.35}
+  .item-title a{color:var(--navy)}
+  .item-sum{font-size:.8rem;color:var(--slate);margin-top:4px;line-height:1.5}
+  .item-right{flex-shrink:0;text-align:right;width:130px}
+  .badge{display:inline-block;font-size:.55rem;font-weight:700;letter-spacing:.5px;color:var(--gold);
+    border:1px solid var(--gold);border-radius:3px;padding:1px 6px;margin-bottom:5px}
+  .src{font-size:.66rem;color:var(--muted);display:block}
+  .empty{text-align:center;padding:40px;color:var(--muted)}
+
+  @media(max-width:680px){
+    .item{flex-wrap:wrap}
+    .item-left{width:auto;display:flex;gap:10px;align-items:center}
+    .item-right{display:none}
+    .hero h1{font-size:1.6rem}
+  }
+
+  /* FOOTER */
+  footer{background:var(--navy);color:#c7d2e2;font-size:.78rem;padding:26px 22px;margin-top:30px;line-height:1.6}
+  footer .fwrap{max-width:1180px;margin:0 auto}
+  footer a{color:#9fc0f0}
+  .legal{font-size:.72rem;color:#8ea1bd;border-top:1px solid rgba(255,255,255,.12);margin-top:14px;padding-top:14px}
+</style>
+</head>
+<body>
+
+<nav class="nav">
+  <a class="brand" href="/index.html">Savings<span>RE</span></a>
+  <div class="nav-links">
+    <a href="/investor-hub.html">Investors</a>
+    <a href="/luxury.html">Luxury</a>
+    <a href="/top3/">Top Investments</a>
+    <a href="/market/" class="active">Market Intel</a>
+    <a href="/buyersurvey.html">Buyer Survey</a>
+    <a href="/luxury-listings.html">List for 1.5%</a>
+    <a href="https://alphageninsurance.com/get-a-quote/" target="_blank" rel="noopener">Insurance &#8599;</a>
+  </div>
+  <span class="nav-phone">+1 (561) 220-0402</span>
+</nav>
+
+<header class="hero">
+  <div class="eyebrow">South Florida &middot; Luxury &amp; Commercial &middot; Curated Weekly</div>
+  <h1>Market <em>Intel</em></h1>
+  <p>Live market data, mortgage &amp; insurance trends, and curated news across South Florida and statewide luxury and commercial real estate.</p>
+  <div class="updated"><span class="dot"></span><span id="updatedLine">Updated July 2, 2026</span></div>
+</header>
+
+<div class="wrap">
+
+  <!-- MARKET DATA -->
+  <div class="sec-head">Market Data <span class="tag">SE FL + Statewide</span></div>
+  <div class="sec-sub" id="mdPeriod">Residential price and supply, latest public releases.</div>
+
+  <div class="cards" id="luxCards"></div>
+
+  <div class="tbl-wrap">
+    <table id="resTable"><thead></thead><tbody></tbody></table>
+  </div>
+  <div class="note" id="resNote"></div>
+
+  <div class="grid2">
+    <div>
+      <div class="sec-head" style="font-size:1.05rem">Commercial &amp; Multifamily</div>
+      <div class="tbl-wrap">
+        <table id="creTable"><thead></thead><tbody></tbody></table>
+      </div>
+    </div>
+    <div>
+      <div class="sec-head" style="font-size:1.05rem">CRE Highlights</div>
+      <ul class="highlights" id="creHighlights"></ul>
+    </div>
+  </div>
+
+  <!-- RATES + INSURANCE -->
+  <div class="sec-head" style="margin-top:8px">Mortgage Rates <span class="tag">as of <span id="ratesDate">Jun 30</span></span></div>
+  <div class="cards" id="ratesCards"></div>
+
+  <div class="sec-head" style="margin-top:14px">FL Coastal Insurance <span class="tag" id="insTrend">Improving</span></div>
+  <div class="cards" id="insCards"></div>
+  <div class="note" id="insNote"></div>
+  <div style="margin:6px 0 22px">
+    <a class="cta" href="https://alphageninsurance.com/personal-insurance-quote/" target="_blank" rel="noopener">&#128737;&#65039; Get a Coastal Insurance Quote &rarr;</a>
+    <div class="note" style="margin-top:8px">Wind, flood &amp; homeowners coverage for coastal and investment properties through <strong>AlphaGen Insurance</strong>, our affiliated agency &mdash; opens the quick-quote form. Commercial &amp; multifamily portfolios also covered.</div>
+  </div>
+
+  <div class="divider"></div>
+
+  <!-- NEWS -->
+  <div class="sec-head">News Feed <span class="tag">Curated</span></div>
+  <div class="sec-sub">South Florida &amp; statewide luxury and commercial real estate headlines.</div>
+
+  <div class="controls">
+    <div class="search"><input type="text" id="newsSearch" placeholder="Search news..." autocomplete="off"></div>
+    <div class="filters" id="filters">
+      <button class="fbtn active" data-filter="all">All</button>
+      <button class="fbtn" data-filter="Luxury">Luxury</button>
+      <button class="fbtn" data-filter="Commercial/CRE">Commercial/CRE</button>
+      <button class="fbtn" data-filter="Multifamily">Multifamily</button>
+      <button class="fbtn" data-filter="Market Data">Market Data</button>
+      <button class="fbtn" data-filter="Policy/Insurance">Policy/Insurance</button>
+      <button class="fbtn" data-filter="Development">Development</button>
+      <button class="fbtn" data-filter="high">High Impact</button>
+    </div>
+  </div>
+  <div class="stats">Showing <b id="showCount">0</b> items &nbsp;&middot;&nbsp; <b id="srcCount">0</b> sources</div>
+  <div class="feed" id="feed"></div>
+  <div class="empty" id="empty" style="display:none">No items match your search or filter.</div>
+
+</div>
+
+<footer>
+  <div class="fwrap">
+    <strong style="color:#fff;font-family:var(--serif)">Savings<span style="color:var(--gold)">RE</span></strong>
+    &nbsp;&middot;&nbsp; William Spencer Seery Jr, PA &middot; United Realty Group &middot; FL License #3333692 &middot; MLS ID 276537152
+    <div class="legal">
+      Market data compiled from public sources including Florida Realtors, MIAMI Realtors, CBRE/Yardi Matrix, Freddie Mac, and the Florida Office of Insurance Regulation. Figures are broker/third-party-reported and unverified, provided for informational purposes only and are not investment, tax, legal, or financial advice. Cap rates, rents, and estimates are subject to change. Equal Housing Opportunity. Not intended to solicit property already listed with another broker. Information deemed reliable but not guaranteed. &copy; 2026 SavingsRE.
+    </div>
+  </div>
+</footer>
+
+<script>
+(function(){
+  "use strict";
+
+  /* ===== EMBEDDED DATA (mirror of market_data.json + news_data.json) ===== */
+  var MARKET = {
+    meta:{updated:"2026-07-02", period:"Single-family &amp; condo medians by region &mdash; BeachesMLS Monthly Market Indicators, May 2026."},
+    residential:{
+      columns:["Area","SF Median","SF YoY","Condo Median","Closed Sales YoY","Homes for Sale YoY"],
+      rows:[
+        {area:"South Palm Beach County",sfMedian:"$725,000",sfYoy:"+13.3%",condoMedian:"$300,000",closedYoy:"+3.9%",homesYoy:"-21.3%"},
+        {area:"North Palm Beach County",sfMedian:"$760,000",sfYoy:"+6.1%",condoMedian:"$380,000",closedYoy:"+4.0%",homesYoy:"-14.8%"},
+        {area:"Broward County",sfMedian:"$632,000",sfYoy:"+1.1%",condoMedian:"$270,000",closedYoy:"-0.3%",homesYoy:"-16.5%"},
+        {area:"Treasure Coast (Martin / St. Lucie)",sfMedian:"$432,500",sfYoy:"+2.0%",condoMedian:"$300,000",closedYoy:"-5.8%",homesYoy:"-15.2%"},
+        {area:"Florida (statewide SF)",sfMedian:"$425,000",sfYoy:"+2.4%",condoMedian:"-",closedYoy:"+ (9th straight mo)",homesYoy:"-"}
+      ],
+      note:"SE Florida figures: BeachesMLS Monthly Market Indicators, May 2026 (RAPB / Broward, Palm Beaches & St. Lucie Realtors). Statewide: Florida Realtors, May 2026. Median prices are single-family and townhouse/condo; YoY per association releases."
+    },
+    luxury:{cards:[
+      {label:"$1M+ Sales, Q1 2026 (SE FL)",value:"+22%",sub:"vs Q1 2025"},
+      {label:"Miami-Dade $1M+ Sales, May",value:"+14.7%",sub:"YoY unit sales"},
+      {label:"$10M+ Sales in 2025",value:"361",sub:"highest since 2021"},
+      {label:"PB County Avg Price YTD",value:"$1.025M",sub:"+11% YTD"}
+    ]},
+    commercial:{
+      columns:["Market","MF Cap Rate","Vacancy","Avg Asking Rent"],
+      rows:[
+        {market:"Fort Lauderdale / Broward",cap:"6.27%",vacancy:"7.9%",rent:"$2,411"},
+        {market:"Palm Beach / Boca Raton",cap:"4.98%",vacancy:"7.3%",rent:"$2,546"},
+        {market:"Miami-Dade",cap:"5.79%",vacancy:"9.1%",rent:"-"}
+      ],
+      highlights:[
+        "Fort Lauderdale ranked #1 U.S. market for multifamily investment profitability (through late 2025).",
+        "Broward multifamily sales volume $1.28B, +20% YoY.",
+        "Net absorption outpacing new deliveries in Broward and Palm Beach.",
+        "West Palm Beach office pipeline ~3.3M SF (~700K SF under construction)."
+      ]
+    },
+    rates:{date:"Jun 30, 2026",cards:[
+      {label:"30-Yr Fixed (conforming)",value:"6.43%",sub:"Freddie Mac PMMS, down from 6.49%"},
+      {label:"30-Yr Jumbo",value:"~6.58%",sub:"Forbes avg (Bankrate ~6.67%)"},
+      {label:"Jumbo Threshold",value:"$832,750",sub:"2026 FHFA baseline"}
+    ]},
+    insurance:{trend:"Improving / stabilizing",cards:[
+      {label:"FL Avg Premium (w/ wind)",value:"~$3,815",sub:"~40-50% above U.S. avg"},
+      {label:"SE FL Rate Filings",value:"-11% to -14%",sub:"average decreases filed"},
+      {label:"Citizens Policy Count",value:"~395K",sub:"down from 1.42M (2023) - lowest since 2012"},
+      {label:"Jun 2026 Reinsurance",value:"-15% to -20%",sub:"risk-adjusted, many layers"}
+    ],note:"Coastal properties, older homes, and condos may see less relief than standard inland single-family homes."}
+  };
+
+  var NEWS = [
+    {id:1,date:"2026-06-30",title:"Florida Property-Insurance Cat Reinsurance Prices Fall 15-20% at June Renewals",summary:"Guy Carpenter reports risk-adjusted Florida property-catastrophe reinsurance pricing down roughly 15-20% across many layers at the June 2026 renewals, easing a key cost driver for coastal carriers and homeowner premiums.",source:"Insurance Journal",sourceUrl:"https://www.insurancejournal.com/news/southeast/2026/06/30/875651.htm",category:"Policy/Insurance",importance:"high"},
+    {id:2,date:"2026-06-30",title:"30-Year Mortgage Slides to 6.43%; Jumbo Near 6.58%",summary:"Freddie Mac's 30-year fixed averaged 6.43% heading into July, down from 6.49% a week earlier, while 30-year jumbo pricing sat near 6.58-6.67% - a modestly friendlier backdrop for SE Florida buyers and investors.",source:"Freddie Mac / Forbes",sourceUrl:"https://www.forbes.com/advisor/mortgages/mortgage-rates-06-30-26/",category:"Market Data",importance:"high"},
+    {id:3,date:"2026-06-15",title:"SE Florida Home Sales Up Year-Over-Year for Consecutive Spring Months",summary:"Miami-Dade, Broward and Palm Beach each posted higher total home sales year-over-year across consecutive spring months, signaling sustained tri-county momentum even as pricing cools from recent highs.",source:"Avanti Way / Miami Realtors",sourceUrl:"https://avantiway.com/2026/07/01/south-florida-midyear-market-playbook-2026-where-opportunity-lives-and-how-agents-investors-and-sellers-win/",category:"Market Data",importance:"medium"},
+    {id:4,date:"2026-06-10",title:"Palm Beach County Average Sale Price Climbs 11% YTD to $1.025M",summary:"Palm Beach County's average sale price rose 11% year-to-date from $924,000 to just over $1,025,000, with the median up 3% to $518,500. A high share of cash closings underscores that liquidity, not leverage, is setting the pace.",source:"Discover South Florida",sourceUrl:"https://www.discoversouthflorida.com/blog/south-florida-housing-market-report-palm-beach-and-broward-county-q1-2026",category:"Market Data",importance:"high"},
+    {id:5,date:"2026-05-30",title:"South Florida $1M+ Sales Up 22% in Q1 2026",summary:"Sales of properties priced above $1 million across South Florida rose 22% in Q1 2026 versus a year earlier. In May, Miami-Dade million-dollar sales were up 14.7% year-over-year, extending a strong luxury run.",source:"MillionLuxury",sourceUrl:"https://www.millionluxury.com/news/south-florida-luxury-market-2026-miami-vs-palm-beach",category:"Luxury",importance:"high"},
+    {id:6,date:"2026-05-05",title:"Boca Raton Spec Mansion Asking $80M Poised to Shatter City Record",summary:"An $80 million spec mansion leading Boca Raton contracts is positioned to set a new city price record, reflecting continued demand for turnkey, ultra-high-end waterfront product in southern Palm Beach County.",source:"The Real Deal",sourceUrl:"https://therealdeal.com/miami/2026/05/05/boca-raton-spec-mansion-asking-80-million-leads-contracts/",category:"Luxury",importance:"high"},
+    {id:7,date:"2026-04-24",title:"Developer Sells Renovated Palm Beach Waterfront Home for $30.8M",summary:"Developer Mosie Miller and his wife sold a renovated Palm Beach waterfront home for $30.8 million after more than a year on the market - a sign that even trophy assets are trading on positioning and pricing discipline.",source:"The Real Deal",sourceUrl:"https://therealdeal.com/miami/2026/04/24/mosie-miller-sells-renovated-palm-beach-home-for-31-million/",category:"Luxury",importance:"medium"},
+    {id:8,date:"2026-04-20",title:"Palm Beach Oceanfront Estate Closes at $37M on South Ocean Boulevard",summary:"A $37 million oceanfront estate with a rare dual-pool configuration and Atlantic frontage closed on South Ocean Boulevard, reinforcing the corridor as one of the world's most valuable residential streets.",source:"Angle RE / The Real Deal",sourceUrl:"https://therealdeal.com/miami/2026/04/20/a-look-at-south-floridas-many-record-home-sales-this-season/",category:"Luxury",importance:"medium"},
+    {id:9,date:"2026-04-08",title:"Former Red Bull COO Buys Palm Beach Mansion for $55.2M",summary:"Gary Smith, former COO of Red Bull, and his wife purchased a waterfront Palm Beach mansion for $55.2 million, part of a wave of season closings driven by demand for turnkey trophy estates.",source:"The Real Deal",sourceUrl:"https://therealdeal.com/miami/2026/04/08/former-red-bull-coo-buys-55-million-palm-beach-mansion/",category:"Luxury",importance:"medium"},
+    {id:10,date:"2026-04-15",title:"Fort Lauderdale Ranked No. 1 U.S. Market for Multifamily Investment Profitability",summary:"Fort Lauderdale led 30 major U.S. markets in multifamily investment returns through late 2025, with higher cap rates outpacing expensive gateway markets like Manhattan and Los Angeles.",source:"Miami Realtors",sourceUrl:"https://www.miamirealtors.com/2025/10/20/fort-lauderdale-ranked-no-1-in-multifamily-investment-profitability/",category:"Multifamily",importance:"high"},
+    {id:11,date:"2026-03-28",title:"Broward Multifamily Sales Volume Jumps 20% to $1.28B",summary:"Broward County multifamily sales volume rose to $1.28 billion, up 20% year-over-year, as net absorption outpaced new deliveries across Broward and Palm Beach - a tightening backdrop for apartment investors.",source:"CBRE / ONE Commercial RE",sourceUrl:"https://mediaassets.cbre.com/-/media/project/cbre/shared-site/teams/united-states/ft-lauderdale/calum-weaver/weave-report-2025.pdf",category:"Commercial/CRE",importance:"medium"},
+    {id:12,date:"2026-05-20",title:"West Palm Beach Office Pipeline Tops 3.3M SF as Corporate Relocations Continue",summary:"West Palm Beach has roughly 3.3 million SF of office space in the pipeline - nearly 700,000 SF under construction - as corporate relocations and financial-services migration cement the city as a regional commercial hub.",source:"Discover South Florida",sourceUrl:"https://www.discoversouthflorida.com/blog/south-florida-development-boom-fort-lauderdale-and-west-palm-beach-on-the-rise/",category:"Development",importance:"medium"},
+    {id:13,date:"2026-05-12",title:"Related Advances Marquee West Palm Beach Luxury Condos; Nora Hotel Breaks Ground",summary:"Related Cos. is advancing South Flagler House, and the Nora District marked the groundbreaking of a 201-key boutique hotel - part of a deep West Palm Beach luxury-condo and mixed-use pipeline delivering into 2026-2027.",source:"Markets of Tomorrow",sourceUrl:"https://www.oftmw.com/post/six-new-projects-that-are-reshaping-the-future-of-west-palm-beach",category:"Development",importance:"low"},
+    {id:14,date:"2026-05-08",title:"Florida Statewide Single-Family Median Hits $425K, Up 2.4% YoY",summary:"Florida Realtors' May 2026 data put the statewide single-family median at about $425,000, up 2.4% year-over-year, with closed sales rising for the ninth straight month as the market approached a summer inflection point.",source:"Florida Realtors",sourceUrl:"https://www.floridarealtors.org/newsroom/market-data",category:"Market Data",importance:"medium"},
+    {id:15,date:"2026-04-30",title:"Florida Insurance Trends Shift Toward Relief; Citizens Down to ~395K Policies",summary:"State-backed Citizens has fallen from 1.42 million policies in late 2023 to roughly 395,000 in January 2026 - the lowest since 2012 - as private carriers file rate decreases and take back risk. SE Florida counties are averaging 11-14% decreases.",source:"Florida Realtors",sourceUrl:"https://www.floridarealtors.org/news-media/news-articles/2026/04/florida-insurance-trends-shift-toward-relief",category:"Policy/Insurance",importance:"medium"},
+    {id:16,date:"2026-03-15",title:"South Florida Recorded 361 Sales Above $10M in 2025 - Highest Since 2021",summary:"South Florida logged 361 residential sales above $10 million in 2025, the strongest ultra-luxury tally since 2021, led by Palm Beach island and Miami-Dade waterfront enclaves like Indian Creek.",source:"MillionLuxury",sourceUrl:"https://www.millionluxury.com/news/south-florida-ultra-luxury-real-estate-2026",category:"Luxury",importance:"medium"}
+  ];
+
+  /* ===== HELPERS ===== */
+  function fmtDate(s){var d=new Date(s+"T12:00:00");var m=["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];return m[d.getMonth()]+" "+d.getDate()+", "+d.getFullYear();}
+  function catClass(c){return "cat-"+c.toLowerCase().replace(/[^a-z\/]+/g,"-");}
+  function esc(s){return String(s).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;");}
+  function el(id){return document.getElementById(id);}
+  function deltaClass(v){if(/^\+|up|YTD/i.test(v)&&!/-/.test(v.charAt(0)))return "up";if(/^-|down/i.test(v)&&v!=="-")return "down";return "";}
+
+  /* ===== RENDER MARKET DATA ===== */
+  el("updatedLine").textContent="Updated "+fmtDate(MARKET.meta.updated);
+  el("mdPeriod").textContent=MARKET.residential.note ? MARKET.meta.period : "";
+  el("ratesDate").textContent=MARKET.rates.date;
+  el("insTrend").textContent=MARKET.insurance.trend;
+
+  function renderCards(container,cards){
+    el(container).innerHTML=cards.map(function(c){
+      return '<div class="card"><div class="label">'+esc(c.label)+'</div>'+
+             '<div class="value '+deltaClass(c.value)+'">'+esc(c.value)+'</div>'+
+             '<div class="sub">'+esc(c.sub||"")+'</div></div>';
+    }).join("");
+  }
+  renderCards("luxCards",MARKET.luxury.cards);
+  renderCards("ratesCards",MARKET.rates.cards);
+  renderCards("insCards",MARKET.insurance.cards);
+  el("insNote").textContent=MARKET.insurance.note;
+
+  // residential table
+  (function(){
+    var r=MARKET.residential;
+    el("resTable").querySelector("thead").innerHTML="<tr>"+r.columns.map(function(c){return "<th>"+esc(c)+"</th>";}).join("")+"</tr>";
+    el("resTable").querySelector("tbody").innerHTML=r.rows.map(function(row){
+      return "<tr><td>"+esc(row.area)+"</td><td>"+esc(row.sfMedian)+"</td>"+
+        '<td class="'+deltaClass(row.sfYoy)+'">'+esc(row.sfYoy)+"</td><td>"+esc(row.condoMedian)+"</td>"+
+        '<td class="'+deltaClass(row.closedYoy)+'">'+esc(row.closedYoy)+"</td>"+
+        '<td class="'+deltaClass(row.homesYoy)+'">'+esc(row.homesYoy)+"</td></tr>";
+    }).join("");
+    el("resNote").textContent=r.note;
+  })();
+
+  // commercial table + highlights
+  (function(){
+    var c=MARKET.commercial;
+    el("creTable").querySelector("thead").innerHTML="<tr>"+c.columns.map(function(x){return "<th>"+esc(x)+"</th>";}).join("")+"</tr>";
+    el("creTable").querySelector("tbody").innerHTML=c.rows.map(function(row){
+      return "<tr><td>"+esc(row.market)+"</td><td>"+esc(row.cap)+"</td><td>"+esc(row.vacancy)+"</td><td>"+esc(row.rent)+"</td></tr>";
+    }).join("");
+    el("creHighlights").innerHTML=c.highlights.map(function(h){return "<li>"+esc(h)+"</li>";}).join("");
+  })();
+
+  /* ===== NEWS FEED ===== */
+  var filter="all", search="";
+  var srcSet={}; NEWS.forEach(function(n){srcSet[n.source]=1;});
+  el("srcCount").textContent=Object.keys(srcSet).length;
+
+  function render(){
+    var sorted=NEWS.slice().sort(function(a,b){return b.date.localeCompare(a.date);});
+    var out=sorted.filter(function(n){
+      var mf=filter==="all"||(filter==="high"&&n.importance==="high")||n.category===filter;
+      var ms=!search||(n.title+" "+n.summary+" "+n.category).toLowerCase().indexOf(search)!==-1;
+      return mf&&ms;
+    });
+    el("showCount").textContent=out.length;
+    if(!out.length){el("feed").style.display="none";el("empty").style.display="block";return;}
+    el("feed").style.display="flex";el("empty").style.display="none";
+    el("feed").innerHTML=out.map(function(n){
+      var hi=n.importance==="high";
+      return '<article class="item'+(hi?" high":"")+'">'+
+        '<div class="item-left"><span class="item-date">'+fmtDate(n.date)+'</span>'+
+        '<span class="cat '+catClass(n.category)+'">'+esc(n.category)+'</span></div>'+
+        '<div class="item-body"><div class="item-title"><a href="'+n.sourceUrl+'" target="_blank" rel="noopener noreferrer">'+esc(n.title)+'</a></div>'+
+        '<div class="item-sum">'+esc(n.summary)+'</div></div>'+
+        '<div class="item-right">'+(hi?'<span class="badge">HIGH IMPACT</span>':'')+'<span class="src">'+esc(n.source)+'</span></div>'+
+        '</article>';
+    }).join("");
+  }
+
+  var btns=document.querySelectorAll(".fbtn");
+  for(var i=0;i<btns.length;i++){btns[i].addEventListener("click",function(){
+    for(var j=0;j<btns.length;j++)btns[j].classList.remove("active");
+    this.classList.add("active");filter=this.getAttribute("data-filter");render();
+  });}
+  var to;el("newsSearch").addEventListener("input",function(){
+    clearTimeout(to);var v=this.value.toLowerCase().trim();to=setTimeout(function(){search=v;render();},180);
+  });
+
+  render();
+})();
+</script>
+</body>
+</html>
