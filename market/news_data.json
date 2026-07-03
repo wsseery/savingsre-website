@@ -1,5 +1,27 @@
 [
   {
+    "id": 17,
+    "date": "2026-07-02",
+    "title": "Mortgage Rates Hit Seven-Week Low: 30-Yr Fixed at 6.43%, Jumbo 6.60%",
+    "summary": "Freddie Mac's 30-year fixed averaged 6.43% the week of July 2, down from 6.49% and well below the 6.67% of a year ago, with the 15-year at 5.79%. Bankrate's 30-year jumbo average eased to 6.60% - a friendlier financing backdrop for SE Florida buyers heading into summer.",
+    "source": "Freddie Mac / Bankrate",
+    "sourceUrl": "https://www.freddiemac.com/pmms",
+    "category": "Market Data",
+    "tags": ["mortgage rates", "jumbo", "financing"],
+    "importance": "high"
+  },
+  {
+    "id": 19,
+    "date": "2026-07-01",
+    "title": "Palm Beach $21M Sale Leads South Florida's Top Deals into July",
+    "summary": "A ~6,000 SF Palm Beach home at 242 Wells Road traded for $21 million to lead the week's residential deals, joined by a $13.2M Lighthouse Point waterfront closing and a $10.5M La Gorce Circle sale in Miami Beach - the eight-figure market stayed busy straight into the summer.",
+    "source": "The Real Deal",
+    "sourceUrl": "https://therealdeal.com/miami/2026/07/02/south-florida-top-real-estate-deals-july-1-2026/",
+    "category": "Luxury",
+    "tags": ["Palm Beach", "Lighthouse Point", "Miami Beach", "top deals"],
+    "importance": "medium"
+  },
+  {
     "id": 1,
     "date": "2026-06-30",
     "title": "Florida Property-Insurance Cat Reinsurance Prices Fall 15-20% at June Renewals",
@@ -11,15 +33,48 @@
     "importance": "high"
   },
   {
-    "id": 2,
-    "date": "2026-06-30",
-    "title": "30-Year Mortgage Slides to 6.43%; Jumbo Near 6.58%",
-    "summary": "Freddie Mac's 30-year fixed averaged 6.43% heading into July, down from 6.49% a week earlier, while 30-year jumbo pricing sat near 6.58-6.67% - a modestly friendlier financing backdrop for SE Florida buyers and investors.",
-    "source": "Freddie Mac / Forbes Advisor",
-    "sourceUrl": "https://www.forbes.com/advisor/mortgages/mortgage-rates-06-30-26/",
-    "category": "Market Data",
-    "tags": ["mortgage rates", "jumbo", "financing"],
+    "id": 18,
+    "date": "2026-06-29",
+    "title": "Waterfront Estate of Palm Beach's Oldest Resident Trades for $35M",
+    "summary": "The 6,700 SF waterfront home at 350 Island Road - residence of Palm Beach's oldest resident for over six decades - sold for $35 million in an apparent all-cash deal, months after listing at $41 million. Island trophy product keeps clearing at scale even off peak ask.",
+    "source": "The Real Deal",
+    "sourceUrl": "https://therealdeal.com/miami/2026/06/29/home-of-palm-beachs-oldest-resident-trades-for-35-million/",
+    "category": "Luxury",
+    "tags": ["Palm Beach", "waterfront", "all-cash", "trophy home"],
     "importance": "high"
+  },
+  {
+    "id": 20,
+    "date": "2026-06-29",
+    "title": "Dezer Pivots to Broader Market With ~600-Unit North Miami Rental Project",
+    "summary": "Dezer Development, long known for ultra-luxury branded condos, is planning nearly 600 market-rate apartments in North Miami - a notable signal that big South Florida developers see the deepest demand in attainable rental product.",
+    "source": "The Real Deal",
+    "sourceUrl": "https://therealdeal.com/miami/2026/06/29/dezer-development-plans-north-miami-apartment-project/",
+    "category": "Multifamily",
+    "tags": ["North Miami", "multifamily", "market-rate", "development"],
+    "importance": "medium"
+  },
+  {
+    "id": 21,
+    "date": "2026-06-29",
+    "title": "Broward Beach Resort Headed to July 16 Foreclosure Auction Over $40M Debt",
+    "summary": "The Hillsboro Beach Resort at 1159 Hillsboro Mile - a former Sonder property - is set for a July 16 foreclosure auction following a $26 million loan default, a reminder that pockets of hospitality distress persist even in a strong coastal market.",
+    "source": "The Real Deal",
+    "sourceUrl": "https://therealdeal.com/miami/2026/06/29/hillsboro-beach-resort-faces-foreclosure-auction/",
+    "category": "Commercial/CRE",
+    "tags": ["Broward", "hospitality", "foreclosure", "distress"],
+    "importance": "medium"
+  },
+  {
+    "id": 22,
+    "date": "2026-06-26",
+    "title": "Colliers: South Florida Multifamily Cap Rates Hold Near 5.0%",
+    "summary": "Colliers' Q1 2026 South Florida multifamily report shows cap rates steady near 5.0% as elevated insurance and operating costs shape pricing. Miami's vacancy is the lowest among major Florida metros at 6.6%, versus Orlando 7.3%, Tampa 8.8% and Jacksonville 12.2%.",
+    "source": "Colliers",
+    "sourceUrl": "https://www.colliers.com/en/research/miami/sfl-multifamily-report-26q1",
+    "category": "Multifamily",
+    "tags": ["cap rates", "vacancy", "Miami", "Q1 2026"],
+    "importance": "medium"
   },
   {
     "id": 3,
@@ -55,72 +110,6 @@
     "importance": "high"
   },
   {
-    "id": 6,
-    "date": "2026-05-05",
-    "title": "Boca Raton Spec Mansion Asking $80M Poised to Shatter City Record",
-    "summary": "An $80 million spec mansion leading Boca Raton contracts is positioned to set a new city price record, reflecting continued demand for turnkey, ultra-high-end waterfront product in southern Palm Beach County.",
-    "source": "The Real Deal",
-    "sourceUrl": "https://therealdeal.com/miami/2026/05/05/boca-raton-spec-mansion-asking-80-million-leads-contracts/",
-    "category": "Luxury",
-    "tags": ["Boca Raton", "record sale", "waterfront", "spec mansion"],
-    "importance": "high"
-  },
-  {
-    "id": 7,
-    "date": "2026-04-24",
-    "title": "Developer Sells Renovated Palm Beach Waterfront Home for $30.8M",
-    "summary": "Developer Mosie Miller and his wife sold a renovated Palm Beach waterfront home for $30.8 million after more than a year on the market - a sign that even trophy assets are trading on positioning and pricing discipline.",
-    "source": "The Real Deal",
-    "sourceUrl": "https://therealdeal.com/miami/2026/04/24/mosie-miller-sells-renovated-palm-beach-home-for-31-million/",
-    "category": "Luxury",
-    "tags": ["Palm Beach", "waterfront", "trophy home"],
-    "importance": "medium"
-  },
-  {
-    "id": 8,
-    "date": "2026-04-20",
-    "title": "Palm Beach Oceanfront Estate Closes at $37M on South Ocean Boulevard",
-    "summary": "A $37 million oceanfront estate with a rare dual-pool configuration and Atlantic frontage closed on South Ocean Boulevard, reinforcing the corridor as one of the world's most valuable residential streets.",
-    "source": "Angle Real Estate / The Real Deal",
-    "sourceUrl": "https://therealdeal.com/miami/2026/04/20/a-look-at-south-floridas-many-record-home-sales-this-season/",
-    "category": "Luxury",
-    "tags": ["Palm Beach", "oceanfront", "record season"],
-    "importance": "medium"
-  },
-  {
-    "id": 9,
-    "date": "2026-04-08",
-    "title": "Former Red Bull COO Buys Palm Beach Mansion for $55.2M",
-    "summary": "Gary Smith, former COO of Red Bull, and his wife purchased a waterfront Palm Beach mansion for $55.2 million, part of a wave of season closings driven by demand for turnkey trophy estates.",
-    "source": "The Real Deal",
-    "sourceUrl": "https://therealdeal.com/miami/2026/04/08/former-red-bull-coo-buys-55-million-palm-beach-mansion/",
-    "category": "Luxury",
-    "tags": ["Palm Beach", "waterfront", "turnkey"],
-    "importance": "medium"
-  },
-  {
-    "id": 10,
-    "date": "2026-04-15",
-    "title": "Fort Lauderdale Ranked No. 1 U.S. Market for Multifamily Investment Profitability",
-    "summary": "Fort Lauderdale led 30 major U.S. markets in multifamily investment returns through late 2025, with higher cap rates outpacing expensive gateway markets like Manhattan and Los Angeles.",
-    "source": "Miami Realtors",
-    "sourceUrl": "https://www.miamirealtors.com/2025/10/20/fort-lauderdale-ranked-no-1-in-multifamily-investment-profitability/",
-    "category": "Multifamily",
-    "tags": ["Fort Lauderdale", "multifamily", "cap rates", "returns"],
-    "importance": "high"
-  },
-  {
-    "id": 11,
-    "date": "2026-03-28",
-    "title": "Broward Multifamily Sales Volume Jumps 20% to $1.28B",
-    "summary": "Broward County multifamily sales volume rose to $1.28 billion, up 20% year-over-year, as net absorption outpaced new deliveries across Broward and Palm Beach - a tightening supply-demand backdrop for apartment investors.",
-    "source": "CBRE / ONE Commercial RE",
-    "sourceUrl": "https://mediaassets.cbre.com/-/media/project/cbre/shared-site/teams/united-states/ft-lauderdale/calum-weaver/weave-report-2025.pdf",
-    "category": "Commercial/CRE",
-    "tags": ["Broward", "multifamily", "sales volume", "absorption"],
-    "importance": "medium"
-  },
-  {
     "id": 12,
     "date": "2026-05-20",
     "title": "West Palm Beach Office Pipeline Tops 3.3M SF as Corporate Relocations Continue",
@@ -154,6 +143,17 @@
     "importance": "medium"
   },
   {
+    "id": 6,
+    "date": "2026-05-05",
+    "title": "Boca Raton Spec Mansion Asking $80M Poised to Shatter City Record",
+    "summary": "An $80 million spec mansion leading Boca Raton contracts is positioned to set a new city price record, reflecting continued demand for turnkey, ultra-high-end waterfront product in southern Palm Beach County.",
+    "source": "The Real Deal",
+    "sourceUrl": "https://therealdeal.com/miami/2026/05/05/boca-raton-spec-mansion-asking-80-million-leads-contracts/",
+    "category": "Luxury",
+    "tags": ["Boca Raton", "record sale", "waterfront", "spec mansion"],
+    "importance": "high"
+  },
+  {
     "id": 15,
     "date": "2026-04-30",
     "title": "Florida Insurance Trends Shift Toward Relief; Citizens Down to ~395K Policies",
@@ -165,14 +165,14 @@
     "importance": "medium"
   },
   {
-    "id": 16,
-    "date": "2026-03-15",
-    "title": "South Florida Recorded 361 Sales Above $10M in 2025 - Highest Since 2021",
-    "summary": "South Florida logged 361 residential sales above $10 million in 2025, the strongest ultra-luxury tally since 2021, led by Palm Beach island and Miami-Dade waterfront enclaves like Indian Creek.",
-    "source": "MillionLuxury",
-    "sourceUrl": "https://www.millionluxury.com/news/south-florida-ultra-luxury-real-estate-2026",
+    "id": 7,
+    "date": "2026-04-24",
+    "title": "Developer Sells Renovated Palm Beach Waterfront Home for $30.8M",
+    "summary": "Developer Mosie Miller and his wife sold a renovated Palm Beach waterfront home for $30.8 million after more than a year on the market - a sign that even trophy assets are trading on positioning and pricing discipline.",
+    "source": "The Real Deal",
+    "sourceUrl": "https://therealdeal.com/miami/2026/04/24/mosie-miller-sells-renovated-palm-beach-home-for-31-million/",
     "category": "Luxury",
-    "tags": ["ultra-luxury", "$10M+", "Palm Beach", "Indian Creek"],
+    "tags": ["Palm Beach", "waterfront", "trophy home"],
     "importance": "medium"
   }
 ]

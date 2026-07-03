@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated": "2026-07-02",
+    "updated": "2026-07-03",
     "period": "Data through May-June 2026",
     "coverage": "SE Florida (Palm Beach, Broward, Martin, St. Lucie, Miami-Dade) + statewide FL",
     "disclaimer": "Figures compiled from public market reports (Florida Realtors, MIAMI Realtors, CBRE, Freddie Mac, FL OIR) and are informational only - not investment, tax, or financial advice. Deemed reliable but not guaranteed.",
@@ -43,10 +43,10 @@
     ]
   },
   "rates": {
-    "updated": "2026-06-30",
+    "updated": "2026-07-02",
     "cards": [
-      { "label": "30-Yr Fixed (conforming)", "value": "6.43%", "sub": "Freddie Mac PMMS, down from 6.49%" },
-      { "label": "30-Yr Jumbo", "value": "~6.58%", "sub": "Forbes Advisor avg (Bankrate ~6.67%)" },
+      { "label": "30-Yr Fixed (conforming)", "value": "6.43%", "sub": "Freddie Mac PMMS 7/2 - seven-week low, down from 6.49%" },
+      { "label": "30-Yr Jumbo", "value": "~6.60%", "sub": "Bankrate avg 7/2, down from 6.65%" },
       { "label": "Jumbo loan threshold", "value": "$832,750", "sub": "2026 FHFA baseline (most areas)" }
     ]
   },
