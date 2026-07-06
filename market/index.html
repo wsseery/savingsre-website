@@ -262,6 +262,14 @@
   <div class="feed" id="feed"></div>
   <div class="empty" id="empty" style="display:none">No items match your search or filter.</div>
 
+  <div class="divider"></div>
+
+  <!-- NEWS ARCHIVE -->
+  <div class="sec-head">News Archive <span class="tag">Past Headlines</span></div>
+  <div class="sec-sub">Headlines rotated off the live feed above &mdash; loaded on demand.</div>
+  <button class="fbtn" id="archToggle" style="margin-bottom:14px">Show archive</button>
+  <div class="feed" id="archFeed" style="display:none;margin-bottom:8px"></div>
+
 </div>
 
 <footer>
@@ -429,6 +437,41 @@
   });
 
   render();
+
+  /* ===== NEWS ARCHIVE (lazy-loaded from news_archive.json; not embedded) ===== */
+  (function(){
+    var loaded=false, open=false, btn=el("archToggle");
+    if(!btn) return;
+    function renderArch(items){
+      el("archFeed").innerHTML=items.slice().sort(function(a,b){return (b.date||"").localeCompare(a.date||"");}).map(function(n){
+        return '<article class="item">'+
+          '<div class="item-left"><span class="item-date">'+fmtDate(n.date)+'</span>'+
+          '<span class="cat '+catClass(n.category||"")+'">'+esc(n.category||"")+'</span></div>'+
+          '<div class="item-body"><div class="item-title"><a href="'+n.sourceUrl+'" target="_blank" rel="noopener noreferrer">'+esc(n.title)+'</a></div>'+
+          '<div class="item-sum">'+esc(n.summary)+'</div></div>'+
+          '<div class="item-right"><span class="src">'+esc(n.source)+'</span></div>'+
+          '</article>';
+      }).join("");
+    }
+    btn.addEventListener("click",function(){
+      open=!open;
+      el("archFeed").style.display=open?"flex":"none";
+      btn.textContent=open?"Hide archive":"Show archive";
+      if(open&&!loaded){
+        el("archFeed").innerHTML='<div class="empty">Loading archive&hellip;</div>';
+        fetch("news_archive.json",{cache:"no-store"}).then(function(r){
+          if(!r.ok)throw new Error("http "+r.status);return r.json();
+        }).then(function(j){
+          loaded=true;var items=(j&&j.items)||[];
+          btn.textContent="Hide archive ("+items.length+")";
+          if(items.length)renderArch(items);
+          else el("archFeed").innerHTML='<div class="empty">No archived items yet.</div>';
+        }).catch(function(){
+          el("archFeed").innerHTML='<div class="empty">Archive is unavailable right now &mdash; please try again shortly.</div>';
+        });
+      }
+    });
+  })();
 })();
 </script>
 <script defer src="/assets/js/site.js"></script>
