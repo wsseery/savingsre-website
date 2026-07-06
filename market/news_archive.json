@@ -1,0 +1,70 @@
+{
+  "meta": {
+    "created": "2026-07-06",
+    "updated": "2026-07-06",
+    "note": "Archive of items rotated off the live market/news_data.json 16-item list. Weekly refresh APPENDS dropped items here (newest first) - never delete. Same item schema as news_data.json. Not rendered on the site; kept for content reuse, history, and a future archive/search section.",
+    "count": 5
+  },
+  "items": [
+    {
+      "id": 13,
+      "date": "2026-05-12",
+      "archivedOn": "2026-07-06",
+      "title": "Related Breaks Ground / Advances Marquee West Palm Beach Luxury Condos",
+      "summary": "Related Cos. is advancing South Flagler House, and the Nora District marked the groundbreaking of a 201-key boutique hotel - part of a deep West Palm Beach luxury-condo and mixed-use pipeline delivering into 2026-2027.",
+      "source": "Markets of Tomorrow",
+      "sourceUrl": "https://www.oftmw.com/post/six-new-projects-that-are-reshaping-the-future-of-west-palm-beach",
+      "category": "Development",
+      "tags": ["West Palm Beach", "luxury condo", "mixed-use", "hotel"],
+      "importance": "low"
+    },
+    {
+      "id": 14,
+      "date": "2026-05-08",
+      "archivedOn": "2026-07-06",
+      "title": "Florida Statewide Single-Family Median Hits $425K, Up 2.4% YoY",
+      "summary": "Florida Realtors' May 2026 data put the statewide single-family median at about $425,000, up 2.4% year-over-year, with closed sales rising for the ninth straight month as the market approached a summer inflection point.",
+      "source": "Florida Realtors",
+      "sourceUrl": "https://www.floridarealtors.org/newsroom/market-data",
+      "category": "Market Data",
+      "tags": ["Florida", "median price", "closed sales", "statewide"],
+      "importance": "medium"
+    },
+    {
+      "id": 6,
+      "date": "2026-05-05",
+      "archivedOn": "2026-07-06",
+      "title": "Boca Raton Spec Mansion Asking $80M Poised to Shatter City Record",
+      "summary": "An $80 million spec mansion leading Boca Raton contracts is positioned to set a new city price record, reflecting continued demand for turnkey, ultra-high-end waterfront product in southern Palm Beach County.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/05/05/boca-raton-spec-mansion-asking-80-million-leads-contracts/",
+      "category": "Luxury",
+      "tags": ["Boca Raton", "record sale", "waterfront", "spec mansion"],
+      "importance": "high"
+    },
+    {
+      "id": 15,
+      "date": "2026-04-30",
+      "archivedOn": "2026-07-06",
+      "title": "Florida Insurance Trends Shift Toward Relief; Citizens Down to ~395K Policies",
+      "summary": "State-backed Citizens has fallen from 1.42 million policies in late 2023 to roughly 395,000 in January 2026 - the lowest since 2012 - as private carriers file rate decreases and take back risk. SE Florida counties are averaging 11-14% decreases.",
+      "source": "Florida Realtors",
+      "sourceUrl": "https://www.floridarealtors.org/news-media/news-articles/2026/04/florida-insurance-trends-shift-toward-relief",
+      "category": "Policy/Insurance",
+      "tags": ["insurance", "Citizens", "rate decrease", "SE Florida"],
+      "importance": "medium"
+    },
+    {
+      "id": 7,
+      "date": "2026-04-24",
+      "archivedOn": "2026-07-06",
+      "title": "Developer Sells Renovated Palm Beach Waterfront Home for $30.8M",
+      "summary": "Developer Mosie Miller and his wife sold a renovated Palm Beach waterfront home for $30.8 million after more than a year on the market - a sign that even trophy assets are trading on positioning and pricing discipline.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/04/24/mosie-miller-sells-renovated-palm-beach-home-for-31-million/",
+      "category": "Luxury",
+      "tags": ["Palm Beach", "waterfront", "trophy home"],
+      "importance": "medium"
+    }
+  ]
+}
