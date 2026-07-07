@@ -1,0 +1,216 @@
+{
+ "segment": "commercial-fl",
+ "collection": "curated",
+ "template": "curated-generic",
+ "label": "Commercial & Office — Florida",
+ "tagline": "Top general commercial, office & mixed-use deals statewide · ranked by cap rate",
+ "search_name": "Crexi (FL Office / mixed-use)",
+ "generated": "2026-07-07",
+ "expires": "2026-08-06",
+ "total_results": 3376,
+ "methodology": "Crexi FL pull 2026-07-07 ranked by broker-reported cap rate (not independently verified); listings without a published cap excluded. Disguised: area + type + price band + cap band public; exact address, tenant & lease terms on request.",
+ "metric_label": "Cap rate",
+ "pdf": "pdf/commercial-fl__2026-07-07.pdf",
+ "items": [
+  {
+   "id": "commercial-fl-2026-07-07-01",
+   "analytics_id": "A-00420",
+   "rank": 1,
+   "submarket": "Jacksonville (Mandarin)",
+   "profile": "Office Building",
+   "price_band": "$5M–$6M",
+   "cap_label": "~9.23% cap",
+   "desc": "Office Building in Jacksonville (Mandarin); ~9.23% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Office Building, Jacksonville (Mandarin) (~9.23% cap)",
+   "highlights": [
+    "Office Building · ~34,938 SF",
+    "~9.23% cap",
+    "multi-tenant office",
+    "Investor: ~15–17% est. cash-on-cash (25% down, IO @ ~7%)"
+   ],
+   "inv_line": [
+    "~15–17% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "commercial-fl-2026-07-07-02",
+   "analytics_id": "A-00421",
+   "rank": 2,
+   "submarket": "Coral Springs (Broward)",
+   "profile": "Office Building",
+   "price_band": "$7M–$8M",
+   "cap_label": "~8.34% cap",
+   "desc": "Office Building in Coral Springs (Broward); ~8.34% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Office Building, Coral Springs (Broward) (~8.34% cap)",
+   "highlights": [
+    "Office Building · ~53,337 SF",
+    "~8.34% cap",
+    "multi-tenant office",
+    "Investor: ~11–13% est. cash-on-cash (25% down, IO @ ~7%)"
+   ],
+   "inv_line": [
+    "~11–13% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "commercial-fl-2026-07-07-03",
+   "analytics_id": "A-00422",
+   "rank": 3,
+   "submarket": "Clermont (Orlando MSA)",
+   "profile": "Office / Business Center",
+   "price_band": "$6M–$7M",
+   "cap_label": "~8.20% cap",
+   "desc": "Office / Business Center in Clermont (Orlando MSA); ~8.20% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Office / Business Center, Clermont (Orlando MSA) (~8.20% cap)",
+   "highlights": [
+    "Office / Business Center · ~21,406 SF",
+    "~8.20% cap",
+    "multi-tenant",
+    "Investor: ~11–13% est. cash-on-cash (25% down, IO @ ~7%)"
+   ],
+   "inv_line": [
+    "~11–13% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "commercial-fl-2026-07-07-04",
+   "analytics_id": "A-00423",
+   "rank": 4,
+   "submarket": "Coral Springs (Broward)",
+   "profile": "Office Plaza",
+   "price_band": "$5M–$6M",
+   "cap_label": "~8.00% cap",
+   "desc": "Office Plaza in Coral Springs (Broward); ~8.00% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Office Plaza, Coral Springs (Broward) (~8.00% cap)",
+   "highlights": [
+    "Office Plaza",
+    "~8.00% cap",
+    "multi-tenant",
+    "Investor: ~10–12% est. cash-on-cash (25% down, IO @ ~7%)"
+   ],
+   "inv_line": [
+    "~10–12% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "commercial-fl-2026-07-07-05",
+   "analytics_id": "A-00424",
+   "rank": 5,
+   "submarket": "Pensacola (Downtown)",
+   "profile": "Office Building",
+   "price_band": "$14M–$15M",
+   "cap_label": "~7.98% cap",
+   "desc": "Office Building in Pensacola (Downtown); ~7.98% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Office Building, Pensacola (Downtown) (~7.98% cap)",
+   "highlights": [
+    "Office Building · ~69,213 SF",
+    "~7.98% cap",
+    "waterfront downtown office",
+    "Investor: ~10–12% est. cash-on-cash (25% down, IO @ ~7%)"
+   ],
+   "inv_line": [
+    "~10–12% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "commercial-fl-2026-07-07-06",
+   "analytics_id": "A-00425",
+   "rank": 6,
+   "submarket": "Jacksonville (Westside)",
+   "profile": "Office / Retail Center",
+   "price_band": "$11M–$12M",
+   "cap_label": "~7.76% cap",
+   "desc": "Office / Retail Center in Jacksonville (Westside); ~7.76% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Office / Retail Center, Jacksonville (Westside) (~7.76% cap)",
+   "highlights": [
+    "Office / Retail Center · ~83,069 SF",
+    "~7.76% cap",
+    "multi-tenant",
+    "Investor: ~9–11% est. cash-on-cash (25% down, IO @ ~7%)"
+   ],
+   "inv_line": [
+    "~9–11% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "commercial-fl-2026-07-07-07",
+   "analytics_id": "A-00426",
+   "rank": 7,
+   "submarket": "Tallahassee",
+   "profile": "Office Park",
+   "price_band": "$11M–$12M",
+   "cap_label": "~7.51% cap",
+   "desc": "Office Park in Tallahassee; ~7.51% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Office Park, Tallahassee (~7.51% cap)",
+   "highlights": [
+    "Office Park",
+    "~7.51% cap",
+    "multi-building office park",
+    "Investor: ~8–10% est. cash-on-cash (25% down, IO @ ~7%)"
+   ],
+   "inv_line": [
+    "~8–10% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "commercial-fl-2026-07-07-08",
+   "analytics_id": "A-00427",
+   "rank": 8,
+   "submarket": "Jacksonville",
+   "profile": "Office Center",
+   "price_band": "$7M–$8M",
+   "cap_label": "~7.39% cap",
+   "desc": "Office Center in Jacksonville; ~7.39% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Office Center, Jacksonville (~7.39% cap)",
+   "highlights": [
+    "Office Center · ~56,370 SF",
+    "~7.39% cap",
+    "multi-tenant office",
+    "Investor: ~8–10% est. cash-on-cash (25% down, IO @ ~7%)"
+   ],
+   "inv_line": [
+    "~8–10% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "commercial-fl-2026-07-07-09",
+   "analytics_id": "A-00428",
+   "rank": 9,
+   "submarket": "Miami Gardens",
+   "profile": "Mixed-Use Center",
+   "price_band": "$6M–$7M",
+   "cap_label": "~7.03% cap",
+   "desc": "Mixed-Use Center in Miami Gardens; ~7.03% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Mixed-Use Center, Miami Gardens (~7.03% cap)",
+   "highlights": [
+    "Mixed-Use Center · ~24,964 SF",
+    "~7.03% cap",
+    "retail/office mixed-use",
+    "Investor: ~6–8% est. cash-on-cash (25% down, IO @ ~7%)"
+   ],
+   "inv_line": [
+    "~6–8% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "commercial-fl-2026-07-07-10",
+   "analytics_id": "A-00429",
+   "rank": 10,
+   "submarket": "Orlando (MetroWest)",
+   "profile": "Office Building",
+   "price_band": "$11M–$12M",
+   "cap_label": "~7.00% cap",
+   "desc": "Office Building in Orlando (MetroWest); ~7.00% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Office Building, Orlando (MetroWest) (~7.00% cap)",
+   "highlights": [
+    "Office Building · ~35,601 SF",
+    "~7.00% cap",
+    "multi-tenant office",
+    "Investor: ~6–8% est. cash-on-cash (25% down, IO @ ~7%)"
+   ],
+   "inv_line": [
+    "~6–8% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  }
+ ]
+}

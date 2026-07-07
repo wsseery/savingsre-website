@@ -1,0 +1,216 @@
+{
+ "segment": "nnn-fl",
+ "collection": "curated",
+ "template": "curated-generic",
+ "label": "NNN Commercial — Florida",
+ "tagline": "Top 10 · Florida (statewide) · single & multi-tenant net lease · ranked by cap rate",
+ "search_name": "Crexi (FL Retail / net lease)",
+ "generated": "2026-07-07",
+ "expires": "2026-08-06",
+ "total_results": 4586,
+ "methodology": "Crexi FL pull 2026-07-07 ranked by broker-reported cap rate (not independently verified); listings without a published cap excluded. Disguised: area + type + price band + cap band public; exact address, tenant & lease terms on request.",
+ "metric_label": "Cap rate",
+ "pdf": "pdf/nnn-fl__2026-07-07.pdf",
+ "items": [
+  {
+   "id": "nnn-fl-2026-07-07-01",
+   "analytics_id": "A-00394",
+   "rank": 1,
+   "submarket": "Ocoee (Orlando MSA)",
+   "profile": "Shopping Center",
+   "price_band": "$7M–$8M",
+   "cap_label": "~8.56% cap",
+   "desc": "Shopping Center in Ocoee (Orlando MSA); ~8.56% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Shopping Center, Ocoee (Orlando MSA) (~8.56% cap)",
+   "highlights": [
+    "Shopping Center · ~61,100 SF",
+    "~8.56% cap",
+    "multi-tenant center",
+    "Investor: ~12–14% est. cash-on-cash (25% down, IO @ ~7%)"
+   ],
+   "inv_line": [
+    "~12–14% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "nnn-fl-2026-07-07-02",
+   "analytics_id": "A-00395",
+   "rank": 2,
+   "submarket": "New Port Richey (Tampa Bay MSA)",
+   "profile": "Shopping Center",
+   "price_band": "$16M–$17M",
+   "cap_label": "~7.90% cap",
+   "desc": "Shopping Center in New Port Richey (Tampa Bay MSA); ~7.90% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Shopping Center, New Port Richey (Tampa Bay MSA) (~7.90% cap)",
+   "highlights": [
+    "Shopping Center",
+    "~7.90% cap",
+    "multi-tenant center · ~$1.3M NOI",
+    "Investor: ~10–12% est. cash-on-cash (25% down, IO @ ~7%)"
+   ],
+   "inv_line": [
+    "~10–12% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "nnn-fl-2026-07-07-03",
+   "analytics_id": "A-00396",
+   "rank": 3,
+   "submarket": "Boynton Beach (Palm Beach)",
+   "profile": "Single-Tenant NNN (Fitness)",
+   "price_band": "$12M–$13M",
+   "cap_label": "~7.70% cap",
+   "desc": "Single-Tenant NNN (Fitness) in Boynton Beach (Palm Beach); ~7.70% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Single-Tenant NNN (Fitness), Boynton Beach (Palm Beach) (~7.70% cap)",
+   "highlights": [
+    "Single-Tenant NNN (Fitness) · ~43,000 SF",
+    "~7.70% cap",
+    "single-tenant NNN · national fitness brand",
+    "Investor: ~9–11% est. cash-on-cash (25% down, IO @ ~7%)"
+   ],
+   "inv_line": [
+    "~9–11% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "nnn-fl-2026-07-07-04",
+   "analytics_id": "A-00397",
+   "rank": 4,
+   "submarket": "Downtown Orlando",
+   "profile": "Retail Portfolio (5 units)",
+   "price_band": "$8M–$9M",
+   "cap_label": "~7.50% cap",
+   "desc": "Retail Portfolio (5 units) in Downtown Orlando; ~7.50% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Retail Portfolio (5 units), Downtown Orlando (~7.50% cap)",
+   "highlights": [
+    "Retail Portfolio (5 units) · ~13,445 SF",
+    "~7.50% cap",
+    "urban ground-floor retail · NNN leases",
+    "Investor: ~8–10% est. cash-on-cash (25% down, IO @ ~7%)"
+   ],
+   "inv_line": [
+    "~8–10% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "nnn-fl-2026-07-07-05",
+   "analytics_id": "A-00398",
+   "rank": 5,
+   "submarket": "Apopka (Orlando MSA)",
+   "profile": "Shopping Center",
+   "price_band": "$23M–$24M",
+   "cap_label": "~7.30% cap",
+   "desc": "Shopping Center in Apopka (Orlando MSA); ~7.30% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Shopping Center, Apopka (Orlando MSA) (~7.30% cap)",
+   "highlights": [
+    "Shopping Center · ~170,993 SF",
+    "~7.30% cap",
+    "large multi-tenant center",
+    "Investor: ~7–9% est. cash-on-cash (25% down, IO @ ~7%)"
+   ],
+   "inv_line": [
+    "~7–9% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "nnn-fl-2026-07-07-06",
+   "analytics_id": "A-00399",
+   "rank": 6,
+   "submarket": "Ocoee (Orlando MSA)",
+   "profile": "Single-Tenant NNN (Fitness)",
+   "price_band": "$13M–$14M",
+   "cap_label": "~7.25% cap",
+   "desc": "Single-Tenant NNN (Fitness) in Ocoee (Orlando MSA); ~7.25% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Single-Tenant NNN (Fitness), Ocoee (Orlando MSA) (~7.25% cap)",
+   "highlights": [
+    "Single-Tenant NNN (Fitness)",
+    "~7.25% cap",
+    "single-tenant NNN · national fitness brand",
+    "Investor: ~7–9% est. cash-on-cash (25% down, IO @ ~7%)"
+   ],
+   "inv_line": [
+    "~7–9% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "nnn-fl-2026-07-07-07",
+   "analytics_id": "A-00400",
+   "rank": 7,
+   "submarket": "Orlando",
+   "profile": "Single-Tenant NNN (Fitness)",
+   "price_band": "$11M–$12M",
+   "cap_label": "~7.25% cap",
+   "desc": "Single-Tenant NNN (Fitness) in Orlando; ~7.25% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Single-Tenant NNN (Fitness), Orlando (~7.25% cap)",
+   "highlights": [
+    "Single-Tenant NNN (Fitness) · ~37,780 SF",
+    "~7.25% cap",
+    "single-tenant NNN · national fitness brand",
+    "Investor: ~7–9% est. cash-on-cash (25% down, IO @ ~7%)"
+   ],
+   "inv_line": [
+    "~7–9% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "nnn-fl-2026-07-07-08",
+   "analytics_id": "A-00401",
+   "rank": 8,
+   "submarket": "New Smyrna Beach",
+   "profile": "Shopping Center",
+   "price_band": "$13M–$14M",
+   "cap_label": "~7.00% cap",
+   "desc": "Shopping Center in New Smyrna Beach; ~7.00% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Shopping Center, New Smyrna Beach (~7.00% cap)",
+   "highlights": [
+    "Shopping Center · ~99,961 SF",
+    "~7.00% cap",
+    "multi-tenant center",
+    "Investor: ~6–8% est. cash-on-cash (25% down, IO @ ~7%)"
+   ],
+   "inv_line": [
+    "~6–8% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "nnn-fl-2026-07-07-09",
+   "analytics_id": "A-00402",
+   "rank": 9,
+   "submarket": "Coconut Creek (Broward)",
+   "profile": "Single-Tenant NNN (Fitness)",
+   "price_band": "$14M–$15M",
+   "cap_label": "~6.75% cap",
+   "desc": "Single-Tenant NNN (Fitness) in Coconut Creek (Broward); ~6.75% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Single-Tenant NNN (Fitness), Coconut Creek (Broward) (~6.75% cap)",
+   "highlights": [
+    "Single-Tenant NNN (Fitness) · ~41,000 SF",
+    "~6.75% cap",
+    "absolute NNN · 10+ yrs remaining on lease",
+    "Investor: ~5–7% est. cash-on-cash (25% down, IO @ ~7%)"
+   ],
+   "inv_line": [
+    "~5–7% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "nnn-fl-2026-07-07-10",
+   "analytics_id": "A-00403",
+   "rank": 10,
+   "submarket": "Lakeland",
+   "profile": "Shopping Center",
+   "price_band": "$11M–$12M",
+   "cap_label": "~6.46% cap",
+   "desc": "Shopping Center in Lakeland; ~6.46% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Shopping Center, Lakeland (~6.46% cap)",
+   "highlights": [
+    "Shopping Center · ~40,395 SF",
+    "~6.46% cap",
+    "multi-tenant center",
+    "Investor: ~4–6% est. cash-on-cash (25% down, IO @ ~7%)"
+   ],
+   "inv_line": [
+    "~4–6% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  }
+ ]
+}
