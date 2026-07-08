@@ -1,5 +1,16 @@
 [
   {
+    "id": 29,
+    "date": "2026-07-02",
+    "title": "Davie School Building Trades for $16M in Week's Top Commercial Deal",
+    "summary": "A ~46,000 SF school building at 3367 North University Drive in Davie sold for $16 million to lead South Florida's recorded commercial deals for the week, while a Pinecrest home at 5865 SW 96th Street topped residential at $7.8 million and a newly built Boca Raton home traded at about $1,200 per square foot.",
+    "source": "The Real Deal",
+    "sourceUrl": "https://therealdeal.com/miami/2026/07/06/south-florida-top-real-estate-deals-july-2-2026/",
+    "category": "Commercial/CRE",
+    "tags": ["Davie", "commercial sales", "Pinecrest", "top deals"],
+    "importance": "medium"
+  },
+  {
     "id": 17,
     "date": "2026-07-02",
     "title": "Mortgage Rates Hit Seven-Week Low: 30-Yr Fixed at 6.43%, Jumbo 6.60%",
@@ -20,6 +31,17 @@
     "category": "Development",
     "tags": ["Fort Lauderdale", "Bal Harbour", "permits", "affordable housing"],
     "importance": "medium"
+  },
+  {
+    "id": 28,
+    "date": "2026-07-01",
+    "title": "Florida Insurance Rate Cuts Take Effect July 1: Citizens -8.7% Statewide, SE FL Counties ~-14%",
+    "summary": "Florida OIR-approved homeowners rate decreases took effect July 1 for new policies (and at renewal for existing ones). Citizens' average statewide decrease is about 8.7% - with Miami-Dade and Broward seeing cuts near 14% - while private carriers including State Farm (-10.1%) continue filing reductions. More than 15 new insurers have entered since the 2022-23 reforms.",
+    "source": "Florida OIR / Citizens",
+    "sourceUrl": "https://www.flgov.com/eog/news/press/2026/governor-ron-desantis-announces-major-insurance-rate-relief-floridas-reforms",
+    "category": "Policy/Insurance",
+    "tags": ["insurance", "Citizens", "rate decrease", "SE Florida"],
+    "importance": "high"
   },
   {
     "id": 19,
@@ -152,27 +174,5 @@
     "category": "Market Data",
     "tags": ["Palm Beach", "median price", "cash buyers"],
     "importance": "high"
-  },
-  {
-    "id": 5,
-    "date": "2026-05-30",
-    "title": "South Florida $1M+ Sales Up 22% in Q1 2026",
-    "summary": "Sales of properties priced above $1 million across South Florida rose 22% in Q1 2026 versus a year earlier. In May, Miami-Dade million-dollar sales were up 14.7% year-over-year, extending a strong luxury run.",
-    "source": "MillionLuxury",
-    "sourceUrl": "https://www.millionluxury.com/news/south-florida-luxury-market-2026-miami-vs-palm-beach",
-    "category": "Luxury",
-    "tags": ["luxury", "$1M+", "Miami-Dade", "Q1 2026"],
-    "importance": "high"
-  },
-  {
-    "id": 12,
-    "date": "2026-05-20",
-    "title": "West Palm Beach Office Pipeline Tops 3.3M SF as Corporate Relocations Continue",
-    "summary": "West Palm Beach has roughly 3.3 million SF of office space in the pipeline - nearly 700,000 SF under construction - as corporate relocations and financial-services migration cement the city as a regional commercial hub.",
-    "source": "Discover South Florida / Markets of Tomorrow",
-    "sourceUrl": "https://www.discoversouthflorida.com/blog/south-florida-development-boom-fort-lauderdale-and-west-palm-beach-on-the-rise/",
-    "category": "Development",
-    "tags": ["West Palm Beach", "office", "development pipeline"],
-    "importance": "medium"
   }
 ]

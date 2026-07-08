@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated": "2026-07-06",
+    "updated": "2026-07-08",
     "period": "Data through May-June 2026",
     "coverage": "SE Florida (Palm Beach, Broward, Martin, St. Lucie, Miami-Dade) + statewide FL",
     "disclaimer": "Figures compiled from public market reports (Florida Realtors, MIAMI Realtors, CBRE, Freddie Mac, FL OIR) and are informational only - not investment, tax, or financial advice. Deemed reliable but not guaranteed.",
@@ -51,11 +51,11 @@
     ]
   },
   "insurance": {
-    "updated": "2026-06-30",
+    "updated": "2026-07-08",
     "trend": "Improving / stabilizing",
     "cards": [
       { "label": "FL Avg Annual Premium (w/ wind)", "value": "~$3,815", "sub": "still ~40-50% above U.S. avg" },
-      { "label": "SE FL County Rate Filings", "value": "-11% to -14%", "sub": "average decreases filed" },
+      { "label": "SE FL County Rate Filings", "value": "-11% to -14%", "sub": "approved; in effect July 1, 2026 (Broward/Miami-Dade ~-14%)" },
       { "label": "Citizens Policy Count", "value": "~395K", "sub": "down from 1.42M in late 2023 - lowest since 2012" },
       { "label": "June 2026 Reinsurance Pricing", "value": "-15% to -20%", "sub": "risk-adjusted, many layers" }
     ],

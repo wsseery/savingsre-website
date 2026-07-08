@@ -1,11 +1,35 @@
 {
   "meta": {
     "created": "2026-07-06",
-    "updated": "2026-07-06",
+    "updated": "2026-07-08",
     "note": "Archive of items rotated off the live market/news_data.json 16-item list. Weekly refresh APPENDS dropped items here (newest first) - never delete. Same item schema as news_data.json. Not rendered on the site; kept for content reuse, history, and a future archive/search section.",
-    "count": 5
+    "count": 7
   },
   "items": [
+    {
+      "id": 5,
+      "date": "2026-05-30",
+      "archivedOn": "2026-07-08",
+      "title": "South Florida $1M+ Sales Up 22% in Q1 2026",
+      "summary": "Sales of properties priced above $1 million across South Florida rose 22% in Q1 2026 versus a year earlier. In May, Miami-Dade million-dollar sales were up 14.7% year-over-year, extending a strong luxury run.",
+      "source": "MillionLuxury",
+      "sourceUrl": "https://www.millionluxury.com/news/south-florida-luxury-market-2026-miami-vs-palm-beach",
+      "category": "Luxury",
+      "tags": ["luxury", "$1M+", "Miami-Dade", "Q1 2026"],
+      "importance": "high"
+    },
+    {
+      "id": 12,
+      "date": "2026-05-20",
+      "archivedOn": "2026-07-08",
+      "title": "West Palm Beach Office Pipeline Tops 3.3M SF as Corporate Relocations Continue",
+      "summary": "West Palm Beach has roughly 3.3 million SF of office space in the pipeline - nearly 700,000 SF under construction - as corporate relocations and financial-services migration cement the city as a regional commercial hub.",
+      "source": "Discover South Florida / Markets of Tomorrow",
+      "sourceUrl": "https://www.discoversouthflorida.com/blog/south-florida-development-boom-fort-lauderdale-and-west-palm-beach-on-the-rise/",
+      "category": "Development",
+      "tags": ["West Palm Beach", "office", "development pipeline"],
+      "importance": "medium"
+    },
     {
       "id": 13,
       "date": "2026-05-12",
