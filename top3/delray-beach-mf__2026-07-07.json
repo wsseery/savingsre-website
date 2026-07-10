@@ -1,0 +1,96 @@
+{
+ "segment": "delray-beach-mf",
+ "collection": "curated",
+ "template": "curated-generic",
+ "label": "Coastal Multifamily — Delray Beach",
+ "tagline": "Top on-market multifamily in Delray Beach · downtown, Tropic Isles & East Delray · ranked by scale",
+ "search_name": "Crexi (Delray Beach MF)",
+ "generated": "2026-07-07",
+ "expires": "2026-08-06",
+ "total_results": 15,
+ "methodology": "On-market Delray Beach multifamily as of 2026-07-07 (Crexi), deduped by address, ranked by scale / price-per-unit (broker cap rates not published this cycle). Disguised: area + profile + price band + $/unit public; exact address & financials on request.",
+ "metric_label": "Price / unit",
+ "pdf": "pdf/delray-beach-mf__2026-07-07.pdf",
+ "items": [
+  {
+   "id": "delray-beach-mf-2026-07-07-01",
+   "analytics_id": "A-00430",
+   "rank": 1,
+   "submarket": "Downtown Delray Beach (Swinton)",
+   "profile": "17-Unit Multifamily (Delray Beach)",
+   "price_band": "$8M–$9M",
+   "cap_label": "~$500K/unit",
+   "desc": "17-unit Delray Beach multifamily in Downtown Delray Beach (Swinton); ~$500K/unit. Walkable to Atlantic Ave / the beach corridor. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 17-Unit Multifamily (Delray Beach), Downtown Delray Beach (Swinton) (~$500K/unit)",
+   "highlights": [
+    "17 units · Delray Beach income property",
+    "~$500K/unit",
+    "Walkable to Atlantic Ave / the beach corridor"
+   ]
+  },
+  {
+   "id": "delray-beach-mf-2026-07-07-02",
+   "analytics_id": "A-00431",
+   "rank": 2,
+   "submarket": "East Delray / Intracoastal corridor",
+   "profile": "10-Unit Multifamily (Delray Beach)",
+   "price_band": "$4M–$5M",
+   "cap_label": "~$400K/unit",
+   "desc": "10-unit Delray Beach multifamily in East Delray / Intracoastal corridor; ~$400K/unit. East-of-Federal location near the Intracoastal. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 10-Unit Multifamily (Delray Beach), East Delray / Intracoastal corridor (~$400K/unit)",
+   "highlights": [
+    "10 units · Delray Beach income property",
+    "~$400K/unit",
+    "East-of-Federal location near the Intracoastal"
+   ]
+  },
+  {
+   "id": "delray-beach-mf-2026-07-07-03",
+   "analytics_id": "A-00432",
+   "rank": 3,
+   "submarket": "East Delray (Federal Hwy corridor)",
+   "profile": "5-Unit Multifamily (Delray Beach)",
+   "price_band": "$2.5M–$3M",
+   "cap_label": "~$578K/unit",
+   "desc": "5-unit Delray Beach multifamily in East Delray (Federal Hwy corridor); ~$578K/unit. Blocks from Atlantic Ave and the beach. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 5-Unit Multifamily (Delray Beach), East Delray (Federal Hwy corridor) (~$578K/unit)",
+   "highlights": [
+    "5 units · Delray Beach income property",
+    "~$578K/unit",
+    "Blocks from Atlantic Ave and the beach"
+   ]
+  },
+  {
+   "id": "delray-beach-mf-2026-07-07-04",
+   "analytics_id": "A-00433",
+   "rank": 4,
+   "submarket": "Northeast Delray Beach",
+   "profile": "4-Unit Multifamily (Delray Beach)",
+   "price_band": "$0.5M–$1M",
+   "cap_label": "~$202K/unit",
+   "desc": "4-unit Delray Beach multifamily in Northeast Delray Beach; ~$202K/unit. Lowest price-per-unit on this list — accessible 4-plex. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 4-Unit Multifamily (Delray Beach), Northeast Delray Beach (~$202K/unit)",
+   "highlights": [
+    "4 units · Delray Beach income property",
+    "~$202K/unit — best value on this list",
+    "Lowest price-per-unit on this list — accessible 4-plex"
+   ]
+  },
+  {
+   "id": "delray-beach-mf-2026-07-07-05",
+   "analytics_id": "A-00434",
+   "rank": 5,
+   "submarket": "Delray Beach (central)",
+   "profile": "4-Unit Multifamily (Delray Beach)",
+   "price_band": "$1M–$1.5M",
+   "cap_label": "~$273K/unit",
+   "desc": "4-unit Delray Beach multifamily in Delray Beach (central); ~$273K/unit. Mid-market 4-plex under ~$275K/unit. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 4-Unit Multifamily (Delray Beach), Delray Beach (central) (~$273K/unit)",
+   "highlights": [
+    "4 units · Delray Beach income property",
+    "~$273K/unit",
+    "Mid-market 4-plex under ~$275K/unit"
+   ]
+  }
+ ]
+}
