@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated": "2026-07-08",
+    "updated": "2026-07-10",
     "period": "Data through May-June 2026",
     "coverage": "SE Florida (Palm Beach, Broward, Martin, St. Lucie, Miami-Dade) + statewide FL",
     "disclaimer": "Figures compiled from public market reports (Florida Realtors, MIAMI Realtors, CBRE, Freddie Mac, FL OIR) and are informational only - not investment, tax, or financial advice. Deemed reliable but not guaranteed.",
@@ -43,20 +43,20 @@
     ]
   },
   "rates": {
-    "updated": "2026-07-02",
+    "updated": "2026-07-09",
     "cards": [
-      { "label": "30-Yr Fixed (conforming)", "value": "6.43%", "sub": "Freddie Mac PMMS 7/2 - seven-week low, down from 6.49%" },
-      { "label": "30-Yr Jumbo", "value": "~6.60%", "sub": "Bankrate avg 7/2, down from 6.65%" },
+      { "label": "30-Yr Fixed (conforming)", "value": "6.49%", "sub": "Freddie Mac PMMS 7/9 - up from 6.43%; 6.72% a year ago" },
+      { "label": "30-Yr Jumbo", "value": "~6.63%", "sub": "Bankrate avg 7/9, up from 6.60%" },
       { "label": "Jumbo loan threshold", "value": "$832,750", "sub": "2026 FHFA baseline (most areas)" }
     ]
   },
   "insurance": {
-    "updated": "2026-07-08",
+    "updated": "2026-07-10",
     "trend": "Improving / stabilizing",
     "cards": [
       { "label": "FL Avg Annual Premium (w/ wind)", "value": "~$3,815", "sub": "still ~40-50% above U.S. avg" },
       { "label": "SE FL County Rate Filings", "value": "-11% to -14%", "sub": "approved; in effect July 1, 2026 (Broward/Miami-Dade ~-14%)" },
-      { "label": "Citizens Policy Count", "value": "~395K", "sub": "down from 1.42M in late 2023 - lowest since 2012" },
+      { "label": "Citizens Policy Count", "value": "~336K", "sub": "down 76% from 1.41M peak (Oct 2023) - lowest since 2012" },
       { "label": "June 2026 Reinsurance Pricing", "value": "-15% to -20%", "sub": "risk-adjusted, many layers" }
     ],
     "note": "Coastal properties, older homes, and condos may see less relief than standard inland single-family homes."

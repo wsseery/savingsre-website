@@ -1,5 +1,49 @@
 [
   {
+    "id": 30,
+    "date": "2026-07-09",
+    "title": "Mortgage Rates Tick Back Up: 30-Yr Fixed 6.49%, Jumbo 6.63%",
+    "summary": "Freddie Mac's 30-year fixed averaged 6.49% the week of July 9, up from 6.43% and giving back last week's seven-week low, with the 15-year at 5.82%. Bankrate's 30-year jumbo average rose to 6.63% from 6.60%. A year ago the 30-year FRM was 6.72% - financing remains cheaper than 2025 despite the weekly uptick.",
+    "source": "Freddie Mac / Bankrate",
+    "sourceUrl": "https://www.freddiemac.com/pmms",
+    "category": "Market Data",
+    "tags": ["mortgage rates", "jumbo", "financing"],
+    "importance": "high"
+  },
+  {
+    "id": 31,
+    "date": "2026-07-08",
+    "title": "Coral Gables Hospital ER Center Trades for $32M, Topping Week's Commercial Deals",
+    "summary": "Coral Gables Hospital's off-campus emergency center at 8665 Bird Road in Miami sold for $32 million - an Amdur Management affiliate selling the nearly 8-acre site to an LLC managed by Supermarket Management. A day earlier, the ~37,000 SF Gun Club Shopping Center at 4645 Gun Club Road in West Palm Beach traded for $15 million.",
+    "source": "The Real Deal",
+    "sourceUrl": "https://therealdeal.com/miami/2026/07/09/south-florida-top-real-estate-deals-july-8-2026/",
+    "category": "Commercial/CRE",
+    "tags": ["Miami", "medical", "West Palm Beach", "retail center", "top deals"],
+    "importance": "medium"
+  },
+  {
+    "id": 32,
+    "date": "2026-07-08",
+    "title": "Palm Beach $25M Sale Leads the Week; Pinecrest Mansion Fetches $17.5M",
+    "summary": "A 7,200 SF, six-bedroom home at 239 Emerald Lane in Palm Beach sold for $25 million to Terakeet co-founder Mac Cummings, leading South Florida's recorded residential deals for the week. A Pinecrest mansion at 13291 Old Cutler Road followed at $17.5 million.",
+    "source": "The Real Deal",
+    "sourceUrl": "https://therealdeal.com/miami/2026/07/09/south-florida-top-real-estate-deals-july-8-2026/",
+    "category": "Luxury",
+    "tags": ["Palm Beach", "Pinecrest", "top deals"],
+    "importance": "medium"
+  },
+  {
+    "id": 33,
+    "date": "2026-07-06",
+    "title": "Surf Club Four Seasons Condo Asking $32M Tops a Slow Listing Week",
+    "summary": "A condo at the Four Seasons Residences at The Surf Club in Surfside hit the market asking $32 million - the priciest new South Florida listing in an otherwise quiet holiday week, underscoring that trophy oceanfront resale supply is thin but pricing ambitiously.",
+    "source": "The Real Deal",
+    "sourceUrl": "https://therealdeal.com/miami/2026/07/06/surf-club-four-seasons-condo-asking-32m-tops-slow-week/",
+    "category": "Luxury",
+    "tags": ["Surfside", "Surf Club", "listing", "oceanfront"],
+    "importance": "low"
+  },
+  {
     "id": 29,
     "date": "2026-07-02",
     "title": "Davie School Building Trades for $16M in Week's Top Commercial Deal",
@@ -9,17 +53,6 @@
     "category": "Commercial/CRE",
     "tags": ["Davie", "commercial sales", "Pinecrest", "top deals"],
     "importance": "medium"
-  },
-  {
-    "id": 17,
-    "date": "2026-07-02",
-    "title": "Mortgage Rates Hit Seven-Week Low: 30-Yr Fixed at 6.43%, Jumbo 6.60%",
-    "summary": "Freddie Mac's 30-year fixed averaged 6.43% the week of July 2, down from 6.49% and well below the 6.67% of a year ago, with the 15-year at 5.79%. Bankrate's 30-year jumbo average eased to 6.60% - a friendlier financing backdrop for SE Florida buyers heading into summer.",
-    "source": "Freddie Mac / Bankrate",
-    "sourceUrl": "https://www.freddiemac.com/pmms",
-    "category": "Market Data",
-    "tags": ["mortgage rates", "jumbo", "financing"],
-    "importance": "high"
   },
   {
     "id": 23,
@@ -141,38 +174,5 @@
     "category": "Multifamily",
     "tags": ["cap rates", "vacancy", "Miami", "Q1 2026"],
     "importance": "medium"
-  },
-  {
-    "id": 26,
-    "date": "2026-06-16",
-    "title": "Miami-Dade Home Sales Rise for Ninth Straight Month; SF Median at $680K",
-    "summary": "May 2026 stats from MIAMI Realtors show total Miami-Dade home sales up 7.9% year-over-year - the ninth consecutive monthly gain - with $1M+ sales up 14.7% and the single-family median at $680,000 (+0.7%). Condo inventory fell 8.9%, its fourth straight monthly decline.",
-    "source": "MIAMI Realtors",
-    "sourceUrl": "https://www.prnewswire.com/news-releases/miami-dade-home-sales-rise-for-ninth-consecutive-month-302802049.html",
-    "category": "Market Data",
-    "tags": ["Miami-Dade", "closed sales", "median price", "condo inventory"],
-    "importance": "high"
-  },
-  {
-    "id": 3,
-    "date": "2026-06-15",
-    "title": "SE Florida Home Sales Up Year-Over-Year for Consecutive Spring Months",
-    "summary": "Miami-Dade, Broward and Palm Beach each posted higher total home sales year-over-year across consecutive spring months, signaling sustained tri-county momentum even as pricing cools from recent highs.",
-    "source": "Avanti Way / Miami Realtors",
-    "sourceUrl": "https://avantiway.com/2026/07/01/south-florida-midyear-market-playbook-2026-where-opportunity-lives-and-how-agents-investors-and-sellers-win/",
-    "category": "Market Data",
-    "tags": ["closed sales", "tri-county", "spring 2026"],
-    "importance": "medium"
-  },
-  {
-    "id": 4,
-    "date": "2026-06-10",
-    "title": "Palm Beach County Average Sale Price Climbs 11% YTD to $1.025M",
-    "summary": "Palm Beach County's average sale price rose 11% year-to-date from $924,000 to just over $1,025,000, with the median up 3% to $518,500. An unusually high share of cash closings underscores that liquidity, not leverage, is setting the pace.",
-    "source": "Discover South Florida",
-    "sourceUrl": "https://www.discoversouthflorida.com/blog/south-florida-housing-market-report-palm-beach-and-broward-county-q1-2026",
-    "category": "Market Data",
-    "tags": ["Palm Beach", "median price", "cash buyers"],
-    "importance": "high"
   }
 ]
