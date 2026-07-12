@@ -1,9 +1,9 @@
 {
   "meta": {
     "created": "2026-07-06",
-    "updated": "2026-07-10",
+    "updated": "2026-07-12",
     "note": "Archive of items rotated off the live market/news_data.json 16-item list. Weekly refresh APPENDS dropped items here (newest first) - never delete. Same item schema as news_data.json. Not rendered on the site; kept for content reuse, history, and a future archive/search section.",
-    "count": 11
+    "count": 14
   },
   "items": [
     {
@@ -17,6 +17,42 @@
       "category": "Market Data",
       "tags": ["mortgage rates", "jumbo", "financing"],
       "importance": "high"
+    },
+    {
+      "id": 20,
+      "date": "2026-06-29",
+      "archivedOn": "2026-07-12",
+      "title": "Dezer Pivots to Broader Market With ~600-Unit North Miami Rental Project",
+      "summary": "Dezer Development, long known for ultra-luxury branded condos, is planning nearly 600 market-rate apartments in North Miami - a notable signal that big South Florida developers see the deepest demand in attainable rental product.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/06/29/dezer-development-plans-north-miami-apartment-project/",
+      "category": "Multifamily",
+      "tags": ["North Miami", "multifamily", "market-rate", "development"],
+      "importance": "medium"
+    },
+    {
+      "id": 21,
+      "date": "2026-06-29",
+      "archivedOn": "2026-07-12",
+      "title": "Broward Beach Resort Headed to July 16 Foreclosure Auction Over $40M Debt",
+      "summary": "The Hillsboro Beach Resort at 1159 Hillsboro Mile - a former Sonder property - is set for a July 16 foreclosure auction following a $26 million loan default, a reminder that pockets of hospitality distress persist even in a strong coastal market.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/06/29/hillsboro-beach-resort-faces-foreclosure-auction/",
+      "category": "Commercial/CRE",
+      "tags": ["Broward", "hospitality", "foreclosure", "distress"],
+      "importance": "medium"
+    },
+    {
+      "id": 22,
+      "date": "2026-06-26",
+      "archivedOn": "2026-07-12",
+      "title": "Colliers: South Florida Multifamily Cap Rates Hold Near 5.0%",
+      "summary": "Colliers' Q1 2026 South Florida multifamily report shows cap rates steady near 5.0% as elevated insurance and operating costs shape pricing. Miami's vacancy is the lowest among major Florida metros at 6.6%, versus Orlando 7.3%, Tampa 8.8% and Jacksonville 12.2%.",
+      "source": "Colliers",
+      "sourceUrl": "https://www.colliers.com/en/research/miami/sfl-multifamily-report-26q1",
+      "category": "Multifamily",
+      "tags": ["cap rates", "vacancy", "Miami", "Q1 2026"],
+      "importance": "medium"
     },
     {
       "id": 26,
