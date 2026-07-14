@@ -1,0 +1,195 @@
+{
+ "segment": "east-coast-beach-mf",
+ "collection": "curated",
+ "template": "curated-generic",
+ "label": "Coastal Multifamily — Atlantic Beaches",
+ "tagline": "Top 10 · Fort Lauderdale & Palm Beach coast · coastal income multifamily · ranked by cap where published, else scale",
+ "search_name": "Crexi (Fort Lauderdale / Palm Beach coast MF)",
+ "generated": "2026-07-07",
+ "expires": "2026-08-06",
+ "total_results": 60,
+ "methodology": "On-market coastal multifamily as of 2026-07-07 (Crexi), existing product only (land, entitled development sites and hotels excluded), ranked by broker-reported cap rate where published, otherwise by scale / price-per-unit. Disguised: area + profile + price band + metric public; exact address & financials on request.",
+ "metric_label": "Price / unit",
+ "pdf": "pdf/east-coast-beach-mf__2026-07-07.pdf",
+ "items": [
+  {
+   "id": "east-coast-beach-mf-2026-07-07-01",
+   "analytics_id": "A-00444",
+   "rank": 1,
+   "submarket": "East Fort Lauderdale (Victoria Park area)",
+   "profile": "9-Unit STR Multifamily",
+   "price_band": "$2M–$2.5M",
+   "cap_label": "~9.38% cap",
+   "desc": "9-Unit STR Multifamily in East Fort Lauderdale (Victoria Park area); ~9.38% cap. Operating short-term-rental portfolio · $275K+ gross income. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 9-Unit STR Multifamily, East Fort Lauderdale (Victoria Park area) (~9.38% cap)",
+   "highlights": [
+    "Operating short-term-rental portfolio · $275K+ gross income",
+    "~9.38% cap · recently price-reduced",
+    "Stabilized · for sale by owner",
+    "Investor: ~16–18% est. cash-on-cash (25% down, IO @ ~7%)"
+   ],
+   "inv_line": [
+    "~16–18% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "east-coast-beach-mf-2026-07-07-02",
+   "analytics_id": "A-00445",
+   "rank": 2,
+   "submarket": "Fort Lauderdale (Victoria Park)",
+   "profile": "13-Unit Boutique Multifamily",
+   "price_band": "$2.5M–$3M",
+   "cap_label": "~7.11% cap",
+   "desc": "13-Unit Boutique Multifamily in Fort Lauderdale (Victoria Park); ~7.11% cap. Renovated boutique community. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 13-Unit Boutique Multifamily, Fort Lauderdale (Victoria Park) (~7.11% cap)",
+   "highlights": [
+    "Renovated boutique community",
+    "~7.11% cap on in-place income",
+    "Supply-constrained coastal submarket",
+    "Investor: ~6–8% est. cash-on-cash (25% down, IO @ ~7%)"
+   ],
+   "inv_line": [
+    "~6–8% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "east-coast-beach-mf-2026-07-07-03",
+   "analytics_id": "A-00446",
+   "rank": 3,
+   "submarket": "Fort Lauderdale (Central Broward)",
+   "profile": "40-Unit Garden Community",
+   "price_band": "$5M–$6M",
+   "cap_label": "~6.01% cap",
+   "desc": "40-Unit Garden Community in Fort Lauderdale (Central Broward); ~6.01% cap. 40 units · ~$145K/unit · Opportunity Zone. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 40-Unit Garden Community, Fort Lauderdale (Central Broward) (~6.01% cap)",
+   "highlights": [
+    "40 units · ~$145K/unit · Opportunity Zone",
+    "~6% in-place cap · ~7.8% pro-forma",
+    "1-story CBS · new roofs 2021 · 98% occupied",
+    "Investor: ~2–4% est. cash-on-cash (25% down, IO @ ~7%)"
+   ],
+   "inv_line": [
+    "~2–4% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "east-coast-beach-mf-2026-07-07-04",
+   "analytics_id": "A-00447",
+   "rank": 4,
+   "submarket": "Fort Lauderdale",
+   "profile": "48-Unit Multifamily (2 properties)",
+   "price_band": "$9M–$10M",
+   "cap_label": "~$203K/unit",
+   "desc": "48-Unit Multifamily (2 properties) in Fort Lauderdale; ~$203K/unit. 48 units · all 2-bedroom layouts. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 48-Unit Multifamily (2 properties), Fort Lauderdale (~$203K/unit)",
+   "highlights": [
+    "48 units · all 2-bedroom layouts",
+    "Value-add upside",
+    "Opportunity Zone"
+   ],
+   "inv_line": []
+  },
+  {
+   "id": "east-coast-beach-mf-2026-07-07-05",
+   "analytics_id": "A-00448",
+   "rank": 5,
+   "submarket": "Fort Lauderdale (33311)",
+   "profile": "16-Unit Multifamily",
+   "price_band": "$2.5M–$3M",
+   "cap_label": "~$164K/unit",
+   "desc": "16-Unit Multifamily in Fort Lauderdale (33311); ~$164K/unit. ~$164K/unit. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 16-Unit Multifamily, Fort Lauderdale (33311) (~$164K/unit)",
+   "highlights": [
+    "~$164K/unit",
+    "Consistently 100% occupied",
+    "Opportunity Zone · future development potential"
+   ],
+   "inv_line": []
+  },
+  {
+   "id": "east-coast-beach-mf-2026-07-07-06",
+   "analytics_id": "A-00449",
+   "rank": 6,
+   "submarket": "Fort Lauderdale (Victoria Park)",
+   "profile": "16-Unit Renovated Multifamily",
+   "price_band": "$4M–$5M",
+   "cap_label": "~$280K/unit",
+   "desc": "16-Unit Renovated Multifamily in Fort Lauderdale (Victoria Park); ~$280K/unit. Renovated 2bd/2ba units. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 16-Unit Renovated Multifamily, Fort Lauderdale (Victoria Park) (~$280K/unit)",
+   "highlights": [
+    "Renovated 2bd/2ba units",
+    "~$280K/unit",
+    "East-side location"
+   ],
+   "inv_line": []
+  },
+  {
+   "id": "east-coast-beach-mf-2026-07-07-07",
+   "analytics_id": "A-00450",
+   "rank": 7,
+   "submarket": "Fort Lauderdale (33316, near Port)",
+   "profile": "16-Unit Multifamily",
+   "price_band": "$4M–$5M",
+   "cap_label": "~$250K/unit",
+   "desc": "16-Unit Multifamily in Fort Lauderdale (33316, near Port); ~$250K/unit. 16 units · ~$250K/unit. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 16-Unit Multifamily, Fort Lauderdale (33316, near Port) (~$250K/unit)",
+   "highlights": [
+    "16 units · ~$250K/unit",
+    "South-of-downtown location",
+    "Near the port & beaches"
+   ],
+   "inv_line": []
+  },
+  {
+   "id": "east-coast-beach-mf-2026-07-07-08",
+   "analytics_id": "A-00451",
+   "rank": 8,
+   "submarket": "Fort Lauderdale (near downtown)",
+   "profile": "16-Unit Multifamily",
+   "price_band": "$3M–$4M",
+   "cap_label": "~$219K/unit",
+   "desc": "16-Unit Multifamily in Fort Lauderdale (near downtown); ~$219K/unit. ~$219K/unit. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 16-Unit Multifamily, Fort Lauderdale (near downtown) (~$219K/unit)",
+   "highlights": [
+    "~$219K/unit",
+    "Central, desirable location",
+    "Professionally managed · Opportunity Zone"
+   ],
+   "inv_line": []
+  },
+  {
+   "id": "east-coast-beach-mf-2026-07-07-09",
+   "analytics_id": "A-00452",
+   "rank": 9,
+   "submarket": "Fort Lauderdale (33301)",
+   "profile": "14-Unit Multifamily",
+   "price_band": "$3M–$4M",
+   "cap_label": "~$236K/unit",
+   "desc": "14-Unit Multifamily in Fort Lauderdale (33301); ~$236K/unit. 14 units · ~$236K/unit. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 14-Unit Multifamily, Fort Lauderdale (33301) (~$236K/unit)",
+   "highlights": [
+    "14 units · ~$236K/unit",
+    "Downtown-adjacent 33301",
+    "Income in the urban core"
+   ],
+   "inv_line": []
+  },
+  {
+   "id": "east-coast-beach-mf-2026-07-07-10",
+   "analytics_id": "A-00453",
+   "rank": 10,
+   "submarket": "Fort Lauderdale (near downtown)",
+   "profile": "11-Unit Apartment Building",
+   "price_band": "$2M–$2.5M",
+   "cap_label": "~$209K/unit",
+   "desc": "11-Unit Apartment Building in Fort Lauderdale (near downtown); ~$209K/unit. ~$209K/unit on a large lot. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 11-Unit Apartment Building, Fort Lauderdale (near downtown) (~$209K/unit)",
+   "highlights": [
+    "~$209K/unit on a large lot",
+    "Close to downtown Fort Lauderdale",
+    "Assemblage-style holding"
+   ],
+   "inv_line": []
+  }
+ ]
+}

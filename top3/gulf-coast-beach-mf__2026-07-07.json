@@ -1,0 +1,172 @@
+{
+ "segment": "gulf-coast-beach-mf",
+ "collection": "curated",
+ "template": "curated-generic",
+ "label": "Coastal Multifamily — Gulf Beaches",
+ "tagline": "Top 9 · Sarasota–Bradenton Gulf Coast · incl. Siesta Key · ranked by cap where published, else scale",
+ "search_name": "Crexi (Sarasota/Bradenton Gulf Coast MF)",
+ "generated": "2026-07-07",
+ "expires": "2026-08-06",
+ "total_results": 31,
+ "methodology": "On-market coastal multifamily as of 2026-07-07 (Crexi), existing product only (land, entitled development sites and hotels excluded), ranked by broker-reported cap rate where published, otherwise by scale / price-per-unit. Disguised: area + profile + price band + metric public; exact address & financials on request.",
+ "metric_label": "Price / unit",
+ "pdf": "pdf/gulf-coast-beach-mf__2026-07-07.pdf",
+ "items": [
+  {
+   "id": "gulf-coast-beach-mf-2026-07-07-01",
+   "analytics_id": "A-00435",
+   "rank": 1,
+   "submarket": "Sarasota (South Tuttle)",
+   "profile": "Mixed-Use Multifamily",
+   "price_band": "$1.5M–$2M",
+   "cap_label": "~8% cap",
+   "desc": "Mixed-Use Multifamily in Sarasota (South Tuttle); ~8% cap. Rare mixed-use income property. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Mixed-Use Multifamily, Sarasota (South Tuttle) (~8% cap)",
+   "highlights": [
+    "Rare mixed-use income property",
+    "Seller motivated — reviewing all offers",
+    "~8% advertised cap",
+    "Investor: ~10–12% est. cash-on-cash (25% down, IO @ ~7%)"
+   ],
+   "inv_line": [
+    "~10–12% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "gulf-coast-beach-mf-2026-07-07-02",
+   "analytics_id": "A-00436",
+   "rank": 2,
+   "submarket": "Sarasota (Hillview / hospital district)",
+   "profile": "17-Unit Multifamily + Land",
+   "price_band": "Price on request",
+   "cap_label": "17 units",
+   "desc": "17-Unit Multifamily + Land in Sarasota (Hillview / hospital district); 17 units. 17 income-producing units. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 17-Unit Multifamily + Land, Sarasota (Hillview / hospital district) (17 units)",
+   "highlights": [
+    "17 income-producing units",
+    "~1.5 acres with 39+ unit redevelopment potential",
+    "Income now, upside later"
+   ],
+   "inv_line": []
+  },
+  {
+   "id": "gulf-coast-beach-mf-2026-07-07-03",
+   "analytics_id": "A-00437",
+   "rank": 3,
+   "submarket": "Sarasota (Proctor Rd)",
+   "profile": "10-Unit Townhome Community",
+   "price_band": "Price on request",
+   "cap_label": "10 units",
+   "desc": "10-Unit Townhome Community in Sarasota (Proctor Rd); 10 units. All 2bd/1.5ba two-story townhomes. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 10-Unit Townhome Community, Sarasota (Proctor Rd) (10 units)",
+   "highlights": [
+    "All 2bd/1.5ba two-story townhomes",
+    "New roofs · fully occupied",
+    "Turnkey income"
+   ],
+   "inv_line": []
+  },
+  {
+   "id": "gulf-coast-beach-mf-2026-07-07-04",
+   "analytics_id": "A-00438",
+   "rank": 4,
+   "submarket": "Siesta Key",
+   "profile": "9-Unit Beach Condominium Complex",
+   "price_band": "$6M–$7M",
+   "cap_label": "~$722K/unit",
+   "desc": "9-Unit Beach Condominium Complex in Siesta Key; ~$722K/unit. Siesta Key barrier-island location. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 9-Unit Beach Condominium Complex, Siesta Key (~$722K/unit)",
+   "highlights": [
+    "Siesta Key barrier-island location",
+    "9 units · ~$722K/unit",
+    "Irreplaceable beach real estate"
+   ],
+   "inv_line": []
+  },
+  {
+   "id": "gulf-coast-beach-mf-2026-07-07-05",
+   "analytics_id": "A-00439",
+   "rank": 5,
+   "submarket": "Sarasota (Gulf Gate area)",
+   "profile": "8-Unit Villa Portfolio (4 duplexes)",
+   "price_band": "Price on request",
+   "cap_label": "8 units",
+   "desc": "8-Unit Villa Portfolio (4 duplexes) in Sarasota (Gulf Gate area); 8 units. 4 adjacent block-construction duplexes. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 8-Unit Villa Portfolio (4 duplexes), Sarasota (Gulf Gate area) (8 units)",
+   "highlights": [
+    "4 adjacent block-construction duplexes",
+    "All 2bd/2ba units",
+    "Ownership wants offers ASAP"
+   ],
+   "inv_line": []
+  },
+  {
+   "id": "gulf-coast-beach-mf-2026-07-07-06",
+   "analytics_id": "A-00440",
+   "rank": 6,
+   "submarket": "Sarasota",
+   "profile": "6-Unit Villa Community",
+   "price_band": "Price on request",
+   "cap_label": "6 units",
+   "desc": "6-Unit Villa Community in Sarasota; 6 units. Masonry construction · remodeled. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 6-Unit Villa Community, Sarasota (6 units)",
+   "highlights": [
+    "Masonry construction · remodeled",
+    "4 two-bed/two-bath units",
+    "Turnkey condition"
+   ],
+   "inv_line": []
+  },
+  {
+   "id": "gulf-coast-beach-mf-2026-07-07-07",
+   "analytics_id": "A-00441",
+   "rank": 7,
+   "submarket": "Downtown Sarasota",
+   "profile": "4-Unit Apartment Building",
+   "price_band": "$0.5M–$1M",
+   "cap_label": "~$170K/unit",
+   "desc": "4-Unit Apartment Building in Downtown Sarasota; ~$170K/unit. ~$170K/unit — best value on this list. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 4-Unit Apartment Building, Downtown Sarasota (~$170K/unit)",
+   "highlights": [
+    "~$170K/unit — best value on this list",
+    "Seller financing available",
+    "Opportunity Zone · masonry construction"
+   ],
+   "inv_line": []
+  },
+  {
+   "id": "gulf-coast-beach-mf-2026-07-07-08",
+   "analytics_id": "A-00442",
+   "rank": 8,
+   "submarket": "Sarasota (Oyster Bay)",
+   "profile": "4-Unit Apartment Building",
+   "price_band": "Price on request",
+   "cap_label": "4 units",
+   "desc": "4-Unit Apartment Building in Sarasota (Oyster Bay); 4 units. Block construction · not in a flood zone. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 4-Unit Apartment Building, Sarasota (Oyster Bay) (4 units)",
+   "highlights": [
+    "Block construction · not in a flood zone",
+    "House-hack or buy-and-hold",
+    "Investor special"
+   ],
+   "inv_line": []
+  },
+  {
+   "id": "gulf-coast-beach-mf-2026-07-07-09",
+   "analytics_id": "A-00443",
+   "rank": 9,
+   "submarket": "Sarasota (near Ringling)",
+   "profile": "4-Unit Vacation Rental",
+   "price_band": "$1.5M–$2M",
+   "cap_label": "~$375K/unit",
+   "desc": "4-Unit Vacation Rental in Sarasota (near Ringling); ~$375K/unit. Exceptionally appointed vacation-rental 4-plex. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 4-Unit Vacation Rental, Sarasota (near Ringling) (~$375K/unit)",
+   "highlights": [
+    "Exceptionally appointed vacation-rental 4-plex",
+    "Short-term-rental positioning",
+    "~$375K/unit"
+   ],
+   "inv_line": []
+  }
+ ]
+}
