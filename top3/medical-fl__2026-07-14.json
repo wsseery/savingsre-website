@@ -1,0 +1,156 @@
+{
+ "segment": "medical-fl",
+ "collection": "curated",
+ "template": "curated-generic",
+ "label": "Medical Office — Florida",
+ "tagline": "Top medical office & healthcare-tenant deals statewide · ranked by cap rate",
+ "search_name": "Crexi (FL Office / medical)",
+ "generated": "2026-07-14",
+ "expires": "2026-08-13",
+ "total_results": 3376,
+ "methodology": "Crexi FL pull 2026-07-14 ranked by broker-reported cap rate (not independently verified); listings without a published cap excluded. Disguised: area + type + price band + cap band public; exact address, tenant & lease terms on request.",
+ "metric_label": "Cap rate",
+ "pdf": "pdf/medical-fl__2026-07-14.pdf",
+ "items": [
+  {
+   "id": "medical-fl-2026-07-14-01",
+   "analytics_id": "A-00413",
+   "rank": 1,
+   "submarket": "Lauderhill (Broward)",
+   "profile": "Medical Office Plaza",
+   "price_band": "$7M–$8M",
+   "cap_label": "~8.00% cap",
+   "desc": "Medical Office Plaza in Lauderhill (Broward); ~8.00% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Medical Office Plaza, Lauderhill (Broward) (~8.00% cap)",
+   "highlights": [
+    "Medical Office Plaza · ~33,178 SF",
+    "~8.00% cap",
+    "multi-tenant medical plaza",
+    "Investor: ~10–12% est. cash-on-cash (25% down, IO @ ~7%)"
+   ],
+   "inv_line": [
+    "~10–12% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "medical-fl-2026-07-14-02",
+   "analytics_id": "A-00414",
+   "rank": 2,
+   "submarket": "Miami Beach",
+   "profile": "Medical Office Building",
+   "price_band": "$32M–$34M",
+   "cap_label": "~6.73% cap",
+   "desc": "Medical Office Building in Miami Beach; ~6.73% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Medical Office Building, Miami Beach (~6.73% cap)",
+   "highlights": [
+    "Medical Office Building · ~85,162 SF",
+    "~6.73% cap",
+    "trophy medical building",
+    "Investor: ~5–7% est. cash-on-cash (25% down, IO @ ~7%)"
+   ],
+   "inv_line": [
+    "~5–7% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "medical-fl-2026-07-14-03",
+   "analytics_id": "A-00415",
+   "rank": 3,
+   "submarket": "Bradenton area (3 buildings)",
+   "profile": "Medical Office Portfolio",
+   "price_band": "$7M–$8M",
+   "cap_label": "~6.50% cap",
+   "desc": "Medical Office Portfolio in Bradenton area (3 buildings); ~6.50% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Medical Office Portfolio, Bradenton area (3 buildings) (~6.50% cap)",
+   "highlights": [
+    "Medical Office Portfolio",
+    "~6.50% cap",
+    "100% occupancy",
+    "Investor: ~4–6% est. cash-on-cash (25% down, IO @ ~7%)"
+   ],
+   "inv_line": [
+    "~4–6% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "medical-fl-2026-07-14-04",
+   "analytics_id": "A-00416",
+   "rank": 4,
+   "submarket": "Lakewood Ranch",
+   "profile": "Single-Tenant Medical Office",
+   "price_band": "$6M–$7M",
+   "cap_label": "~6.50% cap",
+   "desc": "Single-Tenant Medical Office in Lakewood Ranch; ~6.50% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Single-Tenant Medical Office, Lakewood Ranch (~6.50% cap)",
+   "highlights": [
+    "Single-Tenant Medical Office · ~8,046 SF",
+    "~6.50% cap",
+    "NNN single-tenant",
+    "Investor: ~4–6% est. cash-on-cash (25% down, IO @ ~7%)"
+   ],
+   "inv_line": [
+    "~4–6% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "medical-fl-2026-07-14-05",
+   "analytics_id": "A-00417",
+   "rank": 5,
+   "submarket": "Hialeah (Miami MSA)",
+   "profile": "Medical Office (Clinic)",
+   "price_band": "$6M–$7M",
+   "cap_label": "~6.47% cap",
+   "desc": "Medical Office (Clinic) in Hialeah (Miami MSA); ~6.47% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Medical Office (Clinic), Hialeah (Miami MSA) (~6.47% cap)",
+   "highlights": [
+    "Medical Office (Clinic) · ~5,991 SF",
+    "~6.47% cap",
+    "infill core location",
+    "Investor: ~4–6% est. cash-on-cash (25% down, IO @ ~7%)"
+   ],
+   "inv_line": [
+    "~4–6% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "medical-fl-2026-07-14-06",
+   "analytics_id": "A-00418",
+   "rank": 6,
+   "submarket": "Bradenton",
+   "profile": "Medical Office Building",
+   "price_band": "$7M–$8M",
+   "cap_label": "~5.73% cap",
+   "desc": "Medical Office Building in Bradenton; ~5.73% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Medical Office Building, Bradenton (~5.73% cap)",
+   "highlights": [
+    "Medical Office Building · ~30,189 SF",
+    "~5.73% cap",
+    "multi-tenant medical",
+    "Investor: Levered spread thin at ~7% debt (rate-sensitive)"
+   ],
+   "inv_line": [
+    "Levered spread thin at ~7% debt (rate-sensitive)"
+   ]
+  },
+  {
+   "id": "medical-fl-2026-07-14-07",
+   "analytics_id": "A-00419",
+   "rank": 7,
+   "submarket": "Palm Beach Gardens",
+   "profile": "Single-Tenant Medical Office",
+   "price_band": "$9M–$10M",
+   "cap_label": "~5.25% cap",
+   "desc": "Single-Tenant Medical Office in Palm Beach Gardens; ~5.25% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Single-Tenant Medical Office, Palm Beach Gardens (~5.25% cap)",
+   "highlights": [
+    "Single-Tenant Medical Office · ~10,068 SF",
+    "~5.25% cap",
+    "investment-grade health-system tenant",
+    "Investor: Levered spread thin at ~7% debt (rate-sensitive)"
+   ],
+   "inv_line": [
+    "Levered spread thin at ~7% debt (rate-sensitive)"
+   ]
+  }
+ ]
+}

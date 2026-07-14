@@ -1,6 +1,6 @@
 {
  "note": "Unified registry for the SavingsRE Top Investments system. ONE renderer (top3.html) and ONE hub (index.html) read this file. To add a list/segment: add an entry under 'lists' (and to 'order'), then drop a <key>__<date>.json public snapshot + a <key>__index.json. No HTML changes. 'collection' groups lists on the hub; 'template' selects the card layout in the renderer. Public data is DISGUISED (area/type/price band/cap band); exact data lives only in the private ledger. Segments with no snapshot file yet render as 'Coming soon'. Each public item may include a 'highlights' array (2-3 short, disguise-safe value-driver bullets) shown under the row and in the PDF.",
- "version": 8,
+ "version": 9,
  "templates": {
   "mls-financial": "Disguised income-property card (banded from MLS NOI/cap). Address/MLS/exact $ stripped to the ledger.",
   "curated-generic": "Disguised curated card: submarket + profile + price band + cap band, no address. Exact data on request.",
@@ -23,6 +23,7 @@
   "gulf-coast-beach-mf",
   "east-coast-beach-mf",
   "delray-beach-mf",
+  "starter-mf-corridor",
   "large-statewide",
   "nnn-fl",
   "strip-mall-fl",
@@ -158,6 +159,18 @@
    "template": "curated-generic",
    "cadence": "monthly",
    "source": "Crexi / LoopNet / broker network",
+   "browse_url": "/commercial-buyer-search.html",
+   "browse_label": "Build your buy box"
+  },
+  "starter-mf-corridor": {
+   "collection": "curated",
+   "featured": true,
+   "label": "Starter Multifamily — $800K to $2M",
+   "tagline": "Delray Beach to Fort Lauderdale corridor · 2–9 units · built for smaller & first-time investors · ranked by price per unit",
+   "list_size": 8,
+   "template": "curated-generic",
+   "cadence": "weekly",
+   "source": "Crexi (Delray–Fort Lauderdale corridor MF)",
    "browse_url": "/commercial-buyer-search.html",
    "browse_label": "Build your buy box"
   }

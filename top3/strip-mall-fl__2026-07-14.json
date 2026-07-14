@@ -1,0 +1,196 @@
+{
+ "segment": "strip-mall-fl",
+ "collection": "curated",
+ "template": "curated-generic",
+ "label": "Strip Malls & Retail Centers — Florida",
+ "tagline": "Top multi-tenant strip & neighborhood retail centers statewide · ranked by cap rate",
+ "search_name": "Crexi (FL Retail, multi-tenant)",
+ "generated": "2026-07-14",
+ "expires": "2026-08-13",
+ "total_results": 4586,
+ "methodology": "Crexi FL pull 2026-07-14 ranked by broker-reported cap rate (not independently verified); listings without a published cap excluded. Disguised: area + type + price band + cap band public; exact address, tenant & lease terms on request.",
+ "metric_label": "Cap rate",
+ "pdf": "pdf/strip-mall-fl__2026-07-14.pdf",
+ "items": [
+  {
+   "id": "strip-mall-fl-2026-07-14-01",
+   "analytics_id": "A-00404",
+   "rank": 1,
+   "submarket": "Ocoee (Orlando MSA)",
+   "profile": "Shopping Center",
+   "price_band": "$7M–$8M",
+   "cap_label": "~8.56% cap",
+   "desc": "Shopping Center in Ocoee (Orlando MSA); ~8.56% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Shopping Center, Ocoee (Orlando MSA) (~8.56% cap)",
+   "highlights": [
+    "Shopping Center · ~61,100 SF",
+    "~8.56% cap",
+    "multi-tenant strip center",
+    "Investor: ~12–14% est. cash-on-cash (25% down, IO @ ~7%)"
+   ],
+   "inv_line": [
+    "~12–14% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "strip-mall-fl-2026-07-14-02",
+   "analytics_id": "A-00405",
+   "rank": 2,
+   "submarket": "New Port Richey (Tampa Bay MSA)",
+   "profile": "Shopping Center",
+   "price_band": "$16M–$17M",
+   "cap_label": "~7.90% cap",
+   "desc": "Shopping Center in New Port Richey (Tampa Bay MSA); ~7.90% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Shopping Center, New Port Richey (Tampa Bay MSA) (~7.90% cap)",
+   "highlights": [
+    "Shopping Center",
+    "~7.90% cap",
+    "multi-tenant center · ~$1.3M NOI",
+    "Investor: ~10–12% est. cash-on-cash (25% down, IO @ ~7%)"
+   ],
+   "inv_line": [
+    "~10–12% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "strip-mall-fl-2026-07-14-03",
+   "analytics_id": "A-00406",
+   "rank": 3,
+   "submarket": "Apopka (Orlando MSA)",
+   "profile": "Shopping Center",
+   "price_band": "$23M–$24M",
+   "cap_label": "~7.30% cap",
+   "desc": "Shopping Center in Apopka (Orlando MSA); ~7.30% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Shopping Center, Apopka (Orlando MSA) (~7.30% cap)",
+   "highlights": [
+    "Shopping Center · ~170,993 SF",
+    "~7.30% cap",
+    "large multi-tenant center",
+    "Investor: ~7–9% est. cash-on-cash (25% down, IO @ ~7%)"
+   ],
+   "inv_line": [
+    "~7–9% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "strip-mall-fl-2026-07-14-04",
+   "analytics_id": "A-00407",
+   "rank": 4,
+   "submarket": "New Smyrna Beach",
+   "profile": "Shopping Center",
+   "price_band": "$13M–$14M",
+   "cap_label": "~7.00% cap",
+   "desc": "Shopping Center in New Smyrna Beach; ~7.00% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Shopping Center, New Smyrna Beach (~7.00% cap)",
+   "highlights": [
+    "Shopping Center · ~99,961 SF",
+    "~7.00% cap",
+    "multi-tenant center",
+    "Investor: ~6–8% est. cash-on-cash (25% down, IO @ ~7%)"
+   ],
+   "inv_line": [
+    "~6–8% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "strip-mall-fl-2026-07-14-05",
+   "analytics_id": "A-00408",
+   "rank": 5,
+   "submarket": "Lakeland",
+   "profile": "Shopping Center",
+   "price_band": "$11M–$12M",
+   "cap_label": "~6.46% cap",
+   "desc": "Shopping Center in Lakeland; ~6.46% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Shopping Center, Lakeland (~6.46% cap)",
+   "highlights": [
+    "Shopping Center · ~40,395 SF",
+    "~6.46% cap",
+    "multi-tenant center",
+    "Investor: ~4–6% est. cash-on-cash (25% down, IO @ ~7%)"
+   ],
+   "inv_line": [
+    "~4–6% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "strip-mall-fl-2026-07-14-06",
+   "analytics_id": "A-00409",
+   "rank": 6,
+   "submarket": "North Palm Beach",
+   "profile": "Neighborhood Center",
+   "price_band": "$12M–$13M",
+   "cap_label": "~6.36% cap",
+   "desc": "Neighborhood Center in North Palm Beach; ~6.36% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Neighborhood Center, North Palm Beach (~6.36% cap)",
+   "highlights": [
+    "Neighborhood Center · ~20,008 SF",
+    "~6.36% cap",
+    "multi-tenant center",
+    "Investor: ~3–5% est. cash-on-cash (25% down, IO @ ~7%)"
+   ],
+   "inv_line": [
+    "~3–5% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "strip-mall-fl-2026-07-14-07",
+   "analytics_id": "A-00410",
+   "rank": 7,
+   "submarket": "Hialeah Gardens (Miami MSA)",
+   "profile": "Neighborhood Center",
+   "price_band": "$12M–$13M",
+   "cap_label": "~6.34% cap",
+   "desc": "Neighborhood Center in Hialeah Gardens (Miami MSA); ~6.34% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Neighborhood Center, Hialeah Gardens (Miami MSA) (~6.34% cap)",
+   "highlights": [
+    "Neighborhood Center · ~20,741 SF",
+    "~6.34% cap",
+    "multi-tenant center",
+    "Investor: ~3–5% est. cash-on-cash (25% down, IO @ ~7%)"
+   ],
+   "inv_line": [
+    "~3–5% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "strip-mall-fl-2026-07-14-08",
+   "analytics_id": "A-00411",
+   "rank": 8,
+   "submarket": "Winter Garden (Orlando MSA)",
+   "profile": "Retail Center",
+   "price_band": "$18M–$19M",
+   "cap_label": "~6.00% cap",
+   "desc": "Retail Center in Winter Garden (Orlando MSA); ~6.00% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Retail Center, Winter Garden (Orlando MSA) (~6.00% cap)",
+   "highlights": [
+    "Retail Center · ~64,204 SF",
+    "~6.00% cap",
+    "multi-tenant center",
+    "Investor: ~2–4% est. cash-on-cash (25% down, IO @ ~7%)"
+   ],
+   "inv_line": [
+    "~2–4% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "strip-mall-fl-2026-07-14-09",
+   "analytics_id": "A-00412",
+   "rank": 9,
+   "submarket": "Orlando",
+   "profile": "Shopping Center",
+   "price_band": "$15M–$16M",
+   "cap_label": "~5.16% cap",
+   "desc": "Shopping Center in Orlando; ~5.16% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Shopping Center, Orlando (~5.16% cap)",
+   "highlights": [
+    "Shopping Center · ~37,291 SF",
+    "~5.16% cap",
+    "multi-tenant center",
+    "Investor: Levered spread thin at ~7% debt (rate-sensitive)"
+   ],
+   "inv_line": [
+    "Levered spread thin at ~7% debt (rate-sensitive)"
+   ]
+  }
+ ]
+}

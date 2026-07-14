@@ -1,0 +1,144 @@
+{
+ "segment": "starter-mf-corridor",
+ "collection": "curated",
+ "template": "curated-generic",
+ "label": "Starter Multifamily — $800K to $2M",
+ "tagline": "Delray Beach to Fort Lauderdale corridor · 2–9 units · built for smaller & first-time investors · ranked by price per unit",
+ "search_name": "Crexi (Delray–Fort Lauderdale corridor MF)",
+ "generated": "2026-07-14",
+ "expires": "2026-08-13",
+ "total_results": 17,
+ "methodology": "On-market $800K–$2M multifamily in the Delray Beach–Fort Lauderdale corridor as of 2026-07-14 (Crexi pulls), existing product only, ranked by lowest price per unit (broker cap rates not published on these). Sized for smaller & first-time investors. Disguised: area + profile + price band + $/unit public; exact address & financials on request.",
+ "metric_label": "Price / unit",
+ "pdf": "pdf/starter-mf-corridor__2026-07-14.pdf",
+ "items": [
+  {
+   "id": "starter-mf-corridor-2026-07-14-01",
+   "analytics_id": "A-00455",
+   "rank": 1,
+   "submarket": "Northeast Delray Beach",
+   "profile": "4-Unit Multifamily",
+   "price_band": "$0.5M–$1M",
+   "cap_label": "~$202K/unit",
+   "desc": "4-Unit Multifamily in Northeast Delray Beach; ~$202K/unit. Two oversized 3bd/2ba suites · in-unit W/D. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 4-Unit Multifamily, Northeast Delray Beach (~$202K/unit)",
+   "highlights": [
+    "~$203K/unit — best value on this list",
+    "Two oversized 3bd/2ba suites · in-unit W/D",
+    "Built mid-1960s · ~0.21 acres"
+   ]
+  },
+  {
+   "id": "starter-mf-corridor-2026-07-14-02",
+   "analytics_id": "A-00456",
+   "rank": 2,
+   "submarket": "East Fort Lauderdale",
+   "profile": "9-Unit Multifamily",
+   "price_band": "$1.5M–$2M",
+   "cap_label": "~$220K/unit",
+   "desc": "9-Unit Multifamily in East Fort Lauderdale; ~$220K/unit. Recently renovated. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 9-Unit Multifamily, East Fort Lauderdale (~$220K/unit)",
+   "highlights": [
+    "9 units · ~$220K/unit",
+    "Recently renovated",
+    "East-side rental location"
+   ]
+  },
+  {
+   "id": "starter-mf-corridor-2026-07-14-03",
+   "analytics_id": "A-00457",
+   "rank": 3,
+   "submarket": "Delray Beach (west)",
+   "profile": "4-Unit Multifamily",
+   "price_band": "$0.5M–$1M",
+   "cap_label": "~$238K/unit",
+   "desc": "4-Unit Multifamily in Delray Beach (west); ~$238K/unit. Quadplex under $1M. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 4-Unit Multifamily, Delray Beach (west) (~$238K/unit)",
+   "highlights": [
+    "4 units · ~$238K/unit",
+    "Quadplex under $1M",
+    "Entry-level income scale"
+   ]
+  },
+  {
+   "id": "starter-mf-corridor-2026-07-14-04",
+   "analytics_id": "A-00458",
+   "rank": 4,
+   "submarket": "Delray Beach (central)",
+   "profile": "4-Unit Multifamily",
+   "price_band": "$1M–$1.5M",
+   "cap_label": "~$273K/unit",
+   "desc": "4-Unit Multifamily in Delray Beach (central); ~$273K/unit. Mid-market quadplex. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 4-Unit Multifamily, Delray Beach (central) (~$273K/unit)",
+   "highlights": [
+    "4 units · ~$273K/unit",
+    "Mid-market quadplex",
+    "Central Delray location"
+   ]
+  },
+  {
+   "id": "starter-mf-corridor-2026-07-14-05",
+   "analytics_id": "A-00459",
+   "rank": 5,
+   "submarket": "Delray Beach (northwest)",
+   "profile": "2-Unit Duplex",
+   "price_band": "$0.5M–$1M",
+   "cap_label": "~$425K/unit",
+   "desc": "2-Unit Duplex in Delray Beach (northwest); ~$425K/unit. ~$425K/unit. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 2-Unit Duplex, Delray Beach (northwest) (~$425K/unit)",
+   "highlights": [
+    "Opportunity Zone duplex",
+    "~$425K/unit",
+    "House-hack friendly"
+   ]
+  },
+  {
+   "id": "starter-mf-corridor-2026-07-14-06",
+   "analytics_id": "A-00460",
+   "rank": 6,
+   "submarket": "Delray Beach (southwest)",
+   "profile": "2-Unit Duplex",
+   "price_band": "$0.5M–$1M",
+   "cap_label": "~$447K/unit",
+   "desc": "2-Unit Duplex in Delray Beach (southwest); ~$447K/unit. ~$447K/unit. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 2-Unit Duplex, Delray Beach (southwest) (~$447K/unit)",
+   "highlights": [
+    "Opportunity Zone duplex",
+    "~$447K/unit",
+    "Near downtown Delray"
+   ]
+  },
+  {
+   "id": "starter-mf-corridor-2026-07-14-07",
+   "analytics_id": "A-00461",
+   "rank": 7,
+   "submarket": "East Delray Beach (33483)",
+   "profile": "2-Unit Duplex",
+   "price_band": "$1M–$1.5M",
+   "cap_label": "~$550K/unit",
+   "desc": "2-Unit Duplex in East Delray Beach (33483); ~$550K/unit. ~$550K/unit. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 2-Unit Duplex, East Delray Beach (33483) (~$550K/unit)",
+   "highlights": [
+    "East-of-Federal duplex",
+    "~$550K/unit",
+    "Walkable location premium"
+   ]
+  },
+  {
+   "id": "starter-mf-corridor-2026-07-14-08",
+   "analytics_id": "A-00462",
+   "rank": 8,
+   "submarket": "Downtown Delray (Swinton)",
+   "profile": "2-Unit Duplex",
+   "price_band": "$1M–$1.5M",
+   "cap_label": "~$648K/unit",
+   "desc": "2-Unit Duplex in Downtown Delray (Swinton); ~$648K/unit. ~$648K/unit. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 2-Unit Duplex, Downtown Delray (Swinton) (~$648K/unit)",
+   "highlights": [
+    "Downtown Swinton corridor duplex",
+    "~$648K/unit",
+    "Land + location play"
+   ]
+  }
+ ]
+}

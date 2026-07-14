@@ -1,0 +1,174 @@
+{
+ "segment": "large-statewide",
+ "collection": "curated",
+ "template": "curated-generic",
+ "label": "Larger Investments — 40+ Units",
+ "tagline": "Top 10 · Statewide · 40+ units · ranked by scale; institutional & value-add",
+ "search_name": "Crexi (FL Multifamily, by units)",
+ "generated": "2026-07-14",
+ "expires": "2026-08-13",
+ "total_results": 3291,
+ "methodology": "Crexi FL multifamily pull 2026-07-14 sorted by unit count; existing communities/portfolios only (land, entitled development sites, MHP/RV parks and hotels excluded). Large deals aggregate here per house policy. Caps rarely published at this scale — ranked by units, $/unit shown where priced. Disguised.",
+ "metric_label": "Price / unit",
+ "pdf": "pdf/large-statewide__2026-07-14.pdf",
+ "items": [
+  {
+   "id": "large-statewide-2026-07-14-01",
+   "analytics_id": "A-00384",
+   "rank": 1,
+   "submarket": "Gainesville",
+   "profile": "Multifamily Portfolio (2 communities)",
+   "price_band": "Price on request",
+   "cap_label": "442 units",
+   "desc": "Multifamily Portfolio (2 communities) in Gainesville; 442 units. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Multifamily Portfolio (2 communities), Gainesville (442 units)",
+   "highlights": [
+    "442 units · two-property existing portfolio"
+   ],
+   "inv_line": []
+  },
+  {
+   "id": "large-statewide-2026-07-14-02",
+   "analytics_id": "A-00385",
+   "rank": 2,
+   "submarket": "Sarasota",
+   "profile": "Multifamily Community (40+ units)",
+   "price_band": "Price on request",
+   "cap_label": "242 units",
+   "desc": "Multifamily Community (40+ units) in Sarasota; 242 units. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Multifamily Community (40+ units), Sarasota (242 units)",
+   "highlights": [
+    "242 units · unpriced"
+   ],
+   "inv_line": []
+  },
+  {
+   "id": "large-statewide-2026-07-14-03",
+   "analytics_id": "A-00386",
+   "rank": 3,
+   "submarket": "Sunrise (Broward)",
+   "profile": "Multifamily Portfolio (13 buildings)",
+   "price_band": "$46M–$48M",
+   "cap_label": "~$225K/unit",
+   "desc": "Multifamily Portfolio (13 buildings) in Sunrise (Broward); 207 units at ~$225K/unit. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Multifamily Portfolio (13 buildings), Sunrise (Broward) (207 units)",
+   "highlights": [
+    "207 units · 13-building portfolio",
+    "~$225K/unit"
+   ],
+   "inv_line": []
+  },
+  {
+   "id": "large-statewide-2026-07-14-04",
+   "analytics_id": "A-00387",
+   "rank": 4,
+   "submarket": "Tallahassee",
+   "profile": "Multifamily Community (40+ units)",
+   "price_band": "$28M–$30M",
+   "cap_label": "~$150K/unit",
+   "desc": "Multifamily Community (40+ units) in Tallahassee; 200 units at ~$150K/unit. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Multifamily Community (40+ units), Tallahassee (200 units)",
+   "highlights": [
+    "200 units",
+    "~$150K/unit"
+   ],
+   "inv_line": []
+  },
+  {
+   "id": "large-statewide-2026-07-14-05",
+   "analytics_id": "A-00388",
+   "rank": 5,
+   "submarket": "Lauderhill (Broward)",
+   "profile": "Multifamily Community (40+ units)",
+   "price_band": "$44M–$46M",
+   "cap_label": "~$234K/unit",
+   "desc": "Multifamily Community (40+ units) in Lauderhill (Broward); 192 units at ~$234K/unit. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Multifamily Community (40+ units), Lauderhill (Broward) (192 units)",
+   "highlights": [
+    "192 units · fully renovated & stabilized",
+    "~$234K/unit"
+   ],
+   "inv_line": []
+  },
+  {
+   "id": "large-statewide-2026-07-14-06",
+   "analytics_id": "A-00389",
+   "rank": 6,
+   "submarket": "Naples",
+   "profile": "Multifamily Community (40+ units)",
+   "price_band": "Price on request",
+   "cap_label": "188 units",
+   "desc": "Multifamily Community (40+ units) in Naples; 188 units. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Multifamily Community (40+ units), Naples (188 units)",
+   "highlights": [
+    "188 units · unpriced"
+   ],
+   "inv_line": []
+  },
+  {
+   "id": "large-statewide-2026-07-14-07",
+   "analytics_id": "A-00390",
+   "rank": 7,
+   "submarket": "Clearwater (Tampa MSA)",
+   "profile": "SFH Rental Portfolio (155 units)",
+   "price_band": "$32M–$34M",
+   "cap_label": "~$218K/unit",
+   "desc": "SFH Rental Portfolio (155 units) in Clearwater (Tampa MSA); 155 units at ~$218K/unit. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: SFH Rental Portfolio (155 units), Clearwater (Tampa MSA) (155 units)",
+   "highlights": [
+    "155 units · 153 single-family homes",
+    "~$218K/unit",
+    "~6.00% cap",
+    "Investor: ~2–4% est. cash-on-cash (25% down, IO @ ~7%)"
+   ],
+   "inv_line": [
+    "~2–4% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "large-statewide-2026-07-14-08",
+   "analytics_id": "A-00391",
+   "rank": 8,
+   "submarket": "Bradenton",
+   "profile": "Multifamily Community (40+ units)",
+   "price_band": "Price on request",
+   "cap_label": "152 units",
+   "desc": "Multifamily Community (40+ units) in Bradenton; 152 units. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Multifamily Community (40+ units), Bradenton (152 units)",
+   "highlights": [
+    "152 units · garden-style community"
+   ],
+   "inv_line": []
+  },
+  {
+   "id": "large-statewide-2026-07-14-09",
+   "analytics_id": "A-00392",
+   "rank": 9,
+   "submarket": "Hialeah (Miami MSA)",
+   "profile": "Multifamily Community (40+ units)",
+   "price_band": "Price on request",
+   "cap_label": "151 units",
+   "desc": "Multifamily Community (40+ units) in Hialeah (Miami MSA); 151 units. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Multifamily Community (40+ units), Hialeah (Miami MSA) (151 units)",
+   "highlights": [
+    "151 units · new-construction offering"
+   ],
+   "inv_line": []
+  },
+  {
+   "id": "large-statewide-2026-07-14-10",
+   "analytics_id": "A-00393",
+   "rank": 10,
+   "submarket": "Bradenton",
+   "profile": "Multifamily Community (40+ units)",
+   "price_band": "Price on request",
+   "cap_label": "145 units",
+   "desc": "Multifamily Community (40+ units) in Bradenton; 145 units. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Multifamily Community (40+ units), Bradenton (145 units)",
+   "highlights": [
+    "145 units · unpriced"
+   ],
+   "inv_line": []
+  }
+ ]
+}

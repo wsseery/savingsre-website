@@ -1,0 +1,76 @@
+{
+ "segment": "airbnb-str-east",
+ "collection": "weekly-top3",
+ "template": "str-airbnb",
+ "label": "Airbnb / Short-Term Rental",
+ "tagline": "Top projected-STR-yield homes & condos · Delray, Deerfield, Ft. Lauderdale, Pompano, Hollywood, Lake Worth Beach, Lauderdale-by-the-Sea",
+ "search_name": "WSS-STR-airbnb-east",
+ "generated": "2026-07-14",
+ "expires": "2026-08-13",
+ "total_results": 31,
+ "methodology": "FlexMLS WSS-STR-airbnb-east pull 2026-07-14 filtered to the 7 target cities (9 eligible of 31). Est. gross STR yield = market ADR x 65% occupancy x 365 / list price — an estimate, not actual revenue. Disguised: area + type + price band + yield band public.",
+ "metric_label": "Est. STR yield",
+ "pdf": "pdf/airbnb-str-east__2026-07-14.pdf",
+ "items": [
+  {
+   "id": "airbnb-str-east-2026-07-14-01",
+   "analytics_id": "A-00376",
+   "rank": 1,
+   "submarket": "Hollywood",
+   "profile": "3-Unit Triplex · STR",
+   "price_band": "$0.5M–$1M",
+   "cap_label": "~18.73% est. STR yield",
+   "desc": "3-unit Triplex in Hollywood; ~18.73% estimated gross STR yield (ADR x 65% occupancy x 365 / price; estimate, not actual). Exact address on request.",
+   "inquiry_subject": "Inquiry: Hollywood STR (3-unit Triplex, ~18.73% est. yield)",
+   "highlights": [
+    "3-unit Triplex · short-term-rental ready",
+    "~18.73% est. gross STR yield",
+    "Hollywood — strong STR demand",
+    "Investor: Gross STR yield (pre-expense) · ~65% occ model · net ~55–65% of gross"
+   ],
+   "inv_line": [
+    "Gross STR yield (pre-expense) · ~65% occ model · net ~55–65% of gross"
+   ]
+  },
+  {
+   "id": "airbnb-str-east-2026-07-14-02",
+   "analytics_id": "A-00377",
+   "rank": 2,
+   "submarket": "Fort Lauderdale",
+   "profile": "4-Unit Quadruplex · STR",
+   "price_band": "$1M–$1.5M",
+   "cap_label": "~15.09% est. STR yield",
+   "desc": "4-unit Quadruplex in Fort Lauderdale; ~15.09% estimated gross STR yield (ADR x 65% occupancy x 365 / price; estimate, not actual). Exact address on request.",
+   "inquiry_subject": "Inquiry: Fort Lauderdale STR (4-unit Quadruplex, ~15.09% est. yield)",
+   "highlights": [
+    "4-unit Quadruplex · short-term-rental ready",
+    "~15.09% est. gross STR yield",
+    "Fort Lauderdale — strong STR demand",
+    "Investor: Gross STR yield (pre-expense) · ~65% occ model · net ~55–65% of gross"
+   ],
+   "inv_line": [
+    "Gross STR yield (pre-expense) · ~65% occ model · net ~55–65% of gross"
+   ]
+  },
+  {
+   "id": "airbnb-str-east-2026-07-14-03",
+   "analytics_id": "A-00378",
+   "rank": 3,
+   "submarket": "Hollywood",
+   "profile": "2-Unit Duplex · STR",
+   "price_band": "$0.5M–$1M",
+   "cap_label": "~14.96% est. STR yield",
+   "desc": "2-unit Duplex in Hollywood; ~14.96% estimated gross STR yield (ADR x 65% occupancy x 365 / price; estimate, not actual). Exact address on request.",
+   "inquiry_subject": "Inquiry: Hollywood STR (2-unit Duplex, ~14.96% est. yield)",
+   "highlights": [
+    "2-unit Duplex · short-term-rental ready",
+    "~14.96% est. gross STR yield",
+    "Hollywood — strong STR demand",
+    "Investor: Gross STR yield (pre-expense) · ~65% occ model · net ~55–65% of gross"
+   ],
+   "inv_line": [
+    "Gross STR yield (pre-expense) · ~65% occ model · net ~55–65% of gross"
+   ]
+  }
+ ]
+}
