@@ -1,9 +1,9 @@
 {
   "meta": {
     "created": "2026-07-06",
-    "updated": "2026-07-12",
+    "updated": "2026-07-16",
     "note": "Archive of items rotated off the live market/news_data.json 16-item list. Weekly refresh APPENDS dropped items here (newest first) - never delete. Same item schema as news_data.json. Not rendered on the site; kept for content reuse, history, and a future archive/search section.",
-    "count": 14
+    "count": 18
   },
   "items": [
     {
@@ -16,6 +16,54 @@
       "sourceUrl": "https://www.freddiemac.com/pmms",
       "category": "Market Data",
       "tags": ["mortgage rates", "jumbo", "financing"],
+      "importance": "high"
+    },
+    {
+      "id": 1,
+      "date": "2026-06-30",
+      "archivedOn": "2026-07-16",
+      "title": "Florida Property-Insurance Cat Reinsurance Prices Fall 15-20% at June Renewals",
+      "summary": "Guy Carpenter reports risk-adjusted Florida property-catastrophe reinsurance pricing down roughly 15-20% across many layers at the June 2026 renewals, easing a key cost driver for coastal-property carriers and, in turn, homeowner premiums.",
+      "source": "Insurance Journal",
+      "sourceUrl": "https://www.insurancejournal.com/news/southeast/2026/06/30/875651.htm",
+      "category": "Policy/Insurance",
+      "tags": ["insurance", "reinsurance", "coastal", "premiums"],
+      "importance": "high"
+    },
+    {
+      "id": 25,
+      "date": "2026-06-30",
+      "archivedOn": "2026-07-16",
+      "title": "Viceroy Brickell Completes as Villa Miami Climbs - Condo Pipeline Milestones",
+      "summary": "The 45-story Viceroy Brickell - the brand's first fully residential tower - completed construction and is welcoming its first owners, while Villa Miami reached its 37th floor and The Residences at Mandarin Oriental opened its North Tower sales gallery.",
+      "source": "CondoBlackBook",
+      "sourceUrl": "https://www.condoblackbook.com/blog/june-2026-miami-new-development-and-preconstruction-condo-news",
+      "category": "Development",
+      "tags": ["Brickell", "Viceroy", "Villa Miami", "condo pipeline"],
+      "importance": "medium"
+    },
+    {
+      "id": 27,
+      "date": "2026-06-30",
+      "archivedOn": "2026-07-16",
+      "title": "Is South Florida's Branded-Condo Boom Reaching Its Limit?",
+      "summary": "The Real Deal's June magazine examines growing saturation in South Florida's branded-condo market, where dozens of hotel- and designer-branded towers have turned a premium differentiator into the new normal - sharpening the focus on location and developer track record.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/magazine/june-2026/is-south-floridas-branded-condo-boom-reaching-its-limit/",
+      "category": "Luxury",
+      "tags": ["branded condos", "Miami", "saturation", "development"],
+      "importance": "medium"
+    },
+    {
+      "id": 18,
+      "date": "2026-06-29",
+      "archivedOn": "2026-07-16",
+      "title": "Waterfront Estate of Palm Beach's Oldest Resident Trades for $35M",
+      "summary": "The 6,700 SF waterfront home at 350 Island Road - residence of Palm Beach's oldest resident for over six decades - sold for $35 million in an apparent all-cash deal, months after listing at $41 million. Island trophy product keeps clearing at scale even off peak ask.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/06/29/home-of-palm-beachs-oldest-resident-trades-for-35-million/",
+      "category": "Luxury",
+      "tags": ["Palm Beach", "waterfront", "all-cash", "trophy home"],
       "importance": "high"
     },
     {

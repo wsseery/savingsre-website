@@ -1,5 +1,49 @@
 [
   {
+    "id": 37,
+    "date": "2026-07-14",
+    "title": "Sean Combs Sells Star Island Estate for $55M, Leading the Week's Home Deals",
+    "summary": "Sean Combs sold the 8,000 SF, six-bedroom estate at 1 Star Island Drive in Miami Beach for $55 million to JFStar LLC, led by John A. Franklin of Virginia Beach - the week's top recorded South Florida home sale and a $20 million step up from the $35 million he paid in 2021. Also closing: a $8.5M Boca Raton home on West Coconut Palm Road, a $7.9M Jupiter waterfront on Spyglass Lane, and a Sunny Isles Beach condo at $1,500 per square foot.",
+    "source": "The Real Deal",
+    "sourceUrl": "https://therealdeal.com/miami/2026/07/15/south-florida-top-real-estate-deals-july-14-2026/",
+    "category": "Luxury",
+    "tags": ["Miami Beach", "Star Island", "Boca Raton", "Jupiter", "top deals"],
+    "importance": "high"
+  },
+  {
+    "id": 38,
+    "date": "2026-07-13",
+    "title": "Venetian Islands Home Doubles to $42.5M; Royal-Linked Palm Beach Estate Fetches $31.8M",
+    "summary": "A 2025-built waterfront home at 416 West San Marino Drive on Miami Beach's Venetian Islands traded for $42.5 million - nearly double the $23.1 million it fetched in 2024 - with Long Light Capital CEO Justin Korsant selling. In Palm Beach, a trust tied to the late Prince Albrecht of Oettingen-Spielberg sold the oceanfront home at 143 East Inlet Drive for $31.8 million after decades of family ownership, while Coral Gables saw a $24.5M Casuarina Concourse mansion and a $20.5M Balada Street sale by a trust tied to former Tinder CEO Gregory Blatt.",
+    "source": "The Real Deal",
+    "sourceUrl": "https://therealdeal.com/miami/2026/07/14/south-florida-top-real-estate-deals-july-13-2026/",
+    "category": "Luxury",
+    "tags": ["Miami Beach", "Venetian Islands", "Palm Beach", "Coral Gables", "top deals"],
+    "importance": "high"
+  },
+  {
+    "id": 39,
+    "date": "2026-07-13",
+    "title": "Longpoint Pays $24.6M for 90K SF Miami Warehouse Complex in Week's Top Commercial Deal",
+    "summary": "A two-building warehouse complex at 8452 Northwest 72nd Street in Miami spanning nearly 90,000 SF sold for $24.6 million - about $273 per square foot - with a trust selling to an affiliate of Boston-based Longpoint. Institutional industrial buyers continue to pay up for infill Miami-Dade logistics product.",
+    "source": "The Real Deal",
+    "sourceUrl": "https://therealdeal.com/miami/2026/07/14/south-florida-top-real-estate-deals-july-13-2026/",
+    "category": "Commercial/CRE",
+    "tags": ["Miami", "industrial", "warehouse", "Longpoint", "top deals"],
+    "importance": "medium"
+  },
+  {
+    "id": 40,
+    "date": "2026-07-13",
+    "title": "REITs Outperform the Broader Market in H1 2026 on Strong Operating Fundamentals",
+    "summary": "The Nareit All Equity REIT index posted total returns of nearly 15% across the first and second quarters of 2026, beating the Russell 1000 (10.3%) and the S&P 500 (10.2%) despite elevated interest rates - a signal that property-level cash flows, not cheap debt, are driving real estate returns this cycle.",
+    "source": "The Real Deal / Nareit",
+    "sourceUrl": "https://therealdeal.com/miami/2026/07/14/south-florida-top-real-estate-deals-july-13-2026/",
+    "category": "Market Data",
+    "tags": ["REITs", "returns", "H1 2026", "capital markets"],
+    "importance": "medium"
+  },
+  {
     "id": 34,
     "date": "2026-07-09",
     "title": "Palm Island Double-Lot Estate Sells for $40M, Leading the Week's Home Deals",
@@ -130,49 +174,5 @@
     "category": "Luxury",
     "tags": ["Miami Beach", "penthouse", "Apogee", "listing"],
     "importance": "medium"
-  },
-  {
-    "id": 1,
-    "date": "2026-06-30",
-    "title": "Florida Property-Insurance Cat Reinsurance Prices Fall 15-20% at June Renewals",
-    "summary": "Guy Carpenter reports risk-adjusted Florida property-catastrophe reinsurance pricing down roughly 15-20% across many layers at the June 2026 renewals, easing a key cost driver for coastal-property carriers and, in turn, homeowner premiums.",
-    "source": "Insurance Journal",
-    "sourceUrl": "https://www.insurancejournal.com/news/southeast/2026/06/30/875651.htm",
-    "category": "Policy/Insurance",
-    "tags": ["insurance", "reinsurance", "coastal", "premiums"],
-    "importance": "high"
-  },
-  {
-    "id": 25,
-    "date": "2026-06-30",
-    "title": "Viceroy Brickell Completes as Villa Miami Climbs - Condo Pipeline Milestones",
-    "summary": "The 45-story Viceroy Brickell - the brand's first fully residential tower - completed construction and is welcoming its first owners, while Villa Miami reached its 37th floor and The Residences at Mandarin Oriental opened its North Tower sales gallery.",
-    "source": "CondoBlackBook",
-    "sourceUrl": "https://www.condoblackbook.com/blog/june-2026-miami-new-development-and-preconstruction-condo-news",
-    "category": "Development",
-    "tags": ["Brickell", "Viceroy", "Villa Miami", "condo pipeline"],
-    "importance": "medium"
-  },
-  {
-    "id": 27,
-    "date": "2026-06-30",
-    "title": "Is South Florida's Branded-Condo Boom Reaching Its Limit?",
-    "summary": "The Real Deal's June magazine examines growing saturation in South Florida's branded-condo market, where dozens of hotel- and designer-branded towers have turned a premium differentiator into the new normal - sharpening the focus on location and developer track record.",
-    "source": "The Real Deal",
-    "sourceUrl": "https://therealdeal.com/magazine/june-2026/is-south-floridas-branded-condo-boom-reaching-its-limit/",
-    "category": "Luxury",
-    "tags": ["branded condos", "Miami", "saturation", "development"],
-    "importance": "medium"
-  },
-  {
-    "id": 18,
-    "date": "2026-06-29",
-    "title": "Waterfront Estate of Palm Beach's Oldest Resident Trades for $35M",
-    "summary": "The 6,700 SF waterfront home at 350 Island Road - residence of Palm Beach's oldest resident for over six decades - sold for $35 million in an apparent all-cash deal, months after listing at $41 million. Island trophy product keeps clearing at scale even off peak ask.",
-    "source": "The Real Deal",
-    "sourceUrl": "https://therealdeal.com/miami/2026/06/29/home-of-palm-beachs-oldest-resident-trades-for-35-million/",
-    "category": "Luxury",
-    "tags": ["Palm Beach", "waterfront", "all-cash", "trophy home"],
-    "importance": "high"
   }
 ]
