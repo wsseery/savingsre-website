@@ -1,5 +1,16 @@
 [
   {
+    "id": 41,
+    "date": "2026-07-16",
+    "title": "Mortgage Rates Rise a Second Straight Week: 30-Yr Fixed 6.55%, 15-Yr 5.93%",
+    "summary": "Freddie Mac's 30-year fixed averaged 6.55% the week of July 16, up from 6.49% and marking a second consecutive weekly increase. The 15-year jumped 11 basis points to 5.93%. A year ago the 30-year FRM was 6.75%, so financing is still cheaper than 2025, and Freddie Mac notes affordability is improving as inventory rises even though purchase-application demand has softened. Bankrate's 30-year jumbo average was 6.63% as of July 15.",
+    "source": "Freddie Mac / Bankrate",
+    "sourceUrl": "https://www.freddiemac.com/pmms",
+    "category": "Market Data",
+    "tags": ["mortgage rates", "jumbo", "financing", "PMMS"],
+    "importance": "high"
+  },
+  {
     "id": 37,
     "date": "2026-07-14",
     "title": "Sean Combs Sells Star Island Estate for $55M, Leading the Week's Home Deals",
@@ -74,17 +85,6 @@
     "sourceUrl": "https://therealdeal.com/miami/2026/07/09/south-floridas-top-construction-permits-july-8-2026/",
     "category": "Development",
     "tags": ["Miami", "Miami Freedom Park", "West Palm Beach", "permits", "development"],
-    "importance": "high"
-  },
-  {
-    "id": 30,
-    "date": "2026-07-09",
-    "title": "Mortgage Rates Tick Back Up: 30-Yr Fixed 6.49%, Jumbo 6.63%",
-    "summary": "Freddie Mac's 30-year fixed averaged 6.49% the week of July 9, up from 6.43% and giving back last week's seven-week low, with the 15-year at 5.82%. Bankrate's 30-year jumbo average rose to 6.63% from 6.60%. A year ago the 30-year FRM was 6.72% - financing remains cheaper than 2025 despite the weekly uptick.",
-    "source": "Freddie Mac / Bankrate",
-    "sourceUrl": "https://www.freddiemac.com/pmms",
-    "category": "Market Data",
-    "tags": ["mortgage rates", "jumbo", "financing"],
     "importance": "high"
   },
   {
