@@ -1,9 +1,9 @@
 {
   "meta": {
     "created": "2026-07-06",
-    "updated": "2026-07-17",
+    "updated": "2026-07-18",
     "note": "Archive of items rotated off the live market/news_data.json 16-item list. Weekly refresh APPENDS dropped items here (newest first) - never delete. Same item schema as news_data.json. Not rendered on the site; kept for content reuse, history, and a future archive/search section.",
-    "count": 19
+    "count": 21
   },
   "items": [
     {
@@ -29,6 +29,30 @@
       "category": "Market Data",
       "tags": ["mortgage rates", "jumbo", "financing"],
       "importance": "high"
+    },
+    {
+      "id": 19,
+      "date": "2026-07-01",
+      "archivedOn": "2026-07-18",
+      "title": "Palm Beach $21M Sale Leads South Florida's Top Deals into July",
+      "summary": "A ~6,000 SF Palm Beach home at 242 Wells Road traded for $21 million to lead the week's residential deals, joined by a $15.25M Jupiter Inlet beachfront closing, a $13.2M Lighthouse Point waterfront sale and a $10.5M La Gorce Circle sale in Miami Beach - the eight-figure market stayed busy straight into the summer.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/07/02/south-florida-top-real-estate-deals-july-1-2026/",
+      "category": "Luxury",
+      "tags": ["Palm Beach", "Jupiter", "Lighthouse Point", "Miami Beach", "top deals"],
+      "importance": "medium"
+    },
+    {
+      "id": 24,
+      "date": "2026-07-01",
+      "archivedOn": "2026-07-18",
+      "title": "Investor Lists $138M in Trophy Penthouses, Including $78M Miami Beach Unit",
+      "summary": "Investor William Duker put two penthouses on the market for a combined $138 million - including a three-story unit at Miami Beach's Apogee at 800 South Pointe Drive asking $78 million, which would rank among the priciest condo listings in South Florida.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/07/01/ex-con-investor-will-duker-lists-miami-nyc-penthouses/",
+      "category": "Luxury",
+      "tags": ["Miami Beach", "penthouse", "Apogee", "listing"],
+      "importance": "medium"
     },
     {
       "id": 1,

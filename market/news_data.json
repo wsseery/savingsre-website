@@ -1,5 +1,27 @@
 [
   {
+    "id": 42,
+    "date": "2026-07-15",
+    "title": "Venetian Islands Double Waterfront Trades for $33M; Miami's 790 Lake Road Fetches $27.3M",
+    "summary": "A trust sold two neighboring 1940s-built waterfront homes at 617 and 625 East Dilido Drive on Miami Beach's Venetian Islands for $33 million (0.7 acres; roughly 5,000 and 4,400 SF) to Leet House 4 LLC - the week's top recorded South Florida home sale. In Miami, a 6,100 SF waterfront home at 790 Lake Road traded for $27.3 million, about $6,700 per square foot (an entity tied to Adonel Concrete CEO Luis Garcia selling; last asked $32 million), and a Wellington equestrian estate at 12940 50th Street with barn space sold for $23 million. On the commercial side, a ~56,300 SF Deerfield Beach warehouse at 1143 West Newport Center Drive sold for $10.6 million.",
+    "source": "The Real Deal",
+    "sourceUrl": "https://therealdeal.com/miami/2026/07/16/south-florida-top-real-estate-deals-july-15-2026/",
+    "category": "Luxury",
+    "tags": ["Miami Beach", "Venetian Islands", "Wellington", "Deerfield Beach", "top deals"],
+    "importance": "high"
+  },
+  {
+    "id": 43,
+    "date": "2026-07-16",
+    "title": "Key Biscayne Waterfront Home Sells for $17.5M to Lead the Week's Deals",
+    "summary": "A waterfront home at 230 Harbor Drive in Key Biscayne sold for $17.5 million, with Nozin chairman Philippe Touret parting with a property he had owned for decades (6,200+ SF, seven bedrooms; last asked $21.8 million). A Fort Lauderdale home at 8 Harborage Isle Drive followed at $13.7 million - about $1,500 per square foot - and a Palm Beach condo at 2 North Breakers Row, with a cabana unit included, traded for $12.1 million.",
+    "source": "The Real Deal",
+    "sourceUrl": "https://therealdeal.com/miami/2026/07/17/south-florida-top-real-estate-deals-july-16-2026/",
+    "category": "Luxury",
+    "tags": ["Key Biscayne", "Fort Lauderdale", "Palm Beach", "waterfront", "top deals"],
+    "importance": "medium"
+  },
+  {
     "id": 41,
     "date": "2026-07-16",
     "title": "Mortgage Rates Rise a Second Straight Week: 30-Yr Fixed 6.55%, 15-Yr 5.93%",
@@ -152,27 +174,5 @@
     "category": "Policy/Insurance",
     "tags": ["insurance", "Citizens", "rate decrease", "SE Florida"],
     "importance": "high"
-  },
-  {
-    "id": 19,
-    "date": "2026-07-01",
-    "title": "Palm Beach $21M Sale Leads South Florida's Top Deals into July",
-    "summary": "A ~6,000 SF Palm Beach home at 242 Wells Road traded for $21 million to lead the week's residential deals, joined by a $15.25M Jupiter Inlet beachfront closing, a $13.2M Lighthouse Point waterfront sale and a $10.5M La Gorce Circle sale in Miami Beach - the eight-figure market stayed busy straight into the summer.",
-    "source": "The Real Deal",
-    "sourceUrl": "https://therealdeal.com/miami/2026/07/02/south-florida-top-real-estate-deals-july-1-2026/",
-    "category": "Luxury",
-    "tags": ["Palm Beach", "Jupiter", "Lighthouse Point", "Miami Beach", "top deals"],
-    "importance": "medium"
-  },
-  {
-    "id": 24,
-    "date": "2026-07-01",
-    "title": "Investor Lists $138M in Trophy Penthouses, Including $78M Miami Beach Unit",
-    "summary": "Investor William Duker put two penthouses on the market for a combined $138 million - including a three-story unit at Miami Beach's Apogee at 800 South Pointe Drive asking $78 million, which would rank among the priciest condo listings in South Florida.",
-    "source": "The Real Deal",
-    "sourceUrl": "https://therealdeal.com/miami/2026/07/01/ex-con-investor-will-duker-lists-miami-nyc-penthouses/",
-    "category": "Luxury",
-    "tags": ["Miami Beach", "penthouse", "Apogee", "listing"],
-    "importance": "medium"
   }
 ]
