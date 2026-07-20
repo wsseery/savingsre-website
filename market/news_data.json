@@ -1,5 +1,16 @@
 [
   {
+    "id": 44,
+    "date": "2026-07-17",
+    "title": "Jupiter Bear's Club Mansion Sells for $33.8M; Wellington Senior-Living Facility Trades for $30.7M",
+    "summary": "Spec developer Stuart Hankin sold a newly completed 10,900 SF mansion at 228 Bear's Club Drive in Jupiter for $33.8 million to tech executive Derek Kreunen and Erin Kreunen - the week's top recorded South Florida home sale and a sharp markup on the $3.4 million Hankin paid for the lot in 2021 (six bedrooms, theater, pool). The top commercial deal was the Alamar Senior Living facility at 8785 Lake Worth Road in Wellington, which traded for $30.7 million as Chicago-based Walton Street Capital sold to an entity linked to Health Wave Partners. Also closing: a $24 million Boca Raton home at 1992 Royal Palm Way and a $21.6 million ocean-view condo at the Estates at Acqualina in Sunny Isles Beach.",
+    "source": "The Real Deal",
+    "sourceUrl": "https://therealdeal.com/miami/2026/07/20/south-florida-top-real-estate-deals-july-17-2026/",
+    "category": "Luxury",
+    "tags": ["Jupiter", "Wellington", "Boca Raton", "Sunny Isles Beach", "top deals"],
+    "importance": "high"
+  },
+  {
     "id": 42,
     "date": "2026-07-15",
     "title": "Venetian Islands Double Waterfront Trades for $33M; Miami's 790 Lake Road Fetches $27.3M",
@@ -163,16 +174,5 @@
     "category": "Development",
     "tags": ["Fort Lauderdale", "Bal Harbour", "permits", "affordable housing"],
     "importance": "medium"
-  },
-  {
-    "id": 28,
-    "date": "2026-07-01",
-    "title": "Florida Insurance Rate Cuts Take Effect July 1: Citizens -8.7% Statewide, SE FL Counties ~-14%",
-    "summary": "Florida OIR-approved homeowners rate decreases took effect July 1 for new policies (and at renewal for existing ones). Citizens' average statewide decrease is about 8.7% - with Miami-Dade and Broward seeing cuts near 14% - while private carriers including State Farm (-10.1%) continue filing reductions. More than 15 new insurers have entered since the 2022-23 reforms.",
-    "source": "Florida OIR / Citizens",
-    "sourceUrl": "https://www.flgov.com/eog/news/press/2026/governor-ron-desantis-announces-major-insurance-rate-relief-floridas-reforms",
-    "category": "Policy/Insurance",
-    "tags": ["insurance", "Citizens", "rate decrease", "SE Florida"],
-    "importance": "high"
   }
 ]

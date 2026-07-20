@@ -1,9 +1,9 @@
 {
   "meta": {
     "created": "2026-07-06",
-    "updated": "2026-07-18",
+    "updated": "2026-07-20",
     "note": "Archive of items rotated off the live market/news_data.json 16-item list. Weekly refresh APPENDS dropped items here (newest first) - never delete. Same item schema as news_data.json. Not rendered on the site; kept for content reuse, history, and a future archive/search section.",
-    "count": 21
+    "count": 22
   },
   "items": [
     {
@@ -28,6 +28,18 @@
       "sourceUrl": "https://www.freddiemac.com/pmms",
       "category": "Market Data",
       "tags": ["mortgage rates", "jumbo", "financing"],
+      "importance": "high"
+    },
+    {
+      "id": 28,
+      "date": "2026-07-01",
+      "archivedOn": "2026-07-20",
+      "title": "Florida Insurance Rate Cuts Take Effect July 1: Citizens -8.7% Statewide, SE FL Counties ~-14%",
+      "summary": "Florida OIR-approved homeowners rate decreases took effect July 1 for new policies (and at renewal for existing ones). Citizens' average statewide decrease is about 8.7% - with Miami-Dade and Broward seeing cuts near 14% - while private carriers including State Farm (-10.1%) continue filing reductions. More than 15 new insurers have entered since the 2022-23 reforms.",
+      "source": "Florida OIR / Citizens",
+      "sourceUrl": "https://www.flgov.com/eog/news/press/2026/governor-ron-desantis-announces-major-insurance-rate-relief-floridas-reforms",
+      "category": "Policy/Insurance",
+      "tags": ["insurance", "Citizens", "rate decrease", "SE Florida"],
       "importance": "high"
     },
     {
