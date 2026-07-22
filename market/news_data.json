@@ -1,5 +1,38 @@
 [
   {
+    "id": 45,
+    "date": "2026-07-20",
+    "title": "Ponce-Davis New-Build Mansion Sells for $18.9M; Moishe Mana Buys Wynwood's Pastis Building for $24.5M",
+    "summary": "The priciest recorded South Florida home sale of the week was a roughly 10,000 SF new-construction mansion at 5545 Southwest 81st Terrace in Miami's Ponce-Davis neighborhood, which traded for $18.9 million - an LLC managed by Christophe Scherman selling to an entity led by telecommunications executive Meinrad Spenger (nearly 1-acre lot, seven bedrooms, guest house; last asked $22 million). The top commercial deal was also in Miami: developer Moishe Mana paid $24.5 million for the 13,000 SF Wynwood buildings at 380 and 320 Northwest 26th Street, home to Pastis and Apparatus, from a New York company tied to David Edelstein. Elsewhere, a Jupiter waterfront home at 9 Bamboo Lane sold for $10.5 million (about $1,500 per square foot) and a penthouse at the Alina in Boca Raton fetched $6.6 million.",
+    "source": "The Real Deal",
+    "sourceUrl": "https://therealdeal.com/miami/2026/07/21/south-florida-top-real-estate-deals-july-20-2026/",
+    "category": "Luxury",
+    "tags": ["Miami", "Ponce-Davis", "Wynwood", "Jupiter", "Boca Raton", "top deals"],
+    "importance": "high"
+  },
+  {
+    "id": 47,
+    "date": "2026-07-17",
+    "title": "South Florida Million-Dollar Sales Surge as Closed Sales Rise for a 10th Straight Month",
+    "summary": "MIAMI REALTORS reports South Florida closed sales rose in June for the 10th consecutive month, at an 18.6% annual pace, with year-to-date sales up 7.9% - well ahead of the 2.2% national year-to-date gain. Year-to-date single-family sales are up 9.0% across every county: Palm Beach (+11.4%), Miami-Dade (+9.5%), Broward (+7.2%), Martin (+17.2%) and St. Lucie (+3.2%). The luxury tier is leading: the region logged 3,382 million-dollar transactions in Q1 2026, up 22% year over year, with million-dollar single-family sales up 26.7%. Driver-license exchanges - a proxy for out-of-state migration, largely from New York and California - rose 16% year over year in the first half.",
+    "source": "MIAMI REALTORS",
+    "sourceUrl": "https://www.miamirealtors.com/2026/07/17/south-florida-million-dollar-sales-surge-year-over-year/",
+    "category": "Market Data",
+    "tags": ["million-dollar sales", "closed sales", "migration", "luxury", "Palm Beach", "Broward"],
+    "importance": "medium"
+  },
+  {
+    "id": 46,
+    "date": "2026-07-14",
+    "title": "South Florida Commercial Sales Fall 13% to $5.42B in H1 2026 - But Construction Is the Most Intense in the Nation",
+    "summary": "MIAMI REALTORS chief economist Gay Cororaton reports South Florida commercial sales volume fell 13% year over year to $5.42 billion in the first half of 2026 amid geopolitical tensions and macro risk. Volume dropped for multifamily (-12%), office (-32%) and retail (-15%) but rose for industrial (+2%); multifamily still led at $1.95 billion, ahead of industrial ($1.54B), retail ($1.02B) and office ($910M). Broward led counties at $2.35 billion (+7%), ahead of Miami-Dade ($2.05B, -28%) and Palm Beach ($880M, -15%). Pricing held up - median price per building SF rose 1.0% to $330, with retail +24%, office +12% and industrial +7% but multifamily -3%. Fundamentals remain strong: Miami-Dade has 19,131 multifamily units under construction (9.7% of inventory vs 3.5% nationally), and the West Palm Beach-Boca Raton office market has 2.4M SF underway, adding 5.2% to stock - the most intense in the country.",
+    "source": "MIAMI REALTORS",
+    "sourceUrl": "https://www.miamirealtors.com/2026/07/14/south-florida-is-experiencing-the-most-intense-multifamily-and-office-construction-in-the-nation/",
+    "category": "Commercial/CRE",
+    "tags": ["commercial sales volume", "multifamily", "industrial", "office", "construction pipeline"],
+    "importance": "high"
+  },
+  {
     "id": 44,
     "date": "2026-07-17",
     "title": "Jupiter Bear's Club Mansion Sells for $33.8M; Wellington Senior-Living Facility Trades for $30.7M",
@@ -140,39 +173,6 @@
     "sourceUrl": "https://therealdeal.com/miami/2026/07/09/south-florida-top-real-estate-deals-july-8-2026/",
     "category": "Luxury",
     "tags": ["Palm Beach", "Pinecrest", "top deals"],
-    "importance": "medium"
-  },
-  {
-    "id": 33,
-    "date": "2026-07-06",
-    "title": "Surf Club Four Seasons Condo Asking $32M Tops a Slow Listing Week",
-    "summary": "A condo at the Four Seasons Residences at The Surf Club in Surfside hit the market asking $32 million - the priciest new South Florida listing in an otherwise quiet holiday week, underscoring that trophy oceanfront resale supply is thin but pricing ambitiously.",
-    "source": "The Real Deal",
-    "sourceUrl": "https://therealdeal.com/miami/2026/07/06/surf-club-four-seasons-condo-asking-32m-tops-slow-week/",
-    "category": "Luxury",
-    "tags": ["Surfside", "Surf Club", "listing", "oceanfront"],
-    "importance": "low"
-  },
-  {
-    "id": 29,
-    "date": "2026-07-02",
-    "title": "Davie School Building Trades for $16M in Week's Top Commercial Deal",
-    "summary": "A ~46,000 SF school building at 3367 North University Drive in Davie sold for $16 million to lead South Florida's recorded commercial deals for the week, while a Pinecrest home at 5865 SW 96th Street topped residential at $7.8 million and a newly built Boca Raton home traded at about $1,200 per square foot.",
-    "source": "The Real Deal",
-    "sourceUrl": "https://therealdeal.com/miami/2026/07/06/south-florida-top-real-estate-deals-july-2-2026/",
-    "category": "Commercial/CRE",
-    "tags": ["Davie", "commercial sales", "Pinecrest", "top deals"],
-    "importance": "medium"
-  },
-  {
-    "id": 23,
-    "date": "2026-07-02",
-    "title": "Bal Harbour Shops Expansion, Pinnacle Affordable Project Lead Top Permits",
-    "summary": "The week's largest new building permit was an $11.8 million filing for Pinnacle's two-building Pinnacle at Cypress affordable-housing development at 6520 North Andrews Avenue in Fort Lauderdale, while Bal Harbour Shops' luxury retail expansion also ranked among South Florida's top construction permits.",
-    "source": "The Real Deal",
-    "sourceUrl": "https://therealdeal.com/miami/2026/07/02/south-floridas-top-construction-permits-july-1-2026/",
-    "category": "Development",
-    "tags": ["Fort Lauderdale", "Bal Harbour", "permits", "affordable housing"],
     "importance": "medium"
   }
 ]

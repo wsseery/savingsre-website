@@ -1,9 +1,9 @@
 {
   "meta": {
     "created": "2026-07-06",
-    "updated": "2026-07-20",
+    "updated": "2026-07-22",
     "note": "Archive of items rotated off the live market/news_data.json 16-item list. Weekly refresh APPENDS dropped items here (newest first) - never delete. Same item schema as news_data.json. Not rendered on the site; kept for content reuse, history, and a future archive/search section.",
-    "count": 22
+    "count": 25
   },
   "items": [
     {
@@ -17,6 +17,42 @@
       "category": "Market Data",
       "tags": ["mortgage rates", "jumbo", "financing"],
       "importance": "high"
+    },
+    {
+      "id": 33,
+      "date": "2026-07-06",
+      "archivedOn": "2026-07-22",
+      "title": "Surf Club Four Seasons Condo Asking $32M Tops a Slow Listing Week",
+      "summary": "A condo at the Four Seasons Residences at The Surf Club in Surfside hit the market asking $32 million - the priciest new South Florida listing in an otherwise quiet holiday week, underscoring that trophy oceanfront resale supply is thin but pricing ambitiously.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/07/06/surf-club-four-seasons-condo-asking-32m-tops-slow-week/",
+      "category": "Luxury",
+      "tags": ["Surfside", "Surf Club", "listing", "oceanfront"],
+      "importance": "low"
+    },
+    {
+      "id": 29,
+      "date": "2026-07-02",
+      "archivedOn": "2026-07-22",
+      "title": "Davie School Building Trades for $16M in Week's Top Commercial Deal",
+      "summary": "A ~46,000 SF school building at 3367 North University Drive in Davie sold for $16 million to lead South Florida's recorded commercial deals for the week, while a Pinecrest home at 5865 SW 96th Street topped residential at $7.8 million and a newly built Boca Raton home traded at about $1,200 per square foot.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/07/06/south-florida-top-real-estate-deals-july-2-2026/",
+      "category": "Commercial/CRE",
+      "tags": ["Davie", "commercial sales", "Pinecrest", "top deals"],
+      "importance": "medium"
+    },
+    {
+      "id": 23,
+      "date": "2026-07-02",
+      "archivedOn": "2026-07-22",
+      "title": "Bal Harbour Shops Expansion, Pinnacle Affordable Project Lead Top Permits",
+      "summary": "The week's largest new building permit was an $11.8 million filing for Pinnacle's two-building Pinnacle at Cypress affordable-housing development at 6520 North Andrews Avenue in Fort Lauderdale, while Bal Harbour Shops' luxury retail expansion also ranked among South Florida's top construction permits.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/07/02/south-floridas-top-construction-permits-july-1-2026/",
+      "category": "Development",
+      "tags": ["Fort Lauderdale", "Bal Harbour", "permits", "affordable housing"],
+      "importance": "medium"
     },
     {
       "id": 17,
