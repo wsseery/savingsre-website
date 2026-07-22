@@ -1,0 +1,174 @@
+{
+  "segment": "starter-mf-corridor",
+  "collection": "weekly-top3",
+  "template": "curated-generic",
+  "label": "Starter Multifamily — $800K to $2M",
+  "tagline": "Top 8 · Delray→Fort Lauderdale corridor · 2–9 units · ranked by lowest price per unit",
+  "search_name": "LoopNet corridor 2026-07-21",
+  "generated": "2026-07-21",
+  "expires": "2026-08-20",
+  "total_results": 180,
+  "methodology": "LoopNet Delray→Fort Lauderdale corridor pull 2026-07-21 filtered $800K–$2M, 2–9 units, ranked by lowest price per unit; disguised, exact address on request.",
+  "metric_label": "Price per unit",
+  "pdf": "pdf/starter-mf-corridor__2026-07-21.pdf",
+  "items": [
+    {
+      "id": "starter-mf-corridor-2026-07-21-01",
+      "analytics_id": "A-00489",
+      "rank": 1,
+      "submarket": "Fort Lauderdale",
+      "profile": "9-unit multifamily",
+      "price_band": "$1M–$1.5M",
+      "cap_label": "~8.58% cap",
+      "desc": "9-unit multifamily in Fort Lauderdale; ~8.58% cap. Exact address & financials on request.",
+      "inquiry_subject": "Inquiry: 9-unit multifamily, Fort Lauderdale (~8.58% cap)",
+      "highlights": [
+        "9-unit multifamily",
+        "~8.58% cap",
+        "9 units",
+        "Investor: ~12–14% est. cash-on-cash (25% down, IO @ ~7%)",
+        "~6–7x GRM"
+      ],
+      "inv_line": [
+        "~12–14% est. cash-on-cash (25% down, IO @ ~7%)"
+      ]
+    },
+    {
+      "id": "starter-mf-corridor-2026-07-21-02",
+      "analytics_id": "A-00490",
+      "rank": 2,
+      "submarket": "Fort Lauderdale",
+      "profile": "8-unit multifamily",
+      "price_band": "$1M–$1.5M",
+      "cap_label": "~8.80% cap",
+      "desc": "8-unit multifamily in Fort Lauderdale; ~8.80% cap. Exact address & financials on request.",
+      "inquiry_subject": "Inquiry: 8-unit multifamily, Fort Lauderdale (~8.80% cap)",
+      "highlights": [
+        "8-unit multifamily",
+        "~8.80% cap",
+        "8 units",
+        "Investor: ~13–15% est. cash-on-cash (25% down, IO @ ~7%)",
+        "~6–7x GRM"
+      ],
+      "inv_line": [
+        "~13–15% est. cash-on-cash (25% down, IO @ ~7%)"
+      ]
+    },
+    {
+      "id": "starter-mf-corridor-2026-07-21-03",
+      "analytics_id": "A-00491",
+      "rank": 3,
+      "submarket": "Fort Lauderdale",
+      "profile": "8-unit multifamily",
+      "price_band": "$1M–$1.5M",
+      "cap_label": "~6.88% cap",
+      "desc": "8-unit multifamily in Fort Lauderdale; ~6.88% cap. Exact address & financials on request.",
+      "inquiry_subject": "Inquiry: 8-unit multifamily, Fort Lauderdale (~6.88% cap)",
+      "highlights": [
+        "8-unit multifamily",
+        "~6.88% cap",
+        "8 units",
+        "Investor: ~6–8% est. cash-on-cash (25% down, IO @ ~7%)",
+        "~8–9x GRM"
+      ],
+      "inv_line": [
+        "~6–8% est. cash-on-cash (25% down, IO @ ~7%)"
+      ]
+    },
+    {
+      "id": "starter-mf-corridor-2026-07-21-04",
+      "analytics_id": "A-00492",
+      "rank": 4,
+      "submarket": "Fort Lauderdale",
+      "profile": "4-unit multifamily",
+      "price_band": "$500K–$1M",
+      "cap_label": "~$200K/unit",
+      "desc": "4-unit multifamily in Fort Lauderdale; ~$200K/unit. Exact address & financials on request.",
+      "inquiry_subject": "Inquiry: 4-unit multifamily, Fort Lauderdale (~$200K/unit)",
+      "highlights": [
+        "4-unit multifamily",
+        "~$200K/unit",
+        "4 units"
+      ]
+    },
+    {
+      "id": "starter-mf-corridor-2026-07-21-05",
+      "analytics_id": "A-00493",
+      "rank": 5,
+      "submarket": "Fort Lauderdale",
+      "profile": "6-unit multifamily",
+      "price_band": "$1M–$1.5M",
+      "cap_label": "~9.40% cap",
+      "desc": "6-unit multifamily in Fort Lauderdale; ~9.40% cap. Exact address & financials on request.",
+      "inquiry_subject": "Inquiry: 6-unit multifamily, Fort Lauderdale (~9.40% cap)",
+      "highlights": [
+        "6-unit multifamily",
+        "~9.40% cap",
+        "6 units",
+        "Investor: ~16–18% est. cash-on-cash (25% down, IO @ ~7%)",
+        "~6–7x GRM"
+      ],
+      "inv_line": [
+        "~16–18% est. cash-on-cash (25% down, IO @ ~7%)"
+      ]
+    },
+    {
+      "id": "starter-mf-corridor-2026-07-21-06",
+      "analytics_id": "A-00494",
+      "rank": 6,
+      "submarket": "Pompano Beach",
+      "profile": "5-unit multifamily",
+      "price_band": "$1M–$1.5M",
+      "cap_label": "~7.82% cap",
+      "desc": "5-unit multifamily in Pompano Beach; ~7.82% cap. Exact address & financials on request.",
+      "inquiry_subject": "Inquiry: 5-unit multifamily, Pompano Beach (~7.82% cap)",
+      "highlights": [
+        "5-unit multifamily",
+        "~7.82% cap",
+        "5 units",
+        "Investor: ~9–11% est. cash-on-cash (25% down, IO @ ~7%)",
+        "~7–8x GRM"
+      ],
+      "inv_line": [
+        "~9–11% est. cash-on-cash (25% down, IO @ ~7%)"
+      ]
+    },
+    {
+      "id": "starter-mf-corridor-2026-07-21-07",
+      "analytics_id": "A-00495",
+      "rank": 7,
+      "submarket": "Fort Lauderdale",
+      "profile": "6-unit multifamily",
+      "price_band": "$1M–$1.5M",
+      "cap_label": "~$215K/unit",
+      "desc": "6-unit multifamily in Fort Lauderdale; ~$215K/unit. Exact address & financials on request.",
+      "inquiry_subject": "Inquiry: 6-unit multifamily, Fort Lauderdale (~$215K/unit)",
+      "highlights": [
+        "6-unit multifamily",
+        "~$215K/unit",
+        "6 units"
+      ]
+    },
+    {
+      "id": "starter-mf-corridor-2026-07-21-08",
+      "analytics_id": "A-00496",
+      "rank": 8,
+      "submarket": "Oakland Park",
+      "profile": "6-unit multifamily",
+      "price_band": "$1M–$1.5M",
+      "cap_label": "~7.18% cap",
+      "desc": "6-unit multifamily in Oakland Park; ~7.18% cap. Exact address & financials on request.",
+      "inquiry_subject": "Inquiry: 6-unit multifamily, Oakland Park (~7.18% cap)",
+      "highlights": [
+        "6-unit multifamily",
+        "~7.18% cap",
+        "6 units",
+        "Investor: ~7–9% est. cash-on-cash (25% down, IO @ ~7%)",
+        "~8–9x GRM"
+      ],
+      "inv_line": [
+        "~7–9% est. cash-on-cash (25% down, IO @ ~7%)"
+      ]
+    }
+  ]
+}

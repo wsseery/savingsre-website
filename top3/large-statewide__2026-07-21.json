@@ -1,0 +1,188 @@
+{
+  "segment": "large-statewide",
+  "collection": "curated",
+  "template": "curated-generic",
+  "label": "Larger Investments — 40+ Units",
+  "tagline": "Top 10 · Statewide · 40+ unit apartment communities · ranked by scale",
+  "search_name": "Crexi (FL Multifamily) 2026-07-21",
+  "generated": "2026-07-21",
+  "expires": "2026-08-20",
+  "total_results": 3300,
+  "methodology": "Crexi FL multifamily pull 2026-07-21, 40+ units, existing product (entitled/dev/RV excluded), ranked by unit count; disguised, exact address & financials on request.",
+  "metric_label": "Price per unit",
+  "pdf": "pdf/large-statewide__2026-07-21.pdf",
+  "items": [
+    {
+      "id": "large-statewide-2026-07-21-01",
+      "analytics_id": "A-00533",
+      "rank": 1,
+      "submarket": "Gainesville",
+      "profile": "442-unit apartment community",
+      "price_band": "Price on request",
+      "cap_label": "442 units",
+      "desc": "442-unit apartment community in Gainesville; 442 units. Exact address & financials on request.",
+      "inquiry_subject": "Inquiry: 442-unit apartment community, Gainesville (442 units)",
+      "highlights": [
+        "442-unit apartment community",
+        "442 units",
+        "442 units"
+      ]
+    },
+    {
+      "id": "large-statewide-2026-07-21-02",
+      "analytics_id": "A-00534",
+      "rank": 2,
+      "submarket": "Tallahassee (Tallahassee MSA)",
+      "profile": "200-unit apartment community",
+      "price_band": "$28M–$30M",
+      "cap_label": "~$150K/unit",
+      "desc": "200-unit apartment community in Tallahassee (Tallahassee MSA); ~$150K/unit. Exact address & financials on request.",
+      "inquiry_subject": "Inquiry: 200-unit apartment community, Tallahassee (Tallahassee MSA) (~$150K/unit)",
+      "highlights": [
+        "200-unit apartment community",
+        "~$150K/unit",
+        "200 units",
+        "Investor: ~8–10% est. cash-on-cash (25% down, IO @ ~7%)"
+      ],
+      "inv_line": [
+        "~8–10% est. cash-on-cash (25% down, IO @ ~7%)"
+      ]
+    },
+    {
+      "id": "large-statewide-2026-07-21-03",
+      "analytics_id": "A-00535",
+      "rank": 3,
+      "submarket": "Fort Myers (Fort Myers MSA)",
+      "profile": "134-unit apartment community",
+      "price_band": "Price on request",
+      "cap_label": "134 units",
+      "desc": "134-unit apartment community in Fort Myers (Fort Myers MSA); 134 units. Exact address & financials on request.",
+      "inquiry_subject": "Inquiry: 134-unit apartment community, Fort Myers (Fort Myers MSA) (134 units)",
+      "highlights": [
+        "134-unit apartment community",
+        "134 units",
+        "134 units"
+      ]
+    },
+    {
+      "id": "large-statewide-2026-07-21-04",
+      "analytics_id": "A-00536",
+      "rank": 4,
+      "submarket": "Coral Springs (Broward)",
+      "profile": "111-unit apartment community",
+      "price_band": "Price on request",
+      "cap_label": "111 units",
+      "desc": "111-unit apartment community in Coral Springs (Broward); 111 units. Exact address & financials on request.",
+      "inquiry_subject": "Inquiry: 111-unit apartment community, Coral Springs (Broward) (111 units)",
+      "highlights": [
+        "111-unit apartment community",
+        "111 units",
+        "111 units"
+      ]
+    },
+    {
+      "id": "large-statewide-2026-07-21-05",
+      "analytics_id": "A-00537",
+      "rank": 5,
+      "submarket": "Lake City (North FL)",
+      "profile": "107-unit apartment community",
+      "price_band": "Price on request",
+      "cap_label": "107 units",
+      "desc": "107-unit apartment community in Lake City (North FL); 107 units. Exact address & financials on request.",
+      "inquiry_subject": "Inquiry: 107-unit apartment community, Lake City (North FL) (107 units)",
+      "highlights": [
+        "107-unit apartment community",
+        "107 units",
+        "107 units"
+      ]
+    },
+    {
+      "id": "large-statewide-2026-07-21-06",
+      "analytics_id": "A-00538",
+      "rank": 6,
+      "submarket": "Lake City (North FL)",
+      "profile": "77-unit apartment community",
+      "price_band": "$4M–$5M",
+      "cap_label": "~$55K/unit",
+      "desc": "77-unit apartment community in Lake City (North FL); ~$55K/unit. Exact address & financials on request.",
+      "inquiry_subject": "Inquiry: 77-unit apartment community, Lake City (North FL) (~$55K/unit)",
+      "highlights": [
+        "77-unit apartment community",
+        "~$55K/unit",
+        "77 units",
+        "Investor: ~18–20% est. cash-on-cash (25% down, IO @ ~7%)"
+      ],
+      "inv_line": [
+        "~18–20% est. cash-on-cash (25% down, IO @ ~7%)"
+      ]
+    },
+    {
+      "id": "large-statewide-2026-07-21-07",
+      "analytics_id": "A-00539",
+      "rank": 7,
+      "submarket": "Tampa (Tampa MSA)",
+      "profile": "72-unit apartment community",
+      "price_band": "$17M–$18M",
+      "cap_label": "~$236K/unit",
+      "desc": "72-unit apartment community in Tampa (Tampa MSA); ~$236K/unit. Exact address & financials on request.",
+      "inquiry_subject": "Inquiry: 72-unit apartment community, Tampa (Tampa MSA) (~$236K/unit)",
+      "highlights": [
+        "72-unit apartment community",
+        "~$236K/unit",
+        "72 units",
+        "Investor: ~9–11% est. cash-on-cash (25% down, IO @ ~7%)"
+      ],
+      "inv_line": [
+        "~9–11% est. cash-on-cash (25% down, IO @ ~7%)"
+      ]
+    },
+    {
+      "id": "large-statewide-2026-07-21-08",
+      "analytics_id": "A-00540",
+      "rank": 8,
+      "submarket": "New Port Richey (Tampa MSA)",
+      "profile": "71-unit apartment community",
+      "price_band": "Price on request",
+      "cap_label": "71 units",
+      "desc": "71-unit apartment community in New Port Richey (Tampa MSA); 71 units. Exact address & financials on request.",
+      "inquiry_subject": "Inquiry: 71-unit apartment community, New Port Richey (Tampa MSA) (71 units)",
+      "highlights": [
+        "71-unit apartment community",
+        "71 units",
+        "71 units"
+      ]
+    },
+    {
+      "id": "large-statewide-2026-07-21-09",
+      "analytics_id": "A-00541",
+      "rank": 9,
+      "submarket": "Daytona (Daytona MSA)",
+      "profile": "60-unit apartment community",
+      "price_band": "$8M–$9M",
+      "cap_label": "~$148K/unit",
+      "desc": "60-unit apartment community in Daytona (Daytona MSA); ~$148K/unit. Exact address & financials on request.",
+      "inquiry_subject": "Inquiry: 60-unit apartment community, Daytona (Daytona MSA) (~$148K/unit)",
+      "highlights": [
+        "60-unit apartment community",
+        "~$148K/unit",
+        "60 units"
+      ]
+    },
+    {
+      "id": "large-statewide-2026-07-21-10",
+      "analytics_id": "A-00542",
+      "rank": 10,
+      "submarket": "Panama City (Panhandle)",
+      "profile": "45-unit apartment community",
+      "price_band": "$6M–$7M",
+      "cap_label": "~$138K/unit",
+      "desc": "45-unit apartment community in Panama City (Panhandle); ~$138K/unit. Exact address & financials on request.",
+      "inquiry_subject": "Inquiry: 45-unit apartment community, Panama City (Panhandle) (~$138K/unit)",
+      "highlights": [
+        "45-unit apartment community",
+        "~$138K/unit",
+        "45 units"
+      ]
+    }
+  ]
+}

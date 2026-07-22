@@ -1,0 +1,111 @@
+{
+  "segment": "delray-beach-mf",
+  "collection": "curated",
+  "template": "curated-generic",
+  "label": "Delray Beach Multifamily",
+  "tagline": "Top 5 · Delray Beach · income multifamily · ranked by cap",
+  "search_name": "LoopNet (FL apartments) 2026-07-21",
+  "generated": "2026-07-21",
+  "expires": "2026-08-20",
+  "total_results": 650,
+  "methodology": "LoopNet FL apartment pull 2026-07-21 ranked by broker-reported cap rate (not independently verified); disguised area+type+price band+cap band public, exact address & financials on request.",
+  "metric_label": "Cap rate",
+  "pdf": "pdf/delray-beach-mf__2026-07-21.pdf",
+  "items": [
+    {
+      "id": "delray-beach-mf-2026-07-21-01",
+      "analytics_id": "A-00484",
+      "rank": 1,
+      "submarket": "Delray Beach",
+      "profile": "4-unit multifamily",
+      "price_band": "$2.5M–$3M",
+      "cap_label": "~8.88% cap",
+      "desc": "4-unit multifamily in Delray Beach; ~8.88% cap. Exact address & financials on request.",
+      "inquiry_subject": "Inquiry: 4-unit multifamily, Delray Beach (~8.88% cap)",
+      "highlights": [
+        "4-unit multifamily",
+        "~8.88% cap",
+        "4 units",
+        "Investor: ~14–16% est. cash-on-cash (25% down, IO @ ~7%)",
+        "~6–7x GRM"
+      ],
+      "inv_line": [
+        "~14–16% est. cash-on-cash (25% down, IO @ ~7%)"
+      ]
+    },
+    {
+      "id": "delray-beach-mf-2026-07-21-02",
+      "analytics_id": "A-00485",
+      "rank": 2,
+      "submarket": "Delray Beach",
+      "profile": "2-unit multifamily",
+      "price_band": "$2M–$2.5M",
+      "cap_label": "~6.40% cap",
+      "desc": "2-unit multifamily in Delray Beach; ~6.40% cap. Exact address & financials on request.",
+      "inquiry_subject": "Inquiry: 2-unit multifamily, Delray Beach (~6.40% cap)",
+      "highlights": [
+        "2-unit multifamily",
+        "~6.40% cap",
+        "2 units",
+        "Investor: ~4–6% est. cash-on-cash (25% down, IO @ ~7%)",
+        "~9–10x GRM"
+      ],
+      "inv_line": [
+        "~4–6% est. cash-on-cash (25% down, IO @ ~7%)"
+      ]
+    },
+    {
+      "id": "delray-beach-mf-2026-07-21-03",
+      "analytics_id": "A-00486",
+      "rank": 3,
+      "submarket": "Delray Beach",
+      "profile": "9-unit multifamily",
+      "price_band": "$3M–$4M",
+      "cap_label": "~6.17% cap",
+      "desc": "9-unit multifamily in Delray Beach; ~6.17% cap. Exact address & financials on request.",
+      "inquiry_subject": "Inquiry: 9-unit multifamily, Delray Beach (~6.17% cap)",
+      "highlights": [
+        "9-unit multifamily",
+        "~6.17% cap",
+        "9 units",
+        "Investor: ~3–5% est. cash-on-cash (25% down, IO @ ~7%)",
+        "~9–10x GRM"
+      ],
+      "inv_line": [
+        "~3–5% est. cash-on-cash (25% down, IO @ ~7%)"
+      ]
+    },
+    {
+      "id": "delray-beach-mf-2026-07-21-04",
+      "analytics_id": "A-00487",
+      "rank": 4,
+      "submarket": "Delray Beach",
+      "profile": "10-unit multifamily",
+      "price_band": "$4M–$5M",
+      "cap_label": "~$400K/unit",
+      "desc": "10-unit multifamily in Delray Beach; ~$400K/unit. Exact address & financials on request.",
+      "inquiry_subject": "Inquiry: 10-unit multifamily, Delray Beach (~$400K/unit)",
+      "highlights": [
+        "10-unit multifamily",
+        "~$400K/unit",
+        "10 units"
+      ]
+    },
+    {
+      "id": "delray-beach-mf-2026-07-21-05",
+      "analytics_id": "A-00488",
+      "rank": 5,
+      "submarket": "Delray Beach",
+      "profile": "1-unit multifamily",
+      "price_band": "$500K–$1M",
+      "cap_label": "~$990K/unit",
+      "desc": "1-unit multifamily in Delray Beach; ~$990K/unit. Exact address & financials on request.",
+      "inquiry_subject": "Inquiry: 1-unit multifamily, Delray Beach (~$990K/unit)",
+      "highlights": [
+        "1-unit multifamily",
+        "~$990K/unit",
+        "1 units"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "segment": "strip-mall-fl",
+  "collection": "curated",
+  "template": "curated-generic",
+  "label": "Strip & Neighborhood Centers — Florida",
+  "tagline": "Top 8 · Florida · multi-tenant retail centers · ranked by cap rate",
+  "search_name": "Crexi (FL) 2026-07-21",
+  "generated": "2026-07-21",
+  "expires": "2026-08-20",
+  "total_results": 4000,
+  "methodology": "Crexi FL pull 2026-07-21 ranked by broker-reported cap rate (not independently verified); listings without a published cap excluded. Disguised: area+type+price band+cap band public, exact address/tenant/lease on request.",
+  "metric_label": "Cap rate",
+  "pdf": "pdf/strip-mall-fl__2026-07-21.pdf",
+  "items": [
+    {
+      "id": "strip-mall-fl-2026-07-21-01",
+      "analytics_id": "A-00505",
+      "rank": 1,
+      "submarket": "Orlando (Orlando MSA)",
+      "profile": "Multi-tenant retail center",
+      "price_band": "$5M–$6M",
+      "cap_label": "~9.05% cap",
+      "desc": "Multi-tenant retail center in Orlando (Orlando MSA); ~9.05% cap. Exact address, tenant & lease terms on request.",
+      "inquiry_subject": "Inquiry: Multi-tenant retail center, Orlando (Orlando MSA) (~9.05% cap)",
+      "highlights": [
+        "Multi-tenant retail center · ~28,700 SF",
+        "~9.05% cap",
+        "Investor: ~14–16% est. cash-on-cash (25% down, IO @ ~7%)"
+      ],
+      "inv_line": [
+        "~14–16% est. cash-on-cash (25% down, IO @ ~7%)"
+      ]
+    },
+    {
+      "id": "strip-mall-fl-2026-07-21-02",
+      "analytics_id": "A-00506",
+      "rank": 2,
+      "submarket": "Fleming Island (Jacksonville MSA)",
+      "profile": "Multi-tenant retail center",
+      "price_band": "$3M–$4M",
+      "cap_label": "~7.25% cap",
+      "desc": "Multi-tenant retail center in Fleming Island (Jacksonville MSA); ~7.25% cap. Exact address, tenant & lease terms on request.",
+      "inquiry_subject": "Inquiry: Multi-tenant retail center, Fleming Island (Jacksonville MSA) (~7.25% cap)",
+      "highlights": [
+        "Multi-tenant retail center · ~10,200 SF",
+        "~7.25% cap",
+        "Investor: ~7–9% est. cash-on-cash (25% down, IO @ ~7%)"
+      ],
+      "inv_line": [
+        "~7–9% est. cash-on-cash (25% down, IO @ ~7%)"
+      ]
+    },
+    {
+      "id": "strip-mall-fl-2026-07-21-03",
+      "analytics_id": "A-00507",
+      "rank": 3,
+      "submarket": "Tampa (Tampa MSA)",
+      "profile": "Multi-tenant retail center",
+      "price_band": "$4M–$5M",
+      "cap_label": "~6.66% cap",
+      "desc": "Multi-tenant retail center in Tampa (Tampa MSA); ~6.66% cap. Exact address, tenant & lease terms on request.",
+      "inquiry_subject": "Inquiry: Multi-tenant retail center, Tampa (Tampa MSA) (~6.66% cap)",
+      "highlights": [
+        "Multi-tenant retail center · ~13,500 SF",
+        "~6.66% cap",
+        "multi-tenant NNN",
+        "Investor: ~5–7% est. cash-on-cash (25% down, IO @ ~7%)"
+      ],
+      "inv_line": [
+        "~5–7% est. cash-on-cash (25% down, IO @ ~7%)"
+      ]
+    },
+    {
+      "id": "strip-mall-fl-2026-07-21-04",
+      "analytics_id": "A-00508",
+      "rank": 4,
+      "submarket": "Orange City (Daytona MSA)",
+      "profile": "Multi-tenant retail center",
+      "price_band": "$7M–$8M",
+      "cap_label": "~6.50% cap",
+      "desc": "Multi-tenant retail center in Orange City (Daytona MSA); ~6.50% cap. Exact address, tenant & lease terms on request.",
+      "inquiry_subject": "Inquiry: Multi-tenant retail center, Orange City (Daytona MSA) (~6.50% cap)",
+      "highlights": [
+        "Multi-tenant retail center · ~36,000 SF",
+        "~6.50% cap",
+        "Investor: ~4–6% est. cash-on-cash (25% down, IO @ ~7%)"
+      ],
+      "inv_line": [
+        "~4–6% est. cash-on-cash (25% down, IO @ ~7%)"
+      ]
+    },
+    {
+      "id": "strip-mall-fl-2026-07-21-05",
+      "analytics_id": "A-00509",
+      "rank": 5,
+      "submarket": "Doral (Miami MSA)",
+      "profile": "Multi-tenant retail center",
+      "price_band": "$16M–$17M",
+      "cap_label": "~6.39% cap",
+      "desc": "Multi-tenant retail center in Doral (Miami MSA); ~6.39% cap. Exact address, tenant & lease terms on request.",
+      "inquiry_subject": "Inquiry: Multi-tenant retail center, Doral (Miami MSA) (~6.39% cap)",
+      "highlights": [
+        "Multi-tenant retail center · ~26,400 SF",
+        "~6.39% cap",
+        "multi-tenant NNN",
+        "Investor: ~4–6% est. cash-on-cash (25% down, IO @ ~7%)"
+      ],
+      "inv_line": [
+        "~4–6% est. cash-on-cash (25% down, IO @ ~7%)"
+      ]
+    },
+    {
+      "id": "strip-mall-fl-2026-07-21-06",
+      "analytics_id": "A-00510",
+      "rank": 6,
+      "submarket": "Davenport (Central FL)",
+      "profile": "Multi-tenant retail center",
+      "price_band": "$6M–$7M",
+      "cap_label": "~6.26% cap",
+      "desc": "Multi-tenant retail center in Davenport (Central FL); ~6.26% cap. Exact address, tenant & lease terms on request.",
+      "inquiry_subject": "Inquiry: Multi-tenant retail center, Davenport (Central FL) (~6.26% cap)",
+      "highlights": [
+        "Multi-tenant retail center · ~21,500 SF",
+        "~6.26% cap",
+        "Investor: ~3–5% est. cash-on-cash (25% down, IO @ ~7%)"
+      ],
+      "inv_line": [
+        "~3–5% est. cash-on-cash (25% down, IO @ ~7%)"
+      ]
+    },
+    {
+      "id": "strip-mall-fl-2026-07-21-07",
+      "analytics_id": "A-00511",
+      "rank": 7,
+      "submarket": "Gainesville",
+      "profile": "Multi-tenant retail center",
+      "price_band": "$3M–$4M",
+      "cap_label": "~6.00% cap",
+      "desc": "Multi-tenant retail center in Gainesville; ~6.00% cap. Exact address, tenant & lease terms on request.",
+      "inquiry_subject": "Inquiry: Multi-tenant retail center, Gainesville (~6.00% cap)",
+      "highlights": [
+        "Multi-tenant retail center · ~14,100 SF",
+        "~6.00% cap",
+        "Investor: ~2–4% est. cash-on-cash (25% down, IO @ ~7%)"
+      ],
+      "inv_line": [
+        "~2–4% est. cash-on-cash (25% down, IO @ ~7%)"
+      ]
+    },
+    {
+      "id": "strip-mall-fl-2026-07-21-08",
+      "analytics_id": "A-00512",
+      "rank": 8,
+      "submarket": "Tallahassee (Tallahassee MSA)",
+      "profile": "Multi-tenant retail center",
+      "price_band": "$1.5M–$2M",
+      "cap_label": "~5.50% cap",
+      "desc": "Multi-tenant retail center in Tallahassee (Tallahassee MSA); ~5.50% cap. Exact address, tenant & lease terms on request.",
+      "inquiry_subject": "Inquiry: Multi-tenant retail center, Tallahassee (Tallahassee MSA) (~5.50% cap)",
+      "highlights": [
+        "Multi-tenant retail center · ~1,900 SF",
+        "~5.50% cap",
+        "Investor: Levered spread thin at ~7% debt (rate-sensitive)"
+      ],
+      "inv_line": [
+        "Levered spread thin at ~7% debt (rate-sensitive)"
+      ]
+    }
+  ]
+}

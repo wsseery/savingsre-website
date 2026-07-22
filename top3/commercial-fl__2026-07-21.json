@@ -1,0 +1,211 @@
+{
+  "segment": "commercial-fl",
+  "collection": "curated",
+  "template": "curated-generic",
+  "label": "Commercial / Office — Florida",
+  "tagline": "Top 10 · Florida · office, mixed-use & commercial · ranked by cap rate",
+  "search_name": "Crexi (FL) 2026-07-21",
+  "generated": "2026-07-21",
+  "expires": "2026-08-20",
+  "total_results": 4000,
+  "methodology": "Crexi FL pull 2026-07-21 ranked by broker-reported cap rate (not independently verified); listings without a published cap excluded. Disguised: area+type+price band+cap band public, exact address/tenant/lease on request.",
+  "metric_label": "Cap rate",
+  "pdf": "pdf/commercial-fl__2026-07-21.pdf",
+  "items": [
+    {
+      "id": "commercial-fl-2026-07-21-01",
+      "analytics_id": "A-00523",
+      "rank": 1,
+      "submarket": "Fort Myers (Fort Myers MSA)",
+      "profile": "Office / mixed-use",
+      "price_band": "$1.5M–$2M",
+      "cap_label": "~10.22% cap",
+      "desc": "Office / mixed-use in Fort Myers (Fort Myers MSA); ~10.22% cap. Exact address, tenant & lease terms on request.",
+      "inquiry_subject": "Inquiry: Office / mixed-use, Fort Myers (Fort Myers MSA) (~10.22% cap)",
+      "highlights": [
+        "Office / mixed-use · ~7,000 SF",
+        "~10.22% cap",
+        "multi-tenant",
+        "Investor: ~19–21% est. cash-on-cash (25% down, IO @ ~7%)"
+      ],
+      "inv_line": [
+        "~19–21% est. cash-on-cash (25% down, IO @ ~7%)"
+      ]
+    },
+    {
+      "id": "commercial-fl-2026-07-21-02",
+      "analytics_id": "A-00524",
+      "rank": 2,
+      "submarket": "Pensacola (Panhandle)",
+      "profile": "Office / mixed-use",
+      "price_band": "$14M–$15M",
+      "cap_label": "~7.98% cap",
+      "desc": "Office / mixed-use in Pensacola (Panhandle); ~7.98% cap. Exact address, tenant & lease terms on request.",
+      "inquiry_subject": "Inquiry: Office / mixed-use, Pensacola (Panhandle) (~7.98% cap)",
+      "highlights": [
+        "Office / mixed-use · ~69,200 SF",
+        "~7.98% cap",
+        "multi-tenant",
+        "Investor: ~10–12% est. cash-on-cash (25% down, IO @ ~7%)"
+      ],
+      "inv_line": [
+        "~10–12% est. cash-on-cash (25% down, IO @ ~7%)"
+      ]
+    },
+    {
+      "id": "commercial-fl-2026-07-21-03",
+      "analytics_id": "A-00525",
+      "rank": 3,
+      "submarket": "TAMPA",
+      "profile": "Office / mixed-use",
+      "price_band": "$1M–$1.5M",
+      "cap_label": "~7.62% cap",
+      "desc": "Office / mixed-use in TAMPA; ~7.62% cap. Exact address, tenant & lease terms on request.",
+      "inquiry_subject": "Inquiry: Office / mixed-use, TAMPA (~7.62% cap)",
+      "highlights": [
+        "Office / mixed-use · ~2,400 SF",
+        "~7.62% cap",
+        "multi-tenant",
+        "Investor: ~8–10% est. cash-on-cash (25% down, IO @ ~7%)",
+        "~0 yr WALT"
+      ],
+      "inv_line": [
+        "~8–10% est. cash-on-cash (25% down, IO @ ~7%)"
+      ]
+    },
+    {
+      "id": "commercial-fl-2026-07-21-04",
+      "analytics_id": "A-00526",
+      "rank": 4,
+      "submarket": "Orlando (Orlando MSA)",
+      "profile": "Office / mixed-use",
+      "price_band": "$4M–$5M",
+      "cap_label": "~7.39% cap",
+      "desc": "Office / mixed-use in Orlando (Orlando MSA); ~7.39% cap. Exact address, tenant & lease terms on request.",
+      "inquiry_subject": "Inquiry: Office / mixed-use, Orlando (Orlando MSA) (~7.39% cap)",
+      "highlights": [
+        "Office / mixed-use · ~13,100 SF",
+        "~7.39% cap",
+        "Investor: ~8–10% est. cash-on-cash (25% down, IO @ ~7%)"
+      ],
+      "inv_line": [
+        "~8–10% est. cash-on-cash (25% down, IO @ ~7%)"
+      ]
+    },
+    {
+      "id": "commercial-fl-2026-07-21-05",
+      "analytics_id": "A-00527",
+      "rank": 5,
+      "submarket": "Jacksonville (Jacksonville MSA)",
+      "profile": "Office / mixed-use",
+      "price_band": "$1.5M–$2M",
+      "cap_label": "~7.03% cap",
+      "desc": "Office / mixed-use in Jacksonville (Jacksonville MSA); ~7.03% cap. Exact address, tenant & lease terms on request.",
+      "inquiry_subject": "Inquiry: Office / mixed-use, Jacksonville (Jacksonville MSA) (~7.03% cap)",
+      "highlights": [
+        "Office / mixed-use · ~6,800 SF",
+        "~7.03% cap",
+        "Investor: ~6–8% est. cash-on-cash (25% down, IO @ ~7%)"
+      ],
+      "inv_line": [
+        "~6–8% est. cash-on-cash (25% down, IO @ ~7%)"
+      ]
+    },
+    {
+      "id": "commercial-fl-2026-07-21-06",
+      "analytics_id": "A-00528",
+      "rank": 6,
+      "submarket": "Miami Lakes (Miami MSA)",
+      "profile": "Office / mixed-use",
+      "price_band": "$9M–$10M",
+      "cap_label": "~7.00% cap",
+      "desc": "Office / mixed-use in Miami Lakes (Miami MSA); ~7.00% cap. Exact address, tenant & lease terms on request.",
+      "inquiry_subject": "Inquiry: Office / mixed-use, Miami Lakes (Miami MSA) (~7.00% cap)",
+      "highlights": [
+        "Office / mixed-use · ~24,600 SF",
+        "~7.00% cap",
+        "Investor: ~6–8% est. cash-on-cash (25% down, IO @ ~7%)"
+      ],
+      "inv_line": [
+        "~6–8% est. cash-on-cash (25% down, IO @ ~7%)"
+      ]
+    },
+    {
+      "id": "commercial-fl-2026-07-21-07",
+      "analytics_id": "A-00529",
+      "rank": 7,
+      "submarket": "Lakeland (Central FL)",
+      "profile": "Office / mixed-use",
+      "price_band": "$2.5M–$3M",
+      "cap_label": "~7.00% cap",
+      "desc": "Office / mixed-use in Lakeland (Central FL); ~7.00% cap. Exact address, tenant & lease terms on request.",
+      "inquiry_subject": "Inquiry: Office / mixed-use, Lakeland (Central FL) (~7.00% cap)",
+      "highlights": [
+        "Office / mixed-use · ~7,000 SF",
+        "~7.00% cap",
+        "Investor: ~6–8% est. cash-on-cash (25% down, IO @ ~7%)"
+      ],
+      "inv_line": [
+        "~6–8% est. cash-on-cash (25% down, IO @ ~7%)"
+      ]
+    },
+    {
+      "id": "commercial-fl-2026-07-21-08",
+      "analytics_id": "A-00530",
+      "rank": 8,
+      "submarket": "Kissimmee (Orlando MSA)",
+      "profile": "Office / mixed-use",
+      "price_band": "$3M–$4M",
+      "cap_label": "~6.88% cap",
+      "desc": "Office / mixed-use in Kissimmee (Orlando MSA); ~6.88% cap. Exact address, tenant & lease terms on request.",
+      "inquiry_subject": "Inquiry: Office / mixed-use, Kissimmee (Orlando MSA) (~6.88% cap)",
+      "highlights": [
+        "Office / mixed-use · ~16,100 SF",
+        "~6.88% cap",
+        "Investor: ~6–8% est. cash-on-cash (25% down, IO @ ~7%)"
+      ],
+      "inv_line": [
+        "~6–8% est. cash-on-cash (25% down, IO @ ~7%)"
+      ]
+    },
+    {
+      "id": "commercial-fl-2026-07-21-09",
+      "analytics_id": "A-00531",
+      "rank": 9,
+      "submarket": "Cape Coral (Fort Myers MSA)",
+      "profile": "Office / mixed-use",
+      "price_band": "$500K–$1M",
+      "cap_label": "~6.75% cap",
+      "desc": "Office / mixed-use in Cape Coral (Fort Myers MSA); ~6.75% cap. Exact address, tenant & lease terms on request.",
+      "inquiry_subject": "Inquiry: Office / mixed-use, Cape Coral (Fort Myers MSA) (~6.75% cap)",
+      "highlights": [
+        "Office / mixed-use · ~2,700 SF",
+        "~6.75% cap",
+        "Investor: ~5–7% est. cash-on-cash (25% down, IO @ ~7%)",
+        "Opportunity Zone"
+      ],
+      "inv_line": [
+        "~5–7% est. cash-on-cash (25% down, IO @ ~7%)"
+      ]
+    },
+    {
+      "id": "commercial-fl-2026-07-21-10",
+      "analytics_id": "A-00532",
+      "rank": 10,
+      "submarket": "Jacksonville (Jacksonville MSA)",
+      "profile": "Office / mixed-use",
+      "price_band": "$2M–$2.5M",
+      "cap_label": "~6.59% cap",
+      "desc": "Office / mixed-use in Jacksonville (Jacksonville MSA); ~6.59% cap. Exact address, tenant & lease terms on request.",
+      "inquiry_subject": "Inquiry: Office / mixed-use, Jacksonville (Jacksonville MSA) (~6.59% cap)",
+      "highlights": [
+        "Office / mixed-use · ~18,500 SF",
+        "~6.59% cap",
+        "Investor: ~4–6% est. cash-on-cash (25% down, IO @ ~7%)"
+      ],
+      "inv_line": [
+        "~4–6% est. cash-on-cash (25% down, IO @ ~7%)"
+      ]
+    }
+  ]
+}

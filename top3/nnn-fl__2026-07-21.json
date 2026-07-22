@@ -1,0 +1,184 @@
+{
+  "segment": "nnn-fl",
+  "collection": "curated",
+  "template": "curated-generic",
+  "label": "NNN Commercial — Florida",
+  "tagline": "Top 8 · Florida (statewide) · single & multi-tenant net lease · ranked by cap rate",
+  "search_name": "Crexi (FL) 2026-07-21",
+  "generated": "2026-07-21",
+  "expires": "2026-08-20",
+  "total_results": 4000,
+  "methodology": "Crexi FL pull 2026-07-21 ranked by broker-reported cap rate (not independently verified); listings without a published cap excluded. Disguised: area+type+price band+cap band public, exact address/tenant/lease on request.",
+  "metric_label": "Cap rate",
+  "pdf": "pdf/nnn-fl__2026-07-21.pdf",
+  "items": [
+    {
+      "id": "nnn-fl-2026-07-21-01",
+      "analytics_id": "A-00497",
+      "rank": 1,
+      "submarket": "Jacksonville (Jacksonville MSA)",
+      "profile": "Net-lease retail",
+      "price_band": "$3M–$4M",
+      "cap_label": "~6.75% cap",
+      "desc": "Net-lease retail in Jacksonville (Jacksonville MSA); ~6.75% cap. Exact address, tenant & lease terms on request.",
+      "inquiry_subject": "Inquiry: Net-lease retail, Jacksonville (Jacksonville MSA) (~6.75% cap)",
+      "highlights": [
+        "Net-lease retail · ~17,000 SF",
+        "~6.75% cap",
+        "single-tenant",
+        "Investor: ~5–7% est. cash-on-cash (25% down, IO @ ~7%)",
+        "~5 yr WALT"
+      ],
+      "inv_line": [
+        "~5–7% est. cash-on-cash (25% down, IO @ ~7%)"
+      ]
+    },
+    {
+      "id": "nnn-fl-2026-07-21-02",
+      "analytics_id": "A-00498",
+      "rank": 2,
+      "submarket": "Miami Springs (Miami MSA)",
+      "profile": "Net-lease retail",
+      "price_band": "$1.5M–$2M",
+      "cap_label": "~6.11% cap",
+      "desc": "Net-lease retail in Miami Springs (Miami MSA); ~6.11% cap. Exact address, tenant & lease terms on request.",
+      "inquiry_subject": "Inquiry: Net-lease retail, Miami Springs (Miami MSA) (~6.11% cap)",
+      "highlights": [
+        "Net-lease retail · ~3,600 SF",
+        "~6.11% cap",
+        "single-tenant NNN",
+        "Investor: ~2–4% est. cash-on-cash (25% down, IO @ ~7%)",
+        "~2 yr WALT"
+      ],
+      "inv_line": [
+        "~2–4% est. cash-on-cash (25% down, IO @ ~7%)"
+      ]
+    },
+    {
+      "id": "nnn-fl-2026-07-21-03",
+      "analytics_id": "A-00499",
+      "rank": 3,
+      "submarket": "Jacksonville (Jacksonville MSA)",
+      "profile": "Net-lease retail",
+      "price_band": "$3M–$4M",
+      "cap_label": "~5.50% cap",
+      "desc": "Net-lease retail in Jacksonville (Jacksonville MSA); ~5.50% cap. Exact address, tenant & lease terms on request.",
+      "inquiry_subject": "Inquiry: Net-lease retail, Jacksonville (Jacksonville MSA) (~5.50% cap)",
+      "highlights": [
+        "Net-lease retail · ~39,900 SF",
+        "~5.50% cap",
+        "single-tenant NNN",
+        "Investor: Levered spread thin at ~7% debt (rate-sensitive)",
+        "~10 yr WALT"
+      ],
+      "inv_line": [
+        "Levered spread thin at ~7% debt (rate-sensitive)"
+      ]
+    },
+    {
+      "id": "nnn-fl-2026-07-21-04",
+      "analytics_id": "A-00500",
+      "rank": 4,
+      "submarket": "Riverview (Tampa MSA)",
+      "profile": "Net-lease retail",
+      "price_band": "$2.5M–$3M",
+      "cap_label": "~5.15% cap",
+      "desc": "Net-lease retail in Riverview (Tampa MSA); ~5.15% cap. Exact address, tenant & lease terms on request.",
+      "inquiry_subject": "Inquiry: Net-lease retail, Riverview (Tampa MSA) (~5.15% cap)",
+      "highlights": [
+        "Net-lease retail · ~6,000 SF",
+        "~5.15% cap",
+        "single-tenant NNN",
+        "Investor: Levered spread thin at ~7% debt (rate-sensitive)",
+        "~9 yr WALT"
+      ],
+      "inv_line": [
+        "Levered spread thin at ~7% debt (rate-sensitive)"
+      ]
+    },
+    {
+      "id": "nnn-fl-2026-07-21-05",
+      "analytics_id": "A-00501",
+      "rank": 5,
+      "submarket": "Doral (Miami MSA)",
+      "profile": "Net-lease retail",
+      "price_band": "$3M–$4M",
+      "cap_label": "~5.00% cap",
+      "desc": "Net-lease retail in Doral (Miami MSA); ~5.00% cap. Exact address, tenant & lease terms on request.",
+      "inquiry_subject": "Inquiry: Net-lease retail, Doral (Miami MSA) (~5.00% cap)",
+      "highlights": [
+        "Net-lease retail · ~7,200 SF",
+        "~5.00% cap",
+        "single-tenant NNN",
+        "Investor: Levered spread thin at ~7% debt (rate-sensitive)",
+        "~4 yr WALT"
+      ],
+      "inv_line": [
+        "Levered spread thin at ~7% debt (rate-sensitive)"
+      ]
+    },
+    {
+      "id": "nnn-fl-2026-07-21-06",
+      "analytics_id": "A-00502",
+      "rank": 6,
+      "submarket": "Homestead (Miami MSA)",
+      "profile": "Net-lease retail",
+      "price_band": "$1.5M–$2M",
+      "cap_label": "~5.00% cap",
+      "desc": "Net-lease retail in Homestead (Miami MSA); ~5.00% cap. Exact address, tenant & lease terms on request.",
+      "inquiry_subject": "Inquiry: Net-lease retail, Homestead (Miami MSA) (~5.00% cap)",
+      "highlights": [
+        "Net-lease retail · ~6,800 SF",
+        "~5.00% cap",
+        "single-tenant NNN",
+        "Investor: Levered spread thin at ~7% debt (rate-sensitive)",
+        "~10 yr WALT"
+      ],
+      "inv_line": [
+        "Levered spread thin at ~7% debt (rate-sensitive)"
+      ]
+    },
+    {
+      "id": "nnn-fl-2026-07-21-07",
+      "analytics_id": "A-00503",
+      "rank": 7,
+      "submarket": "Tampa (Tampa MSA)",
+      "profile": "Net-lease retail",
+      "price_band": "$3M–$4M",
+      "cap_label": "~4.89% cap",
+      "desc": "Net-lease retail in Tampa (Tampa MSA); ~4.89% cap. Exact address, tenant & lease terms on request.",
+      "inquiry_subject": "Inquiry: Net-lease retail, Tampa (Tampa MSA) (~4.89% cap)",
+      "highlights": [
+        "Net-lease retail · ~6,800 SF",
+        "~4.89% cap",
+        "single-tenant",
+        "Investor: Levered spread thin at ~7% debt (rate-sensitive)",
+        "~15 yr WALT"
+      ],
+      "inv_line": [
+        "Levered spread thin at ~7% debt (rate-sensitive)"
+      ]
+    },
+    {
+      "id": "nnn-fl-2026-07-21-08",
+      "analytics_id": "A-00504",
+      "rank": 8,
+      "submarket": "Leesburg (Central FL)",
+      "profile": "Net-lease retail",
+      "price_band": "$4M–$5M",
+      "cap_label": "~4.50% cap",
+      "desc": "Net-lease retail in Leesburg (Central FL); ~4.50% cap. Exact address, tenant & lease terms on request.",
+      "inquiry_subject": "Inquiry: Net-lease retail, Leesburg (Central FL) (~4.50% cap)",
+      "highlights": [
+        "Net-lease retail · ~6,100 SF",
+        "~4.50% cap",
+        "single-tenant NNN",
+        "Investor: Levered spread thin at ~7% debt (rate-sensitive)",
+        "~19 yr WALT"
+      ],
+      "inv_line": [
+        "Levered spread thin at ~7% debt (rate-sensitive)"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "segment": "high-yield-sfl",
+  "collection": "curated",
+  "template": "curated-generic",
+  "label": "High-Yield Multifamily — 8%+ Cap",
+  "tagline": "Top 5 · Florida (statewide) · 5–25 units · value-add & high-yield",
+  "search_name": "LoopNet (FL apartments) 2026-07-21",
+  "generated": "2026-07-21",
+  "expires": "2026-08-20",
+  "total_results": 650,
+  "methodology": "LoopNet FL apartment pull 2026-07-21 ranked by broker-reported cap rate (not independently verified); disguised area+type+price band+cap band public, exact address & financials on request.",
+  "metric_label": "Cap rate",
+  "pdf": "pdf/high-yield-sfl__2026-07-21.pdf",
+  "items": [
+    {
+      "id": "high-yield-sfl-2026-07-21-01",
+      "analytics_id": "A-00463",
+      "rank": 1,
+      "submarket": "Okeechobee (Central FL)",
+      "profile": "10-unit multifamily",
+      "price_band": "$1M–$1.5M",
+      "cap_label": "~13.85% cap",
+      "desc": "10-unit multifamily in Okeechobee (Central FL); ~13.85% cap. Exact address & financials on request.",
+      "inquiry_subject": "Inquiry: 10-unit multifamily, Okeechobee (Central FL) (~13.85% cap)",
+      "highlights": [
+        "10-unit multifamily",
+        "~13.85% cap",
+        "10 units",
+        "Investor: ~33–35% est. cash-on-cash (25% down, IO @ ~7%)",
+        "~4–5x GRM"
+      ],
+      "inv_line": [
+        "~33–35% est. cash-on-cash (25% down, IO @ ~7%)"
+      ]
+    },
+    {
+      "id": "high-yield-sfl-2026-07-21-02",
+      "analytics_id": "A-00464",
+      "rank": 2,
+      "submarket": "Tampa (Tampa MSA)",
+      "profile": "6-unit multifamily",
+      "price_band": "$2.5M–$3M",
+      "cap_label": "~12.00% cap",
+      "desc": "6-unit multifamily in Tampa (Tampa MSA); ~12.00% cap. Exact address & financials on request.",
+      "inquiry_subject": "Inquiry: 6-unit multifamily, Tampa (Tampa MSA) (~12.00% cap)",
+      "highlights": [
+        "6-unit multifamily",
+        "~12.00% cap",
+        "6 units",
+        "Investor: ~26–28% est. cash-on-cash (25% down, IO @ ~7%)",
+        "~5–6x GRM"
+      ],
+      "inv_line": [
+        "~26–28% est. cash-on-cash (25% down, IO @ ~7%)"
+      ]
+    },
+    {
+      "id": "high-yield-sfl-2026-07-21-03",
+      "analytics_id": "A-00465",
+      "rank": 3,
+      "submarket": "Palatka (Northeast FL)",
+      "profile": "12-unit multifamily",
+      "price_band": "$1M–$1.5M",
+      "cap_label": "~11.33% cap",
+      "desc": "12-unit multifamily in Palatka (Northeast FL); ~11.33% cap. Exact address & financials on request.",
+      "inquiry_subject": "Inquiry: 12-unit multifamily, Palatka (Northeast FL) (~11.33% cap)",
+      "highlights": [
+        "12-unit multifamily",
+        "~11.33% cap",
+        "12 units",
+        "Investor: ~23–25% est. cash-on-cash (25% down, IO @ ~7%)",
+        "~5–6x GRM"
+      ],
+      "inv_line": [
+        "~23–25% est. cash-on-cash (25% down, IO @ ~7%)"
+      ]
+    },
+    {
+      "id": "high-yield-sfl-2026-07-21-04",
+      "analytics_id": "A-00466",
+      "rank": 4,
+      "submarket": "North Fort Myers (Fort Myers MSA)",
+      "profile": "16-unit multifamily",
+      "price_band": "$1M–$1.5M",
+      "cap_label": "~11.20% cap",
+      "desc": "16-unit multifamily in North Fort Myers (Fort Myers MSA); ~11.20% cap. Exact address & financials on request.",
+      "inquiry_subject": "Inquiry: 16-unit multifamily, North Fort Myers (Fort Myers MSA) (~11.20% cap)",
+      "highlights": [
+        "16-unit multifamily",
+        "~11.20% cap",
+        "16 units",
+        "Investor: ~23–25% est. cash-on-cash (25% down, IO @ ~7%)",
+        "~5–6x GRM"
+      ],
+      "inv_line": [
+        "~23–25% est. cash-on-cash (25% down, IO @ ~7%)"
+      ]
+    },
+    {
+      "id": "high-yield-sfl-2026-07-21-05",
+      "analytics_id": "A-00467",
+      "rank": 5,
+      "submarket": "Lake Placid (Central FL)",
+      "profile": "18-unit multifamily",
+      "price_band": "$2M–$2.5M",
+      "cap_label": "~10.62% cap",
+      "desc": "18-unit multifamily in Lake Placid (Central FL); ~10.62% cap. Exact address & financials on request.",
+      "inquiry_subject": "Inquiry: 18-unit multifamily, Lake Placid (Central FL) (~10.62% cap)",
+      "highlights": [
+        "18-unit multifamily",
+        "~10.62% cap",
+        "18 units",
+        "Investor: ~20–22% est. cash-on-cash (25% down, IO @ ~7%)",
+        "~5–6x GRM"
+      ],
+      "inv_line": [
+        "~20–22% est. cash-on-cash (25% down, IO @ ~7%)"
+      ]
+    }
+  ]
+}
