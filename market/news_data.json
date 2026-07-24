@@ -1,5 +1,49 @@
 [
   {
+    "id": 50,
+    "date": "2026-07-23",
+    "title": "South Florida Luxury Price Threshold Jumps to $3.3M; Ultra-Luxury Hits $10.7M",
+    "summary": "MIAMI REALTORS chief economist Gay Cororaton reports South Florida's single-family luxury (top 5% of sales) price threshold climbed to $3.3 million in the first half of 2026, up from $2.7 million in 2025, while the ultra-luxury (top 1%) threshold jumped to $10.7 million from $7.8 million - highest in Miami-Dade ($15M), Palm Beach ($14M) and Martin ($10.5M). The condo luxury threshold rose to $2.3 million and ultra-luxury to $6.0 million. Out-of-state buyers grew to 10% of domestic buyers (from 7% in 2024-25), led by New York (34%), New Jersey (13%) and California (8%), and bought at higher price points - California's single-family luxury threshold was $8.5 million.",
+    "source": "MIAMI REALTORS",
+    "sourceUrl": "https://www.miamirealtors.com/2026/07/23/south-florida-luxury-home-market-reaches-new-milestones/",
+    "category": "Market Data",
+    "tags": ["luxury", "price threshold", "migration", "out-of-state buyers"],
+    "importance": "high"
+  },
+  {
+    "id": 48,
+    "date": "2026-07-22",
+    "title": "Bal Harbour Oceana Penthouse Sells for $20.9M to Lead the Week's Deals",
+    "summary": "A roughly 5,000 SF penthouse at the Oceana Bal Harbour, 10201 Collins Avenue, sold for $20.9 million to Oceana PH2802 Holdings LLC - the week's top recorded South Florida home sale (three bedrooms, five-and-a-half baths; the selling trust had paid $22 million for the unit in 2023). In Palm Beach County, Charles and Alexandra Prakas paid $5.7 million for a roughly 5,400 SF, five-bedroom home at 619 Riverside Road in North Palm Beach. The steady stream of eight-figure closings underscores how the ultra-luxury market keeps clearing through the slow summer season.",
+    "source": "The Real Deal",
+    "sourceUrl": "https://therealdeal.com/miami/2026/07/23/south-florida-top-real-estate-deals-july-22-2026/",
+    "category": "Luxury",
+    "tags": ["Bal Harbour", "Oceana", "North Palm Beach", "top deals"],
+    "importance": "high"
+  },
+  {
+    "id": 49,
+    "date": "2026-07-22",
+    "title": "West Palm Beach Mansion Sells for $15.7M, Shattering the City's Non-Waterfront Record",
+    "summary": "A newly built 8,600 SF mansion at 122 Bloomfield Drive in West Palm Beach sold for $15.7 million - about $1,820 per square foot - breaking the city's record for the priciest non-waterfront home sale (the prior record was $9 million in 2024). 122 Bloomfield Trust, managed by Francis Lynch, bought from an entity tied to financier Mark Marcello, who had paid $2.9 million for the lot in 2024. Broker Margit Brandt noted coastal West Palm homes now fetch $1,500-$2,000 per foot - a relative bargain versus Palm Beach island's $3,000-$4,000 - as buyers chase inland space and lower insurance costs; inland luxury set a record last year with 123 deals totaling $2.12 billion.",
+    "source": "The Real Deal",
+    "sourceUrl": "https://therealdeal.com/miami/2026/07/22/west-palm-beach-sale-home-breaks-record-at-16-million/",
+    "category": "Luxury",
+    "tags": ["West Palm Beach", "record sale", "non-waterfront", "inland luxury"],
+    "importance": "high"
+  },
+  {
+    "id": 51,
+    "date": "2026-07-22",
+    "title": "Swire's $240M Mandarin Oriental Tower Tops South Florida Construction Permits",
+    "summary": "The week's largest South Florida construction permit was a $240 million filing for 1 Island Drive on Brickell Key, where Swire Properties is building The Residences at Mandarin Oriental, Miami and a Mandarin Oriental hotel totaling about 1.35 million square feet of condos and hotel. Ranking second was a $95 million permit for Sense 22 at 114 Northeast 22nd Street in Miami - New Sense LLC's Live Local Act mixed-use project of roughly 503,000 SF rising 36 stories with more than 320 units.",
+    "source": "The Real Deal",
+    "sourceUrl": "https://therealdeal.com/miami/2026/07/23/south-floridas-top-construction-permits-july-22-2026/",
+    "category": "Development",
+    "tags": ["Miami", "Brickell Key", "Mandarin Oriental", "permits", "Live Local Act"],
+    "importance": "high"
+  },
+  {
     "id": 45,
     "date": "2026-07-20",
     "title": "Ponce-Davis New-Build Mansion Sells for $18.9M; Moishe Mana Buys Wynwood's Pastis Building for $24.5M",
@@ -22,17 +66,6 @@
     "importance": "medium"
   },
   {
-    "id": 46,
-    "date": "2026-07-14",
-    "title": "South Florida Commercial Sales Fall 13% to $5.42B in H1 2026 - But Construction Is the Most Intense in the Nation",
-    "summary": "MIAMI REALTORS chief economist Gay Cororaton reports South Florida commercial sales volume fell 13% year over year to $5.42 billion in the first half of 2026 amid geopolitical tensions and macro risk. Volume dropped for multifamily (-12%), office (-32%) and retail (-15%) but rose for industrial (+2%); multifamily still led at $1.95 billion, ahead of industrial ($1.54B), retail ($1.02B) and office ($910M). Broward led counties at $2.35 billion (+7%), ahead of Miami-Dade ($2.05B, -28%) and Palm Beach ($880M, -15%). Pricing held up - median price per building SF rose 1.0% to $330, with retail +24%, office +12% and industrial +7% but multifamily -3%. Fundamentals remain strong: Miami-Dade has 19,131 multifamily units under construction (9.7% of inventory vs 3.5% nationally), and the West Palm Beach-Boca Raton office market has 2.4M SF underway, adding 5.2% to stock - the most intense in the country.",
-    "source": "MIAMI REALTORS",
-    "sourceUrl": "https://www.miamirealtors.com/2026/07/14/south-florida-is-experiencing-the-most-intense-multifamily-and-office-construction-in-the-nation/",
-    "category": "Commercial/CRE",
-    "tags": ["commercial sales volume", "multifamily", "industrial", "office", "construction pipeline"],
-    "importance": "high"
-  },
-  {
     "id": 44,
     "date": "2026-07-17",
     "title": "Jupiter Bear's Club Mansion Sells for $33.8M; Wellington Senior-Living Facility Trades for $30.7M",
@@ -41,17 +74,6 @@
     "sourceUrl": "https://therealdeal.com/miami/2026/07/20/south-florida-top-real-estate-deals-july-17-2026/",
     "category": "Luxury",
     "tags": ["Jupiter", "Wellington", "Boca Raton", "Sunny Isles Beach", "top deals"],
-    "importance": "high"
-  },
-  {
-    "id": 42,
-    "date": "2026-07-15",
-    "title": "Venetian Islands Double Waterfront Trades for $33M; Miami's 790 Lake Road Fetches $27.3M",
-    "summary": "A trust sold two neighboring 1940s-built waterfront homes at 617 and 625 East Dilido Drive on Miami Beach's Venetian Islands for $33 million (0.7 acres; roughly 5,000 and 4,400 SF) to Leet House 4 LLC - the week's top recorded South Florida home sale. In Miami, a 6,100 SF waterfront home at 790 Lake Road traded for $27.3 million, about $6,700 per square foot (an entity tied to Adonel Concrete CEO Luis Garcia selling; last asked $32 million), and a Wellington equestrian estate at 12940 50th Street with barn space sold for $23 million. On the commercial side, a ~56,300 SF Deerfield Beach warehouse at 1143 West Newport Center Drive sold for $10.6 million.",
-    "source": "The Real Deal",
-    "sourceUrl": "https://therealdeal.com/miami/2026/07/16/south-florida-top-real-estate-deals-july-15-2026/",
-    "category": "Luxury",
-    "tags": ["Miami Beach", "Venetian Islands", "Wellington", "Deerfield Beach", "top deals"],
     "importance": "high"
   },
   {
@@ -74,6 +96,28 @@
     "sourceUrl": "https://www.freddiemac.com/pmms",
     "category": "Market Data",
     "tags": ["mortgage rates", "jumbo", "financing", "PMMS"],
+    "importance": "high"
+  },
+  {
+    "id": 42,
+    "date": "2026-07-15",
+    "title": "Venetian Islands Double Waterfront Trades for $33M; Miami's 790 Lake Road Fetches $27.3M",
+    "summary": "A trust sold two neighboring 1940s-built waterfront homes at 617 and 625 East Dilido Drive on Miami Beach's Venetian Islands for $33 million (0.7 acres; roughly 5,000 and 4,400 SF) to Leet House 4 LLC - the week's top recorded South Florida home sale. In Miami, a 6,100 SF waterfront home at 790 Lake Road traded for $27.3 million, about $6,700 per square foot (an entity tied to Adonel Concrete CEO Luis Garcia selling; last asked $32 million), and a Wellington equestrian estate at 12940 50th Street with barn space sold for $23 million. On the commercial side, a ~56,300 SF Deerfield Beach warehouse at 1143 West Newport Center Drive sold for $10.6 million.",
+    "source": "The Real Deal",
+    "sourceUrl": "https://therealdeal.com/miami/2026/07/16/south-florida-top-real-estate-deals-july-15-2026/",
+    "category": "Luxury",
+    "tags": ["Miami Beach", "Venetian Islands", "Wellington", "Deerfield Beach", "top deals"],
+    "importance": "high"
+  },
+  {
+    "id": 46,
+    "date": "2026-07-14",
+    "title": "South Florida Commercial Sales Fall 13% to $5.42B in H1 2026 - But Construction Is the Most Intense in the Nation",
+    "summary": "MIAMI REALTORS chief economist Gay Cororaton reports South Florida commercial sales volume fell 13% year over year to $5.42 billion in the first half of 2026 amid geopolitical tensions and macro risk. Volume dropped for multifamily (-12%), office (-32%) and retail (-15%) but rose for industrial (+2%); multifamily still led at $1.95 billion, ahead of industrial ($1.54B), retail ($1.02B) and office ($910M). Broward led counties at $2.35 billion (+7%), ahead of Miami-Dade ($2.05B, -28%) and Palm Beach ($880M, -15%). Pricing held up - median price per building SF rose 1.0% to $330, with retail +24%, office +12% and industrial +7% but multifamily -3%. Fundamentals remain strong: Miami-Dade has 19,131 multifamily units under construction (9.7% of inventory vs 3.5% nationally), and the West Palm Beach-Boca Raton office market has 2.4M SF underway, adding 5.2% to stock - the most intense in the country.",
+    "source": "MIAMI REALTORS",
+    "sourceUrl": "https://www.miamirealtors.com/2026/07/14/south-florida-is-experiencing-the-most-intense-multifamily-and-office-construction-in-the-nation/",
+    "category": "Commercial/CRE",
+    "tags": ["commercial sales volume", "multifamily", "industrial", "office", "construction pipeline"],
     "importance": "high"
   },
   {
@@ -121,17 +165,6 @@
     "importance": "medium"
   },
   {
-    "id": 34,
-    "date": "2026-07-09",
-    "title": "Palm Island Double-Lot Estate Sells for $40M, Leading the Week's Home Deals",
-    "summary": "Homebuilder Adrian Pedro sold a double-lot estate at 145-149 Palm Avenue on Miami Beach's Palm Island for $40 million to venture investor Ben Ling and Hedge Labs co-founder Christopher Coudron - the week's top recorded South Florida home sale. The property, with a pool, cabana and tennis court, had listed in September asking $59 million; the buyers already own the neighboring mansion.",
-    "source": "The Real Deal",
-    "sourceUrl": "https://therealdeal.com/miami/2026/07/10/south-florida-top-real-estate-deals-july-9-2026/",
-    "category": "Luxury",
-    "tags": ["Miami Beach", "Palm Island", "waterfront", "top deals"],
-    "importance": "high"
-  },
-  {
     "id": 35,
     "date": "2026-07-09",
     "title": "Sun Sentinel Printing Plant in Deerfield Beach Trades for $65M in Week's Top Commercial Deal",
@@ -141,38 +174,5 @@
     "category": "Commercial/CRE",
     "tags": ["Deerfield Beach", "industrial", "Wynwood", "top deals"],
     "importance": "high"
-  },
-  {
-    "id": 36,
-    "date": "2026-07-08",
-    "title": "$193M Miami Freedom Park Permit Tops South Florida Construction Filings",
-    "summary": "The week's largest construction permit was a $193 million filing for Miami Freedom Park near Miami International Airport - a 1M+ SF retail, dining, office and hotel complex with 750 hotel rooms and a 58-acre public park anchored by Inter Miami's completed Nu Stadium. A $180 million permit for Cohen Brothers' West Palm Point office tower at 850 South Quadrille Boulevard in West Palm Beach ranked second.",
-    "source": "The Real Deal",
-    "sourceUrl": "https://therealdeal.com/miami/2026/07/09/south-floridas-top-construction-permits-july-8-2026/",
-    "category": "Development",
-    "tags": ["Miami", "Miami Freedom Park", "West Palm Beach", "permits", "development"],
-    "importance": "high"
-  },
-  {
-    "id": 31,
-    "date": "2026-07-08",
-    "title": "Coral Gables Hospital ER Center Trades for $32M, Topping Week's Commercial Deals",
-    "summary": "Coral Gables Hospital's off-campus emergency center at 8665 Bird Road in Miami sold for $32 million - an Amdur Management affiliate selling the nearly 8-acre site to an LLC managed by Supermarket Management. A day earlier, the ~37,000 SF Gun Club Shopping Center at 4645 Gun Club Road in West Palm Beach traded for $15 million.",
-    "source": "The Real Deal",
-    "sourceUrl": "https://therealdeal.com/miami/2026/07/09/south-florida-top-real-estate-deals-july-8-2026/",
-    "category": "Commercial/CRE",
-    "tags": ["Miami", "medical", "West Palm Beach", "retail center", "top deals"],
-    "importance": "medium"
-  },
-  {
-    "id": 32,
-    "date": "2026-07-08",
-    "title": "Palm Beach $25M Sale Leads the Week; Pinecrest Mansion Fetches $17.5M",
-    "summary": "A 7,200 SF, six-bedroom home at 239 Emerald Lane in Palm Beach sold for $25 million to Terakeet co-founder Mac Cummings, leading South Florida's recorded residential deals for the week. A Pinecrest mansion at 13291 Old Cutler Road followed at $17.5 million.",
-    "source": "The Real Deal",
-    "sourceUrl": "https://therealdeal.com/miami/2026/07/09/south-florida-top-real-estate-deals-july-8-2026/",
-    "category": "Luxury",
-    "tags": ["Palm Beach", "Pinecrest", "top deals"],
-    "importance": "medium"
   }
 ]

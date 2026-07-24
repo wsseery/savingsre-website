@@ -1,11 +1,23 @@
 {
   "meta": {
     "created": "2026-07-06",
-    "updated": "2026-07-22",
+    "updated": "2026-07-24",
     "note": "Archive of items rotated off the live market/news_data.json 16-item list. Weekly refresh APPENDS dropped items here (newest first) - never delete. Same item schema as news_data.json. Not rendered on the site; kept for content reuse, history, and a future archive/search section.",
-    "count": 25
+    "count": 29
   },
   "items": [
+    {
+      "id": 34,
+      "date": "2026-07-09",
+      "archivedOn": "2026-07-24",
+      "title": "Palm Island Double-Lot Estate Sells for $40M, Leading the Week's Home Deals",
+      "summary": "Homebuilder Adrian Pedro sold a double-lot estate at 145-149 Palm Avenue on Miami Beach's Palm Island for $40 million to venture investor Ben Ling and Hedge Labs co-founder Christopher Coudron - the week's top recorded South Florida home sale. The property, with a pool, cabana and tennis court, had listed in September asking $59 million; the buyers already own the neighboring mansion.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/07/10/south-florida-top-real-estate-deals-july-9-2026/",
+      "category": "Luxury",
+      "tags": ["Miami Beach", "Palm Island", "waterfront", "top deals"],
+      "importance": "high"
+    },
     {
       "id": 30,
       "date": "2026-07-09",
@@ -17,6 +29,42 @@
       "category": "Market Data",
       "tags": ["mortgage rates", "jumbo", "financing"],
       "importance": "high"
+    },
+    {
+      "id": 36,
+      "date": "2026-07-08",
+      "archivedOn": "2026-07-24",
+      "title": "$193M Miami Freedom Park Permit Tops South Florida Construction Filings",
+      "summary": "The week's largest construction permit was a $193 million filing for Miami Freedom Park near Miami International Airport - a 1M+ SF retail, dining, office and hotel complex with 750 hotel rooms and a 58-acre public park anchored by Inter Miami's completed Nu Stadium. A $180 million permit for Cohen Brothers' West Palm Point office tower at 850 South Quadrille Boulevard in West Palm Beach ranked second.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/07/09/south-floridas-top-construction-permits-july-8-2026/",
+      "category": "Development",
+      "tags": ["Miami", "Miami Freedom Park", "West Palm Beach", "permits", "development"],
+      "importance": "high"
+    },
+    {
+      "id": 31,
+      "date": "2026-07-08",
+      "archivedOn": "2026-07-24",
+      "title": "Coral Gables Hospital ER Center Trades for $32M, Topping Week's Commercial Deals",
+      "summary": "Coral Gables Hospital's off-campus emergency center at 8665 Bird Road in Miami sold for $32 million - an Amdur Management affiliate selling the nearly 8-acre site to an LLC managed by Supermarket Management. A day earlier, the ~37,000 SF Gun Club Shopping Center at 4645 Gun Club Road in West Palm Beach traded for $15 million.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/07/09/south-florida-top-real-estate-deals-july-8-2026/",
+      "category": "Commercial/CRE",
+      "tags": ["Miami", "medical", "West Palm Beach", "retail center", "top deals"],
+      "importance": "medium"
+    },
+    {
+      "id": 32,
+      "date": "2026-07-08",
+      "archivedOn": "2026-07-24",
+      "title": "Palm Beach $25M Sale Leads the Week; Pinecrest Mansion Fetches $17.5M",
+      "summary": "A 7,200 SF, six-bedroom home at 239 Emerald Lane in Palm Beach sold for $25 million to Terakeet co-founder Mac Cummings, leading South Florida's recorded residential deals for the week. A Pinecrest mansion at 13291 Old Cutler Road followed at $17.5 million.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/07/09/south-florida-top-real-estate-deals-july-8-2026/",
+      "category": "Luxury",
+      "tags": ["Palm Beach", "Pinecrest", "top deals"],
+      "importance": "medium"
     },
     {
       "id": 33,
