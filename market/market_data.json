@@ -1,21 +1,22 @@
 {
   "meta": {
-    "updated": "2026-07-22",
-    "period": "Data through May-June 2026",
-    "coverage": "SE Florida (Palm Beach, Broward, Martin, St. Lucie, Miami-Dade) + statewide FL",
+    "updated": "2026-07-23",
+    "period": "Residential through June 2026; rates as of July 23, 2026",
+    "coverage": "SE Florida (Miami-Dade, Broward, Palm Beach, Martin, St. Lucie) + statewide FL",
     "disclaimer": "Figures compiled from public market reports (Florida Realtors, MIAMI Realtors, CBRE, Freddie Mac, FL OIR) and are informational only - not investment, tax, or financial advice. Deemed reliable but not guaranteed.",
-    "note_showingtime": "County/segment residential metrics can be refreshed from the RAPB-GFLR ShowingTime members portal via logged-in browser session; current values below are from public Florida Realtors / association releases."
+    "note_source": "Residential county metrics pulled monthly from the Florida Realtors county market reports (floridarealtors.org/tools-research/reports/florida-market-reports), released ~the 17th of each month for the prior month. This replaced the RAPB-GFLR ShowingTime MMI as the residential source on 2026-07-23 (ShowingTime lags; Florida Realtors publishes reliably mid-month and covers Miami-Dade)."
   },
   "residential": {
     "columns": ["Area", "SF Median", "SF YoY", "Condo Median", "Closed Sales YoY", "Homes for Sale YoY"],
-    "source": "BeachesMLS Monthly Market Indicators, May 2026 (RAPB / Broward, Palm Beaches & St. Lucie Realtors); statewide from Florida Realtors.",
-    "note": "Median prices are single-family and townhouse/condo. YoY changes per association releases.",
+    "source": "Florida Realtors Monthly Market Summary, June 2026 (data released July 17, 2026; compiled from FL MLS feeds on the 10th of the following month). Next release August 17, 2026.",
+    "note": "SF Median = single-family median sale price; Condo Median = townhouse/condo median sale price. Closed Sales YoY and Homes for Sale YoY are single-family, year-over-year.",
     "rows": [
-      { "area": "South Palm Beach County", "sfMedian": "$725,000", "sfYoy": "+13.3%", "condoMedian": "$300,000", "closedYoy": "+3.9%", "homesYoy": "-21.3%" },
-      { "area": "North Palm Beach County", "sfMedian": "$760,000", "sfYoy": "+6.1%", "condoMedian": "$380,000", "closedYoy": "+4.0%", "homesYoy": "-14.8%" },
-      { "area": "Broward County", "sfMedian": "$632,000", "sfYoy": "+1.1%", "condoMedian": "$270,000", "closedYoy": "-0.3%", "homesYoy": "-16.5%" },
-      { "area": "Treasure Coast (Martin / St. Lucie)", "sfMedian": "$432,500", "sfYoy": "+2.0%", "condoMedian": "$300,000", "closedYoy": "-5.8%", "homesYoy": "-15.2%" },
-      { "area": "Florida (statewide SF)", "sfMedian": "$425,000", "sfYoy": "+2.4%", "condoMedian": "-", "closedYoy": "+ (9th straight mo)", "homesYoy": "-" }
+      { "area": "Miami-Dade County", "sfMedian": "$695,000", "sfYoy": "+3.7%", "condoMedian": "$431,000", "closedYoy": "+16.8%", "homesYoy": "-22.7%" },
+      { "area": "Broward County", "sfMedian": "$645,000", "sfYoy": "+2.4%", "condoMedian": "$265,000", "closedYoy": "+26.0%", "homesYoy": "-24.3%" },
+      { "area": "Palm Beach County", "sfMedian": "$700,000", "sfYoy": "+11.8%", "condoMedian": "$325,000", "closedYoy": "+24.9%", "homesYoy": "-23.6%" },
+      { "area": "Martin County", "sfMedian": "$655,000", "sfYoy": "+1.1%", "condoMedian": "$253,750", "closedYoy": "+11.3%", "homesYoy": "-22.9%" },
+      { "area": "St. Lucie County", "sfMedian": "$399,000", "sfYoy": "+2.3%", "condoMedian": "$279,900", "closedYoy": "+8.3%", "homesYoy": "-10.8%" },
+      { "area": "Florida (statewide SF)", "sfMedian": "$432,000", "sfYoy": "+4.9%", "condoMedian": "-", "closedYoy": "+9.3%", "homesYoy": "-15.8%" }
     ]
   },
   "luxury": {
@@ -43,10 +44,10 @@
     ]
   },
   "rates": {
-    "updated": "2026-07-16",
+    "updated": "2026-07-23",
     "cards": [
-      { "label": "30-Yr Fixed (conforming)", "value": "6.55%", "sub": "Freddie Mac PMMS 7/16 - up from 6.49%; 6.75% a year ago" },
-      { "label": "30-Yr Jumbo", "value": "~6.63%", "sub": "Bankrate avg 7/15, up from 6.60%" },
+      { "label": "30-Yr Fixed (conforming)", "value": "6.58%", "sub": "Freddie Mac PMMS 7/23 - up from 6.55%; 6.74% a year ago" },
+      { "label": "30-Yr Jumbo", "value": "~6.78%", "sub": "Bankrate avg 7/23, up from 6.63%" },
       { "label": "Jumbo loan threshold", "value": "$832,750", "sub": "2026 FHFA baseline (most areas)" }
     ]
   },
