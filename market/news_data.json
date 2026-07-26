@@ -1,5 +1,16 @@
 [
   {
+    "id": 52,
+    "date": "2026-07-23",
+    "title": "West Palm Beach's Alba Sponsor Unit Sells for $10.4M to Lead the Week's Deals",
+    "summary": "David Goulden and Andrea Helen McDonough bought a sponsor unit at the new Alba Palm Beach condominium at 4714 North Flagler Drive in West Palm Beach for $10.4 million - the week's top recorded South Florida home sale (a five-bedroom, five-bathroom residence of about 4,500 square feet). The top commercial deal of the week was in Medley, where Miami-based developer Tekton Development paid $6.6 million for an industrial property, underscoring continued institutional appetite for infill Miami-Dade logistics real estate even through the slow summer season.",
+    "source": "The Real Deal",
+    "sourceUrl": "https://therealdeal.com/miami/2026/07/24/south-florida-top-real-estate-deals-july-23-2026/",
+    "category": "Luxury",
+    "tags": ["West Palm Beach", "Alba", "Medley", "industrial", "top deals"],
+    "importance": "high"
+  },
+  {
     "id": 50,
     "date": "2026-07-23",
     "title": "South Florida Luxury Price Threshold Jumps to $3.3M; Ultra-Luxury Hits $10.7M",
@@ -163,16 +174,5 @@
     "category": "Market Data",
     "tags": ["REITs", "returns", "H1 2026", "capital markets"],
     "importance": "medium"
-  },
-  {
-    "id": 35,
-    "date": "2026-07-09",
-    "title": "Sun Sentinel Printing Plant in Deerfield Beach Trades for $65M in Week's Top Commercial Deal",
-    "summary": "The Sun Sentinel's ~382,000 SF printing-press industrial complex at 333 SW 12th Avenue in Deerfield Beach sold for $65 million, with Gramercy Property Trust exiting a site it bought a decade ago for $25.5 million. Also active: Dallas-based Tabani Group's $25.7M purchase of Miami's Wynwood Jungle retail complex and Hertz offloading three parking lots for $13.2 million.",
-    "source": "The Real Deal",
-    "sourceUrl": "https://therealdeal.com/miami/2026/07/10/south-florida-top-real-estate-deals-july-9-2026/",
-    "category": "Commercial/CRE",
-    "tags": ["Deerfield Beach", "industrial", "Wynwood", "top deals"],
-    "importance": "high"
   }
 ]

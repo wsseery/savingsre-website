@@ -1,9 +1,9 @@
 {
   "meta": {
     "created": "2026-07-06",
-    "updated": "2026-07-24",
+    "updated": "2026-07-26",
     "note": "Archive of items rotated off the live market/news_data.json 16-item list. Weekly refresh APPENDS dropped items here (newest first) - never delete. Same item schema as news_data.json. Not rendered on the site; kept for content reuse, history, and a future archive/search section.",
-    "count": 29
+    "count": 30
   },
   "items": [
     {
@@ -28,6 +28,18 @@
       "sourceUrl": "https://www.freddiemac.com/pmms",
       "category": "Market Data",
       "tags": ["mortgage rates", "jumbo", "financing"],
+      "importance": "high"
+    },
+    {
+      "id": 35,
+      "date": "2026-07-09",
+      "archivedOn": "2026-07-26",
+      "title": "Sun Sentinel Printing Plant in Deerfield Beach Trades for $65M in Week's Top Commercial Deal",
+      "summary": "The Sun Sentinel's ~382,000 SF printing-press industrial complex at 333 SW 12th Avenue in Deerfield Beach sold for $65 million, with Gramercy Property Trust exiting a site it bought a decade ago for $25.5 million. Also active: Dallas-based Tabani Group's $25.7M purchase of Miami's Wynwood Jungle retail complex and Hertz offloading three parking lots for $13.2 million.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/07/10/south-florida-top-real-estate-deals-july-9-2026/",
+      "category": "Commercial/CRE",
+      "tags": ["Deerfield Beach", "industrial", "Wynwood", "top deals"],
       "importance": "high"
     },
     {
