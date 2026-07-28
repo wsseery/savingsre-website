@@ -1,0 +1,127 @@
+{
+ "segment": "delray-beach-mf",
+ "collection": "curated",
+ "template": "curated-generic",
+ "label": "Delray Beach Multifamily",
+ "tagline": "Top 5 · Delray Beach · income multifamily · ranked by cap",
+ "search_name": "Crexi 2026-07-28",
+ "generated": "2026-07-28",
+ "expires": "2026-08-27",
+ "total_results": 21,
+ "methodology": "Crexi pull 2026-07-28; broker-reported/advertised figures, not independently verified. Disguised: area + type + price band + cap band public, exact address & financials on request.",
+ "metric_label": "Cap rate",
+ "pdf": "pdf/delray-beach-mf__2026-07-28.pdf",
+ "items": [
+  {
+   "id": "delray-beach-mf-2026-07-28-01",
+   "analytics_id": "A-00568",
+   "rank": 1,
+   "submarket": "Boynton Beach (Palm Beach County)",
+   "profile": "3-unit multifamily",
+   "price_band": "$1M–$1.5M",
+   "cap_label": "~10.93% cap",
+   "desc": "3-unit multifamily in Boynton Beach (Palm Beach County); ~10.93% cap. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 3-unit multifamily, Boynton Beach (Palm Beach County) (~10.93% cap)",
+   "highlights": [
+    "3-unit multifamily",
+    "~10.93% cap",
+    "3 units · built 1950s",
+    "Investor: ~22–24% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~5–6x GRM"
+   ],
+   "inv_line": [
+    "~22–24% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~5–6x GRM"
+   ]
+  },
+  {
+   "id": "delray-beach-mf-2026-07-28-02",
+   "analytics_id": "A-00569",
+   "rank": 2,
+   "submarket": "Boynton Beach (Palm Beach County)",
+   "profile": "24-unit multifamily",
+   "price_band": "$5M–$6M",
+   "cap_label": "~6.20% cap",
+   "desc": "24-unit multifamily in Boynton Beach (Palm Beach County); ~6.20% cap. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 24-unit multifamily, Boynton Beach (Palm Beach County) (~6.20% cap)",
+   "highlights": [
+    "24-unit multifamily",
+    "~6.20% cap",
+    "24 units · built 1960s",
+    "Investor: ~3–5% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~9–10x GRM"
+   ],
+   "inv_line": [
+    "~3–5% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~9–10x GRM"
+   ]
+  },
+  {
+   "id": "delray-beach-mf-2026-07-28-03",
+   "analytics_id": "A-00570",
+   "rank": 3,
+   "submarket": "Ocean Ridge (Palm Beach County)",
+   "profile": "4-unit multifamily",
+   "price_band": "$1M–$1.5M",
+   "cap_label": "~4.00% cap",
+   "desc": "4-unit multifamily in Ocean Ridge (Palm Beach County); ~4.00% cap. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 4-unit multifamily, Ocean Ridge (Palm Beach County) (~4.00% cap)",
+   "highlights": [
+    "4-unit multifamily",
+    "~4.00% cap",
+    "4 units · built 1950s",
+    "Investor: Levered spread thin at ~7%% debt (rate-sensitive)",
+    "~15–16x GRM"
+   ],
+   "inv_line": [
+    "Levered spread thin at ~7%% debt (rate-sensitive)",
+    "~15–16x GRM"
+   ]
+  },
+  {
+   "id": "delray-beach-mf-2026-07-28-04",
+   "analytics_id": "A-00571",
+   "rank": 4,
+   "submarket": "Delray Beach (Palm Beach County)",
+   "profile": "2-unit multifamily",
+   "price_band": "$1M–$1.5M",
+   "cap_label": "~3.50% cap",
+   "desc": "2-unit multifamily in Delray Beach (Palm Beach County); ~3.50% cap. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 2-unit multifamily, Delray Beach (Palm Beach County) (~3.50% cap)",
+   "highlights": [
+    "2-unit multifamily",
+    "~3.50% cap",
+    "2 units · built 1980s",
+    "Investor: Levered spread thin at ~7%% debt (rate-sensitive)",
+    "~17–18x GRM"
+   ],
+   "inv_line": [
+    "Levered spread thin at ~7%% debt (rate-sensitive)",
+    "~17–18x GRM"
+   ]
+  },
+  {
+   "id": "delray-beach-mf-2026-07-28-05",
+   "analytics_id": "A-00572",
+   "rank": 5,
+   "submarket": "Delray Beach (Palm Beach County)",
+   "profile": "2-unit multifamily",
+   "price_band": "$500K–$1M",
+   "cap_label": "~3.35% cap",
+   "desc": "2-unit multifamily in Delray Beach (Palm Beach County); ~3.35% cap. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 2-unit multifamily, Delray Beach (Palm Beach County) (~3.35% cap)",
+   "highlights": [
+    "2-unit multifamily",
+    "~3.35% cap",
+    "2 units · built 1990s",
+    "Investor: Levered spread thin at ~7%% debt (rate-sensitive)",
+    "~17–18x GRM",
+    "Opportunity Zone"
+   ],
+   "inv_line": [
+    "Levered spread thin at ~7%% debt (rate-sensitive)",
+    "~17–18x GRM"
+   ]
+  }
+ ]
+}

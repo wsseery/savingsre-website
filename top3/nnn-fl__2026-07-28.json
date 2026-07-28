@@ -1,0 +1,183 @@
+{
+ "segment": "nnn-fl",
+ "collection": "curated",
+ "template": "curated-generic",
+ "label": "NNN Commercial — Florida",
+ "tagline": "Top 8 · Florida (statewide) · single & multi-tenant net lease · ranked by cap rate",
+ "search_name": "Crexi 2026-07-28",
+ "generated": "2026-07-28",
+ "expires": "2026-08-27",
+ "total_results": 4000,
+ "methodology": "Crexi pull 2026-07-28; broker-reported/advertised figures, not independently verified. Disguised: area + type + price band + cap band public, exact address & financials on request.",
+ "metric_label": "Cap rate",
+ "pdf": "pdf/nnn-fl__2026-07-28.pdf",
+ "items": [
+  {
+   "id": "nnn-fl-2026-07-28-01",
+   "analytics_id": "A-00580",
+   "rank": 1,
+   "submarket": "Fort Lauderdale",
+   "profile": "Net-lease retail",
+   "price_band": "$4M–$5M",
+   "cap_label": "~9.33% cap",
+   "desc": "Net-lease retail in Fort Lauderdale; ~9.33% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Net-lease retail, Fort Lauderdale (~9.33% cap)",
+   "highlights": [
+    "Net-lease retail · ~6,500 SF",
+    "~9.33% cap",
+    "Investor: ~15–17% est. cash-on-cash (25% down, IO @ ~7%)"
+   ],
+   "inv_line": [
+    "~15–17% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "nnn-fl-2026-07-28-02",
+   "analytics_id": "A-00581",
+   "rank": 2,
+   "submarket": "Orange Park (Clay County)",
+   "profile": "Single-tenant net lease",
+   "price_band": "$1.5M–$2M",
+   "cap_label": "~8.00% cap",
+   "desc": "Single-tenant net lease in Orange Park (Clay County); ~8.00% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Single-tenant net lease, Orange Park (Clay County) (~8.00% cap)",
+   "highlights": [
+    "Single-tenant net lease · ~39,000 SF",
+    "~8.00% cap",
+    "single-tenant",
+    "Investor: ~10–12% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~19 yr WALT"
+   ],
+   "inv_line": [
+    "~10–12% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "nnn-fl-2026-07-28-03",
+   "analytics_id": "A-00582",
+   "rank": 3,
+   "submarket": "Boynton Beach (Palm Beach County)",
+   "profile": "Single-tenant net lease",
+   "price_band": "$12M–$13M",
+   "cap_label": "~7.70% cap",
+   "desc": "Single-tenant net lease in Boynton Beach (Palm Beach County); ~7.70% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Single-tenant net lease, Boynton Beach (Palm Beach County) (~7.70% cap)",
+   "highlights": [
+    "Single-tenant net lease",
+    "~7.70% cap",
+    "single-tenant",
+    "Investor: ~9–11% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~5 yr WALT"
+   ],
+   "inv_line": [
+    "~9–11% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "nnn-fl-2026-07-28-04",
+   "analytics_id": "A-00583",
+   "rank": 4,
+   "submarket": "Boynton Beach (Palm Beach County)",
+   "profile": "Single-tenant net lease",
+   "price_band": "$5M–$6M",
+   "cap_label": "~7.65% cap",
+   "desc": "Single-tenant net lease in Boynton Beach (Palm Beach County); ~7.65% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Single-tenant net lease, Boynton Beach (Palm Beach County) (~7.65% cap)",
+   "highlights": [
+    "Single-tenant net lease · ~4,000 SF",
+    "~7.65% cap",
+    "single-tenant",
+    "Investor: ~9–11% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~4 yr WALT"
+   ],
+   "inv_line": [
+    "~9–11% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "nnn-fl-2026-07-28-05",
+   "analytics_id": "A-00584",
+   "rank": 5,
+   "submarket": "Jacksonville (Duval County)",
+   "profile": "Single-tenant net lease",
+   "price_band": "$3M–$4M",
+   "cap_label": "~7.50% cap",
+   "desc": "Single-tenant net lease in Jacksonville (Duval County); ~7.50% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Single-tenant net lease, Jacksonville (Duval County) (~7.50% cap)",
+   "highlights": [
+    "Single-tenant net lease",
+    "~7.50% cap",
+    "single-tenant",
+    "Investor: ~8–10% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Opportunity Zone",
+    "~20 yr WALT"
+   ],
+   "inv_line": [
+    "~8–10% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "nnn-fl-2026-07-28-06",
+   "analytics_id": "A-00585",
+   "rank": 6,
+   "submarket": "Tampa (Hillsborough County)",
+   "profile": "Single-tenant net lease",
+   "price_band": "$7M–$8M",
+   "cap_label": "~7.50% cap",
+   "desc": "Single-tenant net lease in Tampa (Hillsborough County); ~7.50% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Single-tenant net lease, Tampa (Hillsborough County) (~7.50% cap)",
+   "highlights": [
+    "Single-tenant net lease",
+    "~7.50% cap",
+    "single-tenant",
+    "Investor: ~8–10% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~20 yr WALT"
+   ],
+   "inv_line": [
+    "~8–10% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "nnn-fl-2026-07-28-07",
+   "analytics_id": "A-00586",
+   "rank": 7,
+   "submarket": "St. Augustine (St. Johns County)",
+   "profile": "Single-tenant net lease",
+   "price_band": "$4M–$5M",
+   "cap_label": "~7.47% cap",
+   "desc": "Single-tenant net lease in St. Augustine (St. Johns County); ~7.47% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Single-tenant net lease, St. Augustine (St. Johns County) (~7.47% cap)",
+   "highlights": [
+    "Single-tenant net lease · ~6,500 SF",
+    "~7.47% cap",
+    "single-tenant",
+    "Investor: ~8–10% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~10 yr WALT"
+   ],
+   "inv_line": [
+    "~8–10% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "nnn-fl-2026-07-28-08",
+   "analytics_id": "A-00587",
+   "rank": 8,
+   "submarket": "Daytona Beach (Volusia County)",
+   "profile": "Single-tenant net lease",
+   "price_band": "$2.5M–$3M",
+   "cap_label": "~7.21% cap",
+   "desc": "Single-tenant net lease in Daytona Beach (Volusia County); ~7.21% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Single-tenant net lease, Daytona Beach (Volusia County) (~7.21% cap)",
+   "highlights": [
+    "Single-tenant net lease",
+    "~7.21% cap",
+    "single-tenant",
+    "Investor: ~7–9% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~3 yr WALT"
+   ],
+   "inv_line": [
+    "~7–9% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  }
+ ]
+}

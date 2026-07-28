@@ -1,0 +1,211 @@
+{
+ "segment": "commercial-fl",
+ "collection": "curated",
+ "template": "curated-generic",
+ "label": "Commercial / Office — Florida",
+ "tagline": "Top 10 · Florida · office, mixed-use & commercial · ranked by cap rate",
+ "search_name": "Crexi 2026-07-28",
+ "generated": "2026-07-28",
+ "expires": "2026-08-27",
+ "total_results": 4000,
+ "methodology": "Crexi pull 2026-07-28; broker-reported/advertised figures, not independently verified. Disguised: area + type + price band + cap band public, exact address & financials on request.",
+ "metric_label": "Cap rate",
+ "pdf": "pdf/commercial-fl__2026-07-28.pdf",
+ "items": [
+  {
+   "id": "commercial-fl-2026-07-28-01",
+   "analytics_id": "A-00606",
+   "rank": 1,
+   "submarket": "Coral Springs (Broward County)",
+   "profile": "Office / commercial building",
+   "price_band": "$7M–$8M",
+   "cap_label": "~8.34% cap",
+   "desc": "Office / commercial building in Coral Springs (Broward County); ~8.34% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Office / commercial building, Coral Springs (Broward County) (~8.34% cap)",
+   "highlights": [
+    "Office / commercial building · ~50,000 SF",
+    "~8.34% cap",
+    "Investor: ~11–13% est. cash-on-cash (25% down, IO @ ~7%)"
+   ],
+   "inv_line": [
+    "~11–13% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "commercial-fl-2026-07-28-02",
+   "analytics_id": "A-00607",
+   "rank": 2,
+   "submarket": "Tampa (Hillsborough County)",
+   "profile": "Office / commercial building",
+   "price_band": "$3M–$4M",
+   "cap_label": "~8.02% cap",
+   "desc": "Office / commercial building in Tampa (Hillsborough County); ~8.02% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Office / commercial building, Tampa (Hillsborough County) (~8.02% cap)",
+   "highlights": [
+    "Office / commercial building · ~14,000 SF",
+    "~8.02% cap",
+    "Investor: ~10–12% est. cash-on-cash (25% down, IO @ ~7%)"
+   ],
+   "inv_line": [
+    "~10–12% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "commercial-fl-2026-07-28-03",
+   "analytics_id": "A-00608",
+   "rank": 3,
+   "submarket": "Tallahassee (Leon County)",
+   "profile": "Office / commercial building",
+   "price_band": "$11M–$12M",
+   "cap_label": "~7.51% cap",
+   "desc": "Office / commercial building in Tallahassee (Leon County); ~7.51% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Office / commercial building, Tallahassee (Leon County) (~7.51% cap)",
+   "highlights": [
+    "Office / commercial building",
+    "~7.51% cap",
+    "Investor: ~8–10% est. cash-on-cash (25% down, IO @ ~7%)"
+   ],
+   "inv_line": [
+    "~8–10% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "commercial-fl-2026-07-28-04",
+   "analytics_id": "A-00609",
+   "rank": 4,
+   "submarket": "Cape Coral (Lee County)",
+   "profile": "Office / commercial building",
+   "price_band": "$1M–$1.5M",
+   "cap_label": "~7.50% cap",
+   "desc": "Office / commercial building in Cape Coral (Lee County); ~7.50% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Office / commercial building, Cape Coral (Lee County) (~7.50% cap)",
+   "highlights": [
+    "Office / commercial building",
+    "~7.50% cap",
+    "Investor: ~8–10% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~2 yr WALT"
+   ],
+   "inv_line": [
+    "~8–10% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "commercial-fl-2026-07-28-05",
+   "analytics_id": "A-00610",
+   "rank": 5,
+   "submarket": "Sarasota (Sarasota County)",
+   "profile": "Office / commercial building",
+   "price_band": "$3M–$4M",
+   "cap_label": "~7.00% cap",
+   "desc": "Office / commercial building in Sarasota (Sarasota County); ~7.00% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Office / commercial building, Sarasota (Sarasota County) (~7.00% cap)",
+   "highlights": [
+    "Office / commercial building",
+    "~7.00% cap",
+    "Investor: ~6–8% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~4 yr WALT"
+   ],
+   "inv_line": [
+    "~6–8% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "commercial-fl-2026-07-28-06",
+   "analytics_id": "A-00611",
+   "rank": 6,
+   "submarket": "Fort Myers (Lee County)",
+   "profile": "Office / commercial building",
+   "price_band": "$2.5M–$3M",
+   "cap_label": "~7.00% cap",
+   "desc": "Office / commercial building in Fort Myers (Lee County); ~7.00% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Office / commercial building, Fort Myers (Lee County) (~7.00% cap)",
+   "highlights": [
+    "Office / commercial building · ~12,000 SF",
+    "~7.00% cap",
+    "Investor: ~6–8% est. cash-on-cash (25% down, IO @ ~7%)"
+   ],
+   "inv_line": [
+    "~6–8% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "commercial-fl-2026-07-28-07",
+   "analytics_id": "A-00612",
+   "rank": 7,
+   "submarket": "Kissimmee (Osceola County)",
+   "profile": "Office / commercial building",
+   "price_band": "$4M–$5M",
+   "cap_label": "~6.26% cap",
+   "desc": "Office / commercial building in Kissimmee (Osceola County); ~6.26% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Office / commercial building, Kissimmee (Osceola County) (~6.26% cap)",
+   "highlights": [
+    "Office / commercial building · ~9,000 SF",
+    "~6.26% cap",
+    "Investor: ~3–5% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~7 yr WALT"
+   ],
+   "inv_line": [
+    "~3–5% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "commercial-fl-2026-07-28-08",
+   "analytics_id": "A-00613",
+   "rank": 8,
+   "submarket": "Hialeah (MIAMI-DADE County)",
+   "profile": "Office / commercial building",
+   "price_band": "$11M–$12M",
+   "cap_label": "~6.12% cap",
+   "desc": "Office / commercial building in Hialeah (MIAMI-DADE County); ~6.12% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Office / commercial building, Hialeah (MIAMI-DADE County) (~6.12% cap)",
+   "highlights": [
+    "Office / commercial building · ~32,000 SF",
+    "~6.12% cap",
+    "Investor: ~2–4% est. cash-on-cash (25% down, IO @ ~7%)"
+   ],
+   "inv_line": [
+    "~2–4% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "commercial-fl-2026-07-28-09",
+   "analytics_id": "A-00614",
+   "rank": 9,
+   "submarket": "Tampa (Hillsborough County)",
+   "profile": "Office / commercial building",
+   "price_band": "$1M–$1.5M",
+   "cap_label": "~5.34% cap",
+   "desc": "Office / commercial building in Tampa (Hillsborough County); ~5.34% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Office / commercial building, Tampa (Hillsborough County) (~5.34% cap)",
+   "highlights": [
+    "Office / commercial building · ~2,000 SF",
+    "~5.34% cap",
+    "Investor: Levered spread thin at ~7%% debt (rate-sensitive)",
+    "~3 yr WALT"
+   ],
+   "inv_line": [
+    "Levered spread thin at ~7%% debt (rate-sensitive)"
+   ]
+  },
+  {
+   "id": "commercial-fl-2026-07-28-10",
+   "analytics_id": "A-00615",
+   "rank": 10,
+   "submarket": "Palm Beach Gardens (Palm Beach County)",
+   "profile": "Office / commercial building",
+   "price_band": "$9M–$10M",
+   "cap_label": "~5.25% cap",
+   "desc": "Office / commercial building in Palm Beach Gardens (Palm Beach County); ~5.25% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Office / commercial building, Palm Beach Gardens (Palm Beach County) (~5.25% cap)",
+   "highlights": [
+    "Office / commercial building",
+    "~5.25% cap",
+    "Investor: Levered spread thin at ~7%% debt (rate-sensitive)",
+    "~10 yr WALT"
+   ],
+   "inv_line": [
+    "Levered spread thin at ~7%% debt (rate-sensitive)"
+   ]
+  }
+ ]
+}

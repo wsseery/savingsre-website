@@ -1,0 +1,216 @@
+{
+ "segment": "gulf-coast-beach-mf",
+ "collection": "curated",
+ "template": "curated-generic",
+ "label": "Gulf-Coast Beach Multifamily",
+ "tagline": "Top 9 · Sarasota–Bradenton · income multifamily · ranked by cap",
+ "search_name": "Crexi 2026-07-28",
+ "generated": "2026-07-28",
+ "expires": "2026-08-27",
+ "total_results": 200,
+ "methodology": "Crexi pull 2026-07-28; broker-reported/advertised figures, not independently verified. Disguised: area + type + price band + cap band public, exact address & financials on request.",
+ "metric_label": "Cap rate",
+ "pdf": "pdf/gulf-coast-beach-mf__2026-07-28.pdf",
+ "items": [
+  {
+   "id": "gulf-coast-beach-mf-2026-07-28-01",
+   "analytics_id": "A-00549",
+   "rank": 1,
+   "submarket": "Venice (Sarasota County)",
+   "profile": "5-unit multifamily",
+   "price_band": "$1M–$1.5M",
+   "cap_label": "~9.00% cap",
+   "desc": "5-unit multifamily in Venice (Sarasota County); ~9.00% cap. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 5-unit multifamily, Venice (Sarasota County) (~9.00% cap)",
+   "highlights": [
+    "5-unit multifamily",
+    "~9.00% cap",
+    "5 units · built 1970s",
+    "Investor: ~14–16% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~6–7x GRM"
+   ],
+   "inv_line": [
+    "~14–16% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~6–7x GRM"
+   ]
+  },
+  {
+   "id": "gulf-coast-beach-mf-2026-07-28-02",
+   "analytics_id": "A-00554",
+   "rank": 2,
+   "submarket": "Bradenton (Manatee County)",
+   "profile": "30-unit multifamily",
+   "price_band": "$5M–$6M",
+   "cap_label": "~8.37% cap",
+   "desc": "30-unit multifamily in Bradenton (Manatee County); ~8.37% cap. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 30-unit multifamily, Bradenton (Manatee County) (~8.37% cap)",
+   "highlights": [
+    "30-unit multifamily",
+    "~8.37% cap",
+    "30 units · built 1980s",
+    "Investor: ~11–13% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~7–8x GRM",
+    "Opportunity Zone"
+   ],
+   "inv_line": [
+    "~11–13% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~7–8x GRM"
+   ]
+  },
+  {
+   "id": "gulf-coast-beach-mf-2026-07-28-03",
+   "analytics_id": "A-00551",
+   "rank": 3,
+   "submarket": "Sarasota (Sarasota County)",
+   "profile": "12-unit multifamily",
+   "price_band": "$1.5M–$2M",
+   "cap_label": "~8.09% cap",
+   "desc": "12-unit multifamily in Sarasota (Sarasota County); ~8.09% cap. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 12-unit multifamily, Sarasota (Sarasota County) (~8.09% cap)",
+   "highlights": [
+    "12-unit multifamily · ~10,000 SF",
+    "~8.09% cap",
+    "12 units · built 1970s",
+    "Investor: ~10–12% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~7–8x GRM"
+   ],
+   "inv_line": [
+    "~10–12% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~7–8x GRM"
+   ]
+  },
+  {
+   "id": "gulf-coast-beach-mf-2026-07-28-04",
+   "analytics_id": "A-00555",
+   "rank": 4,
+   "submarket": "Bradenton (Manatee County)",
+   "profile": "2-unit multifamily",
+   "price_band": "$0K–$500K",
+   "cap_label": "~8.02% cap",
+   "desc": "2-unit multifamily in Bradenton (Manatee County); ~8.02% cap. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 2-unit multifamily, Bradenton (Manatee County) (~8.02% cap)",
+   "highlights": [
+    "2-unit multifamily",
+    "~8.02% cap",
+    "2 units · built 1980s",
+    "Investor: ~10–12% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~7–8x GRM"
+   ],
+   "inv_line": [
+    "~10–12% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~7–8x GRM"
+   ]
+  },
+  {
+   "id": "gulf-coast-beach-mf-2026-07-28-05",
+   "analytics_id": "A-00556",
+   "rank": 5,
+   "submarket": "Bradenton (Manatee County)",
+   "profile": "2-unit multifamily",
+   "price_band": "$0K–$500K",
+   "cap_label": "~7.79% cap",
+   "desc": "2-unit multifamily in Bradenton (Manatee County); ~7.79% cap. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 2-unit multifamily, Bradenton (Manatee County) (~7.79% cap)",
+   "highlights": [
+    "2-unit multifamily",
+    "~7.79% cap",
+    "2 units · built 1970s",
+    "Investor: ~9–11% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~7–8x GRM"
+   ],
+   "inv_line": [
+    "~9–11% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~7–8x GRM"
+   ]
+  },
+  {
+   "id": "gulf-coast-beach-mf-2026-07-28-06",
+   "analytics_id": "A-00557",
+   "rank": 6,
+   "submarket": "Bradenton (Manatee County)",
+   "profile": "Value-add multifamily",
+   "price_band": "$0K–$500K",
+   "cap_label": "~7.73% cap",
+   "desc": "Value-add multifamily in Bradenton (Manatee County); ~7.73% cap. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Value-add multifamily, Bradenton (Manatee County) (~7.73% cap)",
+   "highlights": [
+    "Value-add multifamily",
+    "~7.73% cap",
+    "Investor: ~9–11% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~7–8x GRM",
+    "Opportunity Zone"
+   ],
+   "inv_line": [
+    "~9–11% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~7–8x GRM"
+   ]
+  },
+  {
+   "id": "gulf-coast-beach-mf-2026-07-28-07",
+   "analytics_id": "A-00558",
+   "rank": 7,
+   "submarket": "Bradenton (Manatee County)",
+   "profile": "Value-add multifamily",
+   "price_band": "$500K–$1M",
+   "cap_label": "~7.60% cap",
+   "desc": "Value-add multifamily in Bradenton (Manatee County); ~7.60% cap. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Value-add multifamily, Bradenton (Manatee County) (~7.60% cap)",
+   "highlights": [
+    "Value-add multifamily",
+    "~7.60% cap",
+    "Investor: ~8–10% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~7–8x GRM",
+    "Opportunity Zone"
+   ],
+   "inv_line": [
+    "~8–10% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~7–8x GRM"
+   ]
+  },
+  {
+   "id": "gulf-coast-beach-mf-2026-07-28-08",
+   "analytics_id": "A-00559",
+   "rank": 8,
+   "submarket": "Bradenton (Manatee County)",
+   "profile": "3-unit multifamily",
+   "price_band": "$0K–$500K",
+   "cap_label": "~7.35% cap",
+   "desc": "3-unit multifamily in Bradenton (Manatee County); ~7.35% cap. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 3-unit multifamily, Bradenton (Manatee County) (~7.35% cap)",
+   "highlights": [
+    "3-unit multifamily",
+    "~7.35% cap",
+    "3 units",
+    "Investor: ~7–9% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~8–9x GRM",
+    "Opportunity Zone"
+   ],
+   "inv_line": [
+    "~7–9% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~8–9x GRM"
+   ]
+  },
+  {
+   "id": "gulf-coast-beach-mf-2026-07-28-09",
+   "analytics_id": "A-00560",
+   "rank": 9,
+   "submarket": "Bradenton (Manatee County)",
+   "profile": "8-unit multifamily",
+   "price_band": "$2M–$2.5M",
+   "cap_label": "~6.57% cap",
+   "desc": "8-unit multifamily in Bradenton (Manatee County); ~6.57% cap. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 8-unit multifamily, Bradenton (Manatee County) (~6.57% cap)",
+   "highlights": [
+    "8-unit multifamily · ~8,500 SF",
+    "~6.57% cap",
+    "8 units · built 1980s",
+    "Investor: ~4–6% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~9–10x GRM"
+   ],
+   "inv_line": [
+    "~4–6% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~9–10x GRM"
+   ]
+  }
+ ]
+}

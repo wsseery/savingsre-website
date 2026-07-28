@@ -1,0 +1,159 @@
+{
+ "segment": "starter-mf-corridor",
+ "collection": "weekly-top3",
+ "template": "curated-generic",
+ "label": "Starter Multifamily — $800K to $2M",
+ "tagline": "Top 8 · Delray–Fort Lauderdale corridor · 2–9 units · ranked by lowest price per unit",
+ "search_name": "Crexi 2026-07-28",
+ "generated": "2026-07-28",
+ "expires": "2026-08-27",
+ "total_results": 250,
+ "methodology": "Crexi pull 2026-07-28; broker-reported/advertised figures, not independently verified. Disguised: area + type + price band + price/unit band public, exact address & financials on request.",
+ "metric_label": "Price per unit",
+ "pdf": "pdf/starter-mf-corridor__2026-07-28.pdf",
+ "items": [
+  {
+   "id": "starter-mf-corridor-2026-07-28-01",
+   "analytics_id": "A-00573",
+   "rank": 1,
+   "submarket": "Delray Beach (Palm Beach County)",
+   "profile": "4-unit multifamily",
+   "price_band": "$500K–$1M",
+   "cap_label": "~$200K/unit",
+   "desc": "4-unit multifamily in Delray Beach (Palm Beach County); ~$200K/unit. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 4-unit multifamily, Delray Beach (Palm Beach County) (~$200K/unit)",
+   "highlights": [
+    "4-unit multifamily",
+    "~$200K/unit",
+    "4 units · built 1960s"
+   ],
+   "inv_line": []
+  },
+  {
+   "id": "starter-mf-corridor-2026-07-28-02",
+   "analytics_id": "A-00574",
+   "rank": 2,
+   "submarket": "Pompano Beach (Broward County)",
+   "profile": "5-unit multifamily",
+   "price_band": "$1M–$1.5M",
+   "cap_label": "~$200K/unit",
+   "desc": "5-unit multifamily in Pompano Beach (Broward County); ~$200K/unit. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 5-unit multifamily, Pompano Beach (Broward County) (~$200K/unit)",
+   "highlights": [
+    "5-unit multifamily",
+    "~$200K/unit",
+    "5 units · built 1980s",
+    "Opportunity Zone"
+   ],
+   "inv_line": []
+  },
+  {
+   "id": "starter-mf-corridor-2026-07-28-03",
+   "analytics_id": "A-00575",
+   "rank": 3,
+   "submarket": "Pompano Beach (Broward County)",
+   "profile": "5-unit multifamily",
+   "price_band": "$1M–$1.5M",
+   "cap_label": "~$200K/unit",
+   "desc": "5-unit multifamily in Pompano Beach (Broward County); ~$200K/unit. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 5-unit multifamily, Pompano Beach (Broward County) (~$200K/unit)",
+   "highlights": [
+    "5-unit multifamily",
+    "~$200K/unit",
+    "5 units · built 1980s",
+    "Opportunity Zone"
+   ],
+   "inv_line": []
+  },
+  {
+   "id": "starter-mf-corridor-2026-07-28-04",
+   "analytics_id": "A-00566",
+   "rank": 4,
+   "submarket": "Pompano Beach (Broward County)",
+   "profile": "8-unit multifamily",
+   "price_band": "$1.5M–$2M",
+   "cap_label": "~$250K/unit",
+   "desc": "8-unit multifamily in Pompano Beach (Broward County); ~$250K/unit. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 8-unit multifamily, Pompano Beach (Broward County) (~$250K/unit)",
+   "highlights": [
+    "8-unit multifamily · ~5,000 SF",
+    "~$250K/unit",
+    "8 units · built 1950s",
+    "Investor: Levered spread thin at ~7%% debt (rate-sensitive)",
+    "~10–11x GRM"
+   ],
+   "inv_line": [
+    "Levered spread thin at ~7%% debt (rate-sensitive)",
+    "~10–11x GRM"
+   ]
+  },
+  {
+   "id": "starter-mf-corridor-2026-07-28-05",
+   "analytics_id": "A-00576",
+   "rank": 5,
+   "submarket": "Delray Beach (Palm Beach County)",
+   "profile": "4-unit multifamily",
+   "price_band": "$1M–$1.5M",
+   "cap_label": "~$275K/unit",
+   "desc": "4-unit multifamily in Delray Beach (Palm Beach County); ~$275K/unit. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 4-unit multifamily, Delray Beach (Palm Beach County) (~$275K/unit)",
+   "highlights": [
+    "4-unit multifamily",
+    "~$275K/unit",
+    "4 units · built 1950s"
+   ],
+   "inv_line": []
+  },
+  {
+   "id": "starter-mf-corridor-2026-07-28-06",
+   "analytics_id": "A-00577",
+   "rank": 6,
+   "submarket": "Pompano Beach (Broward County)",
+   "profile": "4-unit multifamily",
+   "price_band": "$1M–$1.5M",
+   "cap_label": "~$275K/unit",
+   "desc": "4-unit multifamily in Pompano Beach (Broward County); ~$275K/unit. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 4-unit multifamily, Pompano Beach (Broward County) (~$275K/unit)",
+   "highlights": [
+    "4-unit multifamily",
+    "~$275K/unit",
+    "4 units · built 1960s"
+   ],
+   "inv_line": []
+  },
+  {
+   "id": "starter-mf-corridor-2026-07-28-07",
+   "analytics_id": "A-00578",
+   "rank": 7,
+   "submarket": "Pompano Beach (Broward County)",
+   "profile": "6-unit multifamily",
+   "price_band": "$1.5M–$2M",
+   "cap_label": "~$325K/unit",
+   "desc": "6-unit multifamily in Pompano Beach (Broward County); ~$325K/unit. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 6-unit multifamily, Pompano Beach (Broward County) (~$325K/unit)",
+   "highlights": [
+    "6-unit multifamily",
+    "~$325K/unit",
+    "6 units · built 1960s"
+   ],
+   "inv_line": []
+  },
+  {
+   "id": "starter-mf-corridor-2026-07-28-08",
+   "analytics_id": "A-00579",
+   "rank": 8,
+   "submarket": "Pompano Beach (Broward County)",
+   "profile": "6-unit multifamily",
+   "price_band": "$1.5M–$2M",
+   "cap_label": "~$325K/unit",
+   "desc": "6-unit multifamily in Pompano Beach (Broward County); ~$325K/unit. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 6-unit multifamily, Pompano Beach (Broward County) (~$325K/unit)",
+   "highlights": [
+    "6-unit multifamily",
+    "~$325K/unit",
+    "6 units · built 1960s"
+   ],
+   "inv_line": []
+  }
+ ]
+}

@@ -1,0 +1,210 @@
+{
+ "segment": "medical-fl",
+ "collection": "curated",
+ "template": "curated-generic",
+ "label": "Medical Office — Florida",
+ "tagline": "Top 10 · Florida · medical & healthcare office · ranked by cap rate",
+ "search_name": "Crexi 2026-07-28",
+ "generated": "2026-07-28",
+ "expires": "2026-08-27",
+ "total_results": 4000,
+ "methodology": "Crexi pull 2026-07-28; broker-reported/advertised figures, not independently verified. Disguised: area + type + price band + cap band public, exact address & financials on request.",
+ "metric_label": "Cap rate",
+ "pdf": "pdf/medical-fl__2026-07-28.pdf",
+ "items": [
+  {
+   "id": "medical-fl-2026-07-28-01",
+   "analytics_id": "A-00596",
+   "rank": 1,
+   "submarket": "Orange Park",
+   "profile": "Medical office",
+   "price_band": "$1M–$1.5M",
+   "cap_label": "~8.00% cap",
+   "desc": "Medical office in Orange Park; ~8.00% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Medical office, Orange Park (~8.00% cap)",
+   "highlights": [
+    "Medical office · ~5,500 SF",
+    "~8.00% cap",
+    "Investor: ~10–12% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~1 yr WALT"
+   ],
+   "inv_line": [
+    "~10–12% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "medical-fl-2026-07-28-02",
+   "analytics_id": "A-00597",
+   "rank": 2,
+   "submarket": "Brandon (Hillsborough County)",
+   "profile": "Medical office",
+   "price_band": "$2.5M–$3M",
+   "cap_label": "~8.00% cap",
+   "desc": "Medical office in Brandon (Hillsborough County); ~8.00% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Medical office, Brandon (Hillsborough County) (~8.00% cap)",
+   "highlights": [
+    "Medical office",
+    "~8.00% cap",
+    "Investor: ~10–12% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~6 yr WALT"
+   ],
+   "inv_line": [
+    "~10–12% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "medical-fl-2026-07-28-03",
+   "analytics_id": "A-00598",
+   "rank": 3,
+   "submarket": "Jacksonville",
+   "profile": "Medical office",
+   "price_band": "$1.5M–$2M",
+   "cap_label": "~7.48% cap",
+   "desc": "Medical office in Jacksonville; ~7.48% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Medical office, Jacksonville (~7.48% cap)",
+   "highlights": [
+    "Medical office",
+    "~7.48% cap",
+    "Investor: ~8–10% est. cash-on-cash (25% down, IO @ ~7%)"
+   ],
+   "inv_line": [
+    "~8–10% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "medical-fl-2026-07-28-04",
+   "analytics_id": "A-00599",
+   "rank": 4,
+   "submarket": "Englewood",
+   "profile": "Medical office",
+   "price_band": "$500K–$1M",
+   "cap_label": "~7.40% cap",
+   "desc": "Medical office in Englewood; ~7.40% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Medical office, Englewood (~7.40% cap)",
+   "highlights": [
+    "Medical office · ~2,500 SF",
+    "~7.40% cap",
+    "Investor: ~8–10% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~5 yr WALT"
+   ],
+   "inv_line": [
+    "~8–10% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "medical-fl-2026-07-28-05",
+   "analytics_id": "A-00600",
+   "rank": 5,
+   "submarket": "Jacksonville (Duval County)",
+   "profile": "Medical office",
+   "price_band": "$2.5M–$3M",
+   "cap_label": "~7.25% cap",
+   "desc": "Medical office in Jacksonville (Duval County); ~7.25% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Medical office, Jacksonville (Duval County) (~7.25% cap)",
+   "highlights": [
+    "Medical office",
+    "~7.25% cap",
+    "Investor: ~7–9% est. cash-on-cash (25% down, IO @ ~7%)"
+   ],
+   "inv_line": [
+    "~7–9% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "medical-fl-2026-07-28-06",
+   "analytics_id": "A-00601",
+   "rank": 6,
+   "submarket": "Jacksonville (Duval County)",
+   "profile": "Medical office",
+   "price_band": "$1.5M–$2M",
+   "cap_label": "~7.03% cap",
+   "desc": "Medical office in Jacksonville (Duval County); ~7.03% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Medical office, Jacksonville (Duval County) (~7.03% cap)",
+   "highlights": [
+    "Medical office · ~7,000 SF",
+    "~7.03% cap",
+    "Investor: ~6–8% est. cash-on-cash (25% down, IO @ ~7%)"
+   ],
+   "inv_line": [
+    "~6–8% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "medical-fl-2026-07-28-07",
+   "analytics_id": "A-00602",
+   "rank": 7,
+   "submarket": "Orlando (Orange County)",
+   "profile": "Medical office",
+   "price_band": "$11M–$12M",
+   "cap_label": "~7.00% cap",
+   "desc": "Medical office in Orlando (Orange County); ~7.00% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Medical office, Orlando (Orange County) (~7.00% cap)",
+   "highlights": [
+    "Medical office",
+    "~7.00% cap",
+    "Investor: ~6–8% est. cash-on-cash (25% down, IO @ ~7%)"
+   ],
+   "inv_line": [
+    "~6–8% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "medical-fl-2026-07-28-08",
+   "analytics_id": "A-00603",
+   "rank": 8,
+   "submarket": "St. Cloud (Osceola County)",
+   "profile": "Medical office",
+   "price_band": "$1.5M–$2M",
+   "cap_label": "~6.75% cap",
+   "desc": "Medical office in St. Cloud (Osceola County); ~6.75% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Medical office, St. Cloud (Osceola County) (~6.75% cap)",
+   "highlights": [
+    "Medical office",
+    "~6.75% cap",
+    "Investor: ~5–7% est. cash-on-cash (25% down, IO @ ~7%)"
+   ],
+   "inv_line": [
+    "~5–7% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "medical-fl-2026-07-28-09",
+   "analytics_id": "A-00604",
+   "rank": 9,
+   "submarket": "Santa Rosa Beach (Walton County)",
+   "profile": "Medical office",
+   "price_band": "$11M–$12M",
+   "cap_label": "~6.70% cap",
+   "desc": "Medical office in Santa Rosa Beach (Walton County); ~6.70% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Medical office, Santa Rosa Beach (Walton County) (~6.70% cap)",
+   "highlights": [
+    "Medical office",
+    "~6.70% cap",
+    "Investor: ~5–7% est. cash-on-cash (25% down, IO @ ~7%)"
+   ],
+   "inv_line": [
+    "~5–7% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "medical-fl-2026-07-28-10",
+   "analytics_id": "A-00605",
+   "rank": 10,
+   "submarket": "Hollywood (Broward County)",
+   "profile": "Medical office",
+   "price_band": "$7M–$8M",
+   "cap_label": "~6.50% cap",
+   "desc": "Medical office in Hollywood (Broward County); ~6.50% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Medical office, Hollywood (Broward County) (~6.50% cap)",
+   "highlights": [
+    "Medical office · ~23,000 SF",
+    "~6.50% cap",
+    "Investor: ~4–6% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~1 yr WALT"
+   ],
+   "inv_line": [
+    "~4–6% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  }
+ ]
+}

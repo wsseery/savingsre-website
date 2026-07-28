@@ -1,0 +1,126 @@
+{
+ "segment": "high-yield-sfl",
+ "collection": "curated",
+ "template": "curated-generic",
+ "label": "High-Yield Multifamily — 8%+ Cap",
+ "tagline": "Top 5 · Florida (statewide) · 5–25 units · value-add & high-yield",
+ "search_name": "Crexi 2026-07-28",
+ "generated": "2026-07-28",
+ "expires": "2026-08-27",
+ "total_results": 3300,
+ "methodology": "Crexi pull 2026-07-28; broker-reported/advertised figures, not independently verified. Disguised: area + type + price band + cap band public, exact address & financials on request.",
+ "metric_label": "Cap rate",
+ "pdf": "pdf/high-yield-sfl__2026-07-28.pdf",
+ "items": [
+  {
+   "id": "high-yield-sfl-2026-07-28-01",
+   "analytics_id": "A-00549",
+   "rank": 1,
+   "submarket": "Venice (Sarasota County)",
+   "profile": "5-unit multifamily",
+   "price_band": "$1M–$1.5M",
+   "cap_label": "~9.00% cap",
+   "desc": "5-unit multifamily in Venice (Sarasota County); ~9.00% cap. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 5-unit multifamily, Venice (Sarasota County) (~9.00% cap)",
+   "highlights": [
+    "5-unit multifamily",
+    "~9.00% cap",
+    "5 units · built 1970s",
+    "Investor: ~14–16% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~6–7x GRM"
+   ],
+   "inv_line": [
+    "~14–16% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~6–7x GRM"
+   ]
+  },
+  {
+   "id": "high-yield-sfl-2026-07-28-02",
+   "analytics_id": "A-00550",
+   "rank": 2,
+   "submarket": "Pompano Beach (Broward County)",
+   "profile": "Value-add multifamily",
+   "price_band": "$2M–$2.5M",
+   "cap_label": "~8.32% cap",
+   "desc": "Value-add multifamily in Pompano Beach (Broward County); ~8.32% cap. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Value-add multifamily, Pompano Beach (Broward County) (~8.32% cap)",
+   "highlights": [
+    "Value-add multifamily · ~6,000 SF",
+    "~8.32% cap",
+    "Investor: ~11–13% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~7–8x GRM"
+   ],
+   "inv_line": [
+    "~11–13% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~7–8x GRM"
+   ]
+  },
+  {
+   "id": "high-yield-sfl-2026-07-28-03",
+   "analytics_id": "A-00551",
+   "rank": 3,
+   "submarket": "Sarasota (Sarasota County)",
+   "profile": "12-unit multifamily",
+   "price_band": "$1.5M–$2M",
+   "cap_label": "~8.09% cap",
+   "desc": "12-unit multifamily in Sarasota (Sarasota County); ~8.09% cap. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 12-unit multifamily, Sarasota (Sarasota County) (~8.09% cap)",
+   "highlights": [
+    "12-unit multifamily · ~10,000 SF",
+    "~8.09% cap",
+    "12 units · built 1970s",
+    "Investor: ~10–12% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~7–8x GRM"
+   ],
+   "inv_line": [
+    "~10–12% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~7–8x GRM"
+   ]
+  },
+  {
+   "id": "high-yield-sfl-2026-07-28-04",
+   "analytics_id": "A-00552",
+   "rank": 4,
+   "submarket": "Pompano Beach (Broward County)",
+   "profile": "Value-add multifamily",
+   "price_band": "$1M–$1.5M",
+   "cap_label": "~7.98% cap",
+   "desc": "Value-add multifamily in Pompano Beach (Broward County); ~7.98% cap. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Value-add multifamily, Pompano Beach (Broward County) (~7.98% cap)",
+   "highlights": [
+    "Value-add multifamily",
+    "~7.98% cap",
+    "Investor: ~10–12% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~7–8x GRM",
+    "Opportunity Zone"
+   ],
+   "inv_line": [
+    "~10–12% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~7–8x GRM"
+   ]
+  },
+  {
+   "id": "high-yield-sfl-2026-07-28-05",
+   "analytics_id": "A-00553",
+   "rank": 5,
+   "submarket": "Miami (Miami-Dade County)",
+   "profile": "18-unit multifamily",
+   "price_band": "$3M–$4M",
+   "cap_label": "~7.16% cap",
+   "desc": "18-unit multifamily in Miami (Miami-Dade County); ~7.16% cap. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 18-unit multifamily, Miami (Miami-Dade County) (~7.16% cap)",
+   "highlights": [
+    "18-unit multifamily · ~10,000 SF",
+    "~7.16% cap",
+    "18 units · built 1950s",
+    "Investor: ~7–9% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~8–9x GRM",
+    "Opportunity Zone"
+   ],
+   "inv_line": [
+    "~7–9% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~8–9x GRM"
+   ]
+  }
+ ]
+}

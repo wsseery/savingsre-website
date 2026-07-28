@@ -1,0 +1,237 @@
+{
+ "segment": "east-coast-beach-mf",
+ "collection": "curated",
+ "template": "curated-generic",
+ "label": "East-Coast Beach Multifamily",
+ "tagline": "Top 10 · Fort Lauderdale–Pompano–Deerfield · $1–5M income multifamily · ranked by cap",
+ "search_name": "Crexi 2026-07-28",
+ "generated": "2026-07-28",
+ "expires": "2026-08-27",
+ "total_results": 250,
+ "methodology": "Crexi pull 2026-07-28; broker-reported/advertised figures, not independently verified. Disguised: area + type + price band + cap band public, exact address & financials on request.",
+ "metric_label": "Cap rate",
+ "pdf": "pdf/east-coast-beach-mf__2026-07-28.pdf",
+ "items": [
+  {
+   "id": "east-coast-beach-mf-2026-07-28-01",
+   "analytics_id": "A-00550",
+   "rank": 1,
+   "submarket": "Pompano Beach (Broward County)",
+   "profile": "Value-add multifamily",
+   "price_band": "$2M–$2.5M",
+   "cap_label": "~8.32% cap",
+   "desc": "Value-add multifamily in Pompano Beach (Broward County); ~8.32% cap. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Value-add multifamily, Pompano Beach (Broward County) (~8.32% cap)",
+   "highlights": [
+    "Value-add multifamily · ~6,000 SF",
+    "~8.32% cap",
+    "Investor: ~11–13% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~7–8x GRM"
+   ],
+   "inv_line": [
+    "~11–13% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~7–8x GRM"
+   ]
+  },
+  {
+   "id": "east-coast-beach-mf-2026-07-28-02",
+   "analytics_id": "A-00552",
+   "rank": 2,
+   "submarket": "Pompano Beach (Broward County)",
+   "profile": "Value-add multifamily",
+   "price_band": "$1M–$1.5M",
+   "cap_label": "~7.98% cap",
+   "desc": "Value-add multifamily in Pompano Beach (Broward County); ~7.98% cap. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Value-add multifamily, Pompano Beach (Broward County) (~7.98% cap)",
+   "highlights": [
+    "Value-add multifamily",
+    "~7.98% cap",
+    "Investor: ~10–12% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~7–8x GRM",
+    "Opportunity Zone"
+   ],
+   "inv_line": [
+    "~10–12% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~7–8x GRM"
+   ]
+  },
+  {
+   "id": "east-coast-beach-mf-2026-07-28-03",
+   "analytics_id": "A-00553",
+   "rank": 3,
+   "submarket": "Miami (Miami-Dade County)",
+   "profile": "18-unit multifamily",
+   "price_band": "$3M–$4M",
+   "cap_label": "~7.16% cap",
+   "desc": "18-unit multifamily in Miami (Miami-Dade County); ~7.16% cap. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 18-unit multifamily, Miami (Miami-Dade County) (~7.16% cap)",
+   "highlights": [
+    "18-unit multifamily · ~10,000 SF",
+    "~7.16% cap",
+    "18 units · built 1950s",
+    "Investor: ~7–9% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~8–9x GRM",
+    "Opportunity Zone"
+   ],
+   "inv_line": [
+    "~7–9% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~8–9x GRM"
+   ]
+  },
+  {
+   "id": "east-coast-beach-mf-2026-07-28-04",
+   "analytics_id": "A-00561",
+   "rank": 4,
+   "submarket": "Deerfield Beach (Broward County)",
+   "profile": "25-unit multifamily",
+   "price_band": "$4M–$5M",
+   "cap_label": "~6.75% cap",
+   "desc": "25-unit multifamily in Deerfield Beach (Broward County); ~6.75% cap. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 25-unit multifamily, Deerfield Beach (Broward County) (~6.75% cap)",
+   "highlights": [
+    "25-unit multifamily",
+    "~6.75% cap",
+    "25 units · built 1970s",
+    "Investor: ~5–7% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~8–9x GRM"
+   ],
+   "inv_line": [
+    "~5–7% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~8–9x GRM"
+   ]
+  },
+  {
+   "id": "east-coast-beach-mf-2026-07-28-05",
+   "analytics_id": "A-00562",
+   "rank": 5,
+   "submarket": "Hollywood (Broward County)",
+   "profile": "14-unit multifamily",
+   "price_band": "$4M–$5M",
+   "cap_label": "~6.43% cap",
+   "desc": "14-unit multifamily in Hollywood (Broward County); ~6.43% cap. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 14-unit multifamily, Hollywood (Broward County) (~6.43% cap)",
+   "highlights": [
+    "14-unit multifamily",
+    "~6.43% cap",
+    "14 units · built 1960s",
+    "Investor: ~4–6% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~9–10x GRM"
+   ],
+   "inv_line": [
+    "~4–6% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~9–10x GRM"
+   ]
+  },
+  {
+   "id": "east-coast-beach-mf-2026-07-28-06",
+   "analytics_id": "A-00563",
+   "rank": 6,
+   "submarket": "Deerfield Beach (Broward County)",
+   "profile": "4-unit multifamily",
+   "price_band": "$500K–$1M",
+   "cap_label": "~6.14% cap",
+   "desc": "4-unit multifamily in Deerfield Beach (Broward County); ~6.14% cap. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 4-unit multifamily, Deerfield Beach (Broward County) (~6.14% cap)",
+   "highlights": [
+    "4-unit multifamily · ~2,500 SF",
+    "~6.14% cap",
+    "4 units · built 1970s",
+    "Investor: ~3–5% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~9–10x GRM"
+   ],
+   "inv_line": [
+    "~3–5% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~9–10x GRM"
+   ]
+  },
+  {
+   "id": "east-coast-beach-mf-2026-07-28-07",
+   "analytics_id": "A-00564",
+   "rank": 7,
+   "submarket": "Fort Lauderdale (Broward County)",
+   "profile": "40-unit multifamily",
+   "price_band": "$5M–$6M",
+   "cap_label": "~6.01% cap",
+   "desc": "40-unit multifamily in Fort Lauderdale (Broward County); ~6.01% cap. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 40-unit multifamily, Fort Lauderdale (Broward County) (~6.01% cap)",
+   "highlights": [
+    "40-unit multifamily · ~17,000 SF",
+    "~6.01% cap",
+    "40 units · built 1950s",
+    "Investor: ~2–4% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~9–10x GRM",
+    "Opportunity Zone"
+   ],
+   "inv_line": [
+    "~2–4% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~9–10x GRM"
+   ]
+  },
+  {
+   "id": "east-coast-beach-mf-2026-07-28-08",
+   "analytics_id": "A-00565",
+   "rank": 8,
+   "submarket": "Oakland Park (Broward County)",
+   "profile": "24-unit multifamily",
+   "price_band": "$4M–$5M",
+   "cap_label": "~6.00% cap",
+   "desc": "24-unit multifamily in Oakland Park (Broward County); ~6.00% cap. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 24-unit multifamily, Oakland Park (Broward County) (~6.00% cap)",
+   "highlights": [
+    "24-unit multifamily · ~18,000 SF",
+    "~6.00% cap",
+    "24 units · built 1960s",
+    "Investor: ~2–4% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~10–11x GRM"
+   ],
+   "inv_line": [
+    "~2–4% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~10–11x GRM"
+   ]
+  },
+  {
+   "id": "east-coast-beach-mf-2026-07-28-09",
+   "analytics_id": "A-00566",
+   "rank": 9,
+   "submarket": "Pompano Beach (Broward County)",
+   "profile": "8-unit multifamily",
+   "price_band": "$1.5M–$2M",
+   "cap_label": "~5.70% cap",
+   "desc": "8-unit multifamily in Pompano Beach (Broward County); ~5.70% cap. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 8-unit multifamily, Pompano Beach (Broward County) (~5.70% cap)",
+   "highlights": [
+    "8-unit multifamily · ~5,000 SF",
+    "~5.70% cap",
+    "8 units · built 1950s",
+    "Investor: Levered spread thin at ~7%% debt (rate-sensitive)",
+    "~10–11x GRM"
+   ],
+   "inv_line": [
+    "Levered spread thin at ~7%% debt (rate-sensitive)",
+    "~10–11x GRM"
+   ]
+  },
+  {
+   "id": "east-coast-beach-mf-2026-07-28-10",
+   "analytics_id": "A-00567",
+   "rank": 10,
+   "submarket": "Pompano Beach (Broward County)",
+   "profile": "4-unit multifamily",
+   "price_band": "$1.5M–$2M",
+   "cap_label": "~5.21% cap",
+   "desc": "4-unit multifamily in Pompano Beach (Broward County); ~5.21% cap. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 4-unit multifamily, Pompano Beach (Broward County) (~5.21% cap)",
+   "highlights": [
+    "4-unit multifamily",
+    "~5.21% cap",
+    "4 units · built 2000s",
+    "Investor: Levered spread thin at ~7%% debt (rate-sensitive)",
+    "~11–12x GRM"
+   ],
+   "inv_line": [
+    "Levered spread thin at ~7%% debt (rate-sensitive)",
+    "~11–12x GRM"
+   ]
+  }
+ ]
+}

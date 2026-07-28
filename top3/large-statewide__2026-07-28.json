@@ -1,0 +1,124 @@
+{
+ "segment": "large-statewide",
+ "collection": "curated",
+ "template": "curated-generic",
+ "label": "Larger Investments — 40+ Units",
+ "tagline": "Top 10 · Statewide · 40+ unit apartment communities · ranked by scale",
+ "search_name": "Crexi 2026-07-28",
+ "generated": "2026-07-28",
+ "expires": "2026-08-27",
+ "total_results": 3300,
+ "methodology": "Crexi pull 2026-07-28; broker-reported/advertised figures, not independently verified. Disguised: area + type + price band + scale band public, exact address & financials on request.",
+ "metric_label": "Price per unit",
+ "pdf": "pdf/large-statewide__2026-07-28.pdf",
+ "items": [
+  {
+   "id": "large-statewide-2026-07-28-01",
+   "analytics_id": "A-00616",
+   "rank": 1,
+   "submarket": "Hollywood (Broward County)",
+   "profile": "261-unit apartment community",
+   "price_band": "$10M–$11M",
+   "cap_label": "~$50K/unit",
+   "desc": "261-unit apartment community in Hollywood (Broward County); ~$50K/unit. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 261-unit apartment community, Hollywood (Broward County) (~$50K/unit)",
+   "highlights": [
+    "261-unit apartment community · ~223,000 SF",
+    "~$50K/unit",
+    "261 units"
+   ],
+   "inv_line": []
+  },
+  {
+   "id": "large-statewide-2026-07-28-02",
+   "analytics_id": "A-00617",
+   "rank": 2,
+   "submarket": "Sunrise (Broward County)",
+   "profile": "72-unit apartment community",
+   "price_band": "Price on request",
+   "cap_label": "72 units",
+   "desc": "72-unit apartment community in Sunrise (Broward County); 72 units. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 72-unit apartment community, Sunrise (Broward County) (72 units)",
+   "highlights": [
+    "72-unit apartment community",
+    "72 units",
+    "72 units · built 1970s"
+   ],
+   "inv_line": []
+  },
+  {
+   "id": "large-statewide-2026-07-28-03",
+   "analytics_id": "A-00618",
+   "rank": 3,
+   "submarket": "New Port Richey (Pasco County)",
+   "profile": "71-unit apartment community",
+   "price_band": "Price on request",
+   "cap_label": "71 units",
+   "desc": "71-unit apartment community in New Port Richey (Pasco County); 71 units. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 71-unit apartment community, New Port Richey (Pasco County) (71 units)",
+   "highlights": [
+    "71-unit apartment community",
+    "71 units",
+    "71 units · built 1980s"
+   ],
+   "inv_line": []
+  },
+  {
+   "id": "large-statewide-2026-07-28-04",
+   "analytics_id": "A-00619",
+   "rank": 4,
+   "submarket": "Jacksonville (DUVAL County)",
+   "profile": "52-unit apartment community",
+   "price_band": "Price on request",
+   "cap_label": "52 units",
+   "desc": "52-unit apartment community in Jacksonville (DUVAL County); 52 units. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 52-unit apartment community, Jacksonville (DUVAL County) (52 units)",
+   "highlights": [
+    "52-unit apartment community",
+    "52 units",
+    "52 units · built 1960s"
+   ],
+   "inv_line": []
+  },
+  {
+   "id": "large-statewide-2026-07-28-05",
+   "analytics_id": "A-00620",
+   "rank": 5,
+   "submarket": "Daytona Beach (Volusia County)",
+   "profile": "50-unit apartment community",
+   "price_band": "$7M–$8M",
+   "cap_label": "~$150K/unit",
+   "desc": "50-unit apartment community in Daytona Beach (Volusia County); ~$150K/unit. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 50-unit apartment community, Daytona Beach (Volusia County) (~$150K/unit)",
+   "highlights": [
+    "50-unit apartment community",
+    "~$150K/unit",
+    "50 units · built 1980s",
+    "Investor: ~3–5% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~9–10x GRM"
+   ],
+   "inv_line": [
+    "~3–5% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~9–10x GRM"
+   ]
+  },
+  {
+   "id": "large-statewide-2026-07-28-06",
+   "analytics_id": "A-00621",
+   "rank": 6,
+   "submarket": "South Daytona (Volusia County)",
+   "profile": "40-unit apartment community",
+   "price_band": "Price on request",
+   "cap_label": "40 units",
+   "desc": "40-unit apartment community in South Daytona (Volusia County); 40 units. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 40-unit apartment community, South Daytona (Volusia County) (40 units)",
+   "highlights": [
+    "40-unit apartment community · ~48,000 SF",
+    "40 units",
+    "40 units · built 1970s",
+    "Opportunity Zone"
+   ],
+   "inv_line": []
+  }
+ ]
+}

@@ -1,0 +1,178 @@
+{
+ "segment": "strip-mall-fl",
+ "collection": "curated",
+ "template": "curated-generic",
+ "label": "Strip & Neighborhood Centers — Florida",
+ "tagline": "Top 8 · Florida · multi-tenant retail centers · ranked by cap rate",
+ "search_name": "Crexi 2026-07-28",
+ "generated": "2026-07-28",
+ "expires": "2026-08-27",
+ "total_results": 4000,
+ "methodology": "Crexi pull 2026-07-28; broker-reported/advertised figures, not independently verified. Disguised: area + type + price band + cap band public, exact address & financials on request.",
+ "metric_label": "Cap rate",
+ "pdf": "pdf/strip-mall-fl__2026-07-28.pdf",
+ "items": [
+  {
+   "id": "strip-mall-fl-2026-07-28-01",
+   "analytics_id": "A-00588",
+   "rank": 1,
+   "submarket": "Melbourne (Brevard County)",
+   "profile": "Multi-tenant retail center",
+   "price_band": "$3M–$4M",
+   "cap_label": "~7.71% cap",
+   "desc": "Multi-tenant retail center in Melbourne (Brevard County); ~7.71% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Multi-tenant retail center, Melbourne (Brevard County) (~7.71% cap)",
+   "highlights": [
+    "Multi-tenant retail center · ~6,500 SF",
+    "~7.71% cap",
+    "multi-tenant",
+    "Investor: ~9–11% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~10 yr WALT"
+   ],
+   "inv_line": [
+    "~9–11% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "strip-mall-fl-2026-07-28-02",
+   "analytics_id": "A-00589",
+   "rank": 2,
+   "submarket": "Leesburg (Lake County)",
+   "profile": "Multi-tenant retail center",
+   "price_band": "$1.5M–$2M",
+   "cap_label": "~7.67% cap",
+   "desc": "Multi-tenant retail center in Leesburg (Lake County); ~7.67% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Multi-tenant retail center, Leesburg (Lake County) (~7.67% cap)",
+   "highlights": [
+    "Multi-tenant retail center",
+    "~7.67% cap",
+    "multi-tenant",
+    "Investor: ~9–11% est. cash-on-cash (25% down, IO @ ~7%)"
+   ],
+   "inv_line": [
+    "~9–11% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "strip-mall-fl-2026-07-28-03",
+   "analytics_id": "A-00590",
+   "rank": 3,
+   "submarket": "Port St. Lucie (St. Lucie County)",
+   "profile": "Multi-tenant retail center",
+   "price_band": "$3M–$4M",
+   "cap_label": "~7.50% cap",
+   "desc": "Multi-tenant retail center in Port St. Lucie (St. Lucie County); ~7.50% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Multi-tenant retail center, Port St. Lucie (St. Lucie County) (~7.50% cap)",
+   "highlights": [
+    "Multi-tenant retail center · ~4,000 SF",
+    "~7.50% cap",
+    "multi-tenant",
+    "Investor: ~8–10% est. cash-on-cash (25% down, IO @ ~7%)"
+   ],
+   "inv_line": [
+    "~8–10% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "strip-mall-fl-2026-07-28-04",
+   "analytics_id": "A-00591",
+   "rank": 4,
+   "submarket": "Apopka (Orange County)",
+   "profile": "Multi-tenant retail center",
+   "price_band": "$22M–$23M",
+   "cap_label": "~7.30% cap",
+   "desc": "Multi-tenant retail center in Apopka (Orange County); ~7.30% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Multi-tenant retail center, Apopka (Orange County) (~7.30% cap)",
+   "highlights": [
+    "Multi-tenant retail center",
+    "~7.30% cap",
+    "multi-tenant",
+    "Investor: ~7–9% est. cash-on-cash (25% down, IO @ ~7%)"
+   ],
+   "inv_line": [
+    "~7–9% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "strip-mall-fl-2026-07-28-05",
+   "analytics_id": "A-00592",
+   "rank": 5,
+   "submarket": "Fleming Island (Clay County)",
+   "profile": "Multi-tenant retail center",
+   "price_band": "$3M–$4M",
+   "cap_label": "~7.25% cap",
+   "desc": "Multi-tenant retail center in Fleming Island (Clay County); ~7.25% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Multi-tenant retail center, Fleming Island (Clay County) (~7.25% cap)",
+   "highlights": [
+    "Multi-tenant retail center · ~10,000 SF",
+    "~7.25% cap",
+    "multi-tenant",
+    "Investor: ~7–9% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~5 yr WALT"
+   ],
+   "inv_line": [
+    "~7–9% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "strip-mall-fl-2026-07-28-06",
+   "analytics_id": "A-00593",
+   "rank": 6,
+   "submarket": "Santa Rosa Beach (Walton County)",
+   "profile": "Multi-tenant retail center",
+   "price_band": "$6M–$7M",
+   "cap_label": "~7.06% cap",
+   "desc": "Multi-tenant retail center in Santa Rosa Beach (Walton County); ~7.06% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Multi-tenant retail center, Santa Rosa Beach (Walton County) (~7.06% cap)",
+   "highlights": [
+    "Multi-tenant retail center · ~12,000 SF",
+    "~7.06% cap",
+    "multi-tenant",
+    "Investor: ~6–8% est. cash-on-cash (25% down, IO @ ~7%)"
+   ],
+   "inv_line": [
+    "~6–8% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "strip-mall-fl-2026-07-28-07",
+   "analytics_id": "A-00594",
+   "rank": 7,
+   "submarket": "Miami Gardens (Miami-Dade County)",
+   "profile": "Multi-tenant retail center",
+   "price_band": "$6M–$7M",
+   "cap_label": "~7.03% cap",
+   "desc": "Multi-tenant retail center in Miami Gardens (Miami-Dade County); ~7.03% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Multi-tenant retail center, Miami Gardens (Miami-Dade County) (~7.03% cap)",
+   "highlights": [
+    "Multi-tenant retail center · ~18,000 SF",
+    "~7.03% cap",
+    "multi-tenant",
+    "Investor: ~6–8% est. cash-on-cash (25% down, IO @ ~7%)"
+   ],
+   "inv_line": [
+    "~6–8% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "strip-mall-fl-2026-07-28-08",
+   "analytics_id": "A-00595",
+   "rank": 8,
+   "submarket": "Orange City (Volusia County)",
+   "profile": "Multi-tenant retail center",
+   "price_band": "$7M–$8M",
+   "cap_label": "~6.51% cap",
+   "desc": "Multi-tenant retail center in Orange City (Volusia County); ~6.51% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Multi-tenant retail center, Orange City (Volusia County) (~6.51% cap)",
+   "highlights": [
+    "Multi-tenant retail center · ~36,000 SF",
+    "~6.51% cap",
+    "multi-tenant",
+    "Investor: ~4–6% est. cash-on-cash (25% down, IO @ ~7%)"
+   ],
+   "inv_line": [
+    "~4–6% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  }
+ ]
+}
