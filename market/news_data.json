@@ -1,5 +1,38 @@
 [
   {
+    "id": 55,
+    "date": "2026-07-27",
+    "title": "Integra Buys Condemned 304-Unit Pembroke Pines Condo Complex for $20.5M",
+    "summary": "Miami-based Integra Investments acquired Heron Pond - a vacant 304-unit, 19-building condominium community at 8320 Southwest 1st Street in Pembroke Pines - for $20.5 million through a court-appointed receivership auction, closing a legal battle after a bulk-unit owner's challenge was denied. Built in 1988 as apartments and converted to condos in 2000, the complex has sat empty since the city declared it unsafe and evacuated residents in 2024 over termite damage, rotted beams and wind-resistance defects. In-place zoning allows up to 321 units by right and the count could more than double through upzoning - a large-scale value-add/redevelopment play in western Broward.",
+    "source": "Connect CRE / The Real Deal",
+    "sourceUrl": "https://www.connectcre.com/stories/vacant-pembroke-pines-condo-community-trades-for-20-5m/",
+    "category": "Multifamily",
+    "tags": ["Pembroke Pines", "Broward", "distressed", "value-add", "redevelopment"],
+    "importance": "high"
+  },
+  {
+    "id": 53,
+    "date": "2026-07-24",
+    "title": "Miami Beach Penthouse Sells for $23.5M to Lead the Week's Home Deals",
+    "summary": "A trust tied to Yves Mongeau and Sylvie Guilbault sold a 9,000 SF penthouse at 450 Alton Road in Miami Beach for $23.5 million - about $2,600 per square foot - the week's top recorded South Florida home sale (six bedrooms, seven-and-a-half baths; the sellers had paid $15 million in 2013, last asking $28.9 million), with Akron Warwick Exchange LLC buying. In Surfside, fashion designer Tomas Maier and Andrew Preston sold a Surf Club Four Seasons condo at 9111 Collins Avenue for $17.7 million, or $5,900 per square foot, after paying $13 million in 2023.",
+    "source": "The Real Deal",
+    "sourceUrl": "https://therealdeal.com/miami/2026/07/27/south-florida-top-real-estate-deals-july-24-2026/",
+    "category": "Luxury",
+    "tags": ["Miami Beach", "penthouse", "Surfside", "Surf Club", "top deals"],
+    "importance": "high"
+  },
+  {
+    "id": 54,
+    "date": "2026-07-24",
+    "title": "Waste Management Pays $379M for Medley Landfill Site in Week's Top Commercial Deal",
+    "summary": "Waste Management Inc. paid $379.4 million for a 146-acre, largely vacant industrial site near Northwest 95th Avenue and Northwest 106th Street in Medley - buying from a company managed by Lowell and Loretta Dunn and planning to use it as a landfill - South Florida's largest recorded commercial deal of the week. Also trading: HarborChase of Boynton Beach, a 120,000 SF senior-living community built in 2023, sold for just under $35 million (a Lotis-Chaudhary Development Group affiliate to LA-based Range Equity Management), and a WareSpace affiliate bought a 119,000 SF Medley industrial building from a Blackstone/Link Logistics entity for $15 million ($126 per square foot).",
+    "source": "The Real Deal",
+    "sourceUrl": "https://therealdeal.com/miami/2026/07/27/south-florida-top-real-estate-deals-july-24-2026/",
+    "category": "Commercial/CRE",
+    "tags": ["Medley", "industrial", "Waste Management", "senior living", "Boynton Beach"],
+    "importance": "high"
+  },
+  {
     "id": 52,
     "date": "2026-07-23",
     "title": "West Palm Beach's Alba Sponsor Unit Sells for $10.4M to Lead the Week's Deals",
@@ -141,38 +174,5 @@
     "category": "Luxury",
     "tags": ["Miami Beach", "Star Island", "Boca Raton", "Jupiter", "top deals"],
     "importance": "high"
-  },
-  {
-    "id": 38,
-    "date": "2026-07-13",
-    "title": "Venetian Islands Home Doubles to $42.5M; Royal-Linked Palm Beach Estate Fetches $31.8M",
-    "summary": "A 2025-built waterfront home at 416 West San Marino Drive on Miami Beach's Venetian Islands traded for $42.5 million - nearly double the $23.1 million it fetched in 2024 - with Long Light Capital CEO Justin Korsant selling. In Palm Beach, a trust tied to the late Prince Albrecht of Oettingen-Spielberg sold the oceanfront home at 143 East Inlet Drive for $31.8 million after decades of family ownership, while Coral Gables saw a $24.5M Casuarina Concourse mansion and a $20.5M Balada Street sale by a trust tied to former Tinder CEO Gregory Blatt.",
-    "source": "The Real Deal",
-    "sourceUrl": "https://therealdeal.com/miami/2026/07/14/south-florida-top-real-estate-deals-july-13-2026/",
-    "category": "Luxury",
-    "tags": ["Miami Beach", "Venetian Islands", "Palm Beach", "Coral Gables", "top deals"],
-    "importance": "high"
-  },
-  {
-    "id": 39,
-    "date": "2026-07-13",
-    "title": "Longpoint Pays $24.6M for 90K SF Miami Warehouse Complex in Week's Top Commercial Deal",
-    "summary": "A two-building warehouse complex at 8452 Northwest 72nd Street in Miami spanning nearly 90,000 SF sold for $24.6 million - about $273 per square foot - with a trust selling to an affiliate of Boston-based Longpoint. Institutional industrial buyers continue to pay up for infill Miami-Dade logistics product.",
-    "source": "The Real Deal",
-    "sourceUrl": "https://therealdeal.com/miami/2026/07/14/south-florida-top-real-estate-deals-july-13-2026/",
-    "category": "Commercial/CRE",
-    "tags": ["Miami", "industrial", "warehouse", "Longpoint", "top deals"],
-    "importance": "medium"
-  },
-  {
-    "id": 40,
-    "date": "2026-07-13",
-    "title": "REITs Outperform the Broader Market in H1 2026 on Strong Operating Fundamentals",
-    "summary": "The Nareit All Equity REIT index posted total returns of nearly 15% across the first and second quarters of 2026, beating the Russell 1000 (10.3%) and the S&P 500 (10.2%) despite elevated interest rates - a signal that property-level cash flows, not cheap debt, are driving real estate returns this cycle.",
-    "source": "The Real Deal / Nareit",
-    "sourceUrl": "https://therealdeal.com/miami/2026/07/14/south-florida-top-real-estate-deals-july-13-2026/",
-    "category": "Market Data",
-    "tags": ["REITs", "returns", "H1 2026", "capital markets"],
-    "importance": "medium"
   }
 ]

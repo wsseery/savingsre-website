@@ -1,11 +1,47 @@
 {
   "meta": {
     "created": "2026-07-06",
-    "updated": "2026-07-26",
+    "updated": "2026-07-28",
     "note": "Archive of items rotated off the live market/news_data.json 16-item list. Weekly refresh APPENDS dropped items here (newest first) - never delete. Same item schema as news_data.json. Not rendered on the site; kept for content reuse, history, and a future archive/search section.",
-    "count": 30
+    "count": 33
   },
   "items": [
+    {
+      "id": 38,
+      "date": "2026-07-13",
+      "archivedOn": "2026-07-28",
+      "title": "Venetian Islands Home Doubles to $42.5M; Royal-Linked Palm Beach Estate Fetches $31.8M",
+      "summary": "A 2025-built waterfront home at 416 West San Marino Drive on Miami Beach's Venetian Islands traded for $42.5 million - nearly double the $23.1 million it fetched in 2024 - with Long Light Capital CEO Justin Korsant selling. In Palm Beach, a trust tied to the late Prince Albrecht of Oettingen-Spielberg sold the oceanfront home at 143 East Inlet Drive for $31.8 million after decades of family ownership, while Coral Gables saw a $24.5M Casuarina Concourse mansion and a $20.5M Balada Street sale by a trust tied to former Tinder CEO Gregory Blatt.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/07/14/south-florida-top-real-estate-deals-july-13-2026/",
+      "category": "Luxury",
+      "tags": ["Miami Beach", "Venetian Islands", "Palm Beach", "Coral Gables", "top deals"],
+      "importance": "high"
+    },
+    {
+      "id": 39,
+      "date": "2026-07-13",
+      "archivedOn": "2026-07-28",
+      "title": "Longpoint Pays $24.6M for 90K SF Miami Warehouse Complex in Week's Top Commercial Deal",
+      "summary": "A two-building warehouse complex at 8452 Northwest 72nd Street in Miami spanning nearly 90,000 SF sold for $24.6 million - about $273 per square foot - with a trust selling to an affiliate of Boston-based Longpoint. Institutional industrial buyers continue to pay up for infill Miami-Dade logistics product.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/07/14/south-florida-top-real-estate-deals-july-13-2026/",
+      "category": "Commercial/CRE",
+      "tags": ["Miami", "industrial", "warehouse", "Longpoint", "top deals"],
+      "importance": "medium"
+    },
+    {
+      "id": 40,
+      "date": "2026-07-13",
+      "archivedOn": "2026-07-28",
+      "title": "REITs Outperform the Broader Market in H1 2026 on Strong Operating Fundamentals",
+      "summary": "The Nareit All Equity REIT index posted total returns of nearly 15% across the first and second quarters of 2026, beating the Russell 1000 (10.3%) and the S&P 500 (10.2%) despite elevated interest rates - a signal that property-level cash flows, not cheap debt, are driving real estate returns this cycle.",
+      "source": "The Real Deal / Nareit",
+      "sourceUrl": "https://therealdeal.com/miami/2026/07/14/south-florida-top-real-estate-deals-july-13-2026/",
+      "category": "Market Data",
+      "tags": ["REITs", "returns", "H1 2026", "capital markets"],
+      "importance": "medium"
+    },
     {
       "id": 34,
       "date": "2026-07-09",
