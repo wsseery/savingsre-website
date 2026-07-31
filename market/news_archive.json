@@ -1,11 +1,47 @@
 {
   "meta": {
     "created": "2026-07-06",
-    "updated": "2026-07-28",
+    "updated": "2026-07-31",
     "note": "Archive of items rotated off the live market/news_data.json 16-item list. Weekly refresh APPENDS dropped items here (newest first) - never delete. Same item schema as news_data.json. Not rendered on the site; kept for content reuse, history, and a future archive/search section.",
-    "count": 33
+    "count": 36
   },
   "items": [
+    {
+      "id": 41,
+      "date": "2026-07-16",
+      "archivedOn": "2026-07-31",
+      "title": "Mortgage Rates Rise a Second Straight Week: 30-Yr Fixed 6.55%, 15-Yr 5.93%",
+      "summary": "Freddie Mac's 30-year fixed averaged 6.55% the week of July 16, up from 6.49% and marking a second consecutive weekly increase. The 15-year jumped 11 basis points to 5.93%. A year ago the 30-year FRM was 6.75%, so financing is still cheaper than 2025, and Freddie Mac notes affordability is improving as inventory rises even though purchase-application demand has softened. Bankrate's 30-year jumbo average was 6.63% as of July 15.",
+      "source": "Freddie Mac / Bankrate",
+      "sourceUrl": "https://www.freddiemac.com/pmms",
+      "category": "Market Data",
+      "tags": ["mortgage rates", "jumbo", "financing", "PMMS"],
+      "importance": "high"
+    },
+    {
+      "id": 46,
+      "date": "2026-07-14",
+      "archivedOn": "2026-07-31",
+      "title": "South Florida Commercial Sales Fall 13% to $5.42B in H1 2026 - But Construction Is the Most Intense in the Nation",
+      "summary": "MIAMI REALTORS chief economist Gay Cororaton reports South Florida commercial sales volume fell 13% year over year to $5.42 billion in the first half of 2026 amid geopolitical tensions and macro risk. Volume dropped for multifamily (-12%), office (-32%) and retail (-15%) but rose for industrial (+2%); multifamily still led at $1.95 billion, ahead of industrial ($1.54B), retail ($1.02B) and office ($910M). Broward led counties at $2.35 billion (+7%), ahead of Miami-Dade ($2.05B, -28%) and Palm Beach ($880M, -15%). Pricing held up - median price per building SF rose 1.0% to $330, with retail +24%, office +12% and industrial +7% but multifamily -3%. Fundamentals remain strong: Miami-Dade has 19,131 multifamily units under construction (9.7% of inventory vs 3.5% nationally), and the West Palm Beach-Boca Raton office market has 2.4M SF underway, adding 5.2% to stock - the most intense in the country.",
+      "source": "MIAMI REALTORS",
+      "sourceUrl": "https://www.miamirealtors.com/2026/07/14/south-florida-is-experiencing-the-most-intense-multifamily-and-office-construction-in-the-nation/",
+      "category": "Commercial/CRE",
+      "tags": ["commercial sales volume", "multifamily", "industrial", "office", "construction pipeline"],
+      "importance": "high"
+    },
+    {
+      "id": 37,
+      "date": "2026-07-14",
+      "archivedOn": "2026-07-31",
+      "title": "Sean Combs Sells Star Island Estate for $55M, Leading the Week's Home Deals",
+      "summary": "Sean Combs sold the 8,000 SF, six-bedroom estate at 1 Star Island Drive in Miami Beach for $55 million to JFStar LLC, led by John A. Franklin of Virginia Beach - the week's top recorded South Florida home sale and a $20 million step up from the $35 million he paid in 2021. Also closing: a $8.5M Boca Raton home on West Coconut Palm Road, a $7.9M Jupiter waterfront on Spyglass Lane, and a Sunny Isles Beach condo at $1,500 per square foot.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/07/15/south-florida-top-real-estate-deals-july-14-2026/",
+      "category": "Luxury",
+      "tags": ["Miami Beach", "Star Island", "Boca Raton", "Jupiter", "top deals"],
+      "importance": "high"
+    },
     {
       "id": 38,
       "date": "2026-07-13",
