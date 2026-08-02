@@ -1,5 +1,38 @@
 [
   {
+    "id": 59,
+    "date": "2026-07-30",
+    "title": "CIP Real Estate Pays $99M for Coconut Creek's Lyons Corporate Park",
+    "summary": "CIP Real Estate paid $99 million - about $293 per square foot - for Lyons Corporate Park, a 337,392 SF multi-building industrial park at 6601 Lyons Road in Coconut Creek, roughly seven miles southwest of Boca Raton, buying from Industrial Development Co. and Lyons Corporate Park Co. LLLP. It was among South Florida's largest commercial trades of the week and reinforces how infill, shallow-bay industrial remains the region's most sought-after commercial asset class even as multifamily, office and retail sales volume cooled in the first half of 2026. Separately, the week's priciest recorded home sale was a newly built 6,900 SF house at 340 San Marco Drive in Fort Lauderdale that traded for $9.5 million (about $1,400 per square foot), sold by an entity tied to MDS Energy Development CEO Michael Snyder.",
+    "source": "Commercial Real Estate Direct / The Real Deal",
+    "sourceUrl": "https://crenews.com/2026/07/31/cip-real-estate-pays-99mln-for-coconut-creek-fla-industrial-park/",
+    "category": "Commercial/CRE",
+    "tags": ["Coconut Creek", "industrial", "CIP Real Estate", "Fort Lauderdale", "Broward"],
+    "importance": "high"
+  },
+  {
+    "id": 60,
+    "date": "2026-07-29",
+    "title": "Skechers Co-Founder Buys $10.5M Miami Home; Julia Hotel Trades for $9.1M",
+    "summary": "Skechers co-founder Michael Greenberg, through an LLC, bought a 3,400 SF home at 3600 Stewart Avenue in Miami for $10.5 million - the week's top recorded South Florida home sale (four bedrooms, three-and-a-half baths). Sellers Roberta Manelli and Francisco Salonia-Ruzo had paid $2.1 million for the property in 2015. The week's top commercial deal was the Julia Hotel at 336 Collins Avenue in Miami Beach, which an affiliate of Miami-based SMS Lodging sold for $9.1 million - about $314,000 per key - to C&D Bay Village LLC, managed by investors Danilo Damolin and Lorenzo Costa.",
+    "source": "The Real Deal",
+    "sourceUrl": "https://therealdeal.com/miami/2026/07/30/south-florida-top-real-estate-deals-july-29-2026/",
+    "category": "Luxury",
+    "tags": ["Miami", "Skechers", "Miami Beach", "Julia Hotel", "top deals"],
+    "importance": "medium"
+  },
+  {
+    "id": 61,
+    "date": "2026-07-29",
+    "title": "Baptist Hospital $45M Expansion, Ritz-Carlton South Beach Top Miami-Area Permits",
+    "summary": "South Florida's largest construction permits for the week ending July 29 were led by a $45 million interior-alteration permit for Baptist Health South Florida's 111,500 SF expansion of Baptist Hospital Miami at 8900 North Kendall Drive, followed by a $43.6 million, 36,700 SF renovation of the Brickell East condominium at 151 Southeast 15th Road. The largest new-construction permits were $28.4 million for phased work at the Ritz-Carlton, South Beach at 1 Lincoln Road in Miami Beach and $18 million for The Cove at 1055 North Federal Highway in Fort Lauderdale - Affiliated Development's eight-story, 376-unit Live Local Act rental, which recently landed a $74 million construction loan from Pacific Life.",
+    "source": "The Real Deal",
+    "sourceUrl": "https://therealdeal.com/miami/2026/07/30/baptist-health-brickell-east-condo-lead-miami-area-permits/",
+    "category": "Development",
+    "tags": ["Miami", "Baptist Health", "Ritz-Carlton", "Fort Lauderdale", "permits", "Live Local Act"],
+    "importance": "high"
+  },
+  {
     "id": 56,
     "date": "2026-07-30",
     "title": "Mortgage Rates Extend Climb to 6.66%; 15-Yr Rises to 6.04%",
@@ -141,38 +174,5 @@
     "category": "Market Data",
     "tags": ["million-dollar sales", "closed sales", "migration", "luxury", "Palm Beach", "Broward"],
     "importance": "medium"
-  },
-  {
-    "id": 44,
-    "date": "2026-07-17",
-    "title": "Jupiter Bear's Club Mansion Sells for $33.8M; Wellington Senior-Living Facility Trades for $30.7M",
-    "summary": "Spec developer Stuart Hankin sold a newly completed 10,900 SF mansion at 228 Bear's Club Drive in Jupiter for $33.8 million to tech executive Derek Kreunen and Erin Kreunen - the week's top recorded South Florida home sale and a sharp markup on the $3.4 million Hankin paid for the lot in 2021 (six bedrooms, theater, pool). The top commercial deal was the Alamar Senior Living facility at 8785 Lake Worth Road in Wellington, which traded for $30.7 million as Chicago-based Walton Street Capital sold to an entity linked to Health Wave Partners. Also closing: a $24 million Boca Raton home at 1992 Royal Palm Way and a $21.6 million ocean-view condo at the Estates at Acqualina in Sunny Isles Beach.",
-    "source": "The Real Deal",
-    "sourceUrl": "https://therealdeal.com/miami/2026/07/20/south-florida-top-real-estate-deals-july-17-2026/",
-    "category": "Luxury",
-    "tags": ["Jupiter", "Wellington", "Boca Raton", "Sunny Isles Beach", "top deals"],
-    "importance": "high"
-  },
-  {
-    "id": 43,
-    "date": "2026-07-16",
-    "title": "Key Biscayne Waterfront Home Sells for $17.5M to Lead the Week's Deals",
-    "summary": "A waterfront home at 230 Harbor Drive in Key Biscayne sold for $17.5 million, with Nozin chairman Philippe Touret parting with a property he had owned for decades (6,200+ SF, seven bedrooms; last asked $21.8 million). A Fort Lauderdale home at 8 Harborage Isle Drive followed at $13.7 million - about $1,500 per square foot - and a Palm Beach condo at 2 North Breakers Row, with a cabana unit included, traded for $12.1 million.",
-    "source": "The Real Deal",
-    "sourceUrl": "https://therealdeal.com/miami/2026/07/17/south-florida-top-real-estate-deals-july-16-2026/",
-    "category": "Luxury",
-    "tags": ["Key Biscayne", "Fort Lauderdale", "Palm Beach", "waterfront", "top deals"],
-    "importance": "medium"
-  },
-  {
-    "id": 42,
-    "date": "2026-07-15",
-    "title": "Venetian Islands Double Waterfront Trades for $33M; Miami's 790 Lake Road Fetches $27.3M",
-    "summary": "A trust sold two neighboring 1940s-built waterfront homes at 617 and 625 East Dilido Drive on Miami Beach's Venetian Islands for $33 million (0.7 acres; roughly 5,000 and 4,400 SF) to Leet House 4 LLC - the week's top recorded South Florida home sale. In Miami, a 6,100 SF waterfront home at 790 Lake Road traded for $27.3 million, about $6,700 per square foot (an entity tied to Adonel Concrete CEO Luis Garcia selling; last asked $32 million), and a Wellington equestrian estate at 12940 50th Street with barn space sold for $23 million. On the commercial side, a ~56,300 SF Deerfield Beach warehouse at 1143 West Newport Center Drive sold for $10.6 million.",
-    "source": "The Real Deal",
-    "sourceUrl": "https://therealdeal.com/miami/2026/07/16/south-florida-top-real-estate-deals-july-15-2026/",
-    "category": "Luxury",
-    "tags": ["Miami Beach", "Venetian Islands", "Wellington", "Deerfield Beach", "top deals"],
-    "importance": "high"
   }
 ]
