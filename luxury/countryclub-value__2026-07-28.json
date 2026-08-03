@@ -1,0 +1,183 @@
+{
+ "segment": "countryclub-value",
+ "collection": "luxury",
+ "template": "luxury-value",
+ "label": "Country Club — Best Value by $/sqft",
+ "tagline": "Lowest $/sqft golf & country-club luxury · SE Florida",
+ "search_name": "WSS-LUX-CountryClub 2026-07-28",
+ "generated": "2026-07-28",
+ "expires": "2026-08-27",
+ "total_results": 86,
+ "methodology": "FlexMLS WSS-LUX-CountryClub pull 2026-07-28, Florida only, ranked by lowest advertised price per square foot (best value). Disguised: area + beds/baths + price band + $/sqft band public; exact address & photos on request.",
+ "metric_label": "$/sqft",
+ "pdf": "pdf/countryclub-value__2026-07-28.pdf",
+ "items": [
+  {
+   "id": "countryclub-value-2026-07-28-01",
+   "analytics_id": "A-00642",
+   "rank": 1,
+   "submarket": "West Palm Beach",
+   "profile": "3bd / 3ba · Country-Club Home",
+   "price_band": "$500K–$1M",
+   "cap_label": "~$250/sqft",
+   "thumb_url": "",
+   "desc": "Luxury Country-Club Home in West Palm Beach; ~$250/sqft. Exact address, photos & financials on request.",
+   "inquiry_subject": "Inquiry: West Palm Beach Country-Club Home (~$250/sqft)",
+   "highlights": [
+    "~3,058 sq ft · built 2000",
+    "Lowest price/sqft in this list"
+   ]
+  },
+  {
+   "id": "countryclub-value-2026-07-28-02",
+   "analytics_id": "A-00643",
+   "rank": 2,
+   "submarket": "West Palm Beach",
+   "profile": "3bd / 3ba · Country-Club Home",
+   "price_band": "$500K–$1M",
+   "cap_label": "~$300/sqft",
+   "thumb_url": "",
+   "desc": "Luxury Country-Club Home in West Palm Beach; ~$300/sqft. Exact address, photos & financials on request.",
+   "inquiry_subject": "Inquiry: West Palm Beach Country-Club Home (~$300/sqft)",
+   "highlights": [
+    "~2,927 sq ft · built 1998",
+    "#2 best value by price/sqft"
+   ]
+  },
+  {
+   "id": "countryclub-value-2026-07-28-03",
+   "analytics_id": "A-00644",
+   "rank": 3,
+   "submarket": "West Palm Beach",
+   "profile": "4bd / 3ba · Country-Club Home",
+   "price_band": "$500K–$1M",
+   "cap_label": "~$300/sqft",
+   "thumb_url": "",
+   "desc": "Luxury Country-Club Home in West Palm Beach; ~$300/sqft. Exact address, photos & financials on request.",
+   "inquiry_subject": "Inquiry: West Palm Beach Country-Club Home (~$300/sqft)",
+   "highlights": [
+    "~2,556 sq ft · built 1995",
+    "#3 best value by price/sqft"
+   ]
+  },
+  {
+   "id": "countryclub-value-2026-07-28-04",
+   "analytics_id": "A-00645",
+   "rank": 4,
+   "submarket": "Boca Raton",
+   "profile": "4bd / 3ba · Country-Club Home",
+   "price_band": "$500K–$1M",
+   "cap_label": "~$325/sqft",
+   "thumb_url": "",
+   "desc": "Luxury Country-Club Home in Boca Raton; ~$325/sqft. Exact address, photos & financials on request.",
+   "inquiry_subject": "Inquiry: Boca Raton Country-Club Home (~$325/sqft)",
+   "highlights": [
+    "~2,675 sq ft · built 1999",
+    "#4 best value by price/sqft"
+   ]
+  },
+  {
+   "id": "countryclub-value-2026-07-28-05",
+   "analytics_id": "A-00646",
+   "rank": 5,
+   "submarket": "West Palm Beach",
+   "profile": "3bd / 3ba · Country-Club Home",
+   "price_band": "$500K–$1M",
+   "cap_label": "~$350/sqft",
+   "thumb_url": "",
+   "desc": "Luxury Country-Club Home in West Palm Beach; ~$350/sqft. Exact address, photos & financials on request.",
+   "inquiry_subject": "Inquiry: West Palm Beach Country-Club Home (~$350/sqft)",
+   "highlights": [
+    "~2,334 sq ft · built 1991",
+    "#5 best value by price/sqft"
+   ]
+  },
+  {
+   "id": "countryclub-value-2026-07-28-06",
+   "analytics_id": "A-00647",
+   "rank": 6,
+   "submarket": "West Palm Beach",
+   "profile": "3bd / 3ba · Country-Club Home",
+   "price_band": "$1M–$1.5M",
+   "cap_label": "~$375/sqft",
+   "thumb_url": "",
+   "desc": "Luxury Country-Club Home in West Palm Beach; ~$375/sqft. Exact address, photos & financials on request.",
+   "inquiry_subject": "Inquiry: West Palm Beach Country-Club Home (~$375/sqft)",
+   "highlights": [
+    "~2,922 sq ft · built 2005",
+    "#6 best value by price/sqft"
+   ]
+  },
+  {
+   "id": "countryclub-value-2026-07-28-07",
+   "analytics_id": "A-00648",
+   "rank": 7,
+   "submarket": "West Palm Beach",
+   "profile": "3bd / 3ba · Country-Club Home",
+   "price_band": "$1M–$1.5M",
+   "cap_label": "~$375/sqft",
+   "thumb_url": "",
+   "desc": "Luxury Country-Club Home in West Palm Beach; ~$375/sqft. Exact address, photos & financials on request.",
+   "inquiry_subject": "Inquiry: West Palm Beach Country-Club Home (~$375/sqft)",
+   "highlights": [
+    "~2,985 sq ft · built 2006",
+    "#7 best value by price/sqft"
+   ]
+  },
+  {
+   "id": "countryclub-value-2026-07-28-08",
+   "analytics_id": "A-00649",
+   "rank": 8,
+   "submarket": "Delray Beach",
+   "profile": "3bd / 2ba · Country-Club Home",
+   "price_band": "$1M–$1.5M",
+   "cap_label": "~$425/sqft",
+   "thumb_url": "",
+   "desc": "Luxury Country-Club Home in Delray Beach; ~$425/sqft. Exact address, photos & financials on request.",
+   "inquiry_subject": "Inquiry: Delray Beach Country-Club Home (~$425/sqft)",
+   "highlights": [
+    "~2,781 sq ft · built 2003",
+    "#8 best value by price/sqft"
+   ]
+  },
+  {
+   "id": "countryclub-value-2026-07-28-09",
+   "analytics_id": "A-00650",
+   "rank": 9,
+   "submarket": "West Palm Beach",
+   "profile": "3bd / 3ba · Country-Club Home",
+   "price_band": "$1M–$1.5M",
+   "cap_label": "~$425/sqft",
+   "thumb_url": "",
+   "desc": "Luxury Country-Club Home in West Palm Beach; ~$425/sqft. Exact address, photos & financials on request.",
+   "inquiry_subject": "Inquiry: West Palm Beach Country-Club Home (~$425/sqft)",
+   "highlights": [
+    "~2,834 sq ft · built 2004",
+    "#9 best value by price/sqft"
+   ]
+  },
+  {
+   "id": "countryclub-value-2026-07-28-10",
+   "analytics_id": "A-00651",
+   "rank": 10,
+   "submarket": "Boca Raton",
+   "profile": "6bd / 5ba · Country-Club Home",
+   "price_band": "$2.5M–$3M",
+   "cap_label": "~$475/sqft",
+   "thumb_url": "",
+   "desc": "Luxury Country-Club Home in Boca Raton; ~$475/sqft. Exact address, photos & financials on request.",
+   "inquiry_subject": "Inquiry: Boca Raton Country-Club Home (~$475/sqft)",
+   "highlights": [
+    "~5,579 sq ft · built 1982",
+    "#10 best value by price/sqft"
+   ]
+  }
+ ],
+ "_dates": [
+  "2026-07-14",
+  "2026-06-30",
+  "2026-06-23",
+  "2026-06-17",
+  "2026-06-14"
+ ]
+}
