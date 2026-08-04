@@ -1,5 +1,27 @@
 [
   {
+    "id": 63,
+    "date": "2026-08-03",
+    "title": "Hallandale Beach's Millennium Plaza Mixed-Use Property Trades for $40M",
+    "summary": "AS Hallandale Investment FL paid $40 million - about $209 per square foot - for Millennium Plaza, a 191,084 SF mixed-use retail-and-office property at 2500 East Hallandale Beach Boulevard in Hallandale Beach, roughly 14 miles south of Fort Lauderdale. The purchase adds to a wave of capital targeting Hallandale Beach, a dense, transit-adjacent submarket between Fort Lauderdale and Miami where developers have been assembling sites for mixed-use and residential redevelopment. Necessity-oriented, infill commercial assets in built-out coastal Broward continue to trade even as broader South Florida commercial volume cooled in the first half of 2026.",
+    "source": "Commercial Real Estate Direct",
+    "sourceUrl": "https://crenews.com/2026/08/03/south-fla-mixed-use-property-fetches-40mln/",
+    "category": "Commercial/CRE",
+    "tags": ["Hallandale Beach", "mixed-use", "Broward", "retail", "office"],
+    "importance": "high"
+  },
+  {
+    "id": 62,
+    "date": "2026-07-31",
+    "title": "Boca Raton's Royal Palm Estate Sells for $21.5M; Willow Bridge Buys Fort Lauderdale Dev Site for $24.7M",
+    "summary": "A trust paid $21.5 million for a newly built 9,400 SF home at 1642 Sabal Palm Drive in Boca Raton's Royal Palm Yacht and Country Club - the week's top recorded South Florida home sale (seven bedrooms, eight-and-a-half baths). Sellers John and Mary Hargrove had paid $6 million for it a year earlier, and it last asked just under $23 million (David Roberts of Royal Palm Properties held the listing; Douglas Elliman brought the buyer). The top commercial deal was a Fort Lauderdale development site at 1040 Bayview Drive, which an affiliate of Atlanta-based Willow Bridge Property Company bought for $24.7 million from a Procacci Development Corporation entity that had filed plans for a 259-unit mixed-use project. Also closing: a $9.3 million Miami two-home lot at 1650 Micanopy Avenue and an $8.2 million Opa-locka auto-services facility sold by a Longpoint Realty affiliate.",
+    "source": "The Real Deal",
+    "sourceUrl": "https://therealdeal.com/miami/2026/08/03/south-florida-top-real-estate-deals-july-31-2026/",
+    "category": "Luxury",
+    "tags": ["Boca Raton", "Royal Palm Yacht", "Fort Lauderdale", "Willow Bridge", "Procacci", "top deals"],
+    "importance": "high"
+  },
+  {
     "id": 59,
     "date": "2026-07-30",
     "title": "CIP Real Estate Pays $99M for Coconut Creek's Lyons Corporate Park",
@@ -152,27 +174,5 @@
     "category": "Development",
     "tags": ["Miami", "Brickell Key", "Mandarin Oriental", "permits", "Live Local Act"],
     "importance": "high"
-  },
-  {
-    "id": 45,
-    "date": "2026-07-20",
-    "title": "Ponce-Davis New-Build Mansion Sells for $18.9M; Moishe Mana Buys Wynwood's Pastis Building for $24.5M",
-    "summary": "The priciest recorded South Florida home sale of the week was a roughly 10,000 SF new-construction mansion at 5545 Southwest 81st Terrace in Miami's Ponce-Davis neighborhood, which traded for $18.9 million - an LLC managed by Christophe Scherman selling to an entity led by telecommunications executive Meinrad Spenger (nearly 1-acre lot, seven bedrooms, guest house; last asked $22 million). The top commercial deal was also in Miami: developer Moishe Mana paid $24.5 million for the 13,000 SF Wynwood buildings at 380 and 320 Northwest 26th Street, home to Pastis and Apparatus, from a New York company tied to David Edelstein. Elsewhere, a Jupiter waterfront home at 9 Bamboo Lane sold for $10.5 million (about $1,500 per square foot) and a penthouse at the Alina in Boca Raton fetched $6.6 million.",
-    "source": "The Real Deal",
-    "sourceUrl": "https://therealdeal.com/miami/2026/07/21/south-florida-top-real-estate-deals-july-20-2026/",
-    "category": "Luxury",
-    "tags": ["Miami", "Ponce-Davis", "Wynwood", "Jupiter", "Boca Raton", "top deals"],
-    "importance": "high"
-  },
-  {
-    "id": 47,
-    "date": "2026-07-17",
-    "title": "South Florida Million-Dollar Sales Surge as Closed Sales Rise for a 10th Straight Month",
-    "summary": "MIAMI REALTORS reports South Florida closed sales rose in June for the 10th consecutive month, at an 18.6% annual pace, with year-to-date sales up 7.9% - well ahead of the 2.2% national year-to-date gain. Year-to-date single-family sales are up 9.0% across every county: Palm Beach (+11.4%), Miami-Dade (+9.5%), Broward (+7.2%), Martin (+17.2%) and St. Lucie (+3.2%). The luxury tier is leading: the region logged 3,382 million-dollar transactions in Q1 2026, up 22% year over year, with million-dollar single-family sales up 26.7%. Driver-license exchanges - a proxy for out-of-state migration, largely from New York and California - rose 16% year over year in the first half.",
-    "source": "MIAMI REALTORS",
-    "sourceUrl": "https://www.miamirealtors.com/2026/07/17/south-florida-million-dollar-sales-surge-year-over-year/",
-    "category": "Market Data",
-    "tags": ["million-dollar sales", "closed sales", "migration", "luxury", "Palm Beach", "Broward"],
-    "importance": "medium"
   }
 ]
