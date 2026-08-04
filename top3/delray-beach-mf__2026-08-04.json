@@ -1,0 +1,110 @@
+{
+ "segment": "delray-beach-mf",
+ "collection": "curated",
+ "template": "curated-generic",
+ "label": "Coastal Multifamily - Delray Beach",
+ "tagline": "Top on-market multifamily in Delray Beach - downtown, Tropic Isles & East Delray - ranked by cap rate",
+ "search_name": "Crexi (Delray Beach MF)",
+ "generated": "2026-08-04",
+ "pdf": "pdf/delray-beach-mf__2026-08-04.pdf",
+ "expires": "2026-09-03",
+ "total_results": 20,
+ "metric_label": "Price / unit",
+ "methodology": "On-market Delray Beach multifamily as of 2026-08-04 (Crexi), deduped, ranked by broker cap rate where published else price-per-unit. Disguised: area + profile + price band + $/unit public; exact address & financials on request.",
+ "items": [
+  {
+   "id": "delray-beach-mf-2026-08-04-01",
+   "analytics_id": "A-00767",
+   "rank": 1,
+   "submarket": "Delray Beach",
+   "profile": "2-Unit Multifamily (Delray Beach)",
+   "price_band": "$1M-$1.5M",
+   "cap_label": "~$550K/unit",
+   "desc": "2-unit Delray Beach multifamily in Delray Beach; ~$550K/unit. Walkable to Atlantic Ave / the beach corridor. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 2-unit multifamily, Delray Beach (~$550K/unit)",
+   "highlights": [
+    "Investor: Levered spread thin at ~7% debt (rate-sensitive)",
+    "2 units - Delray Beach",
+    "~$550K/unit",
+    "~3.50% cap"
+   ],
+   "inv_line": [
+    "Levered spread thin at ~7% debt (rate-sensitive)",
+    "~17-18x GRM"
+   ]
+  },
+  {
+   "id": "delray-beach-mf-2026-08-04-02",
+   "analytics_id": "A-00768",
+   "rank": 2,
+   "submarket": "Delray Beach",
+   "profile": "2-Unit Multifamily (Delray Beach)",
+   "price_band": "$0.5M-$1M",
+   "cap_label": "~$447K/unit",
+   "desc": "2-unit Delray Beach multifamily in Delray Beach; ~$447K/unit. Walkable to Atlantic Ave / the beach corridor. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 2-unit multifamily, Delray Beach (~$447K/unit)",
+   "highlights": [
+    "Investor: Levered spread thin at ~7% debt (rate-sensitive)",
+    "2 units - Delray Beach",
+    "~$447K/unit",
+    "~3.35% cap",
+    "Opportunity Zone"
+   ],
+   "inv_line": [
+    "Levered spread thin at ~7% debt (rate-sensitive)",
+    "~17-18x GRM"
+   ]
+  },
+  {
+   "id": "delray-beach-mf-2026-08-04-03",
+   "analytics_id": "A-00769",
+   "rank": 3,
+   "submarket": "Delray Beach",
+   "profile": "4-Unit Multifamily (Delray Beach)",
+   "price_band": "$1M-$1.5M",
+   "cap_label": "~$268K/unit",
+   "desc": "4-unit Delray Beach multifamily in Delray Beach; ~$268K/unit. Walkable to Atlantic Ave / the beach corridor. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 4-unit multifamily, Delray Beach (~$268K/unit)",
+   "highlights": [
+    "4 units - Delray Beach",
+    "~$268K/unit",
+    "Coastal Delray Beach - income / value-add"
+   ],
+   "inv_line": []
+  },
+  {
+   "id": "delray-beach-mf-2026-08-04-04",
+   "analytics_id": "A-00770",
+   "rank": 4,
+   "submarket": "Delray Beach",
+   "profile": "2-Unit Multifamily (Delray Beach)",
+   "price_band": "$0.5M-$1M",
+   "cap_label": "~$348K/unit",
+   "desc": "2-unit Delray Beach multifamily in Delray Beach; ~$348K/unit. Walkable to Atlantic Ave / the beach corridor. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 2-unit multifamily, Delray Beach (~$348K/unit)",
+   "highlights": [
+    "2 units - Delray Beach",
+    "~$348K/unit",
+    "Coastal Delray Beach - income / value-add"
+   ],
+   "inv_line": []
+  },
+  {
+   "id": "delray-beach-mf-2026-08-04-05",
+   "analytics_id": "A-00771",
+   "rank": 5,
+   "submarket": "Delray Beach",
+   "profile": "2-Unit Multifamily (Delray Beach)",
+   "price_band": "$0.5M-$1M",
+   "cap_label": "~$384K/unit",
+   "desc": "2-unit Delray Beach multifamily in Delray Beach; ~$384K/unit. Walkable to Atlantic Ave / the beach corridor. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 2-unit multifamily, Delray Beach (~$384K/unit)",
+   "highlights": [
+    "2 units - Delray Beach",
+    "~$384K/unit",
+    "Coastal Delray Beach - income / value-add"
+   ],
+   "inv_line": []
+  }
+ ]
+}

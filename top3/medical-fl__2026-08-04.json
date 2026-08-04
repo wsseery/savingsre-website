@@ -1,0 +1,225 @@
+{
+ "segment": "medical-fl",
+ "collection": "curated",
+ "template": "curated-generic",
+ "label": "Medical Office - Florida",
+ "tagline": "Top medical office & healthcare-tenant deals statewide - ranked by cap rate",
+ "search_name": "Crexi (FL medical office)",
+ "generated": "2026-08-04",
+ "pdf": "pdf/medical-fl__2026-08-04.pdf",
+ "expires": "2026-09-03",
+ "total_results": 3449,
+ "metric_label": "Cap rate",
+ "methodology": "Crexi FL office pull 2026-08-04, filtered to medical/healthcare-tenant assets, ranked by broker-reported cap rate (unverified). Listings without a published cap excluded. Disguised: area + type + price band + cap band public; exact address on request.",
+ "items": [
+  {
+   "id": "medical-fl-2026-08-04-01",
+   "analytics_id": "A-00717",
+   "rank": 1,
+   "submarket": "St. Petersburg",
+   "profile": "Medical Office",
+   "price_band": "$5M-$6M",
+   "cap_label": "~8.66% cap",
+   "desc": "Medical Office in St. Petersburg; ~8.66% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Medical Office, St. Petersburg (~8.66% cap)",
+   "highlights": [
+    "Investor: ~13-15% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Medical Office - ~20,270 SF",
+    "~8.66% cap",
+    "~8.66% cap - highest on the list",
+    "Built ~1980s"
+   ],
+   "inv_line": [
+    "~13-15% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "medical-fl-2026-08-04-02",
+   "analytics_id": "A-00718",
+   "rank": 2,
+   "submarket": "Eustis",
+   "profile": "Medical Office",
+   "price_band": "$2M-$2.5M",
+   "cap_label": "~8.05% cap",
+   "desc": "Medical Office in Eustis; ~8.05% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Medical Office, Eustis (~8.05% cap)",
+   "highlights": [
+    "Investor: ~10-12% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Medical Office - ~16,736 SF",
+    "~8.05% cap",
+    "Healthcare/medical tenancy",
+    "Opportunity Zone"
+   ],
+   "inv_line": [
+    "~10-12% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "medical-fl-2026-08-04-03",
+   "analytics_id": "A-00719",
+   "rank": 3,
+   "submarket": "South Daytona",
+   "profile": "Medical Office",
+   "price_band": "$5M-$6M",
+   "cap_label": "~7.70% cap",
+   "desc": "Medical Office in South Daytona; ~7.70% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Medical Office, South Daytona (~7.70% cap)",
+   "highlights": [
+    "Investor: ~9-11% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Medical Office - ~20,000 SF",
+    "~7.70% cap",
+    "Healthcare/medical tenancy",
+    "Built ~2000s"
+   ],
+   "inv_line": [
+    "~9-11% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "medical-fl-2026-08-04-04",
+   "analytics_id": "A-00720",
+   "rank": 4,
+   "submarket": "Jacksonville",
+   "profile": "Medical Office",
+   "price_band": "$1.5M-$2M",
+   "cap_label": "~7.48% cap",
+   "desc": "Medical Office in Jacksonville; ~7.48% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Medical Office, Jacksonville (~7.48% cap)",
+   "highlights": [
+    "Investor: ~8-10% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Medical Office - ~9,120 SF",
+    "~7.48% cap",
+    "Healthcare/medical tenancy",
+    "Built ~2000s"
+   ],
+   "inv_line": [
+    "~8-10% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "medical-fl-2026-08-04-05",
+   "analytics_id": "A-00721",
+   "rank": 5,
+   "submarket": "Gainesville",
+   "profile": "Medical Office",
+   "price_band": "$1M-$1.5M",
+   "cap_label": "~7.25% cap",
+   "desc": "Medical Office in Gainesville; ~7.25% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Medical Office, Gainesville (~7.25% cap)",
+   "highlights": [
+    "Investor: ~7-9% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Medical Office - ~5,970 SF",
+    "~7.25% cap",
+    "Healthcare/medical tenancy",
+    "Built ~1990s"
+   ],
+   "inv_line": [
+    "~7-9% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "medical-fl-2026-08-04-06",
+   "analytics_id": "A-00722",
+   "rank": 6,
+   "submarket": "Fort Myers",
+   "profile": "Medical Office",
+   "price_band": "$1.5M-$2M",
+   "cap_label": "~7.20% cap",
+   "desc": "Medical Office in Fort Myers; ~7.20% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Medical Office, Fort Myers (~7.20% cap)",
+   "highlights": [
+    "Investor: ~7-9% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Medical Office - ~5,714 SF",
+    "~7.20% cap",
+    "Healthcare/medical tenancy",
+    "Built ~1980s"
+   ],
+   "inv_line": [
+    "~7-9% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "medical-fl-2026-08-04-07",
+   "analytics_id": "A-00723",
+   "rank": 7,
+   "submarket": "Destin",
+   "profile": "Medical Office",
+   "price_band": "$3M-$4M",
+   "cap_label": "~7.00% cap",
+   "desc": "Medical Office in Destin; ~7.00% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Medical Office, Destin (~7.00% cap)",
+   "highlights": [
+    "Investor: ~6-8% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Medical Office - ~15,006 SF",
+    "~7.00% cap",
+    "Healthcare/medical tenancy",
+    "Built ~2000s"
+   ],
+   "inv_line": [
+    "~6-8% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "medical-fl-2026-08-04-08",
+   "analytics_id": "A-00724",
+   "rank": 8,
+   "submarket": "St. Augustine",
+   "profile": "Medical Office",
+   "price_band": "$1.5M-$2M",
+   "cap_label": "~6.50% cap",
+   "desc": "Medical Office in St. Augustine; ~6.50% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Medical Office, St. Augustine (~6.50% cap)",
+   "highlights": [
+    "Investor: ~4-6% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Medical Office - ~5,200 SF",
+    "~6.50% cap",
+    "Healthcare/medical tenancy"
+   ],
+   "inv_line": [
+    "~4-6% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "medical-fl-2026-08-04-09",
+   "analytics_id": "A-00725",
+   "rank": 9,
+   "submarket": "Clearwater",
+   "profile": "Medical Office Plaza",
+   "price_band": "$5M-$6M",
+   "cap_label": "~5.94% cap",
+   "desc": "Medical Office Plaza in Clearwater; ~5.94% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Medical Office Plaza, Clearwater (~5.94% cap)",
+   "highlights": [
+    "Investor: ~2-4% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Medical Office Plaza - ~46,464 SF",
+    "~5.94% cap",
+    "Healthcare/medical tenancy",
+    "Built ~1980s"
+   ],
+   "inv_line": [
+    "~2-4% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "medical-fl-2026-08-04-10",
+   "analytics_id": "A-00726",
+   "rank": 10,
+   "submarket": "Wellington",
+   "profile": "Medical Office",
+   "price_band": "$9M-$10M",
+   "cap_label": "~5.31% cap",
+   "desc": "Medical Office in Wellington; ~5.31% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Medical Office, Wellington (~5.31% cap)",
+   "highlights": [
+    "Investor: Levered spread thin at ~7% debt (rate-sensitive)",
+    "Medical Office - ~10,898 SF",
+    "~5.31% cap",
+    "Healthcare/medical tenancy",
+    "Built ~2020s"
+   ],
+   "inv_line": [
+    "Levered spread thin at ~7% debt (rate-sensitive)"
+   ]
+  }
+ ]
+}

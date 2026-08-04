@@ -1,0 +1,199 @@
+{
+ "segment": "gulf-coast-beach-mf",
+ "collection": "curated",
+ "template": "curated-generic",
+ "label": "Coastal Multifamily - Gulf Beaches",
+ "tagline": "Top 9 - Sarasota-Bradenton Gulf Coast - ranked by scale",
+ "search_name": "Crexi (Gulf Coast MF)",
+ "generated": "2026-08-04",
+ "pdf": "pdf/gulf-coast-beach-mf__2026-08-04.pdf",
+ "expires": "2026-09-03",
+ "total_results": 71,
+ "metric_label": "Price / unit",
+ "methodology": "Crexi coastal multifamily pull 2026-08-04, ranked by scale; existing/stabilized income communities only. $1-5M mid-market preference; institutional-scale routes to the Larger Investments list. Metric = price per unit. Disguised: submarket + units + price band + $/unit public; exact address on request.",
+ "items": [
+  {
+   "id": "gulf-coast-beach-mf-2026-08-04-01",
+   "analytics_id": "A-00748",
+   "rank": 1,
+   "submarket": "Bradenton",
+   "profile": "Coastal Multifamily (30 units)",
+   "price_band": "$5M-$6M",
+   "cap_label": "~$180K/unit",
+   "desc": "30-unit coastal multifamily in Bradenton; ~$180K/unit (broker-reported). Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 30-unit multifamily, Bradenton (~$180K/unit)",
+   "highlights": [
+    "Investor: ~11-13% est. cash-on-cash (25% down, IO @ ~7%)",
+    "30 units - Bradenton",
+    "~$180K/unit",
+    "~8.37% cap",
+    "Opportunity Zone"
+   ],
+   "inv_line": [
+    "~11-13% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~7-8x GRM"
+   ]
+  },
+  {
+   "id": "gulf-coast-beach-mf-2026-08-04-02",
+   "analytics_id": "A-00749",
+   "rank": 2,
+   "submarket": "Apollo Beach",
+   "profile": "Coastal Multifamily (23 units)",
+   "price_band": "$8M-$9M",
+   "cap_label": "~$370K/unit",
+   "desc": "23-unit coastal multifamily in Apollo Beach; ~$370K/unit (broker-reported). Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 23-unit multifamily, Apollo Beach (~$370K/unit)",
+   "highlights": [
+    "Investor: ~3-5% est. cash-on-cash (25% down, IO @ ~7%)",
+    "23 units - Apollo Beach",
+    "~$370K/unit",
+    "~6.25% cap"
+   ],
+   "inv_line": [
+    "~3-5% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~9-10x GRM"
+   ]
+  },
+  {
+   "id": "gulf-coast-beach-mf-2026-08-04-03",
+   "analytics_id": "A-00750",
+   "rank": 3,
+   "submarket": "Sarasota",
+   "profile": "Coastal Multifamily (16 units)",
+   "price_band": "$2.5M-$3M",
+   "cap_label": "~$172K/unit",
+   "desc": "16-unit coastal multifamily in Sarasota; ~$172K/unit (broker-reported). Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 16-unit multifamily, Sarasota (~$172K/unit)",
+   "highlights": [
+    "Investor: ~6-8% est. cash-on-cash (25% down, IO @ ~7%)",
+    "16 units - Sarasota",
+    "~$172K/unit",
+    "~6.98% cap"
+   ],
+   "inv_line": [
+    "~6-8% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~8-9x GRM"
+   ]
+  },
+  {
+   "id": "gulf-coast-beach-mf-2026-08-04-04",
+   "analytics_id": "A-00751",
+   "rank": 4,
+   "submarket": "Bradenton",
+   "profile": "Coastal Multifamily (15 units)",
+   "price_band": "$2.5M-$3M",
+   "cap_label": "~$170K/unit",
+   "desc": "15-unit coastal multifamily in Bradenton; ~$170K/unit (broker-reported). Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 15-unit multifamily, Bradenton (~$170K/unit)",
+   "highlights": [
+    "Investor: ~2-4% est. cash-on-cash (25% down, IO @ ~7%)",
+    "15 units - Bradenton",
+    "~$170K/unit",
+    "~5.91% cap"
+   ],
+   "inv_line": [
+    "~2-4% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~10-11x GRM"
+   ]
+  },
+  {
+   "id": "gulf-coast-beach-mf-2026-08-04-05",
+   "analytics_id": "A-00752",
+   "rank": 5,
+   "submarket": "Sarasota",
+   "profile": "Coastal Multifamily (12 units)",
+   "price_band": "$1.5M-$2M",
+   "cap_label": "~$156K/unit",
+   "desc": "12-unit coastal multifamily in Sarasota; ~$156K/unit (broker-reported). Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 12-unit multifamily, Sarasota (~$156K/unit)",
+   "highlights": [
+    "Investor: ~10-12% est. cash-on-cash (25% down, IO @ ~7%)",
+    "12 units - Sarasota",
+    "~$156K/unit",
+    "~8.09% cap"
+   ],
+   "inv_line": [
+    "~10-12% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~7-8x GRM"
+   ]
+  },
+  {
+   "id": "gulf-coast-beach-mf-2026-08-04-06",
+   "analytics_id": "A-00753",
+   "rank": 6,
+   "submarket": "Sarasota",
+   "profile": "Coastal Multifamily (10 units)",
+   "price_band": "$2.5M-$3M",
+   "cap_label": "~$275K/unit",
+   "desc": "10-unit coastal multifamily in Sarasota; ~$275K/unit (broker-reported). Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 10-unit multifamily, Sarasota (~$275K/unit)",
+   "highlights": [
+    "Investor: ~6-8% est. cash-on-cash (25% down, IO @ ~7%)",
+    "10 units - Sarasota",
+    "~$275K/unit",
+    "~6.98% cap",
+    "Opportunity Zone"
+   ],
+   "inv_line": [
+    "~6-8% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~8-9x GRM"
+   ]
+  },
+  {
+   "id": "gulf-coast-beach-mf-2026-08-04-07",
+   "analytics_id": "A-00754",
+   "rank": 7,
+   "submarket": "Englewood",
+   "profile": "Coastal Multifamily (10 units)",
+   "price_band": "$1.5M-$2M",
+   "cap_label": "~$165K/unit",
+   "desc": "10-unit coastal multifamily in Englewood; ~$165K/unit (broker-reported). Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 10-unit multifamily, Englewood (~$165K/unit)",
+   "highlights": [
+    "Investor: ~2-4% est. cash-on-cash (25% down, IO @ ~7%)",
+    "10 units - Englewood",
+    "~$165K/unit",
+    "~6.12% cap"
+   ],
+   "inv_line": [
+    "~2-4% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~9-10x GRM"
+   ]
+  },
+  {
+   "id": "gulf-coast-beach-mf-2026-08-04-08",
+   "analytics_id": "A-00755",
+   "rank": 8,
+   "submarket": "Sarasota",
+   "profile": "Coastal Multifamily (8 units)",
+   "price_band": "Price on request",
+   "cap_label": "8 units",
+   "desc": "8-unit multifamily community in Sarasota. Pricing & financials on request.",
+   "inquiry_subject": "Inquiry: 8-unit multifamily, Sarasota (8 units)",
+   "highlights": [
+    "8 units - Sarasota",
+    "8 units",
+    "Coastal income / value-add"
+   ],
+   "inv_line": []
+  },
+  {
+   "id": "gulf-coast-beach-mf-2026-08-04-09",
+   "analytics_id": "A-00756",
+   "rank": 9,
+   "submarket": "Sarasota",
+   "profile": "Coastal Multifamily (4 units)",
+   "price_band": "Price on request",
+   "cap_label": "4 units",
+   "desc": "4-unit multifamily community in Sarasota. Pricing & financials on request.",
+   "inquiry_subject": "Inquiry: 4-unit multifamily, Sarasota (4 units)",
+   "highlights": [
+    "4 units - Sarasota",
+    "4 units",
+    "Coastal income / value-add"
+   ],
+   "inv_line": []
+  }
+ ]
+}

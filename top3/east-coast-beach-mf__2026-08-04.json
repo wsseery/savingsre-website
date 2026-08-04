@@ -1,0 +1,220 @@
+{
+ "segment": "east-coast-beach-mf",
+ "collection": "curated",
+ "template": "curated-generic",
+ "label": "Coastal Multifamily - Atlantic Beaches",
+ "tagline": "Top 10 - Fort Lauderdale & coastal Broward/Palm Beach - ranked by scale",
+ "search_name": "Crexi (Atlantic coast MF)",
+ "generated": "2026-08-04",
+ "pdf": "pdf/east-coast-beach-mf__2026-08-04.pdf",
+ "expires": "2026-09-03",
+ "total_results": 361,
+ "metric_label": "Price / unit",
+ "methodology": "Crexi coastal multifamily pull 2026-08-04, ranked by scale; existing/stabilized income communities only. $1-5M mid-market preference; institutional-scale routes to the Larger Investments list. Metric = price per unit. Disguised: submarket + units + price band + $/unit public; exact address on request.",
+ "items": [
+  {
+   "id": "east-coast-beach-mf-2026-08-04-01",
+   "analytics_id": "A-00757",
+   "rank": 1,
+   "submarket": "Oakland Park",
+   "profile": "Coastal Multifamily (48 units)",
+   "price_band": "$9M-$10M",
+   "cap_label": "~$203K/unit",
+   "desc": "48-unit coastal multifamily in Oakland Park; ~$203K/unit (broker-reported). Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 48-unit multifamily, Oakland Park (~$203K/unit)",
+   "highlights": [
+    "Investor: ~6-8% est. cash-on-cash (25% down, IO @ ~7%)",
+    "48 units - Oakland Park",
+    "~$203K/unit",
+    "~7.12% cap",
+    "Opportunity Zone"
+   ],
+   "inv_line": [
+    "~6-8% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~8-9x GRM"
+   ]
+  },
+  {
+   "id": "east-coast-beach-mf-2026-08-04-02",
+   "analytics_id": "A-00758",
+   "rank": 2,
+   "submarket": "Hollywood",
+   "profile": "Coastal Multifamily (48 units)",
+   "price_band": "$2.5M-$3M",
+   "cap_label": "~$52K/unit",
+   "desc": "48-unit coastal multifamily in Hollywood; ~$52K/unit (broker-reported). Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 48-unit multifamily, Hollywood (~$52K/unit)",
+   "highlights": [
+    "48 units - Hollywood",
+    "~$52K/unit",
+    "Coastal income / value-add"
+   ],
+   "inv_line": []
+  },
+  {
+   "id": "east-coast-beach-mf-2026-08-04-03",
+   "analytics_id": "A-00759",
+   "rank": 3,
+   "submarket": "North Miami Beach",
+   "profile": "Coastal Multifamily (32 units)",
+   "price_band": "$7M-$8M",
+   "cap_label": "~$222K/unit",
+   "desc": "32-unit coastal multifamily in North Miami Beach; ~$222K/unit (broker-reported). Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 32-unit multifamily, North Miami Beach (~$222K/unit)",
+   "highlights": [
+    "Investor: ~2-4% est. cash-on-cash (25% down, IO @ ~7%)",
+    "32 units - North Miami Beach",
+    "~$222K/unit",
+    "~6.10% cap"
+   ],
+   "inv_line": [
+    "~2-4% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~9-10x GRM"
+   ]
+  },
+  {
+   "id": "east-coast-beach-mf-2026-08-04-04",
+   "analytics_id": "A-00760",
+   "rank": 4,
+   "submarket": "Fort Lauderdale",
+   "profile": "Coastal Multifamily (22 units)",
+   "price_band": "$4M-$5M",
+   "cap_label": "~$218K/unit",
+   "desc": "22-unit coastal multifamily in Fort Lauderdale; ~$218K/unit (broker-reported). Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 22-unit multifamily, Fort Lauderdale (~$218K/unit)",
+   "highlights": [
+    "22 units - Fort Lauderdale",
+    "~$218K/unit",
+    "Coastal income / value-add"
+   ],
+   "inv_line": []
+  },
+  {
+   "id": "east-coast-beach-mf-2026-08-04-05",
+   "analytics_id": "A-00761",
+   "rank": 5,
+   "submarket": "Miami",
+   "profile": "Coastal Multifamily (16 units)",
+   "price_band": "$3M-$4M",
+   "cap_label": "~$209K/unit",
+   "desc": "16-unit coastal multifamily in Miami; ~$209K/unit (broker-reported). Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 16-unit multifamily, Miami (~$209K/unit)",
+   "highlights": [
+    "Investor: ~7-9% est. cash-on-cash (25% down, IO @ ~7%)",
+    "16 units - Miami",
+    "~$209K/unit",
+    "~7.17% cap"
+   ],
+   "inv_line": [
+    "~7-9% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~8-9x GRM"
+   ]
+  },
+  {
+   "id": "east-coast-beach-mf-2026-08-04-06",
+   "analytics_id": "A-00762",
+   "rank": 6,
+   "submarket": "Hollywood",
+   "profile": "Coastal Multifamily (14 units)",
+   "price_band": "$4M-$5M",
+   "cap_label": "~$286K/unit",
+   "desc": "14-unit coastal multifamily in Hollywood; ~$286K/unit (broker-reported). Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 14-unit multifamily, Hollywood (~$286K/unit)",
+   "highlights": [
+    "Investor: ~4-6% est. cash-on-cash (25% down, IO @ ~7%)",
+    "14 units - Hollywood",
+    "~$286K/unit",
+    "~6.43% cap"
+   ],
+   "inv_line": [
+    "~4-6% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~9-10x GRM"
+   ]
+  },
+  {
+   "id": "east-coast-beach-mf-2026-08-04-07",
+   "analytics_id": "A-00763",
+   "rank": 7,
+   "submarket": "Coral Springs",
+   "profile": "Coastal Multifamily (14 units)",
+   "price_band": "$3M-$3.5M",
+   "cap_label": "~$214K/unit",
+   "desc": "14-unit coastal multifamily in Coral Springs; ~$214K/unit (broker-reported). Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 14-unit multifamily, Coral Springs (~$214K/unit)",
+   "highlights": [
+    "Investor: Levered spread thin at ~7% debt (rate-sensitive)",
+    "14 units - Coral Springs",
+    "~$214K/unit",
+    "~5.25% cap"
+   ],
+   "inv_line": [
+    "Levered spread thin at ~7% debt (rate-sensitive)",
+    "~11-12x GRM"
+   ]
+  },
+  {
+   "id": "east-coast-beach-mf-2026-08-04-08",
+   "analytics_id": "A-00764",
+   "rank": 8,
+   "submarket": "Hallandale Beach",
+   "profile": "Coastal Multifamily (12 units)",
+   "price_band": "$2.5M-$3M",
+   "cap_label": "~$233K/unit",
+   "desc": "12-unit coastal multifamily in Hallandale Beach; ~$233K/unit (broker-reported). Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 12-unit multifamily, Hallandale Beach (~$233K/unit)",
+   "highlights": [
+    "Investor: Levered spread thin at ~7% debt (rate-sensitive)",
+    "12 units - Hallandale Beach",
+    "~$233K/unit",
+    "~5.40% cap"
+   ],
+   "inv_line": [
+    "Levered spread thin at ~7% debt (rate-sensitive)",
+    "~11-12x GRM"
+   ]
+  },
+  {
+   "id": "east-coast-beach-mf-2026-08-04-09",
+   "analytics_id": "A-00765",
+   "rank": 9,
+   "submarket": "Fort Lauderdale",
+   "profile": "Coastal Multifamily (10 units)",
+   "price_band": "$2M-$2.5M",
+   "cap_label": "~$210K/unit",
+   "desc": "10-unit coastal multifamily in Fort Lauderdale; ~$210K/unit (broker-reported). Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 10-unit multifamily, Fort Lauderdale (~$210K/unit)",
+   "highlights": [
+    "Investor: ~2-4% est. cash-on-cash (25% down, IO @ ~7%)",
+    "10 units - Fort Lauderdale",
+    "~$210K/unit",
+    "~5.88% cap",
+    "Opportunity Zone"
+   ],
+   "inv_line": [
+    "~2-4% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~10-11x GRM"
+   ]
+  },
+  {
+   "id": "east-coast-beach-mf-2026-08-04-10",
+   "analytics_id": "A-00766",
+   "rank": 10,
+   "submarket": "Homestead",
+   "profile": "Coastal Multifamily (10 units)",
+   "price_band": "$2M-$2.5M",
+   "cap_label": "~$220K/unit",
+   "desc": "10-unit coastal multifamily in Homestead; ~$220K/unit (broker-reported). Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 10-unit multifamily, Homestead (~$220K/unit)",
+   "highlights": [
+    "Investor: ~5-7% est. cash-on-cash (25% down, IO @ ~7%)",
+    "10 units - Homestead",
+    "~$220K/unit",
+    "~6.68% cap"
+   ],
+   "inv_line": [
+    "~5-7% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~8-9x GRM"
+   ]
+  }
+ ]
+}

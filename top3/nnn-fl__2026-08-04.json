@@ -1,0 +1,226 @@
+{
+ "segment": "nnn-fl",
+ "collection": "curated",
+ "template": "curated-generic",
+ "label": "NNN Commercial - Florida",
+ "tagline": "Top triple-net (NNN) deals statewide - single & multi-tenant - ranked by cap rate",
+ "search_name": "Crexi (FL Retail / net lease, single & multi-tenant)",
+ "generated": "2026-08-04",
+ "pdf": "pdf/nnn-fl__2026-08-04.pdf",
+ "expires": "2026-09-03",
+ "total_results": 4710,
+ "metric_label": "Cap rate",
+ "methodology": "Crexi FL retail/net-lease pull 2026-08-04, ranked by broker-reported cap rate (not independently verified). Listings without a published cap excluded. Disguised: area + type + price band + cap band public; exact address, tenant & lease terms on request.",
+ "items": [
+  {
+   "id": "nnn-fl-2026-08-04-01",
+   "analytics_id": "A-00700",
+   "rank": 1,
+   "submarket": "Wauchula",
+   "profile": "Single-Tenant NNN",
+   "price_band": "$2M-$2.5M",
+   "cap_label": "~9.25% cap",
+   "desc": "Single-Tenant NNN in Wauchula; ~9.25% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Single-Tenant NNN, Wauchula (~9.25% cap)",
+   "highlights": [
+    "Investor: ~15-17% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Single-Tenant NNN - ~13,325 SF",
+    "~9.25% cap",
+    "~9.25% cap - highest on the list",
+    "Built ~2000s"
+   ],
+   "inv_line": [
+    "~15-17% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "nnn-fl-2026-08-04-02",
+   "analytics_id": "A-00701",
+   "rank": 2,
+   "submarket": "Lake Wales",
+   "profile": "Shopping Center",
+   "price_band": "$11M-$12M",
+   "cap_label": "~9.00% cap",
+   "desc": "Shopping Center in Lake Wales; ~9.00% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Shopping Center, Lake Wales (~9.00% cap)",
+   "highlights": [
+    "Investor: ~14-16% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Shopping Center - ~100,113 SF",
+    "~9.00% cap",
+    "Lake Wales submarket",
+    "Built ~1970s"
+   ],
+   "inv_line": [
+    "~14-16% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "nnn-fl-2026-08-04-03",
+   "analytics_id": "A-00702",
+   "rank": 3,
+   "submarket": "Clearwater",
+   "profile": "Single-Tenant NNN",
+   "price_band": "$3M-$4M",
+   "cap_label": "~8.25% cap",
+   "desc": "Single-Tenant NNN in Clearwater; ~8.25% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Single-Tenant NNN, Clearwater (~8.25% cap)",
+   "highlights": [
+    "Investor: ~11-13% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Single-Tenant NNN - ~3,366 SF",
+    "~8.25% cap",
+    "Credit tenant - absolute/NNN lease",
+    "Built ~1980s"
+   ],
+   "inv_line": [
+    "~11-13% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "nnn-fl-2026-08-04-04",
+   "analytics_id": "A-00703",
+   "rank": 4,
+   "submarket": "Melbourne",
+   "profile": "Single-Tenant NNN",
+   "price_band": "$3M-$4M",
+   "cap_label": "~7.70% cap",
+   "desc": "Single-Tenant NNN in Melbourne; ~7.70% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Single-Tenant NNN, Melbourne (~7.70% cap)",
+   "highlights": [
+    "Investor: ~9-11% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Single-Tenant NNN - ~1,425 SF",
+    "~7.70% cap",
+    "Credit tenant - absolute/NNN lease",
+    "Built ~1990s"
+   ],
+   "inv_line": [
+    "~9-11% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "nnn-fl-2026-08-04-05",
+   "analytics_id": "A-00704",
+   "rank": 5,
+   "submarket": "Fort Walton Beach",
+   "profile": "Single-Tenant NNN",
+   "price_band": "$2.5M-$3M",
+   "cap_label": "~7.50% cap",
+   "desc": "Single-Tenant NNN in Fort Walton Beach; ~7.50% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Single-Tenant NNN, Fort Walton Beach (~7.50% cap)",
+   "highlights": [
+    "Investor: ~8-10% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Single-Tenant NNN - ~6,334 SF",
+    "~7.50% cap",
+    "Credit tenant - absolute/NNN lease",
+    "Built ~2000s"
+   ],
+   "inv_line": [
+    "~8-10% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "nnn-fl-2026-08-04-06",
+   "analytics_id": "A-00705",
+   "rank": 6,
+   "submarket": "Destin",
+   "profile": "Multi-Tenant Retail Center",
+   "price_band": "$3M-$4M",
+   "cap_label": "~7.00% cap",
+   "desc": "Multi-Tenant Retail Center in Destin; ~7.00% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Multi-Tenant Retail Center, Destin (~7.00% cap)",
+   "highlights": [
+    "Investor: ~6-8% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Multi-Tenant Retail Center - ~15,006 SF",
+    "~7.00% cap",
+    "Destin submarket",
+    "Built ~2000s"
+   ],
+   "inv_line": [
+    "~6-8% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "nnn-fl-2026-08-04-07",
+   "analytics_id": "A-00706",
+   "rank": 7,
+   "submarket": "Brandon",
+   "profile": "Single-Tenant NNN",
+   "price_band": "$8M-$9M",
+   "cap_label": "~6.65% cap",
+   "desc": "Single-Tenant NNN in Brandon; ~6.65% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Single-Tenant NNN, Brandon (~6.65% cap)",
+   "highlights": [
+    "Investor: ~5-7% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Single-Tenant NNN - ~37,489 SF",
+    "~6.65% cap",
+    "Credit tenant - absolute/NNN lease",
+    "Opportunity Zone"
+   ],
+   "inv_line": [
+    "~5-7% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "nnn-fl-2026-08-04-08",
+   "analytics_id": "A-00707",
+   "rank": 8,
+   "submarket": "Plant City",
+   "profile": "Multi-Tenant Retail Center",
+   "price_band": "$5M-$6M",
+   "cap_label": "~6.64% cap",
+   "desc": "Multi-Tenant Retail Center in Plant City; ~6.64% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Multi-Tenant Retail Center, Plant City (~6.64% cap)",
+   "highlights": [
+    "Investor: ~5-7% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Multi-Tenant Retail Center - ~24,697 SF",
+    "~6.64% cap",
+    "Plant City submarket",
+    "Built ~2000s"
+   ],
+   "inv_line": [
+    "~5-7% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "nnn-fl-2026-08-04-09",
+   "analytics_id": "A-00708",
+   "rank": 9,
+   "submarket": "Jennings",
+   "profile": "Single-Tenant NNN",
+   "price_band": "$1.5M-$2M",
+   "cap_label": "~6.50% cap",
+   "desc": "Single-Tenant NNN in Jennings; ~6.50% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Single-Tenant NNN, Jennings (~6.50% cap)",
+   "highlights": [
+    "Investor: ~4-6% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Single-Tenant NNN - ~8,320 SF",
+    "~6.50% cap",
+    "Credit tenant - absolute/NNN lease",
+    "Built ~2010s"
+   ],
+   "inv_line": [
+    "~4-6% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "nnn-fl-2026-08-04-10",
+   "analytics_id": "A-00709",
+   "rank": 10,
+   "submarket": "Miami Gardens",
+   "profile": "Single-Tenant NNN",
+   "price_band": "$6M-$7M",
+   "cap_label": "~6.50% cap",
+   "desc": "Single-Tenant NNN in Miami Gardens; ~6.50% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Single-Tenant NNN, Miami Gardens (~6.50% cap)",
+   "highlights": [
+    "Investor: ~4-6% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Single-Tenant NNN - ~600 SF",
+    "~6.50% cap",
+    "Credit tenant - absolute/NNN lease",
+    "Built ~1980s"
+   ],
+   "inv_line": [
+    "~4-6% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  }
+ ]
+}

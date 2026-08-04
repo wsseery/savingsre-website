@@ -1,0 +1,126 @@
+{
+ "segment": "high-yield-sfl",
+ "collection": "curated",
+ "template": "curated-generic",
+ "label": "High-Yield Multifamily - 8%+ Cap",
+ "tagline": "Top 5 - Florida (statewide) - 5-25 units - value-add & high-yield",
+ "search_name": "Crexi (FL apartments, cap high-to-low)",
+ "generated": "2026-08-04",
+ "pdf": "pdf/high-yield-sfl__2026-08-04.pdf",
+ "expires": "2026-09-03",
+ "total_results": 432,
+ "metric_label": "Cap rate",
+ "methodology": "Crexi FL multifamily pull 2026-08-04, 5-25 unit value-add focus, ranked by broker-reported cap rate (high to low); relaxed to 7%+ where 8%+ inventory thin. Implausible outliers dropped. Broker-reported, unverified. Disguised: submarket + price band + cap band public; exact address & financials on request.",
+ "items": [
+  {
+   "id": "high-yield-sfl-2026-08-04-01",
+   "analytics_id": "A-00733",
+   "rank": 1,
+   "submarket": "Sarasota",
+   "profile": "Value-Add Multifamily (5-25 units)",
+   "price_band": "$1.5M-$2M",
+   "cap_label": "~8.09% cap",
+   "desc": "Value-Add Multifamily in Sarasota; ~8.09% cap. Exact address, financials & unit mix on request.",
+   "inquiry_subject": "Inquiry: Value-Add Multifamily (5-25 units), Sarasota (~8.09% cap)",
+   "highlights": [
+    "Investor: ~10-12% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Value-Add Multifamily (5-25 units) - ~9,820 SF",
+    "~8.09% cap",
+    "~8.09% cap - highest on the list",
+    "Built ~1970s"
+   ],
+   "inv_line": [
+    "~10-12% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~7-8x GRM"
+   ]
+  },
+  {
+   "id": "high-yield-sfl-2026-08-04-02",
+   "analytics_id": "A-00734",
+   "rank": 2,
+   "submarket": "Miami Beach",
+   "profile": "Value-Add Multifamily (5-25 units)",
+   "price_band": "$6M-$7M",
+   "cap_label": "~7.52% cap",
+   "desc": "Value-Add Multifamily in Miami Beach; ~7.52% cap. Exact address, financials & unit mix on request.",
+   "inquiry_subject": "Inquiry: Value-Add Multifamily (5-25 units), Miami Beach (~7.52% cap)",
+   "highlights": [
+    "Investor: ~8-10% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Value-Add Multifamily (5-25 units) - ~13,410 SF",
+    "~7.52% cap",
+    "Miami Beach - high-yield income",
+    "Built ~1940s"
+   ],
+   "inv_line": [
+    "~8-10% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~7-8x GRM"
+   ]
+  },
+  {
+   "id": "high-yield-sfl-2026-08-04-03",
+   "analytics_id": "A-00735",
+   "rank": 3,
+   "submarket": "Fort Lauderdale",
+   "profile": "Value-Add Multifamily (5-25 units)",
+   "price_band": "$2M-$2.5M",
+   "cap_label": "~7.21% cap",
+   "desc": "Value-Add Multifamily in Fort Lauderdale; ~7.21% cap. Exact address, financials & unit mix on request.",
+   "inquiry_subject": "Inquiry: Value-Add Multifamily (5-25 units), Fort Lauderdale (~7.21% cap)",
+   "highlights": [
+    "Investor: ~7-9% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Value-Add Multifamily (5-25 units) - ~3,157 SF",
+    "~7.21% cap",
+    "Fort Lauderdale - high-yield income",
+    "Built ~1960s"
+   ],
+   "inv_line": [
+    "~7-9% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~8-9x GRM"
+   ]
+  },
+  {
+   "id": "high-yield-sfl-2026-08-04-04",
+   "analytics_id": "A-00736",
+   "rank": 4,
+   "submarket": "Miami",
+   "profile": "Value-Add Multifamily (5-25 units)",
+   "price_band": "$3M-$4M",
+   "cap_label": "~7.17% cap",
+   "desc": "Value-Add Multifamily in Miami; ~7.17% cap. Exact address, financials & unit mix on request.",
+   "inquiry_subject": "Inquiry: Value-Add Multifamily (5-25 units), Miami (~7.17% cap)",
+   "highlights": [
+    "Investor: ~7-9% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Value-Add Multifamily (5-25 units) - ~8,880 SF",
+    "~7.17% cap",
+    "Miami - high-yield income",
+    "Built ~1960s"
+   ],
+   "inv_line": [
+    "~7-9% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~8-9x GRM"
+   ]
+  },
+  {
+   "id": "high-yield-sfl-2026-08-04-05",
+   "analytics_id": "A-00737",
+   "rank": 5,
+   "submarket": "Miami",
+   "profile": "Value-Add Multifamily (5-25 units)",
+   "price_band": "$1.5M-$2M",
+   "cap_label": "~7.15% cap",
+   "desc": "Value-Add Multifamily in Miami; ~7.15% cap. Exact address, financials & unit mix on request.",
+   "inquiry_subject": "Inquiry: Value-Add Multifamily (5-25 units), Miami (~7.15% cap)",
+   "highlights": [
+    "Investor: ~7-9% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Value-Add Multifamily (5-25 units) - ~3,993 SF",
+    "~7.15% cap",
+    "Miami - high-yield income",
+    "Built ~1940s"
+   ],
+   "inv_line": [
+    "~7-9% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~8-9x GRM"
+   ]
+  }
+ ]
+}

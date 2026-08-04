@@ -1,0 +1,180 @@
+{
+ "segment": "starter-mf-corridor",
+ "collection": "curated",
+ "template": "curated-generic",
+ "label": "Starter Multifamily - $800K to $2M",
+ "tagline": "Delray Beach to Fort Lauderdale corridor - 2-9 units - built for smaller & first-time investors - ranked by price per unit",
+ "search_name": "Crexi (Delray-Fort Lauderdale corridor MF)",
+ "generated": "2026-08-04",
+ "pdf": "pdf/starter-mf-corridor__2026-08-04.pdf",
+ "expires": "2026-09-03",
+ "total_results": 20,
+ "metric_label": "Price / unit",
+ "methodology": "Crexi Delray Beach-Fort Lauderdale corridor multifamily as of 2026-08-04, filtered to $800K-$2M and 2-9 units (smaller/first-time investors), ranked by LOWEST price per unit. Disguised: area + units + price band + $/unit public; exact address on request.",
+ "items": [
+  {
+   "id": "starter-mf-corridor-2026-08-04-01",
+   "analytics_id": "A-00772",
+   "rank": 1,
+   "submarket": "Hallandale Beach",
+   "profile": "8-Unit Starter Multifamily",
+   "price_band": "$1.5M-$2M",
+   "cap_label": "~$188K/unit",
+   "desc": "8-unit multifamily in Hallandale Beach; ~$188K/unit. Entry-level coastal income in the Delray-Fort Lauderdale corridor. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 8-unit multifamily, Hallandale Beach (~$188K/unit)",
+   "highlights": [
+    "Investor: ~2-4% est. cash-on-cash (25% down, IO @ ~7%)",
+    "8 units - Hallandale Beach",
+    "~$188K/unit",
+    "~6.09% cap"
+   ],
+   "inv_line": [
+    "~2-4% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~9-10x GRM"
+   ]
+  },
+  {
+   "id": "starter-mf-corridor-2026-08-04-02",
+   "analytics_id": "A-00773",
+   "rank": 2,
+   "submarket": "FORT LAUDERDALE",
+   "profile": "9-Unit Starter Multifamily",
+   "price_band": "$1.5M-$2M",
+   "cap_label": "~$210K/unit",
+   "desc": "9-unit multifamily in FORT LAUDERDALE; ~$210K/unit. Entry-level coastal income in the Delray-Fort Lauderdale corridor. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 9-unit multifamily, FORT LAUDERDALE (~$210K/unit)",
+   "highlights": [
+    "Investor: Levered spread thin at ~7% debt (rate-sensitive)",
+    "9 units - FORT LAUDERDALE",
+    "~$210K/unit",
+    "~5.71% cap"
+   ],
+   "inv_line": [
+    "Levered spread thin at ~7% debt (rate-sensitive)",
+    "~10-11x GRM"
+   ]
+  },
+  {
+   "id": "starter-mf-corridor-2026-08-04-03",
+   "analytics_id": "A-00774",
+   "rank": 3,
+   "submarket": "Lake Worth Beach",
+   "profile": "8-Unit Starter Multifamily",
+   "price_band": "$1.5M-$2M",
+   "cap_label": "~$242K/unit",
+   "desc": "8-unit multifamily in Lake Worth Beach; ~$242K/unit. Entry-level coastal income in the Delray-Fort Lauderdale corridor. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 8-unit multifamily, Lake Worth Beach (~$242K/unit)",
+   "highlights": [
+    "Investor: ~3-5% est. cash-on-cash (25% down, IO @ ~7%)",
+    "8 units - Lake Worth Beach",
+    "~$242K/unit",
+    "~6.24% cap"
+   ],
+   "inv_line": [
+    "~3-5% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~9-10x GRM"
+   ]
+  },
+  {
+   "id": "starter-mf-corridor-2026-08-04-04",
+   "analytics_id": "A-00775",
+   "rank": 4,
+   "submarket": "Fort Lauderdale",
+   "profile": "4-Unit Starter Multifamily",
+   "price_band": "$1M-$1.5M",
+   "cap_label": "~$250K/unit",
+   "desc": "4-unit multifamily in Fort Lauderdale; ~$250K/unit. Entry-level coastal income in the Delray-Fort Lauderdale corridor. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 4-unit multifamily, Fort Lauderdale (~$250K/unit)",
+   "highlights": [
+    "Investor: Levered spread thin at ~7% debt (rate-sensitive)",
+    "4 units - Fort Lauderdale",
+    "~$250K/unit",
+    "~4.91% cap"
+   ],
+   "inv_line": [
+    "Levered spread thin at ~7% debt (rate-sensitive)",
+    "~12-13x GRM"
+   ]
+  },
+  {
+   "id": "starter-mf-corridor-2026-08-04-05",
+   "analytics_id": "A-00776",
+   "rank": 5,
+   "submarket": "Delray Beach",
+   "profile": "4-Unit Starter Multifamily",
+   "price_band": "$1M-$1.5M",
+   "cap_label": "~$268K/unit",
+   "desc": "4-unit multifamily in Delray Beach; ~$268K/unit. Entry-level coastal income in the Delray-Fort Lauderdale corridor. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 4-unit multifamily, Delray Beach (~$268K/unit)",
+   "highlights": [
+    "4 units - Delray Beach",
+    "~$268K/unit",
+    "Entry-level coastal income"
+   ],
+   "inv_line": []
+  },
+  {
+   "id": "starter-mf-corridor-2026-08-04-06",
+   "analytics_id": "A-00777",
+   "rank": 6,
+   "submarket": "Lake Worth Beach",
+   "profile": "5-Unit Starter Multifamily",
+   "price_band": "$1.5M-$2M",
+   "cap_label": "~$300K/unit",
+   "desc": "5-unit multifamily in Lake Worth Beach; ~$300K/unit. Entry-level coastal income in the Delray-Fort Lauderdale corridor. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 5-unit multifamily, Lake Worth Beach (~$300K/unit)",
+   "highlights": [
+    "Investor: ~2-4% est. cash-on-cash (25% down, IO @ ~7%)",
+    "5 units - Lake Worth Beach",
+    "~$300K/unit",
+    "~5.90% cap"
+   ],
+   "inv_line": [
+    "~2-4% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~10-11x GRM"
+   ]
+  },
+  {
+   "id": "starter-mf-corridor-2026-08-04-07",
+   "analytics_id": "A-00778",
+   "rank": 7,
+   "submarket": "Lake Worth Beach",
+   "profile": "5-Unit Starter Multifamily",
+   "price_band": "$1.5M-$2M",
+   "cap_label": "~$305K/unit",
+   "desc": "5-unit multifamily in Lake Worth Beach; ~$305K/unit. Entry-level coastal income in the Delray-Fort Lauderdale corridor. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 5-unit multifamily, Lake Worth Beach (~$305K/unit)",
+   "highlights": [
+    "Investor: ~3-5% est. cash-on-cash (25% down, IO @ ~7%)",
+    "5 units - Lake Worth Beach",
+    "~$305K/unit",
+    "~6.24% cap"
+   ],
+   "inv_line": [
+    "~3-5% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~9-10x GRM"
+   ]
+  },
+  {
+   "id": "starter-mf-corridor-2026-08-04-08",
+   "analytics_id": "A-00779",
+   "rank": 8,
+   "submarket": "Ocean Ridge",
+   "profile": "4-Unit Starter Multifamily",
+   "price_band": "$1M-$1.5M",
+   "cap_label": "~$374K/unit",
+   "desc": "4-unit multifamily in Ocean Ridge; ~$374K/unit. Entry-level coastal income in the Delray-Fort Lauderdale corridor. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 4-unit multifamily, Ocean Ridge (~$374K/unit)",
+   "highlights": [
+    "Investor: Levered spread thin at ~7% debt (rate-sensitive)",
+    "4 units - Ocean Ridge",
+    "~$374K/unit",
+    "~4.00% cap"
+   ],
+   "inv_line": [
+    "Levered spread thin at ~7% debt (rate-sensitive)",
+    "~15-16x GRM"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,163 @@
+{
+ "segment": "strip-mall-fl",
+ "collection": "curated",
+ "template": "curated-generic",
+ "label": "Strip Malls & Retail Centers - Florida",
+ "tagline": "Top multi-tenant strip & neighborhood retail centers statewide - ranked by cap rate",
+ "search_name": "Crexi (FL multi-tenant retail)",
+ "generated": "2026-08-04",
+ "pdf": "pdf/strip-mall-fl__2026-08-04.pdf",
+ "expires": "2026-09-03",
+ "total_results": 4710,
+ "metric_label": "Cap rate",
+ "methodology": "Crexi FL retail pull 2026-08-04, multi-tenant strip/neighborhood centers only, ranked by broker-reported cap rate (unverified). Single-tenant net-lease boxes shown on the NNN list. Disguised: area + type + price band + cap band public; exact address on request.",
+ "items": [
+  {
+   "id": "strip-mall-fl-2026-08-04-01",
+   "analytics_id": "A-00710",
+   "rank": 1,
+   "submarket": "Lake Wales",
+   "profile": "Shopping Center",
+   "price_band": "$11M-$12M",
+   "cap_label": "~9.00% cap",
+   "desc": "Shopping Center (multi-tenant strip/neighborhood retail) in Lake Wales; ~9.00% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Shopping Center, Lake Wales (~9.00% cap)",
+   "highlights": [
+    "Investor: ~14-16% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Shopping Center - ~100,113 SF",
+    "~9.00% cap",
+    "~9.00% cap - highest on the list",
+    "Built ~1970s"
+   ],
+   "inv_line": [
+    "~14-16% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "strip-mall-fl-2026-08-04-02",
+   "analytics_id": "A-00711",
+   "rank": 2,
+   "submarket": "Plant City",
+   "profile": "Multi-Tenant Retail Center",
+   "price_band": "$5M-$6M",
+   "cap_label": "~6.64% cap",
+   "desc": "Multi-Tenant Retail Center (multi-tenant strip/neighborhood retail) in Plant City; ~6.64% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Multi-Tenant Retail Center, Plant City (~6.64% cap)",
+   "highlights": [
+    "Investor: ~5-7% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Multi-Tenant Retail Center - ~24,697 SF",
+    "~6.64% cap",
+    "Plant City submarket",
+    "Built ~2000s"
+   ],
+   "inv_line": [
+    "~5-7% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "strip-mall-fl-2026-08-04-03",
+   "analytics_id": "A-00712",
+   "rank": 3,
+   "submarket": "Brandon",
+   "profile": "Multi-Tenant Retail Center",
+   "price_band": "$4M-$5M",
+   "cap_label": "~6.00% cap",
+   "desc": "Multi-Tenant Retail Center (multi-tenant strip/neighborhood retail) in Brandon; ~6.00% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Multi-Tenant Retail Center, Brandon (~6.00% cap)",
+   "highlights": [
+    "Investor: ~2-4% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Multi-Tenant Retail Center - ~11,085 SF",
+    "~6.00% cap",
+    "Brandon submarket",
+    "Built ~1980s"
+   ],
+   "inv_line": [
+    "~2-4% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "strip-mall-fl-2026-08-04-04",
+   "analytics_id": "A-00713",
+   "rank": 4,
+   "submarket": "Lecanto",
+   "profile": "Multi-Tenant Retail Center",
+   "price_band": "$8M-$9M",
+   "cap_label": "~6.00% cap",
+   "desc": "Multi-Tenant Retail Center (multi-tenant strip/neighborhood retail) in Lecanto; ~6.00% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Multi-Tenant Retail Center, Lecanto (~6.00% cap)",
+   "highlights": [
+    "Investor: ~2-4% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Multi-Tenant Retail Center - ~11,910 SF",
+    "~6.00% cap",
+    "Lecanto submarket",
+    "Built ~2020s"
+   ],
+   "inv_line": [
+    "~2-4% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "strip-mall-fl-2026-08-04-05",
+   "analytics_id": "A-00714",
+   "rank": 5,
+   "submarket": "Marco Island",
+   "profile": "Multi-Tenant Retail Center",
+   "price_band": "$10M-$11M",
+   "cap_label": "~6.00% cap",
+   "desc": "Multi-Tenant Retail Center (multi-tenant strip/neighborhood retail) in Marco Island; ~6.00% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Multi-Tenant Retail Center, Marco Island (~6.00% cap)",
+   "highlights": [
+    "Investor: ~2-4% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Multi-Tenant Retail Center - ~24,570 SF",
+    "~6.00% cap",
+    "Marco Island submarket",
+    "Built ~1970s"
+   ],
+   "inv_line": [
+    "~2-4% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "strip-mall-fl-2026-08-04-06",
+   "analytics_id": "A-00715",
+   "rank": 6,
+   "submarket": "Miami",
+   "profile": "Multi-Tenant Retail Center",
+   "price_band": "$3M-$3.5M",
+   "cap_label": "~5.63% cap",
+   "desc": "Multi-Tenant Retail Center (multi-tenant strip/neighborhood retail) in Miami; ~5.63% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Multi-Tenant Retail Center, Miami (~5.63% cap)",
+   "highlights": [
+    "Investor: Levered spread thin at ~7% debt (rate-sensitive)",
+    "Multi-Tenant Retail Center - ~10,300 SF",
+    "~5.63% cap",
+    "Miami submarket",
+    "Built ~1960s"
+   ],
+   "inv_line": [
+    "Levered spread thin at ~7% debt (rate-sensitive)"
+   ]
+  },
+  {
+   "id": "strip-mall-fl-2026-08-04-07",
+   "analytics_id": "A-00716",
+   "rank": 7,
+   "submarket": "Hollywood",
+   "profile": "Multi-Tenant Retail Center",
+   "price_band": "$2M-$2.5M",
+   "cap_label": "~2.52% cap",
+   "desc": "Multi-Tenant Retail Center (multi-tenant strip/neighborhood retail) in Hollywood; ~2.52% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Multi-Tenant Retail Center, Hollywood (~2.52% cap)",
+   "highlights": [
+    "Investor: Levered spread thin at ~7% debt (rate-sensitive)",
+    "Multi-Tenant Retail Center - ~6,400 SF",
+    "~2.52% cap",
+    "Hollywood submarket",
+    "Built ~1970s"
+   ],
+   "inv_line": [
+    "Levered spread thin at ~7% debt (rate-sensitive)"
+   ]
+  }
+ ]
+}

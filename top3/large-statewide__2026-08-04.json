@@ -1,0 +1,218 @@
+{
+ "segment": "large-statewide",
+ "collection": "curated",
+ "template": "curated-generic",
+ "label": "Larger Investments - 40+ Units",
+ "tagline": "Top 10 - Statewide - 40+ units - ranked by scale; institutional & value-add",
+ "search_name": "Crexi (FL Multifamily, by units)",
+ "generated": "2026-08-04",
+ "pdf": "pdf/large-statewide__2026-08-04.pdf",
+ "expires": "2026-09-03",
+ "total_results": 3380,
+ "metric_label": "Price / unit",
+ "methodology": "Crexi FL multifamily listings 2026-08-04, ranked by scale (unit count); existing/stabilized apartment communities only (land/development/MHP-RV/hospitality excluded). This is the catch-all for all large 40+ unit / >$5M deals. Metric = price per unit. Disguised: submarket + units + price band + $/unit public; exact address on request.",
+ "items": [
+  {
+   "id": "large-statewide-2026-08-04-01",
+   "analytics_id": "A-00738",
+   "rank": 1,
+   "submarket": "St. Petersburg",
+   "profile": "Multifamily Community (40+ units)",
+   "price_band": "Price on request",
+   "cap_label": "304 units",
+   "desc": "304-unit multifamily community in St. Petersburg. Pricing & financials on request.",
+   "inquiry_subject": "Inquiry: 304-unit multifamily, St. Petersburg (304 units)",
+   "highlights": [
+    "304 units - St. Petersburg",
+    "304 units",
+    "Institutional / value-add scale"
+   ],
+   "inv_line": []
+  },
+  {
+   "id": "large-statewide-2026-08-04-02",
+   "analytics_id": "A-00739",
+   "rank": 2,
+   "submarket": "Coral Springs",
+   "profile": "Multifamily Community (40+ units)",
+   "price_band": "$9M-$10M",
+   "cap_label": "~$225K/unit",
+   "desc": "123-unit multifamily in Coral Springs; ~$225K/unit. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 123-unit multifamily, Coral Springs (~$225K/unit)",
+   "highlights": [
+    "Investor: ~4-6% est. cash-on-cash (25% down, IO @ ~7%)",
+    "123 units - Coral Springs",
+    "~$225K/unit",
+    "~6.47% cap"
+   ],
+   "inv_line": [
+    "~4-6% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~9-10x GRM"
+   ]
+  },
+  {
+   "id": "large-statewide-2026-08-04-03",
+   "analytics_id": "A-00740",
+   "rank": 3,
+   "submarket": "Opa-locka",
+   "profile": "Multifamily Community (40+ units)",
+   "price_band": "$17M-$18M",
+   "cap_label": "~$145K/unit",
+   "desc": "118-unit multifamily in Opa-locka; ~$145K/unit. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 118-unit multifamily, Opa-locka (~$145K/unit)",
+   "highlights": [
+    "Investor: ~3-5% est. cash-on-cash (25% down, IO @ ~7%)",
+    "118 units - Opa-locka",
+    "~$145K/unit",
+    "~6.22% cap"
+   ],
+   "inv_line": [
+    "~3-5% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~9-10x GRM"
+   ]
+  },
+  {
+   "id": "large-statewide-2026-08-04-04",
+   "analytics_id": "A-00741",
+   "rank": 4,
+   "submarket": "Pompano Beach",
+   "profile": "Multifamily Community (40+ units)",
+   "price_band": "$14M-$15M",
+   "cap_label": "~$152K/unit",
+   "desc": "98-unit multifamily in Pompano Beach; ~$152K/unit. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 98-unit multifamily, Pompano Beach (~$152K/unit)",
+   "highlights": [
+    "Investor: ~4-6% est. cash-on-cash (25% down, IO @ ~7%)",
+    "98 units - Pompano Beach",
+    "~$152K/unit",
+    "~6.51% cap",
+    "Opportunity Zone"
+   ],
+   "inv_line": [
+    "~4-6% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~9-10x GRM"
+   ]
+  },
+  {
+   "id": "large-statewide-2026-08-04-05",
+   "analytics_id": "A-00742",
+   "rank": 5,
+   "submarket": "Bradenton",
+   "profile": "Multifamily Community (40+ units)",
+   "price_band": "Price on request",
+   "cap_label": "92 units",
+   "desc": "92-unit multifamily community in Bradenton. Pricing & financials on request.",
+   "inquiry_subject": "Inquiry: 92-unit multifamily, Bradenton (92 units)",
+   "highlights": [
+    "92 units - Bradenton",
+    "92 units",
+    "Institutional / value-add scale",
+    "Opportunity Zone"
+   ],
+   "inv_line": []
+  },
+  {
+   "id": "large-statewide-2026-08-04-06",
+   "analytics_id": "A-00743",
+   "rank": 6,
+   "submarket": "Sarasota",
+   "profile": "Multifamily Community (40+ units)",
+   "price_band": "$15M-$16M",
+   "cap_label": "~$207K/unit",
+   "desc": "74-unit multifamily in Sarasota; ~$207K/unit. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 74-unit multifamily, Sarasota (~$207K/unit)",
+   "highlights": [
+    "Investor: ~3-5% est. cash-on-cash (25% down, IO @ ~7%)",
+    "74 units - Sarasota",
+    "~$207K/unit",
+    "~6.16% cap"
+   ],
+   "inv_line": [
+    "~3-5% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~9-10x GRM"
+   ]
+  },
+  {
+   "id": "large-statewide-2026-08-04-07",
+   "analytics_id": "A-00744",
+   "rank": 7,
+   "submarket": "New Port Richey",
+   "profile": "Multifamily Community (40+ units)",
+   "price_band": "Price on request",
+   "cap_label": "71 units",
+   "desc": "71-unit multifamily community in New Port Richey. Pricing & financials on request.",
+   "inquiry_subject": "Inquiry: 71-unit multifamily, New Port Richey (71 units)",
+   "highlights": [
+    "71 units - New Port Richey",
+    "71 units",
+    "Institutional / value-add scale"
+   ],
+   "inv_line": []
+  },
+  {
+   "id": "large-statewide-2026-08-04-08",
+   "analytics_id": "A-00745",
+   "rank": 8,
+   "submarket": "West Palm Beach",
+   "profile": "Multifamily Community (40+ units)",
+   "price_band": "$20M-$21M",
+   "cap_label": "~$304K/unit",
+   "desc": "68-unit multifamily in West Palm Beach; ~$304K/unit. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 68-unit multifamily, West Palm Beach (~$304K/unit)",
+   "highlights": [
+    "Investor: Levered spread thin at ~7% debt (rate-sensitive)",
+    "68 units - West Palm Beach",
+    "~$304K/unit",
+    "~5.25% cap",
+    "Opportunity Zone"
+   ],
+   "inv_line": [
+    "Levered spread thin at ~7% debt (rate-sensitive)",
+    "~11-12x GRM"
+   ]
+  },
+  {
+   "id": "large-statewide-2026-08-04-09",
+   "analytics_id": "A-00746",
+   "rank": 9,
+   "submarket": "Titusville",
+   "profile": "Multifamily Community (40+ units)",
+   "price_band": "$7M-$8M",
+   "cap_label": "~$121K/unit",
+   "desc": "64-unit multifamily in Titusville; ~$121K/unit. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 64-unit multifamily, Titusville (~$121K/unit)",
+   "highlights": [
+    "Investor: ~8-10% est. cash-on-cash (25% down, IO @ ~7%)",
+    "64 units - Titusville",
+    "~$121K/unit",
+    "~7.58% cap",
+    "Opportunity Zone"
+   ],
+   "inv_line": [
+    "~8-10% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~7-8x GRM"
+   ]
+  },
+  {
+   "id": "large-statewide-2026-08-04-10",
+   "analytics_id": "A-00747",
+   "rank": 10,
+   "submarket": "Homestead",
+   "profile": "Multifamily Community (40+ units)",
+   "price_band": "$10M-$11M",
+   "cap_label": "~$239K/unit",
+   "desc": "44-unit multifamily in Homestead; ~$239K/unit. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 44-unit multifamily, Homestead (~$239K/unit)",
+   "highlights": [
+    "Investor: Levered spread thin at ~7% debt (rate-sensitive)",
+    "44 units - Homestead",
+    "~$239K/unit",
+    "~5.72% cap"
+   ],
+   "inv_line": [
+    "Levered spread thin at ~7% debt (rate-sensitive)",
+    "~10-11x GRM"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,141 @@
+{
+ "segment": "commercial-fl",
+ "collection": "curated",
+ "template": "curated-generic",
+ "label": "Commercial & Office - Florida",
+ "tagline": "Top general commercial, office & mixed-use deals statewide - ranked by cap rate",
+ "search_name": "Crexi (FL commercial/office/mixed-use)",
+ "generated": "2026-08-04",
+ "pdf": "pdf/commercial-fl__2026-08-04.pdf",
+ "expires": "2026-09-03",
+ "total_results": 3449,
+ "metric_label": "Cap rate",
+ "methodology": "Crexi FL office/mixed-use pull 2026-08-04, ranked by broker-reported cap rate (unverified). Medical assets shown on the Medical Office list. Listings without a published cap excluded. Disguised: area + type + price band + cap band public; exact address on request.",
+ "items": [
+  {
+   "id": "commercial-fl-2026-08-04-01",
+   "analytics_id": "A-00727",
+   "rank": 1,
+   "submarket": "Clearwater",
+   "profile": "Office / Commercial",
+   "price_band": "$11M-$12M",
+   "cap_label": "~11.06% cap",
+   "desc": "Office / Commercial (commercial / office / mixed-use) in Clearwater; ~11.06% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Office / Commercial, Clearwater (~11.06% cap)",
+   "highlights": [
+    "Investor: ~22-24% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Office / Commercial - ~84,300 SF",
+    "~11.06% cap",
+    "~11.06% cap - highest on the list",
+    "Built ~1980s"
+   ],
+   "inv_line": [
+    "~22-24% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "commercial-fl-2026-08-04-02",
+   "analytics_id": "A-00728",
+   "rank": 2,
+   "submarket": "Temple Terrace",
+   "profile": "Office / Commercial",
+   "price_band": "$5M-$6M",
+   "cap_label": "~8.50% cap",
+   "desc": "Office / Commercial (commercial / office / mixed-use) in Temple Terrace; ~8.50% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Office / Commercial, Temple Terrace (~8.50% cap)",
+   "highlights": [
+    "Investor: ~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Office / Commercial - ~17,000 SF",
+    "~8.50% cap",
+    "Temple Terrace submarket",
+    "Built ~2000s"
+   ],
+   "inv_line": [
+    "~12-14% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "commercial-fl-2026-08-04-03",
+   "analytics_id": "A-00729",
+   "rank": 3,
+   "submarket": "Fort Myers",
+   "profile": "Office / Commercial",
+   "price_band": "$6M-$7M",
+   "cap_label": "~8.40% cap",
+   "desc": "Office / Commercial (commercial / office / mixed-use) in Fort Myers; ~8.40% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Office / Commercial, Fort Myers (~8.40% cap)",
+   "highlights": [
+    "Investor: ~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Office / Commercial - ~31,759 SF",
+    "~8.40% cap",
+    "Fort Myers submarket",
+    "Built ~2000s"
+   ],
+   "inv_line": [
+    "~12-14% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "commercial-fl-2026-08-04-04",
+   "analytics_id": "A-00730",
+   "rank": 4,
+   "submarket": "Sarasota",
+   "profile": "Office / Commercial",
+   "price_band": "$1.5M-$2M",
+   "cap_label": "~8.09% cap",
+   "desc": "Office / Commercial (commercial / office / mixed-use) in Sarasota; ~8.09% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Office / Commercial, Sarasota (~8.09% cap)",
+   "highlights": [
+    "Investor: ~10-12% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Office / Commercial - ~9,820 SF",
+    "~8.09% cap",
+    "Sarasota submarket",
+    "Built ~1970s"
+   ],
+   "inv_line": [
+    "~10-12% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "commercial-fl-2026-08-04-05",
+   "analytics_id": "A-00731",
+   "rank": 5,
+   "submarket": "Kissimmee",
+   "profile": "Office / Commercial",
+   "price_band": "$3M-$4M",
+   "cap_label": "~6.88% cap",
+   "desc": "Office / Commercial (commercial / office / mixed-use) in Kissimmee; ~6.88% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Office / Commercial, Kissimmee (~6.88% cap)",
+   "highlights": [
+    "Investor: ~6-8% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Office / Commercial - ~16,083 SF",
+    "~6.88% cap",
+    "Kissimmee submarket",
+    "Built ~1910s"
+   ],
+   "inv_line": [
+    "~6-8% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "commercial-fl-2026-08-04-06",
+   "analytics_id": "A-00732",
+   "rank": 6,
+   "submarket": "Jacksonville",
+   "profile": "Office / Commercial",
+   "price_band": "$2M-$2.5M",
+   "cap_label": "~6.59% cap",
+   "desc": "Office / Commercial (commercial / office / mixed-use) in Jacksonville; ~6.59% cap. Exact address, tenant & lease terms on request.",
+   "inquiry_subject": "Inquiry: Office / Commercial, Jacksonville (~6.59% cap)",
+   "highlights": [
+    "Investor: ~4-6% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Office / Commercial - ~18,546 SF",
+    "~6.59% cap",
+    "Jacksonville submarket"
+   ],
+   "inv_line": [
+    "~4-6% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  }
+ ]
+}

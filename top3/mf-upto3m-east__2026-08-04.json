@@ -1,0 +1,76 @@
+{
+ "segment": "mf-upto3m-east",
+ "collection": "weekly-top3",
+ "template": "mls-financial",
+ "label": "Multifamily - Up to $3M",
+ "tagline": "Income Properties - 2-4 Units up to $3M - East Palm Beach & Broward",
+ "search_name": "WSS-MF-upto3mmeast",
+ "generated": "2026-08-04",
+ "pdf": "pdf/mf-upto3m-east__2026-08-04.pdf",
+ "expires": "2026-09-03",
+ "total_results": 41,
+ "metric_label": "Cap rate",
+ "methodology": "Live Beaches MLS pull 2026-08-04 (WSS-MF-upto3mmeast). Cap rate = reported NET OPERATING INCOME / list price, computed only where the listing reports both expenses>0 and NOI>0. Broker-reported, unverified. Disguised: area + units + price band + cap band public; exact address & financials on request.",
+ "items": [
+  {
+   "id": "mf-upto3m-east-2026-08-04-01",
+   "analytics_id": "A-00691",
+   "rank": 1,
+   "submarket": "West Palm Beach",
+   "profile": "3-Unit Triplex",
+   "price_band": "$0.5M-$1M",
+   "cap_label": "~8.97% cap",
+   "desc": "3-Unit Triplex in West Palm Beach; 8.97% reported NOI cap rate. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 3-Unit Triplex, West Palm Beach (~8.97% cap)",
+   "highlights": [
+    "Investor: ~14-16% est. cash-on-cash (25% down, IO @ ~7%)",
+    "3-unit Triplex",
+    "~8.97% reported NOI cap rate"
+   ],
+   "inv_line": [
+    "~14-16% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~9-10x GRM"
+   ]
+  },
+  {
+   "id": "mf-upto3m-east-2026-08-04-02",
+   "analytics_id": "A-00692",
+   "rank": 2,
+   "submarket": "West Palm Beach",
+   "profile": "4-Unit Quadruplex",
+   "price_band": "$0.5M-$1M",
+   "cap_label": "~8.53% cap",
+   "desc": "4-Unit Quadruplex in West Palm Beach; 8.53% reported NOI cap rate. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 4-Unit Quadruplex, West Palm Beach (~8.53% cap)",
+   "highlights": [
+    "Investor: ~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "4-unit Quadruplex",
+    "~8.53% reported NOI cap rate"
+   ],
+   "inv_line": [
+    "~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~9-10x GRM"
+   ]
+  },
+  {
+   "id": "mf-upto3m-east-2026-08-04-03",
+   "analytics_id": "A-00693",
+   "rank": 3,
+   "submarket": "Lake Worth Beach",
+   "profile": "4-Unit Quadruplex",
+   "price_band": "$0.5M-$1M",
+   "cap_label": "~7.23% cap",
+   "desc": "4-Unit Quadruplex in Lake Worth Beach; 7.23% reported NOI cap rate. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 4-Unit Quadruplex, Lake Worth Beach (~7.23% cap)",
+   "highlights": [
+    "Investor: ~7-9% est. cash-on-cash (25% down, IO @ ~7%)",
+    "4-unit Quadruplex",
+    "~7.23% reported NOI cap rate"
+   ],
+   "inv_line": [
+    "~7-9% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~10-11x GRM"
+   ]
+  }
+ ]
+}
