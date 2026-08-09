@@ -1,11 +1,71 @@
 {
   "meta": {
     "created": "2026-07-06",
-    "updated": "2026-08-04",
+    "updated": "2026-08-08",
     "note": "Archive of items rotated off the live market/news_data.json 16-item list. Weekly refresh APPENDS dropped items here (newest first) - never delete. Same item schema as news_data.json. Not rendered on the site; kept for content reuse, history, and a future archive/search section.",
-    "count": 41
+    "count": 46
   },
   "items": [
+    {
+      "id": 56,
+      "date": "2026-07-30",
+      "archivedOn": "2026-08-08",
+      "title": "Mortgage Rates Extend Climb to 6.66%; 15-Yr Rises to 6.04%",
+      "summary": "Freddie Mac's 30-year fixed averaged 6.66% the week of July 30, up from 6.58% and marking a fourth consecutive weekly increase (6.49% on July 9, 6.55%, 6.58%, now 6.66%). The 15-year fixed rose to 6.04% from 5.96%. A year ago the 30-year FRM averaged 6.72%, so financing remains modestly cheaper than 2025, and Freddie Mac notes rising inventory continues to improve affordability for buyers who stay engaged even as purchase demand softens. Bankrate's 30-year jumbo average was about 6.85% as of July 30.",
+      "source": "Freddie Mac / Bankrate",
+      "sourceUrl": "https://www.freddiemac.com/pmms",
+      "category": "Market Data",
+      "tags": ["mortgage rates", "jumbo", "financing", "PMMS"],
+      "importance": "high"
+    },
+    {
+      "id": 50,
+      "date": "2026-07-23",
+      "archivedOn": "2026-08-08",
+      "title": "South Florida Luxury Price Threshold Jumps to $3.3M; Ultra-Luxury Hits $10.7M",
+      "summary": "MIAMI REALTORS chief economist Gay Cororaton reports South Florida's single-family luxury (top 5% of sales) price threshold climbed to $3.3 million in the first half of 2026, up from $2.7 million in 2025, while the ultra-luxury (top 1%) threshold jumped to $10.7 million from $7.8 million - highest in Miami-Dade ($15M), Palm Beach ($14M) and Martin ($10.5M). The condo luxury threshold rose to $2.3 million and ultra-luxury to $6.0 million. Out-of-state buyers grew to 10% of domestic buyers (from 7% in 2024-25), led by New York (34%), New Jersey (13%) and California (8%), and bought at higher price points - California's single-family luxury threshold was $8.5 million.",
+      "source": "MIAMI REALTORS",
+      "sourceUrl": "https://www.miamirealtors.com/2026/07/23/south-florida-luxury-home-market-reaches-new-milestones/",
+      "category": "Market Data",
+      "tags": ["luxury", "price threshold", "migration", "out-of-state buyers"],
+      "importance": "high"
+    },
+    {
+      "id": 48,
+      "date": "2026-07-22",
+      "archivedOn": "2026-08-08",
+      "title": "Bal Harbour Oceana Penthouse Sells for $20.9M to Lead the Week's Deals",
+      "summary": "A roughly 5,000 SF penthouse at the Oceana Bal Harbour, 10201 Collins Avenue, sold for $20.9 million to Oceana PH2802 Holdings LLC - the week's top recorded South Florida home sale (three bedrooms, five-and-a-half baths; the selling trust had paid $22 million for the unit in 2023). In Palm Beach County, Charles and Alexandra Prakas paid $5.7 million for a roughly 5,400 SF, five-bedroom home at 619 Riverside Road in North Palm Beach. The steady stream of eight-figure closings underscores how the ultra-luxury market keeps clearing through the slow summer season.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/07/23/south-florida-top-real-estate-deals-july-22-2026/",
+      "category": "Luxury",
+      "tags": ["Bal Harbour", "Oceana", "North Palm Beach", "top deals"],
+      "importance": "high"
+    },
+    {
+      "id": 49,
+      "date": "2026-07-22",
+      "archivedOn": "2026-08-06",
+      "title": "West Palm Beach Mansion Sells for $15.7M, Shattering the City's Non-Waterfront Record",
+      "summary": "A newly built 8,600 SF mansion at 122 Bloomfield Drive in West Palm Beach sold for $15.7 million - about $1,820 per square foot - breaking the city's record for the priciest non-waterfront home sale (the prior record was $9 million in 2024). 122 Bloomfield Trust, managed by Francis Lynch, bought from an entity tied to financier Mark Marcello, who had paid $2.9 million for the lot in 2024. Broker Margit Brandt noted coastal West Palm homes now fetch $1,500-$2,000 per foot - a relative bargain versus Palm Beach island's $3,000-$4,000 - as buyers chase inland space and lower insurance costs; inland luxury set a record last year with 123 deals totaling $2.12 billion.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/07/22/west-palm-beach-sale-home-breaks-record-at-16-million/",
+      "category": "Luxury",
+      "tags": ["West Palm Beach", "record sale", "non-waterfront", "inland luxury"],
+      "importance": "high"
+    },
+    {
+      "id": 51,
+      "date": "2026-07-22",
+      "archivedOn": "2026-08-06",
+      "title": "Swire's $240M Mandarin Oriental Tower Tops South Florida Construction Permits",
+      "summary": "The week's largest South Florida construction permit was a $240 million filing for 1 Island Drive on Brickell Key, where Swire Properties is building The Residences at Mandarin Oriental, Miami and a Mandarin Oriental hotel totaling about 1.35 million square feet of condos and hotel. Ranking second was a $95 million permit for Sense 22 at 114 Northeast 22nd Street in Miami - New Sense LLC's Live Local Act mixed-use project of roughly 503,000 SF rising 36 stories with more than 320 units.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/07/23/south-floridas-top-construction-permits-july-22-2026/",
+      "category": "Development",
+      "tags": ["Miami", "Brickell Key", "Mandarin Oriental", "permits", "Live Local Act"],
+      "importance": "high"
+    },
     {
       "id": 45,
       "date": "2026-07-20",
