@@ -1,11 +1,47 @@
 {
   "meta": {
     "created": "2026-07-06",
-    "updated": "2026-08-08",
+    "updated": "2026-08-10",
     "note": "Archive of items rotated off the live market/news_data.json 16-item list. Weekly refresh APPENDS dropped items here (newest first) - never delete. Same item schema as news_data.json. Not rendered on the site; kept for content reuse, history, and a future archive/search section.",
-    "count": 46
+    "count": 49
   },
   "items": [
+    {
+      "id": 54,
+      "date": "2026-07-24",
+      "archivedOn": "2026-08-10",
+      "title": "Waste Management Pays $379M for Medley Landfill Site in Week's Top Commercial Deal",
+      "summary": "Waste Management Inc. paid $379.4 million for a 146-acre, largely vacant industrial site near Northwest 95th Avenue and Northwest 106th Street in Medley - buying from a company managed by Lowell and Loretta Dunn and planning to use it as a landfill - South Florida's largest recorded commercial deal of the week. Also trading: HarborChase of Boynton Beach, a 120,000 SF senior-living community built in 2023, sold for just under $35 million (a Lotis-Chaudhary Development Group affiliate to LA-based Range Equity Management), and a WareSpace affiliate bought a 119,000 SF Medley industrial building from a Blackstone/Link Logistics entity for $15 million ($126 per square foot).",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/07/27/south-florida-top-real-estate-deals-july-24-2026/",
+      "category": "Commercial/CRE",
+      "tags": ["Medley", "industrial", "Waste Management", "senior living", "Boynton Beach"],
+      "importance": "high"
+    },
+    {
+      "id": 53,
+      "date": "2026-07-24",
+      "archivedOn": "2026-08-10",
+      "title": "Miami Beach Penthouse Sells for $23.5M to Lead the Week's Home Deals",
+      "summary": "A trust tied to Yves Mongeau and Sylvie Guilbault sold a 9,000 SF penthouse at 450 Alton Road in Miami Beach for $23.5 million - about $2,600 per square foot - the week's top recorded South Florida home sale (six bedrooms, seven-and-a-half baths; the sellers had paid $15 million in 2013, last asking $28.9 million), with Akron Warwick Exchange LLC buying. In Surfside, fashion designer Tomas Maier and Andrew Preston sold a Surf Club Four Seasons condo at 9111 Collins Avenue for $17.7 million, or $5,900 per square foot, after paying $13 million in 2023.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/07/27/south-florida-top-real-estate-deals-july-24-2026/",
+      "category": "Luxury",
+      "tags": ["Miami Beach", "penthouse", "Surfside", "Surf Club", "top deals"],
+      "importance": "high"
+    },
+    {
+      "id": 52,
+      "date": "2026-07-23",
+      "archivedOn": "2026-08-10",
+      "title": "West Palm Beach's Alba Sponsor Unit Sells for $10.4M to Lead the Week's Deals",
+      "summary": "David Goulden and Andrea Helen McDonough bought a sponsor unit at the new Alba Palm Beach condominium at 4714 North Flagler Drive in West Palm Beach for $10.4 million - the week's top recorded South Florida home sale (a five-bedroom, five-bathroom residence of about 4,500 square feet). The top commercial deal of the week was in Medley, where Miami-based developer Tekton Development paid $6.6 million for an industrial property, underscoring continued institutional appetite for infill Miami-Dade logistics real estate even through the slow summer season.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/07/24/south-florida-top-real-estate-deals-july-23-2026/",
+      "category": "Luxury",
+      "tags": ["West Palm Beach", "Alba", "Medley", "industrial", "top deals"],
+      "importance": "high"
+    },
     {
       "id": 56,
       "date": "2026-07-30",
