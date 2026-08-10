@@ -1,5 +1,38 @@
 [
   {
+    "id": 71,
+    "date": "2026-08-07",
+    "title": "Starwood Buys Two Miami-Dade Affordable Housing Communities for $63.8M",
+    "summary": "Barry Sternlicht's Starwood Asset Management paid a combined $63.8 million for two Miami-Dade affordable-housing rental communities, buying from the Gatehouse Group. Starwood paid $34 million for Magnolia Landing, a 150-unit, 20-building complex built in 2011 on 4.8 acres at 25881 Southwest 143rd Court in the Naranja area, and $29.75 million for Lafayette Square, a 160-unit, 19-story building on 1.2 acres at 150 Northeast 79th Street in Miami's Little River neighborhood. CBRE Capital Markets arranged a $23.8 million Freddie Mac loan for the deal, which underscores growing institutional appetite for income-restricted rentals as market-rate multifamily activity moderates.",
+    "source": "Commercial Observer / Commercial Real Estate Direct",
+    "sourceUrl": "https://commercialobserver.com/2026/08/barry-sternlicht-starwood-miami-affordable-housing/",
+    "category": "Multifamily",
+    "tags": ["Starwood", "Miami-Dade", "affordable housing", "Gatehouse Group", "multifamily"],
+    "importance": "high"
+  },
+  {
+    "id": 70,
+    "date": "2026-08-06",
+    "title": "Witkoff's $97M Shore Club, Related's Gallery at Lummus Top South Florida Permits",
+    "summary": "South Florida's largest construction permits for the week ending August 5 were led by a $97 million phased new-construction permit for The Shore Club Private Collection at 1901 Collins Avenue in Miami Beach - Witkoff and Monroe Capital's roughly 481,200 SF luxury condo-and-hotel project (about 45 residences and 79 hotel rooms), which lined up $430 million in construction financing in 2023. The second-largest was a $74.5 million permit for the Related Group's Gallery at Lummus, a 415,500 SF apartment project at 395 Northwest First Street in Miami. The pipeline highlights how ultra-luxury coastal condos and large rental towers continue to drive the region's development activity.",
+    "source": "The Real Deal",
+    "sourceUrl": "https://therealdeal.com/miami/2026/08/06/top-permits-witkoffs-shore-club-starts-construction/",
+    "category": "Development",
+    "tags": ["Miami Beach", "Shore Club", "Witkoff", "Related Group", "permits", "development"],
+    "importance": "high"
+  },
+  {
+    "id": 69,
+    "date": "2026-08-06",
+    "title": "Rivani Buys Miami Beach's 404 Washington Office-Retail Building for $31.5M",
+    "summary": "Local developer Rivani paid $31.5 million - about $201 per square foot - for 404 Washington, a 156,752 SF office-and-retail building in Miami Beach, buying from Dominion Partners LP of Sunny Isles Beach. The purchase reflects continued investor interest in well-located South Beach commercial space even as broader South Florida office and retail sales volume cooled in the first half of 2026.",
+    "source": "Commercial Real Estate Direct / South Florida Business Journal",
+    "sourceUrl": "https://crenews.com/2026/08/06/miami-beach-office-retail-building-fetches-31-5mln/",
+    "category": "Commercial/CRE",
+    "tags": ["Miami Beach", "office", "retail", "Rivani", "Dominion Partners"],
+    "importance": "medium"
+  },
+  {
     "id": 68,
     "date": "2026-08-06",
     "title": "Mortgage Rates Rise to 6.69%; 15-Yr Eases to 6.01%",
@@ -140,39 +173,6 @@
     "sourceUrl": "https://www.connectcre.com/stories/vacant-pembroke-pines-condo-community-trades-for-20-5m/",
     "category": "Multifamily",
     "tags": ["Pembroke Pines", "Broward", "distressed", "value-add", "redevelopment"],
-    "importance": "high"
-  },
-  {
-    "id": 53,
-    "date": "2026-07-24",
-    "title": "Miami Beach Penthouse Sells for $23.5M to Lead the Week's Home Deals",
-    "summary": "A trust tied to Yves Mongeau and Sylvie Guilbault sold a 9,000 SF penthouse at 450 Alton Road in Miami Beach for $23.5 million - about $2,600 per square foot - the week's top recorded South Florida home sale (six bedrooms, seven-and-a-half baths; the sellers had paid $15 million in 2013, last asking $28.9 million), with Akron Warwick Exchange LLC buying. In Surfside, fashion designer Tomas Maier and Andrew Preston sold a Surf Club Four Seasons condo at 9111 Collins Avenue for $17.7 million, or $5,900 per square foot, after paying $13 million in 2023.",
-    "source": "The Real Deal",
-    "sourceUrl": "https://therealdeal.com/miami/2026/07/27/south-florida-top-real-estate-deals-july-24-2026/",
-    "category": "Luxury",
-    "tags": ["Miami Beach", "penthouse", "Surfside", "Surf Club", "top deals"],
-    "importance": "high"
-  },
-  {
-    "id": 54,
-    "date": "2026-07-24",
-    "title": "Waste Management Pays $379M for Medley Landfill Site in Week's Top Commercial Deal",
-    "summary": "Waste Management Inc. paid $379.4 million for a 146-acre, largely vacant industrial site near Northwest 95th Avenue and Northwest 106th Street in Medley - buying from a company managed by Lowell and Loretta Dunn and planning to use it as a landfill - South Florida's largest recorded commercial deal of the week. Also trading: HarborChase of Boynton Beach, a 120,000 SF senior-living community built in 2023, sold for just under $35 million (a Lotis-Chaudhary Development Group affiliate to LA-based Range Equity Management), and a WareSpace affiliate bought a 119,000 SF Medley industrial building from a Blackstone/Link Logistics entity for $15 million ($126 per square foot).",
-    "source": "The Real Deal",
-    "sourceUrl": "https://therealdeal.com/miami/2026/07/27/south-florida-top-real-estate-deals-july-24-2026/",
-    "category": "Commercial/CRE",
-    "tags": ["Medley", "industrial", "Waste Management", "senior living", "Boynton Beach"],
-    "importance": "high"
-  },
-  {
-    "id": 52,
-    "date": "2026-07-23",
-    "title": "West Palm Beach's Alba Sponsor Unit Sells for $10.4M to Lead the Week's Deals",
-    "summary": "David Goulden and Andrea Helen McDonough bought a sponsor unit at the new Alba Palm Beach condominium at 4714 North Flagler Drive in West Palm Beach for $10.4 million - the week's top recorded South Florida home sale (a five-bedroom, five-bathroom residence of about 4,500 square feet). The top commercial deal of the week was in Medley, where Miami-based developer Tekton Development paid $6.6 million for an industrial property, underscoring continued institutional appetite for infill Miami-Dade logistics real estate even through the slow summer season.",
-    "source": "The Real Deal",
-    "sourceUrl": "https://therealdeal.com/miami/2026/07/24/south-florida-top-real-estate-deals-july-23-2026/",
-    "category": "Luxury",
-    "tags": ["West Palm Beach", "Alba", "Medley", "industrial", "top deals"],
     "importance": "high"
   }
 ]
