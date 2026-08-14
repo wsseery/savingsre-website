@@ -1,11 +1,71 @@
 {
   "meta": {
     "created": "2026-07-06",
-    "updated": "2026-08-10",
+    "updated": "2026-08-14",
     "note": "Archive of items rotated off the live market/news_data.json 16-item list. Weekly refresh APPENDS dropped items here (newest first) - never delete. Same item schema as news_data.json. Not rendered on the site; kept for content reuse, history, and a future archive/search section.",
-    "count": 49
+    "count": 54
   },
   "items": [
+    {
+      "id": 68,
+      "date": "2026-08-06",
+      "archivedOn": "2026-08-14",
+      "title": "Mortgage Rates Rise to 6.69%; 15-Yr Eases to 6.01%",
+      "summary": "Freddie Mac's 30-year fixed-rate mortgage averaged 6.69% the week of August 6, up from 6.66% and extending its summer climb, while the 15-year fixed edged down to 6.01% from 6.04%. A year ago the 30-year FRM averaged 6.63%, so financing now sits marginally above year-ago levels. Chief economist Sam Khater noted listing prices are running modestly below year-ago levels and for-sale inventory continues to improve from the tight supply of recent years - a gradual shift toward buyers. Bankrate's 30-year jumbo average was about 6.90% as of early August.",
+      "source": "Freddie Mac / Bankrate",
+      "sourceUrl": "https://www.freddiemac.com/pmms",
+      "category": "Market Data",
+      "tags": ["mortgage rates", "jumbo", "financing", "PMMS"],
+      "importance": "high"
+    },
+    {
+      "id": 60,
+      "date": "2026-07-29",
+      "archivedOn": "2026-08-14",
+      "title": "Skechers Co-Founder Buys $10.5M Miami Home; Julia Hotel Trades for $9.1M",
+      "summary": "Skechers co-founder Michael Greenberg, through an LLC, bought a 3,400 SF home at 3600 Stewart Avenue in Miami for $10.5 million - the week's top recorded South Florida home sale (four bedrooms, three-and-a-half baths). Sellers Roberta Manelli and Francisco Salonia-Ruzo had paid $2.1 million for the property in 2015. The week's top commercial deal was the Julia Hotel at 336 Collins Avenue in Miami Beach, which an affiliate of Miami-based SMS Lodging sold for $9.1 million - about $314,000 per key - to C&D Bay Village LLC, managed by investors Danilo Damolin and Lorenzo Costa.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/07/30/south-florida-top-real-estate-deals-july-29-2026/",
+      "category": "Luxury",
+      "tags": ["Miami", "Skechers", "Miami Beach", "Julia Hotel", "top deals"],
+      "importance": "medium"
+    },
+    {
+      "id": 61,
+      "date": "2026-07-29",
+      "archivedOn": "2026-08-14",
+      "title": "Baptist Hospital $45M Expansion, Ritz-Carlton South Beach Top Miami-Area Permits",
+      "summary": "South Florida's largest construction permits for the week ending July 29 were led by a $45 million interior-alteration permit for Baptist Health South Florida's 111,500 SF expansion of Baptist Hospital Miami at 8900 North Kendall Drive, followed by a $43.6 million, 36,700 SF renovation of the Brickell East condominium at 151 Southeast 15th Road. The largest new-construction permits were $28.4 million for phased work at the Ritz-Carlton, South Beach at 1 Lincoln Road in Miami Beach and $18 million for The Cove at 1055 North Federal Highway in Fort Lauderdale - Affiliated Development's eight-story, 376-unit Live Local Act rental, which recently landed a $74 million construction loan from Pacific Life.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/07/30/baptist-health-brickell-east-condo-lead-miami-area-permits/",
+      "category": "Development",
+      "tags": ["Miami", "Baptist Health", "Ritz-Carlton", "Fort Lauderdale", "permits", "Live Local Act"],
+      "importance": "high"
+    },
+    {
+      "id": 58,
+      "date": "2026-07-28",
+      "archivedOn": "2026-08-12",
+      "title": "Kamson, Scopus Buy 400-Unit West Palm Beach Rental Community for $90.5M",
+      "summary": "A joint venture of the Kamson Corporation and Joel Gluck's Scopus Property Management paid $90.5 million - about $226,250 per unit - for Ponte Verde at Palm Beach Lakes, a 400-unit garden-style rental community on roughly 28 acres at 1401 Village Boulevard in West Palm Beach. Built in 1990 as apartments, the 23-building, ~360,500 SF property was converted to condominiums and then restored to rental housing in August 2025. Prospect Ridge and Blue Owl provided an $81 million acquisition loan. The trade was among South Florida's largest multifamily deals of the summer and underscores continued institutional appetite for well-located, workforce-oriented rentals in Palm Beach County.",
+      "source": "The Real Deal / Commercial Real Estate Direct",
+      "sourceUrl": "https://therealdeal.com/miami/2026/07/29/south-florida-top-real-estate-deals-july-28-2026/",
+      "category": "Multifamily",
+      "tags": ["West Palm Beach", "Kamson", "Scopus", "condo deconversion", "value-add"],
+      "importance": "high"
+    },
+    {
+      "id": 55,
+      "date": "2026-07-27",
+      "archivedOn": "2026-08-12",
+      "title": "Integra Buys Condemned 304-Unit Pembroke Pines Condo Complex for $20.5M",
+      "summary": "Miami-based Integra Investments acquired Heron Pond - a vacant 304-unit, 19-building condominium community at 8320 Southwest 1st Street in Pembroke Pines - for $20.5 million through a court-appointed receivership auction, closing a legal battle after a bulk-unit owner's challenge was denied. Built in 1988 as apartments and converted to condos in 2000, the complex has sat empty since the city declared it unsafe and evacuated residents in 2024 over termite damage, rotted beams and wind-resistance defects. In-place zoning allows up to 321 units by right and the count could more than double through upzoning - a large-scale value-add/redevelopment play in western Broward.",
+      "source": "Connect CRE / The Real Deal",
+      "sourceUrl": "https://www.connectcre.com/stories/vacant-pembroke-pines-condo-community-trades-for-20-5m/",
+      "category": "Multifamily",
+      "tags": ["Pembroke Pines", "Broward", "distressed", "value-add", "redevelopment"],
+      "importance": "high"
+    },
     {
       "id": 54,
       "date": "2026-07-24",
