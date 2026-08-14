@@ -1,7 +1,7 @@
 {
   "meta": {
-    "updated": "2026-08-10",
-    "period": "Residential through June 2026; rates as of August 6, 2026",
+    "updated": "2026-08-14",
+    "period": "Residential through June 2026; rates as of August 13, 2026",
     "coverage": "SE Florida (Miami-Dade, Broward, Palm Beach, Martin, St. Lucie) + statewide FL",
     "disclaimer": "Figures compiled from public market reports (Florida Realtors, MIAMI Realtors, CBRE, Freddie Mac, FL OIR) and are informational only - not investment, tax, or financial advice. Deemed reliable but not guaranteed.",
     "note_source": "Residential county metrics pulled monthly from the Florida Realtors county market reports (floridarealtors.org/tools-research/reports/florida-market-reports), released ~the 17th of each month for the prior month. This replaced the RAPB-GFLR ShowingTime MMI as the residential source on 2026-07-23 (ShowingTime lags; Florida Realtors publishes reliably mid-month and covers Miami-Dade)."
@@ -44,10 +44,10 @@
     ]
   },
   "rates": {
-    "updated": "2026-08-06",
+    "updated": "2026-08-13",
     "cards": [
-      { "label": "30-Yr Fixed (conforming)", "value": "6.69%", "sub": "Freddie Mac PMMS 8/6 - up from 6.66%; 6.63% a year ago" },
-      { "label": "30-Yr Jumbo", "value": "~6.90%", "sub": "Bankrate avg early Aug, up from ~6.85%" },
+      { "label": "30-Yr Fixed (conforming)", "value": "6.67%", "sub": "Freddie Mac PMMS 8/13 - down from 6.69% (first drop in 6 weeks); 6.58% a year ago" },
+      { "label": "30-Yr Jumbo", "value": "~6.84%", "sub": "Bankrate/MRC avg mid-Aug, down from ~6.90%" },
       { "label": "Jumbo loan threshold", "value": "$832,750", "sub": "2026 FHFA baseline (most areas)" }
     ]
   },
