@@ -1,11 +1,47 @@
 {
   "meta": {
     "created": "2026-07-06",
-    "updated": "2026-08-16",
+    "updated": "2026-08-18",
     "note": "Archive of items rotated off the live market/news_data.json 16-item list. Weekly refresh APPENDS dropped items here (newest first) - never delete. Same item schema as news_data.json. Not rendered on the site; kept for content reuse, history, and a future archive/search section.",
-    "count": 57
+    "count": 60
   },
   "items": [
+    {
+      "id": 65,
+      "date": "2026-08-04",
+      "archivedOn": "2026-08-18",
+      "title": "Bal Harbour Oceanfront Condo Sells for $14.5M to Lead the Week's Deals",
+      "summary": "A trust paid $14.5 million - about $3,600 per square foot - for a 4,000 SF oceanfront corner condo at 10201 Collins Avenue in Bal Harbour, the week's top recorded South Florida home sale (three bedrooms, four-and-a-half baths, with a terrace and ocean views), buying from a company led by Jason Claxton. The week's priciest commercial deal was in Lantana, where Miami-based Cherry Oak Management sold an assisted-living facility at 6026 Old Congress Road for $8.4 million. Also trading: a Lauderhill shopping center at 7100-7200 West Commercial Boulevard that sold for $6.8 million, from an entity tied to investor Allen Chelminsky.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/08/05/south-florida-top-real-estate-deals-august-4-2026/",
+      "category": "Luxury",
+      "tags": ["Bal Harbour", "oceanfront condo", "Lantana", "Lauderhill", "top deals"],
+      "importance": "high"
+    },
+    {
+      "id": 64,
+      "date": "2026-08-03",
+      "archivedOn": "2026-08-18",
+      "title": "Pinecrest Development Lot Sells for $14.5M; Doral Dealership Site Trades for $23M",
+      "summary": "Financier Mauro Ivan Korlaet Araya and lifestyle-and-fashion influencer Daniela Fernandez Nazer paid $14.5 million for a vacant 1.1-acre lot at 9601 Southwest 67th Avenue in Pinecrest - the week's top recorded South Florida residential deal, a land price that underscores how scarce large buildable parcels have become in the affluent village. The week's most expensive commercial sale was a used-car dealership property at 8505 Northwest 12th Street in Doral, which changed hands for $23 million, reflecting continued investor demand for infill Miami-Dade commercial land.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/08/04/south-florida-top-real-estate-deals-august-3-2026/",
+      "category": "Luxury",
+      "tags": ["Pinecrest", "Doral", "development site", "land", "top deals"],
+      "importance": "medium"
+    },
+    {
+      "id": 63,
+      "date": "2026-08-03",
+      "archivedOn": "2026-08-18",
+      "title": "Hallandale Beach's Millennium Plaza Mixed-Use Property Trades for $40M",
+      "summary": "AS Hallandale Investment FL paid $40 million - about $209 per square foot - for Millennium Plaza, a 191,084 SF mixed-use retail-and-office property at 2500 East Hallandale Beach Boulevard in Hallandale Beach, roughly 14 miles south of Fort Lauderdale. The purchase adds to a wave of capital targeting Hallandale Beach, a dense, transit-adjacent submarket between Fort Lauderdale and Miami where developers have been assembling sites for mixed-use and residential redevelopment. Necessity-oriented, infill commercial assets in built-out coastal Broward continue to trade even as broader South Florida commercial volume cooled in the first half of 2026.",
+      "source": "Commercial Real Estate Direct",
+      "sourceUrl": "https://crenews.com/2026/08/03/south-fla-mixed-use-property-fetches-40mln/",
+      "category": "Commercial/CRE",
+      "tags": ["Hallandale Beach", "mixed-use", "Broward", "retail", "office"],
+      "importance": "high"
+    },
     {
       "id": 62,
       "date": "2026-07-31",
