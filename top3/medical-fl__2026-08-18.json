@@ -1,0 +1,219 @@
+{
+ "segment": "medical-fl",
+ "collection": "curated",
+ "template": "curated-generic",
+ "label": "Medical Office \u2014 Florida",
+ "tagline": "Top medical office & healthcare-tenant deals statewide \u00b7 ranked by cap rate",
+ "search_name": "Crexi (FL medical office)",
+ "generated": "2026-08-18",
+ "pdf": "pdf/medical-fl__2026-08-18.pdf",
+ "expires": "2026-09-17",
+ "total_results": 10,
+ "metric_label": "Cap rate",
+ "methodology": "Crexi Florida office pull 2026-08-18, filtered to medical / healthcare-tenant assets, ranked by published cap rate. Disguised: area + type + price band + cap band public.",
+ "items": [
+  {
+   "id": "medical-fl-2026-08-18-01",
+   "analytics_id": "A-00796",
+   "rank": 1,
+   "submarket": "Brandon",
+   "profile": "Medical Office",
+   "price_band": "$5M-$6M",
+   "cap_label": "~8.15% cap",
+   "desc": "Medical office asset in Brandon; ~8.15% cap, ~2.5K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Medical Office, Brandon (~8.15% cap)",
+   "highlights": [
+    "Investor: ~10-12% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Single-tenant",
+    "~2.5K sq ft"
+   ],
+   "inv_line": [
+    "~10-12% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Opportunity Zone"
+   ]
+  },
+  {
+   "id": "medical-fl-2026-08-18-02",
+   "analytics_id": "A-00781",
+   "rank": 2,
+   "submarket": "Melbourne",
+   "profile": "Medical Office",
+   "price_band": "$2.5M-$3M",
+   "cap_label": "~8.13% cap",
+   "desc": "Medical office asset in Melbourne; ~8.13% cap, ~21K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Medical Office, Melbourne (~8.13% cap)",
+   "highlights": [
+    "Investor: ~10-12% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Multi-tenant",
+    "~21K sq ft",
+    "built 1980s"
+   ],
+   "inv_line": [
+    "~10-12% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Opportunity Zone",
+    "Value-add business plan"
+   ]
+  },
+  {
+   "id": "medical-fl-2026-08-18-03",
+   "analytics_id": "A-00797",
+   "rank": 3,
+   "submarket": "Brandon",
+   "profile": "Medical Office",
+   "price_band": "$2.5M-$3M",
+   "cap_label": "~8.00% cap",
+   "desc": "Medical office asset in Brandon; ~8.00% cap, ~9.1K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Medical Office, Brandon (~8.00% cap)",
+   "highlights": [
+    "Investor: ~10-12% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Multi-tenant",
+    "~9.1K sq ft",
+    "~100% occupied"
+   ],
+   "inv_line": [
+    "~10-12% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "medical-fl-2026-08-18-04",
+   "analytics_id": "A-00798",
+   "rank": 4,
+   "submarket": "Pensacola",
+   "profile": "Medical Office",
+   "price_band": "$4M-$5M",
+   "cap_label": "~7.81% cap",
+   "desc": "Medical office asset in Pensacola; ~7.81% cap, ~30K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Medical Office, Pensacola (~7.81% cap)",
+   "highlights": [
+    "Investor: ~9-11% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~30K sq ft",
+    "built 1980s",
+    "~100% occupied"
+   ],
+   "inv_line": [
+    "~9-11% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "medical-fl-2026-08-18-05",
+   "analytics_id": "A-00799",
+   "rank": 5,
+   "submarket": "Tampa",
+   "profile": "Medical Office",
+   "price_band": "$1M-$1.5M",
+   "cap_label": "~7.50% cap",
+   "desc": "Medical office asset in Tampa; ~7.50% cap, ~3.3K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Medical Office, Tampa (~7.50% cap)",
+   "highlights": [
+    "Investor: ~8-10% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Single-tenant",
+    "~3.3K sq ft",
+    "built 2000s"
+   ],
+   "inv_line": [
+    "~8-10% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "medical-fl-2026-08-18-06",
+   "analytics_id": "A-00800",
+   "rank": 6,
+   "submarket": "Venice",
+   "profile": "Medical Office",
+   "price_band": "$1M-$1.5M",
+   "cap_label": "~7.11% cap",
+   "desc": "Medical office asset in Venice; ~7.11% cap, ~3.4K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Medical Office, Venice (~7.11% cap)",
+   "highlights": [
+    "Investor: ~6-8% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Single-tenant",
+    "~3.4K sq ft",
+    "built 1970s"
+   ],
+   "inv_line": [
+    "~6-8% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "medical-fl-2026-08-18-07",
+   "analytics_id": "A-00801",
+   "rank": 7,
+   "submarket": "Tampa",
+   "profile": "Medical Office",
+   "price_band": "$12M-$13M",
+   "cap_label": "~6.76% cap",
+   "desc": "Medical office asset in Tampa; ~6.76% cap, ~30K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Medical Office, Tampa (~6.76% cap)",
+   "highlights": [
+    "Investor: ~5-7% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Multi-tenant",
+    "~30K sq ft",
+    "built 1980s"
+   ],
+   "inv_line": [
+    "~5-7% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~7.2% pro-forma cap"
+   ]
+  },
+  {
+   "id": "medical-fl-2026-08-18-08",
+   "analytics_id": "A-00802",
+   "rank": 8,
+   "submarket": "Palm Coast",
+   "profile": "Medical Office",
+   "price_band": "$3M-$4M",
+   "cap_label": "~6.73% cap",
+   "desc": "Medical office asset in Palm Coast; ~6.73% cap, ~6.8K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Medical Office, Palm Coast (~6.73% cap)",
+   "highlights": [
+    "Investor: ~4-6% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Single-tenant",
+    "~6.8K sq ft",
+    "built 2020s"
+   ],
+   "inv_line": [
+    "~4-6% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "medical-fl-2026-08-18-09",
+   "analytics_id": "A-00803",
+   "rank": 9,
+   "submarket": "Port Orange",
+   "profile": "Medical Office",
+   "price_band": "$2M-$2.5M",
+   "cap_label": "~6.65% cap",
+   "desc": "Medical office asset in Port Orange; ~6.65% cap, ~5.4K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Medical Office, Port Orange (~6.65% cap)",
+   "highlights": [
+    "Investor: ~4-6% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Single-tenant",
+    "~5.4K sq ft",
+    "built 2020s"
+   ],
+   "inv_line": [
+    "~4-6% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "medical-fl-2026-08-18-10",
+   "analytics_id": "A-00804",
+   "rank": 10,
+   "submarket": "Lakewood Ranch",
+   "profile": "Medical Office",
+   "price_band": "$6M-$7M",
+   "cap_label": "~6.50% cap",
+   "desc": "Medical office asset in Lakewood Ranch; ~6.50% cap, ~8.0K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Medical Office, Lakewood Ranch (~6.50% cap)",
+   "highlights": [
+    "Investor: ~4-6% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Single-tenant",
+    "~8.0K sq ft",
+    "built 2000s"
+   ],
+   "inv_line": [
+    "~4-6% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  }
+ ]
+}

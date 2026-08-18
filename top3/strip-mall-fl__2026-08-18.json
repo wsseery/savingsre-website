@@ -1,0 +1,223 @@
+{
+ "segment": "strip-mall-fl",
+ "collection": "curated",
+ "template": "curated-generic",
+ "label": "Strip Malls & Retail Centers \u2014 Florida",
+ "tagline": "Top multi-tenant strip & neighborhood retail centers statewide \u00b7 ranked by cap rate",
+ "search_name": "Crexi (FL multi-tenant retail centers)",
+ "generated": "2026-08-18",
+ "pdf": "pdf/strip-mall-fl__2026-08-18.pdf",
+ "expires": "2026-09-17",
+ "total_results": 10,
+ "metric_label": "Cap rate",
+ "methodology": "Crexi Florida retail pull 2026-08-18, filtered to multi-tenant strip / neighborhood retail centers only, ranked by published cap rate. Disguised: area + type + price band + cap band public.",
+ "items": [
+  {
+   "id": "strip-mall-fl-2026-08-18-01",
+   "analytics_id": "A-00780",
+   "rank": 1,
+   "submarket": "Lake Wales",
+   "profile": "Multi-Tenant Retail Center",
+   "price_band": "$11M-$12M",
+   "cap_label": "~9.00% cap",
+   "desc": "Multi-tenant retail center in Lake Wales; ~9.00% cap, ~100K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Multi-Tenant Retail Center, Lake Wales (~9.00% cap)",
+   "highlights": [
+    "Investor: ~14-16% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Multi-tenant",
+    "~100K sq ft",
+    "built 1970s"
+   ],
+   "inv_line": [
+    "~14-16% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "strip-mall-fl-2026-08-18-02",
+   "analytics_id": "A-00781",
+   "rank": 2,
+   "submarket": "Melbourne",
+   "profile": "Multi-Tenant Retail Center",
+   "price_band": "$2.5M-$3M",
+   "cap_label": "~8.13% cap",
+   "desc": "Multi-tenant retail center in Melbourne; ~8.13% cap, ~21K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Multi-Tenant Retail Center, Melbourne (~8.13% cap)",
+   "highlights": [
+    "Investor: ~10-12% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Multi-tenant",
+    "~21K sq ft",
+    "built 1980s"
+   ],
+   "inv_line": [
+    "~10-12% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Opportunity Zone",
+    "Value-add business plan"
+   ]
+  },
+  {
+   "id": "strip-mall-fl-2026-08-18-03",
+   "analytics_id": "A-00784",
+   "rank": 3,
+   "submarket": "Orlando",
+   "profile": "Multi-Tenant Retail Center",
+   "price_band": "$6M-$7M",
+   "cap_label": "~7.60% cap",
+   "desc": "Multi-tenant retail center in Orlando; ~7.60% cap, ~42K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Multi-Tenant Retail Center, Orlando (~7.60% cap)",
+   "highlights": [
+    "Investor: ~8-10% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Multi-tenant",
+    "~42K sq ft",
+    "built 1990s"
+   ],
+   "inv_line": [
+    "~8-10% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "strip-mall-fl-2026-08-18-04",
+   "analytics_id": "A-00788",
+   "rank": 4,
+   "submarket": "Fort Lauderdale",
+   "profile": "Multi-Tenant Retail Center",
+   "price_band": "$4M-$5M",
+   "cap_label": "~7.25% cap",
+   "desc": "Multi-tenant retail center in Fort Lauderdale; ~7.25% cap, ~23K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Multi-Tenant Retail Center, Fort Lauderdale (~7.25% cap)",
+   "highlights": [
+    "Investor: ~7-9% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Multi-tenant",
+    "~23K sq ft",
+    "built 1960s"
+   ],
+   "inv_line": [
+    "~7-9% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "strip-mall-fl-2026-08-18-05",
+   "analytics_id": "A-00790",
+   "rank": 5,
+   "submarket": "Jacksonville",
+   "profile": "Multi-Tenant Retail Center",
+   "price_band": "$1.5M-$2M",
+   "cap_label": "~6.76% cap",
+   "desc": "Multi-tenant retail center in Jacksonville; ~6.76% cap, ~6.0K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Multi-Tenant Retail Center, Jacksonville (~6.76% cap)",
+   "highlights": [
+    "Investor: ~5-7% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Multi-tenant",
+    "~6.0K sq ft",
+    "built 1970s"
+   ],
+   "inv_line": [
+    "~5-7% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "strip-mall-fl-2026-08-18-06",
+   "analytics_id": "A-00791",
+   "rank": 6,
+   "submarket": "St. Petersburg",
+   "profile": "Multi-Tenant Retail Center",
+   "price_band": "$3M-$4M",
+   "cap_label": "~6.50% cap",
+   "desc": "Multi-tenant retail center in St. Petersburg; ~6.50% cap, ~12K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Multi-Tenant Retail Center, St. Petersburg (~6.50% cap)",
+   "highlights": [
+    "Investor: ~4-6% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Multi-tenant",
+    "~12K sq ft",
+    "built 1970s"
+   ],
+   "inv_line": [
+    "~4-6% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "strip-mall-fl-2026-08-18-07",
+   "analytics_id": "A-00792",
+   "rank": 7,
+   "submarket": "St. Petersburg",
+   "profile": "Multi-Tenant Retail Center",
+   "price_band": "$9M-$10M",
+   "cap_label": "~6.49% cap",
+   "desc": "Multi-tenant retail center in St. Petersburg; ~6.49% cap, ~9.9K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Multi-Tenant Retail Center, St. Petersburg (~6.49% cap)",
+   "highlights": [
+    "Investor: ~3-5% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Multi-tenant",
+    "~9.9K sq ft"
+   ],
+   "inv_line": [
+    "~3-5% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~7.4% pro-forma cap"
+   ]
+  },
+  {
+   "id": "strip-mall-fl-2026-08-18-08",
+   "analytics_id": "A-00793",
+   "rank": 8,
+   "submarket": "Oldsmar",
+   "profile": "Multi-Tenant Retail Center",
+   "price_band": "$15M-$16M",
+   "cap_label": "~6.00% cap",
+   "desc": "Multi-tenant retail center in Oldsmar; ~6.00% cap, ~36K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Multi-Tenant Retail Center, Oldsmar (~6.00% cap)",
+   "highlights": [
+    "Investor: ~2-4% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Multi-tenant",
+    "~36K sq ft",
+    "built 2000s"
+   ],
+   "inv_line": [
+    "~2-4% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "strip-mall-fl-2026-08-18-09",
+   "analytics_id": "A-00794",
+   "rank": 9,
+   "submarket": "Fort Lauderdale",
+   "profile": "Multi-Tenant Retail Center",
+   "price_band": "$3M-$4M",
+   "cap_label": "~4.49% cap",
+   "desc": "Multi-tenant retail center in Fort Lauderdale; ~4.49% cap, ~6.8K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Multi-Tenant Retail Center, Fort Lauderdale (~4.49% cap)",
+   "highlights": [
+    "Investor: Levered spread thin at ~7% debt (rate-sensitive)",
+    "Multi-tenant",
+    "~6.8K sq ft",
+    "built 2020s"
+   ],
+   "inv_line": [
+    "Levered spread thin at ~7% debt (rate-sensitive)",
+    "~6.1% pro-forma cap",
+    "~80% occupancy (lease-up upside)",
+    "Seller/owner financing offered"
+   ]
+  },
+  {
+   "id": "strip-mall-fl-2026-08-18-10",
+   "analytics_id": "A-00795",
+   "rank": 10,
+   "submarket": "Hollywood",
+   "profile": "Multi-Tenant Retail Center",
+   "price_band": "$2M-$2.5M",
+   "cap_label": "~2.52% cap",
+   "desc": "Multi-tenant retail center in Hollywood; ~2.52% cap, ~6.4K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Multi-Tenant Retail Center, Hollywood (~2.52% cap)",
+   "highlights": [
+    "Investor: Levered spread thin at ~7% debt (rate-sensitive)",
+    "Multi-tenant",
+    "~6.4K sq ft",
+    "built 1970s"
+   ],
+   "inv_line": [
+    "Levered spread thin at ~7% debt (rate-sensitive)",
+    "~7.9% pro-forma cap",
+    "~75% occupancy (lease-up upside)"
+   ]
+  }
+ ]
+}

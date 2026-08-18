@@ -1,0 +1,181 @@
+{
+ "segment": "starter-mf-corridor",
+ "collection": "curated",
+ "template": "curated-generic",
+ "label": "Starter Multifamily \u2014 $800K to $2M",
+ "tagline": "Delray Beach to Fort Lauderdale corridor \u00b7 2\u20139 units \u00b7 built for smaller & first-time investors \u00b7 ranked by price per unit",
+ "search_name": "Crexi (Delray-Fort Lauderdale corridor MF)",
+ "generated": "2026-08-18",
+ "pdf": "pdf/starter-mf-corridor__2026-08-18.pdf",
+ "expires": "2026-09-17",
+ "total_results": 8,
+ "metric_label": "Price / unit",
+ "methodology": "Crexi Delray Beach-Fort Lauderdale corridor multifamily as of 2026-08-18, filtered to $800K-$2M and 2-9 units (smaller/first-time investors), ranked by LOWEST price per unit. Disguised: area + units + price band + $/unit public.",
+ "items": [
+  {
+   "id": "starter-mf-corridor-2026-08-18-01",
+   "analytics_id": "A-00848",
+   "rank": 1,
+   "submarket": "Hallandale Beach",
+   "profile": "9-Unit Starter Multifamily",
+   "price_band": "$1.5M-$2M",
+   "cap_label": "~$181K/unit",
+   "desc": "9-Unit Multifamily in Hallandale Beach, ~$181K/unit. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 9-Unit Starter Multifamily, Hallandale Beach (~$181K/unit)",
+   "highlights": [
+    "9 units",
+    "~$181K/unit"
+   ]
+  },
+  {
+   "id": "starter-mf-corridor-2026-08-18-02",
+   "analytics_id": "A-00849",
+   "rank": 2,
+   "submarket": "Hollywood",
+   "profile": "5-Unit Starter Multifamily",
+   "price_band": "$500K-$1M",
+   "cap_label": "~$185K/unit",
+   "desc": "5-Unit Multifamily in Hollywood; ~6.29% cap, ~$185K/unit. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 5-Unit Starter Multifamily, Hollywood (~$185K/unit)",
+   "highlights": [
+    "Investor: ~3-5% est. cash-on-cash (25% down, IO @ ~7%)",
+    "5 units",
+    "~$185K/unit",
+    "built 1950s"
+   ],
+   "inv_line": [
+    "~3-5% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~9-10x GRM",
+    "~7.5% pro-forma cap"
+   ]
+  },
+  {
+   "id": "starter-mf-corridor-2026-08-18-03",
+   "analytics_id": "A-00837",
+   "rank": 3,
+   "submarket": "Fort Lauderdale",
+   "profile": "8-Unit Starter Multifamily",
+   "price_band": "$1M-$1.5M",
+   "cap_label": "~$186K/unit",
+   "desc": "8-Unit Multifamily in Fort Lauderdale; ~6.68% cap, ~$186K/unit. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 8-Unit Starter Multifamily, Fort Lauderdale (~$186K/unit)",
+   "highlights": [
+    "Investor: ~4-6% est. cash-on-cash (25% down, IO @ ~7%)",
+    "8 units",
+    "~$186K/unit",
+    "built 1960s"
+   ],
+   "inv_line": [
+    "~4-6% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~8-9x GRM"
+   ]
+  },
+  {
+   "id": "starter-mf-corridor-2026-08-18-04",
+   "analytics_id": "A-00841",
+   "rank": 4,
+   "submarket": "Hallandale Beach",
+   "profile": "8-Unit Starter Multifamily",
+   "price_band": "$1.5M-$2M",
+   "cap_label": "~$188K/unit",
+   "desc": "8-Unit Multifamily in Hallandale Beach; ~6.09% cap, ~$188K/unit. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 8-Unit Starter Multifamily, Hallandale Beach (~$188K/unit)",
+   "highlights": [
+    "Investor: ~2-4% est. cash-on-cash (25% down, IO @ ~7%)",
+    "8 units",
+    "~$188K/unit",
+    "built 1960s"
+   ],
+   "inv_line": [
+    "~2-4% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~9-10x GRM",
+    "~7.5% pro-forma cap"
+   ]
+  },
+  {
+   "id": "starter-mf-corridor-2026-08-18-05",
+   "analytics_id": "A-00850",
+   "rank": 5,
+   "submarket": "Hollywood",
+   "profile": "9-Unit Starter Multifamily",
+   "price_band": "$1.5M-$2M",
+   "cap_label": "~$194K/unit",
+   "desc": "9-Unit Multifamily in Hollywood; ~4.90% cap, ~$194K/unit. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 9-Unit Starter Multifamily, Hollywood (~$194K/unit)",
+   "highlights": [
+    "Investor: Levered spread thin at ~7% debt (rate-sensitive)",
+    "9 units",
+    "~$194K/unit",
+    "built 1960s"
+   ],
+   "inv_line": [
+    "Levered spread thin at ~7% debt (rate-sensitive)",
+    "~12-13x GRM"
+   ]
+  },
+  {
+   "id": "starter-mf-corridor-2026-08-18-06",
+   "analytics_id": "A-00851",
+   "rank": 6,
+   "submarket": "Hollywood",
+   "profile": "4-Unit Starter Multifamily",
+   "price_band": "$500K-$1M",
+   "cap_label": "~$210K/unit",
+   "desc": "4-Unit Small Multifamily in Hollywood; ~7.50% cap, ~$210K/unit. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 4-Unit Starter Multifamily, Hollywood (~$210K/unit)",
+   "highlights": [
+    "Investor: ~8-10% est. cash-on-cash (25% down, IO @ ~7%)",
+    "4 units",
+    "~$210K/unit",
+    "built 1950s"
+   ],
+   "inv_line": [
+    "~8-10% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~8-9x GRM",
+    "Opportunity Zone"
+   ]
+  },
+  {
+   "id": "starter-mf-corridor-2026-08-18-07",
+   "analytics_id": "A-00852",
+   "rank": 7,
+   "submarket": "Pompano Beach",
+   "profile": "5-Unit Starter Multifamily",
+   "price_band": "$1M-$1.5M",
+   "cap_label": "~$210K/unit",
+   "desc": "5-Unit Multifamily in Pompano Beach, ~$210K/unit. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 5-Unit Starter Multifamily, Pompano Beach (~$210K/unit)",
+   "highlights": [
+    "Investor: Opportunity Zone",
+    "5 units",
+    "~$210K/unit",
+    "built 1980s"
+   ],
+   "inv_line": [
+    "Opportunity Zone"
+   ]
+  },
+  {
+   "id": "starter-mf-corridor-2026-08-18-08",
+   "analytics_id": "A-00853",
+   "rank": 8,
+   "submarket": "Fort Lauderdale",
+   "profile": "9-Unit Starter Multifamily",
+   "price_band": "$1.5M-$2M",
+   "cap_label": "~$210K/unit",
+   "desc": "9-Unit Multifamily in Fort Lauderdale; ~5.71% cap, ~$210K/unit. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 9-Unit Starter Multifamily, Fort Lauderdale (~$210K/unit)",
+   "highlights": [
+    "Investor: Levered spread thin at ~7% debt (rate-sensitive)",
+    "9 units",
+    "~$210K/unit",
+    "built 1960s"
+   ],
+   "inv_line": [
+    "Levered spread thin at ~7% debt (rate-sensitive)",
+    "~10-11x GRM",
+    "~6.0% pro-forma cap"
+   ]
+  }
+ ]
+}

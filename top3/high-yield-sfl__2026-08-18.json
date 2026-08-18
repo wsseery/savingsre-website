@@ -1,0 +1,121 @@
+{
+ "segment": "high-yield-sfl",
+ "collection": "curated",
+ "template": "curated-generic",
+ "label": "High-Yield Multifamily \u2014 8%+ Cap",
+ "tagline": "Top 5 \u00b7 Florida (statewide) \u00b7 5\u201325 units \u00b7 value-add & high-yield",
+ "search_name": "Crexi (FL high-yield MF)",
+ "generated": "2026-08-18",
+ "pdf": "pdf/high-yield-sfl__2026-08-18.pdf",
+ "expires": "2026-09-17",
+ "total_results": 5,
+ "metric_label": "Cap rate",
+ "methodology": "Crexi Florida multifamily pull 2026-08-18, filtered to 5-25 units, $1-5M, 8%+ published cap, implausible outliers dropped, ranked by cap rate. Disguised: area + units + price band + cap band public.",
+ "items": [
+  {
+   "id": "high-yield-sfl-2026-08-18-01",
+   "analytics_id": "A-00824",
+   "rank": 1,
+   "submarket": "Sarasota",
+   "profile": "12-Unit Multifamily",
+   "price_band": "$1M-$1.5M",
+   "cap_label": "~10.31% cap",
+   "desc": "12-Unit Multifamily in Sarasota; ~10.31% cap, ~$123K/unit. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 12-Unit Multifamily, Sarasota (~10.31% cap)",
+   "highlights": [
+    "Investor: ~19-21% est. cash-on-cash (25% down, IO @ ~7%)",
+    "12 units",
+    "~$123K/unit",
+    "built 1970s"
+   ],
+   "inv_line": [
+    "~19-21% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~5-6x GRM",
+    "~10.8% pro-forma cap",
+    "Recently repriced"
+   ]
+  },
+  {
+   "id": "high-yield-sfl-2026-08-18-02",
+   "analytics_id": "A-00825",
+   "rank": 2,
+   "submarket": "Venice",
+   "profile": "5-Unit Multifamily",
+   "price_band": "$1M-$1.5M",
+   "cap_label": "~9.00% cap",
+   "desc": "5-Unit Multifamily in Venice; ~9.00% cap, ~$237K/unit. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 5-Unit Multifamily, Venice (~9.00% cap)",
+   "highlights": [
+    "Investor: ~14-16% est. cash-on-cash (25% down, IO @ ~7%)",
+    "5 units",
+    "~$237K/unit",
+    "built 1970s"
+   ],
+   "inv_line": [
+    "~14-16% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~6-7x GRM"
+   ]
+  },
+  {
+   "id": "high-yield-sfl-2026-08-18-03",
+   "analytics_id": "A-00854",
+   "rank": 3,
+   "submarket": "Miami Gardens",
+   "profile": "18-Unit Multifamily",
+   "price_band": "$2M-$2.5M",
+   "cap_label": "~8.90% cap",
+   "desc": "18-Unit Multifamily in Miami Gardens; ~8.90% cap, ~$128K/unit. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 18-Unit Multifamily, Miami Gardens (~8.90% cap)",
+   "highlights": [
+    "Investor: ~13-15% est. cash-on-cash (25% down, IO @ ~7%)",
+    "18 units",
+    "~$128K/unit"
+   ],
+   "inv_line": [
+    "~13-15% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~6-7x GRM"
+   ]
+  },
+  {
+   "id": "high-yield-sfl-2026-08-18-04",
+   "analytics_id": "A-00826",
+   "rank": 4,
+   "submarket": "Palmetto",
+   "profile": "8-Unit Multifamily",
+   "price_band": "$1M-$1.5M",
+   "cap_label": "~8.50% cap",
+   "desc": "8-Unit Multifamily in Palmetto; ~8.50% cap, ~$154K/unit. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 8-Unit Multifamily, Palmetto (~8.50% cap)",
+   "highlights": [
+    "Investor: ~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "8 units",
+    "~$154K/unit"
+   ],
+   "inv_line": [
+    "~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~7-8x GRM"
+   ]
+  },
+  {
+   "id": "high-yield-sfl-2026-08-18-05",
+   "analytics_id": "A-00833",
+   "rank": 5,
+   "submarket": "Hollywood",
+   "profile": "5-Unit Multifamily",
+   "price_band": "$1M-$1.5M",
+   "cap_label": "~8.48% cap",
+   "desc": "5-Unit Multifamily in Hollywood; ~8.48% cap, ~$259K/unit. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 5-Unit Multifamily, Hollywood (~8.48% cap)",
+   "highlights": [
+    "Investor: ~11-13% est. cash-on-cash (25% down, IO @ ~7%)",
+    "5 units",
+    "~$259K/unit",
+    "built 1950s"
+   ],
+   "inv_line": [
+    "~11-13% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~7-8x GRM"
+   ]
+  }
+ ]
+}

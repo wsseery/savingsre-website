@@ -1,0 +1,96 @@
+{
+ "segment": "delray-beach-mf",
+ "collection": "curated",
+ "template": "curated-generic",
+ "label": "Coastal Multifamily \u2014 Delray Beach",
+ "tagline": "Top on-market multifamily in Delray Beach \u00b7 downtown, Tropic Isles & East Delray \u00b7 ranked by cap rate",
+ "search_name": "Crexi (Delray Beach MF)",
+ "generated": "2026-08-18",
+ "pdf": "pdf/delray-beach-mf__2026-08-18.pdf",
+ "expires": "2026-09-17",
+ "total_results": 5,
+ "metric_label": "Price / unit",
+ "methodology": "Crexi Delray Beach multifamily pull 2026-08-18. No cap rates were published on this week's Delray inventory, so the list is ranked by LOWEST price per unit. Disguised: area + units + price band + $/unit public.",
+ "items": [
+  {
+   "id": "delray-beach-mf-2026-08-18-01",
+   "analytics_id": "A-00843",
+   "rank": 1,
+   "submarket": "Delray Beach",
+   "profile": "4-Unit Small Multifamily",
+   "price_band": "$1M-$1.5M",
+   "cap_label": "~$268K/unit",
+   "desc": "4-Unit Small Multifamily in Delray Beach, ~$268K/unit. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 4-Unit Small Multifamily, Delray Beach (~$268K/unit)",
+   "highlights": [
+    "4 units",
+    "~$268K/unit",
+    "built 1950s"
+   ]
+  },
+  {
+   "id": "delray-beach-mf-2026-08-18-02",
+   "analytics_id": "A-00844",
+   "rank": 2,
+   "submarket": "Delray Beach",
+   "profile": "4-Unit Small Multifamily",
+   "price_band": "$1M-$1.5M",
+   "cap_label": "~$300K/unit",
+   "desc": "4-Unit Small Multifamily in Delray Beach, ~$300K/unit. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 4-Unit Small Multifamily, Delray Beach (~$300K/unit)",
+   "highlights": [
+    "4 units",
+    "~$300K/unit",
+    "built 1960s"
+   ]
+  },
+  {
+   "id": "delray-beach-mf-2026-08-18-03",
+   "analytics_id": "A-00845",
+   "rank": 3,
+   "submarket": "Delray Beach",
+   "profile": "2-Unit Small Multifamily",
+   "price_band": "$500K-$1M",
+   "cap_label": "~$325K/unit",
+   "desc": "2-Unit Small Multifamily in Delray Beach, ~$325K/unit. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 2-Unit Small Multifamily, Delray Beach (~$325K/unit)",
+   "highlights": [
+    "2 units",
+    "~$325K/unit",
+    "built 1950s"
+   ]
+  },
+  {
+   "id": "delray-beach-mf-2026-08-18-04",
+   "analytics_id": "A-00846",
+   "rank": 4,
+   "submarket": "Delray Beach",
+   "profile": "2-Unit Small Multifamily",
+   "price_band": "$500K-$1M",
+   "cap_label": "~$384K/unit",
+   "desc": "2-Unit Small Multifamily in Delray Beach, ~$384K/unit. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 2-Unit Small Multifamily, Delray Beach (~$384K/unit)",
+   "highlights": [
+    "2 units",
+    "~$384K/unit",
+    "built 1970s"
+   ]
+  },
+  {
+   "id": "delray-beach-mf-2026-08-18-05",
+   "analytics_id": "A-00847",
+   "rank": 5,
+   "submarket": "Delray Beach",
+   "profile": "10-Unit Multifamily",
+   "price_band": "$4M-$5M",
+   "cap_label": "~$400K/unit",
+   "desc": "10-Unit Multifamily in Delray Beach, ~$400K/unit. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 10-Unit Multifamily, Delray Beach (~$400K/unit)",
+   "highlights": [
+    "10 units",
+    "~$400K/unit",
+    "built 1970s"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,218 @@
+{
+ "segment": "nnn-fl",
+ "collection": "curated",
+ "template": "curated-generic",
+ "label": "NNN Commercial \u2014 Florida",
+ "tagline": "Top triple-net (NNN) deals statewide \u2014 single & multi-tenant \u00b7 ranked by cap rate",
+ "search_name": "Crexi (FL retail, NNN)",
+ "generated": "2026-08-18",
+ "pdf": "pdf/nnn-fl__2026-08-18.pdf",
+ "expires": "2026-09-17",
+ "total_results": 10,
+ "metric_label": "Cap rate",
+ "methodology": "Crexi Florida retail pull 2026-08-18 (NOI-sorted, enriched via asset detail), ranked purely by published cap rate, single- and multi-tenant. Disguised: area + type + price band + cap band public; exact address & financials on request.",
+ "items": [
+  {
+   "id": "nnn-fl-2026-08-18-01",
+   "analytics_id": "A-00780",
+   "rank": 1,
+   "submarket": "Lake Wales",
+   "profile": "Net-Leased Retail Center",
+   "price_band": "$11M-$12M",
+   "cap_label": "~9.00% cap",
+   "desc": "Net-leased retail center in Lake Wales; ~9.00% cap, ~100K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Net-Leased Retail Center, Lake Wales (~9.00% cap)",
+   "highlights": [
+    "Investor: ~14-16% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Multi-tenant",
+    "~100K sq ft",
+    "built 1970s"
+   ],
+   "inv_line": [
+    "~14-16% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "nnn-fl-2026-08-18-02",
+   "analytics_id": "A-00781",
+   "rank": 2,
+   "submarket": "Melbourne",
+   "profile": "Net-Leased Medical Office",
+   "price_band": "$2.5M-$3M",
+   "cap_label": "~8.13% cap",
+   "desc": "Net-leased medical office in Melbourne; ~8.13% cap, ~21K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Net-Leased Medical Office, Melbourne (~8.13% cap)",
+   "highlights": [
+    "Investor: ~10-12% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Multi-tenant",
+    "~21K sq ft",
+    "built 1980s"
+   ],
+   "inv_line": [
+    "~10-12% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Opportunity Zone",
+    "Value-add business plan"
+   ]
+  },
+  {
+   "id": "nnn-fl-2026-08-18-03",
+   "analytics_id": "A-00782",
+   "rank": 3,
+   "submarket": "Lake Placid",
+   "profile": "Net-Leased Net-Leased Retail",
+   "price_band": "$2.5M-$3M",
+   "cap_label": "~8.00% cap",
+   "desc": "Net-leased net-leased retail in Lake Placid; ~8.00% cap, ~11K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Net-Leased Net-Leased Retail, Lake Placid (~8.00% cap)",
+   "highlights": [
+    "Investor: ~10-12% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Single-tenant",
+    "~11K sq ft",
+    "built 1990s"
+   ],
+   "inv_line": [
+    "~10-12% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "nnn-fl-2026-08-18-04",
+   "analytics_id": "A-00783",
+   "rank": 4,
+   "submarket": "Tarpon Springs",
+   "profile": "Net-Leased Net-Leased Retail",
+   "price_band": "$3M-$4M",
+   "cap_label": "~8.00% cap",
+   "desc": "Net-leased net-leased retail in Tarpon Springs; ~8.00% cap, ~5.8K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Net-Leased Net-Leased Retail, Tarpon Springs (~8.00% cap)",
+   "highlights": [
+    "Investor: ~10-12% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Single-tenant",
+    "~5.8K sq ft",
+    "built 2000s"
+   ],
+   "inv_line": [
+    "~10-12% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "nnn-fl-2026-08-18-05",
+   "analytics_id": "A-00784",
+   "rank": 5,
+   "submarket": "Orlando",
+   "profile": "Net-Leased Retail Center",
+   "price_band": "$6M-$7M",
+   "cap_label": "~7.60% cap",
+   "desc": "Net-leased retail center in Orlando; ~7.60% cap, ~42K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Net-Leased Retail Center, Orlando (~7.60% cap)",
+   "highlights": [
+    "Investor: ~8-10% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Multi-tenant",
+    "~42K sq ft",
+    "built 1990s"
+   ],
+   "inv_line": [
+    "~8-10% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "nnn-fl-2026-08-18-06",
+   "analytics_id": "A-00785",
+   "rank": 6,
+   "submarket": "North Miami Beach",
+   "profile": "Net-Leased Bank",
+   "price_band": "$2.5M-$3M",
+   "cap_label": "~7.52% cap",
+   "desc": "Net-leased bank in North Miami Beach; ~7.52% cap, ~4.3K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Net-Leased Bank, North Miami Beach (~7.52% cap)",
+   "highlights": [
+    "Investor: ~8-10% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Single-tenant",
+    "~4.3K sq ft",
+    "built 1980s"
+   ],
+   "inv_line": [
+    "~8-10% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "nnn-fl-2026-08-18-07",
+   "analytics_id": "A-00786",
+   "rank": 7,
+   "submarket": "Jacksonville",
+   "profile": "Net-Leased Convenience Store",
+   "price_band": "$3M-$4M",
+   "cap_label": "~7.50% cap",
+   "desc": "Net-leased convenience store in Jacksonville; ~7.50% cap, ~2.6K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Net-Leased Convenience Store, Jacksonville (~7.50% cap)",
+   "highlights": [
+    "Investor: ~8-10% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Single-tenant",
+    "~2.6K sq ft"
+   ],
+   "inv_line": [
+    "~8-10% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Opportunity Zone"
+   ]
+  },
+  {
+   "id": "nnn-fl-2026-08-18-08",
+   "analytics_id": "A-00787",
+   "rank": 8,
+   "submarket": "Zephyrhills",
+   "profile": "Net-Leased Gas station/convenience store",
+   "price_band": "$6M-$7M",
+   "cap_label": "~7.50% cap",
+   "desc": "Net-leased gas station/convenience store in Zephyrhills; ~7.50% cap, ~2.7K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Net-Leased Gas station/convenience store, Zephyrhills (~7.50% cap)",
+   "highlights": [
+    "Investor: ~8-10% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Single-tenant",
+    "~2.7K sq ft",
+    "built 1980s"
+   ],
+   "inv_line": [
+    "~8-10% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "nnn-fl-2026-08-18-09",
+   "analytics_id": "A-00788",
+   "rank": 9,
+   "submarket": "Fort Lauderdale",
+   "profile": "Net-Leased Retail Center",
+   "price_band": "$4M-$5M",
+   "cap_label": "~7.25% cap",
+   "desc": "Net-leased retail center in Fort Lauderdale; ~7.25% cap, ~23K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Net-Leased Retail Center, Fort Lauderdale (~7.25% cap)",
+   "highlights": [
+    "Investor: ~7-9% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Multi-tenant",
+    "~23K sq ft",
+    "built 1960s"
+   ],
+   "inv_line": [
+    "~7-9% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "nnn-fl-2026-08-18-10",
+   "analytics_id": "A-00789",
+   "rank": 10,
+   "submarket": "Jacksonville",
+   "profile": "Net-Leased Bank",
+   "price_band": "$2.5M-$3M",
+   "cap_label": "~7.25% cap",
+   "desc": "Net-leased bank in Jacksonville; ~7.25% cap. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Net-Leased Bank, Jacksonville (~7.25% cap)",
+   "highlights": [
+    "Investor: ~7-9% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Single-tenant",
+    "built 2000s",
+    "~100% occupied"
+   ],
+   "inv_line": [
+    "~7-9% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  }
+ ]
+}

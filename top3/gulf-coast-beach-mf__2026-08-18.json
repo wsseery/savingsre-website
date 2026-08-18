@@ -1,0 +1,212 @@
+{
+ "segment": "gulf-coast-beach-mf",
+ "collection": "curated",
+ "template": "curated-generic",
+ "label": "Coastal Multifamily \u2014 Gulf Beaches",
+ "tagline": "Top 9 \u00b7 within ~1 mi of the Gulf \u00b7 Siesta Key \u00b7 Anna Maria Is. \u00b7 Longboat Key \u00b7 Englewood \u00b7 ranked by scale",
+ "search_name": "Crexi (Sarasota-Bradenton MF)",
+ "generated": "2026-08-18",
+ "pdf": "pdf/gulf-coast-beach-mf__2026-08-18.pdf",
+ "expires": "2026-09-17",
+ "total_results": 9,
+ "metric_label": "Cap rate",
+ "methodology": "Crexi Sarasota-Bradenton Gulf-coast multifamily pull 2026-08-18, $1-5M mid-market preferred, ranked by published cap rate then scale. Disguised: area + units + price band + cap band public.",
+ "items": [
+  {
+   "id": "gulf-coast-beach-mf-2026-08-18-01",
+   "analytics_id": "A-00824",
+   "rank": 1,
+   "submarket": "Sarasota",
+   "profile": "12-Unit Multifamily",
+   "price_band": "$1M-$1.5M",
+   "cap_label": "~10.31% cap",
+   "desc": "12-Unit Multifamily in Sarasota; ~10.31% cap, ~$123K/unit. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 12-Unit Multifamily, Sarasota (~10.31% cap)",
+   "highlights": [
+    "Investor: ~19-21% est. cash-on-cash (25% down, IO @ ~7%)",
+    "12 units",
+    "~$123K/unit",
+    "built 1970s"
+   ],
+   "inv_line": [
+    "~19-21% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~5-6x GRM",
+    "~10.8% pro-forma cap",
+    "Recently repriced"
+   ]
+  },
+  {
+   "id": "gulf-coast-beach-mf-2026-08-18-02",
+   "analytics_id": "A-00825",
+   "rank": 2,
+   "submarket": "Venice",
+   "profile": "5-Unit Multifamily",
+   "price_band": "$1M-$1.5M",
+   "cap_label": "~9.00% cap",
+   "desc": "5-Unit Multifamily in Venice; ~9.00% cap, ~$237K/unit. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 5-Unit Multifamily, Venice (~9.00% cap)",
+   "highlights": [
+    "Investor: ~14-16% est. cash-on-cash (25% down, IO @ ~7%)",
+    "5 units",
+    "~$237K/unit",
+    "built 1970s"
+   ],
+   "inv_line": [
+    "~14-16% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~6-7x GRM"
+   ]
+  },
+  {
+   "id": "gulf-coast-beach-mf-2026-08-18-03",
+   "analytics_id": "A-00826",
+   "rank": 3,
+   "submarket": "Palmetto",
+   "profile": "8-Unit Multifamily",
+   "price_band": "$1M-$1.5M",
+   "cap_label": "~8.50% cap",
+   "desc": "8-Unit Multifamily in Palmetto; ~8.50% cap, ~$154K/unit. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 8-Unit Multifamily, Palmetto (~8.50% cap)",
+   "highlights": [
+    "Investor: ~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "8 units",
+    "~$154K/unit"
+   ],
+   "inv_line": [
+    "~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~7-8x GRM"
+   ]
+  },
+  {
+   "id": "gulf-coast-beach-mf-2026-08-18-04",
+   "analytics_id": "A-00827",
+   "rank": 4,
+   "submarket": "Sarasota",
+   "profile": "4-Unit Small Multifamily",
+   "price_band": "$1M-$1.5M",
+   "cap_label": "~7.50% cap",
+   "desc": "4-Unit Small Multifamily in Sarasota; ~7.50% cap, ~$269K/unit. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 4-Unit Small Multifamily, Sarasota (~7.50% cap)",
+   "highlights": [
+    "Investor: ~8-10% est. cash-on-cash (25% down, IO @ ~7%)",
+    "4 units",
+    "~$269K/unit",
+    "built 1970s"
+   ],
+   "inv_line": [
+    "~8-10% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~8-9x GRM"
+   ]
+  },
+  {
+   "id": "gulf-coast-beach-mf-2026-08-18-05",
+   "analytics_id": "A-00828",
+   "rank": 5,
+   "submarket": "Sarasota",
+   "profile": "10-Unit Multifamily",
+   "price_band": "$2.5M-$3M",
+   "cap_label": "~7.42% cap",
+   "desc": "10-Unit Multifamily in Sarasota; ~7.42% cap, ~$275K/unit. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 10-Unit Multifamily, Sarasota (~7.42% cap)",
+   "highlights": [
+    "Investor: ~7-9% est. cash-on-cash (25% down, IO @ ~7%)",
+    "10 units",
+    "~$275K/unit",
+    "built 1980s"
+   ],
+   "inv_line": [
+    "~7-9% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~8-9x GRM",
+    "Opportunity Zone"
+   ]
+  },
+  {
+   "id": "gulf-coast-beach-mf-2026-08-18-06",
+   "analytics_id": "A-00829",
+   "rank": 6,
+   "submarket": "Sarasota",
+   "profile": "6-Unit Multifamily",
+   "price_band": "$1M-$1.5M",
+   "cap_label": "~7.04% cap",
+   "desc": "6-Unit Multifamily in Sarasota; ~7.04% cap, ~$208K/unit. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 6-Unit Multifamily, Sarasota (~7.04% cap)",
+   "highlights": [
+    "Investor: ~6-8% est. cash-on-cash (25% down, IO @ ~7%)",
+    "6 units",
+    "~$208K/unit",
+    "built 1970s"
+   ],
+   "inv_line": [
+    "~6-8% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~8-9x GRM",
+    "~7.9% pro-forma cap",
+    "Recently repriced"
+   ]
+  },
+  {
+   "id": "gulf-coast-beach-mf-2026-08-18-07",
+   "analytics_id": "A-00830",
+   "rank": 7,
+   "submarket": "Sarasota",
+   "profile": "16-Unit Multifamily",
+   "price_band": "$3M-$4M",
+   "cap_label": "~7.02% cap",
+   "desc": "16-Unit Multifamily in Sarasota; ~7.02% cap, ~$205K/unit. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 16-Unit Multifamily, Sarasota (~7.02% cap)",
+   "highlights": [
+    "Investor: ~6-8% est. cash-on-cash (25% down, IO @ ~7%)",
+    "16 units",
+    "~$205K/unit",
+    "built 1960s"
+   ],
+   "inv_line": [
+    "~6-8% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~8-9x GRM",
+    "Opportunity Zone"
+   ]
+  },
+  {
+   "id": "gulf-coast-beach-mf-2026-08-18-08",
+   "analytics_id": "A-00831",
+   "rank": 8,
+   "submarket": "Sarasota",
+   "profile": "16-Unit Multifamily",
+   "price_band": "$2.5M-$3M",
+   "cap_label": "~6.98% cap",
+   "desc": "16-Unit Multifamily in Sarasota; ~6.98% cap, ~$172K/unit. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 16-Unit Multifamily, Sarasota (~6.98% cap)",
+   "highlights": [
+    "Investor: ~5-7% est. cash-on-cash (25% down, IO @ ~7%)",
+    "16 units",
+    "~$172K/unit",
+    "built 1970s"
+   ],
+   "inv_line": [
+    "~5-7% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~8-9x GRM"
+   ]
+  },
+  {
+   "id": "gulf-coast-beach-mf-2026-08-18-09",
+   "analytics_id": "A-00832",
+   "rank": 9,
+   "submarket": "Sarasota",
+   "profile": "4-Unit Small Multifamily",
+   "price_band": "$1M-$1.5M",
+   "cap_label": "~6.79% cap",
+   "desc": "4-Unit Small Multifamily in Sarasota; ~6.79% cap, ~$269K/unit. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 4-Unit Small Multifamily, Sarasota (~6.79% cap)",
+   "highlights": [
+    "Investor: ~5-7% est. cash-on-cash (25% down, IO @ ~7%)",
+    "4 units",
+    "~$269K/unit",
+    "built 1980s"
+   ],
+   "inv_line": [
+    "~5-7% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~8-9x GRM",
+    "~7.2% pro-forma cap",
+    "Recently repriced"
+   ]
+  }
+ ]
+}

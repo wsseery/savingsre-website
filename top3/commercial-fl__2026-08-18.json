@@ -1,0 +1,219 @@
+{
+ "segment": "commercial-fl",
+ "collection": "curated",
+ "template": "curated-generic",
+ "label": "Commercial & Office \u2014 Florida",
+ "tagline": "Top general commercial, office & mixed-use deals statewide \u00b7 ranked by cap rate",
+ "search_name": "Crexi (FL commercial & office)",
+ "generated": "2026-08-18",
+ "pdf": "pdf/commercial-fl__2026-08-18.pdf",
+ "expires": "2026-09-17",
+ "total_results": 10,
+ "metric_label": "Cap rate",
+ "methodology": "Crexi Florida office pull 2026-08-18 (medical excluded), general commercial / office / mixed-use ranked by published cap rate. Disguised: area + type + price band + cap band public.",
+ "items": [
+  {
+   "id": "commercial-fl-2026-08-18-01",
+   "analytics_id": "A-00805",
+   "rank": 1,
+   "submarket": "Fort Myers",
+   "profile": "Commercial / Office",
+   "price_band": "$4M-$5M",
+   "cap_label": "~8.76% cap",
+   "desc": "Commercial / office asset in Fort Myers; ~8.76% cap, ~32K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Commercial / Office, Fort Myers (~8.76% cap)",
+   "highlights": [
+    "Investor: ~13-15% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Multi-tenant",
+    "~32K sq ft",
+    "~99% occupied"
+   ],
+   "inv_line": [
+    "~13-15% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~11.1% pro-forma cap"
+   ]
+  },
+  {
+   "id": "commercial-fl-2026-08-18-02",
+   "analytics_id": "A-00806",
+   "rank": 2,
+   "submarket": "Casselberry",
+   "profile": "Commercial / Office",
+   "price_band": "$8M-$9M",
+   "cap_label": "~8.50% cap",
+   "desc": "Commercial / office asset in Casselberry; ~8.50% cap, ~71K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Commercial / Office, Casselberry (~8.50% cap)",
+   "highlights": [
+    "Investor: ~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~71K sq ft",
+    "built 1980s",
+    "~91% occupied"
+   ],
+   "inv_line": [
+    "~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~12.1% pro-forma cap"
+   ]
+  },
+  {
+   "id": "commercial-fl-2026-08-18-03",
+   "analytics_id": "A-00807",
+   "rank": 3,
+   "submarket": "Tallahassee",
+   "profile": "Commercial / Office",
+   "price_band": "$11M-$12M",
+   "cap_label": "~7.50% cap",
+   "desc": "Commercial / office asset in Tallahassee; ~7.50% cap, ~99K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Commercial / Office, Tallahassee (~7.50% cap)",
+   "highlights": [
+    "Investor: ~8-10% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~99K sq ft",
+    "built 1980s",
+    "~100% occupied"
+   ],
+   "inv_line": [
+    "~8-10% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "commercial-fl-2026-08-18-04",
+   "analytics_id": "A-00788",
+   "rank": 4,
+   "submarket": "Fort Lauderdale",
+   "profile": "Commercial / Office",
+   "price_band": "$4M-$5M",
+   "cap_label": "~7.25% cap",
+   "desc": "Commercial / office asset in Fort Lauderdale; ~7.25% cap, ~23K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Commercial / Office, Fort Lauderdale (~7.25% cap)",
+   "highlights": [
+    "Investor: ~7-9% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Multi-tenant",
+    "~23K sq ft",
+    "built 1960s"
+   ],
+   "inv_line": [
+    "~7-9% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "commercial-fl-2026-08-18-05",
+   "analytics_id": "A-00808",
+   "rank": 5,
+   "submarket": "Kissimmee",
+   "profile": "Commercial / Office",
+   "price_band": "$3M-$4M",
+   "cap_label": "~6.88% cap",
+   "desc": "Commercial / office asset in Kissimmee; ~6.88% cap, ~16K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Commercial / Office, Kissimmee (~6.88% cap)",
+   "highlights": [
+    "Investor: ~5-7% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~16K sq ft",
+    "built 1910s",
+    "~100% occupied"
+   ],
+   "inv_line": [
+    "~5-7% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "commercial-fl-2026-08-18-06",
+   "analytics_id": "A-00809",
+   "rank": 6,
+   "submarket": "Lady Lake",
+   "profile": "Commercial / Office",
+   "price_band": "$2M-$2.5M",
+   "cap_label": "~6.50% cap",
+   "desc": "Commercial / office asset in Lady Lake; ~6.50% cap, ~4.3K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Commercial / Office, Lady Lake (~6.50% cap)",
+   "highlights": [
+    "Investor: ~4-6% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Single-tenant",
+    "~4.3K sq ft",
+    "built 2010s"
+   ],
+   "inv_line": [
+    "~4-6% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "commercial-fl-2026-08-18-07",
+   "analytics_id": "A-00810",
+   "rank": 7,
+   "submarket": "Live Oak",
+   "profile": "Commercial / Office",
+   "price_band": "$2.5M-$3M",
+   "cap_label": "~5.53% cap",
+   "desc": "Commercial / office asset in Live Oak; ~5.53% cap, ~8.7K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Commercial / Office, Live Oak (~5.53% cap)",
+   "highlights": [
+    "Investor: Levered spread thin at ~7% debt (rate-sensitive)",
+    "Multi-tenant",
+    "~8.7K sq ft",
+    "built 1990s"
+   ],
+   "inv_line": [
+    "Levered spread thin at ~7% debt (rate-sensitive)"
+   ]
+  },
+  {
+   "id": "commercial-fl-2026-08-18-08",
+   "analytics_id": "A-00811",
+   "rank": 8,
+   "submarket": "Tampa",
+   "profile": "Commercial / Office",
+   "price_band": "$1M-$1.5M",
+   "cap_label": "~5.34% cap",
+   "desc": "Commercial / office asset in Tampa; ~5.34% cap, ~2.1K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Commercial / Office, Tampa (~5.34% cap)",
+   "highlights": [
+    "Investor: Levered spread thin at ~7% debt (rate-sensitive)",
+    "Single-tenant",
+    "~2.1K sq ft",
+    "built 1970s"
+   ],
+   "inv_line": [
+    "Levered spread thin at ~7% debt (rate-sensitive)"
+   ]
+  },
+  {
+   "id": "commercial-fl-2026-08-18-09",
+   "analytics_id": "A-00812",
+   "rank": 9,
+   "submarket": "Sebring",
+   "profile": "Commercial / Office",
+   "price_band": "$3M-$4M",
+   "cap_label": "~5.17% cap",
+   "desc": "Commercial / office asset in Sebring; ~5.17% cap, ~18K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Commercial / Office, Sebring (~5.17% cap)",
+   "highlights": [
+    "Investor: Levered spread thin at ~7% debt (rate-sensitive)",
+    "Multi-tenant",
+    "~18K sq ft",
+    "built 2000s"
+   ],
+   "inv_line": [
+    "Levered spread thin at ~7% debt (rate-sensitive)",
+    "~73% occupancy (lease-up upside)"
+   ]
+  },
+  {
+   "id": "commercial-fl-2026-08-18-10",
+   "analytics_id": "A-00813",
+   "rank": 10,
+   "submarket": "Hollywood",
+   "profile": "Commercial / Office",
+   "price_band": "$1.5M-$2M",
+   "cap_label": "~5.00% cap",
+   "desc": "Commercial / office asset in Hollywood; ~5.00% cap, ~2.6K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Commercial / Office, Hollywood (~5.00% cap)",
+   "highlights": [
+    "Investor: Levered spread thin at ~7% debt (rate-sensitive)",
+    "Single-tenant",
+    "~2.6K sq ft",
+    "~100% occupied"
+   ],
+   "inv_line": [
+    "Levered spread thin at ~7% debt (rate-sensitive)"
+   ]
+  }
+ ]
+}

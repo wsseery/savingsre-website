@@ -1,0 +1,221 @@
+{
+ "segment": "large-statewide",
+ "collection": "curated",
+ "template": "curated-generic",
+ "label": "Larger Investments \u2014 40+ Units",
+ "tagline": "Top 10 \u00b7 Statewide \u00b7 40+ units \u00b7 ranked by scale; institutional & value-add",
+ "search_name": "Crexi (FL multifamily, 40+ units)",
+ "generated": "2026-08-18",
+ "pdf": "pdf/large-statewide__2026-08-18.pdf",
+ "expires": "2026-09-17",
+ "total_results": 10,
+ "metric_label": "Units",
+ "methodology": "Crexi Florida multifamily pull 2026-08-18, 40+ units, ranked by scale (unit count); large caps are frequently unpublished at this size. Per policy all institutional-scale multifamily is aggregated here rather than in the mid-market lists. Disguised: area + units + price band public.",
+ "items": [
+  {
+   "id": "large-statewide-2026-08-18-01",
+   "analytics_id": "A-00814",
+   "rank": 1,
+   "submarket": "St. Petersburg",
+   "profile": "304-Unit Apartment Community",
+   "price_band": "$42M-$44M",
+   "cap_label": "304 units",
+   "desc": "304-Unit Apartment Community in St. Petersburg, ~$141K/unit. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 304-Unit Apartment Community, St. Petersburg (304 units)",
+   "highlights": [
+    "304 units",
+    "~$141K/unit",
+    "built 1970s"
+   ]
+  },
+  {
+   "id": "large-statewide-2026-08-18-02",
+   "analytics_id": "A-00815",
+   "rank": 2,
+   "submarket": "Lauderhill",
+   "profile": "192-Unit Apartment Community",
+   "price_band": "$44M-$46M",
+   "cap_label": "192 units",
+   "desc": "192-Unit Apartment Community in Lauderhill; ~5.85% cap, ~$234K/unit. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 192-Unit Apartment Community, Lauderhill (192 units)",
+   "highlights": [
+    "Investor: ~1-3% est. cash-on-cash (25% down, IO @ ~7%)",
+    "192 units",
+    "~$234K/unit",
+    "built 1970s"
+   ],
+   "inv_line": [
+    "~1-3% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~10-11x GRM",
+    "~7.0% pro-forma cap"
+   ]
+  },
+  {
+   "id": "large-statewide-2026-08-18-03",
+   "analytics_id": "A-00816",
+   "rank": 3,
+   "submarket": "Miami",
+   "profile": "177-Unit Apartment Community",
+   "price_band": "$12M-$13M",
+   "cap_label": "177 units",
+   "desc": "177-Unit Apartment Community in Miami, ~$72K/unit. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 177-Unit Apartment Community, Miami (177 units)",
+   "highlights": [
+    "177 units",
+    "~$72K/unit"
+   ]
+  },
+  {
+   "id": "large-statewide-2026-08-18-04",
+   "analytics_id": "A-00817",
+   "rank": 4,
+   "submarket": "Clearwater",
+   "profile": "155-Unit Apartment Community",
+   "price_band": "$32M-$34M",
+   "cap_label": "155 units",
+   "desc": "155-Unit Apartment Community in Clearwater; ~6.00% cap, ~$218K/unit. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 155-Unit Apartment Community, Clearwater (155 units)",
+   "highlights": [
+    "Investor: ~2-4% est. cash-on-cash (25% down, IO @ ~7%)",
+    "155 units",
+    "~$218K/unit"
+   ],
+   "inv_line": [
+    "~2-4% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~10-11x GRM"
+   ]
+  },
+  {
+   "id": "large-statewide-2026-08-18-05",
+   "analytics_id": "A-00818",
+   "rank": 5,
+   "submarket": "Lauderhill",
+   "profile": "119-Unit Apartment Community",
+   "price_band": "$19M-$20M",
+   "cap_label": "119 units",
+   "desc": "119-Unit Apartment Community in Lauderhill; ~6.91% cap, ~$168K/unit. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 119-Unit Apartment Community, Lauderhill (119 units)",
+   "highlights": [
+    "Investor: ~5-7% est. cash-on-cash (25% down, IO @ ~7%)",
+    "119 units",
+    "~$168K/unit",
+    "built 1960s"
+   ],
+   "inv_line": [
+    "~5-7% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~8-9x GRM",
+    "~7.3% pro-forma cap"
+   ]
+  },
+  {
+   "id": "large-statewide-2026-08-18-06",
+   "analytics_id": "A-00819",
+   "rank": 6,
+   "submarket": "Pompano Beach",
+   "profile": "98-Unit Apartment Community",
+   "price_band": "$14M-$15M",
+   "cap_label": "98 units",
+   "desc": "98-Unit Apartment Community in Pompano Beach; ~6.51% cap, ~$146K/unit. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 98-Unit Apartment Community, Pompano Beach (98 units)",
+   "highlights": [
+    "Investor: ~4-6% est. cash-on-cash (25% down, IO @ ~7%)",
+    "98 units",
+    "~$146K/unit",
+    "built 1950s"
+   ],
+   "inv_line": [
+    "~4-6% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~9-10x GRM",
+    "Opportunity Zone"
+   ]
+  },
+  {
+   "id": "large-statewide-2026-08-18-07",
+   "analytics_id": "A-00820",
+   "rank": 7,
+   "submarket": "South Daytona",
+   "profile": "92-Unit Apartment Community",
+   "price_band": "$11M-$12M",
+   "cap_label": "92 units",
+   "desc": "92-Unit Apartment Community in South Daytona; ~5.59% cap, ~$129K/unit. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 92-Unit Apartment Community, South Daytona (92 units)",
+   "highlights": [
+    "Investor: Levered spread thin at ~7% debt (rate-sensitive)",
+    "92 units",
+    "~$129K/unit"
+   ],
+   "inv_line": [
+    "Levered spread thin at ~7% debt (rate-sensitive)",
+    "~10-11x GRM",
+    "Opportunity Zone",
+    "~7.6% pro-forma cap",
+    "~84% occupancy (lease-up upside)"
+   ]
+  },
+  {
+   "id": "large-statewide-2026-08-18-08",
+   "analytics_id": "A-00821",
+   "rank": 8,
+   "submarket": "Miami",
+   "profile": "91-Unit Apartment Community",
+   "price_band": "$18M-$19M",
+   "cap_label": "91 units",
+   "desc": "91-Unit Apartment Community in Miami; ~5.88% cap, ~$206K/unit. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 91-Unit Apartment Community, Miami (91 units)",
+   "highlights": [
+    "Investor: ~1-3% est. cash-on-cash (25% down, IO @ ~7%)",
+    "91 units",
+    "~$206K/unit",
+    "built 1940s"
+   ],
+   "inv_line": [
+    "~1-3% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~10-11x GRM",
+    "Opportunity Zone"
+   ]
+  },
+  {
+   "id": "large-statewide-2026-08-18-09",
+   "analytics_id": "A-00822",
+   "rank": 9,
+   "submarket": "Miami",
+   "profile": "86-Unit Apartment Community",
+   "price_band": "$11M-$12M",
+   "cap_label": "86 units",
+   "desc": "86-Unit Apartment Community in Miami; ~6.01% cap, ~$128K/unit. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 86-Unit Apartment Community, Miami (86 units)",
+   "highlights": [
+    "Investor: ~2-4% est. cash-on-cash (25% down, IO @ ~7%)",
+    "86 units",
+    "~$128K/unit",
+    "built 1970s"
+   ],
+   "inv_line": [
+    "~2-4% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~9-10x GRM"
+   ]
+  },
+  {
+   "id": "large-statewide-2026-08-18-10",
+   "analytics_id": "A-00823",
+   "rank": 10,
+   "submarket": "Lake City",
+   "profile": "77-Unit Apartment Community",
+   "price_band": "$4M-$5M",
+   "cap_label": "77 units",
+   "desc": "77-Unit Apartment Community in Lake City; ~9.92% cap, ~$55K/unit. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 77-Unit Apartment Community, Lake City (77 units)",
+   "highlights": [
+    "Investor: ~17-19% est. cash-on-cash (25% down, IO @ ~7%)",
+    "77 units",
+    "~$55K/unit",
+    "built 1940s"
+   ],
+   "inv_line": [
+    "~17-19% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~6-7x GRM",
+    "~13.6% pro-forma cap"
+   ]
+  }
+ ]
+}

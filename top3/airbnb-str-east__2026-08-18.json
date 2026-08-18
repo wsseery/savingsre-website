@@ -1,0 +1,79 @@
+{
+ "segment": "airbnb-str-east",
+ "collection": "weekly-top3",
+ "template": "str-airbnb",
+ "label": "Airbnb / Short-Term Rental",
+ "tagline": "Top projected-STR-yield homes & condos - Delray, Deerfield, Ft. Lauderdale, Pompano, Hollywood, Lake Worth Beach, Lauderdale-by-the-Sea",
+ "search_name": "WSS-STR-airbnb-east",
+ "generated": "2026-08-18",
+ "pdf": "pdf/airbnb-str-east__2026-08-18.pdf",
+ "expires": "2026-09-17",
+ "total_results": 27,
+ "metric_label": "Est. STR yield",
+ "methodology": "Live Beaches MLS pull 2026-08-18 (WSS-STR-airbnb-east), filtered to the seven target cities. Estimated gross STR yield = city ADR x 65% occupancy x 365 x units / price. This is a MODEL, not actual or advertised income, and is stated pre-expense. Verify municipal short-term-rental rules before underwriting.",
+ "items": [
+  {
+   "id": "airbnb-str-east-2026-08-18-01",
+   "analytics_id": "A-00888",
+   "rank": 1,
+   "submarket": "Hollywood",
+   "profile": "3-Unit Triplex - STR Candidate",
+   "price_band": "$500K-$1M",
+   "cap_label": "~19% est. STR yield",
+   "desc": "3-unit triplex in Hollywood; ~19% estimated gross short-term-rental yield at a ~$175 ADR and ~65% occupancy. Estimate, not actual. Exact address on request.",
+   "inquiry_subject": "Inquiry: 3-unit STR candidate, Hollywood (~19% est. yield)",
+   "highlights": [
+    "Investor: Yield shown is GROSS STR (pre-expense) - model ~65% occ - net typically ~55-65% of gross",
+    "3 units - Hollywood",
+    "~$175 ADR assumed",
+    "built 1950s"
+   ],
+   "inv_line": [
+    "Yield shown is GROSS STR (pre-expense) - model ~65% occ - net typically ~55-65% of gross",
+    "Verify municipal STR registration & minimum-stay rules before underwriting"
+   ]
+  },
+  {
+   "id": "airbnb-str-east-2026-08-18-02",
+   "analytics_id": "A-00889",
+   "rank": 2,
+   "submarket": "Fort Lauderdale",
+   "profile": "3-Unit Triplex - STR Candidate",
+   "price_band": "$500K-$1M",
+   "cap_label": "~18% est. STR yield",
+   "desc": "3-unit triplex in Fort Lauderdale; ~18% estimated gross short-term-rental yield at a ~$190 ADR and ~65% occupancy. Estimate, not actual. Exact address on request.",
+   "inquiry_subject": "Inquiry: 3-unit STR candidate, Fort Lauderdale (~18% est. yield)",
+   "highlights": [
+    "Investor: Yield shown is GROSS STR (pre-expense) - model ~65% occ - net typically ~55-65% of gross",
+    "3 units - Fort Lauderdale",
+    "~$190 ADR assumed",
+    "built 1950s"
+   ],
+   "inv_line": [
+    "Yield shown is GROSS STR (pre-expense) - model ~65% occ - net typically ~55-65% of gross",
+    "Verify municipal STR registration & minimum-stay rules before underwriting"
+   ]
+  },
+  {
+   "id": "airbnb-str-east-2026-08-18-03",
+   "analytics_id": "A-00890",
+   "rank": 3,
+   "submarket": "Hollywood",
+   "profile": "2-Unit Duplex - STR Candidate",
+   "price_band": "$500K-$1M",
+   "cap_label": "~15% est. STR yield",
+   "desc": "2-unit duplex in Hollywood; ~15% estimated gross short-term-rental yield at a ~$175 ADR and ~65% occupancy. Estimate, not actual. Exact address on request.",
+   "inquiry_subject": "Inquiry: 2-unit STR candidate, Hollywood (~15% est. yield)",
+   "highlights": [
+    "Investor: Yield shown is GROSS STR (pre-expense) - model ~65% occ - net typically ~55-65% of gross",
+    "2 units - Hollywood",
+    "~$175 ADR assumed",
+    "built 1950s"
+   ],
+   "inv_line": [
+    "Yield shown is GROSS STR (pre-expense) - model ~65% occ - net typically ~55-65% of gross",
+    "Verify municipal STR registration & minimum-stay rules before underwriting"
+   ]
+  }
+ ]
+}
