@@ -1,0 +1,176 @@
+{
+ "segment": "countryclub-value",
+ "collection": "luxury",
+ "template": "luxury-value",
+ "label": "Country Club - Best Value by $/sqft",
+ "tagline": "Lowest $/sqft golf & country-club luxury; Florida",
+ "search_name": "WSS-LUX-CountryClub",
+ "generated": "2026-08-18",
+ "pdf": "pdf/countryclub-value__2026-08-18.pdf",
+ "expires": "2026-09-17",
+ "total_results": 94,
+ "metric_label": "$/sqft",
+ "methodology": "Live Beaches MLS pull 2026-08-18 (WSS-LUX-CountryClub), Florida only. This column view carries no $/sqft field, so price per square foot is computed from price divided by living area, then ranked lowest first. Disguised: area + beds/baths + $/sqft band + price band public.",
+ "items": [
+  {
+   "id": "countryclub-value-2026-08-18-01",
+   "analytics_id": "A-00875",
+   "rank": 1,
+   "submarket": "West Palm Beach",
+   "profile": "3bd / 3ba - Golf / Country-Club Estate",
+   "price_band": "$500K-$1M",
+   "cap_label": "~$300/sqft",
+   "thumb_url": "",
+   "desc": "Golf / Country-Club Estate in West Palm Beach; ~$300/sqft. Exact address, photos & financials on request.",
+   "inquiry_subject": "Inquiry: West Palm Beach Golf / Country-Club Estate (~$300/sqft)",
+   "highlights": [
+    "~2.9K sq ft - built 1998",
+    "Lowest price/sqft in this list"
+   ]
+  },
+  {
+   "id": "countryclub-value-2026-08-18-02",
+   "analytics_id": "A-00876",
+   "rank": 2,
+   "submarket": "West Palm Beach",
+   "profile": "3bd / 3ba - Golf / Country-Club Condominium",
+   "price_band": "$500K-$1M",
+   "cap_label": "~$300/sqft",
+   "thumb_url": "",
+   "desc": "Golf / Country-Club Condominium in West Palm Beach; ~$300/sqft. Exact address, photos & financials on request.",
+   "inquiry_subject": "Inquiry: West Palm Beach Golf / Country-Club Condominium (~$300/sqft)",
+   "highlights": [
+    "~2.9K sq ft - built 2003",
+    "#2 best value by price/sqft"
+   ]
+  },
+  {
+   "id": "countryclub-value-2026-08-18-03",
+   "analytics_id": "A-00877",
+   "rank": 3,
+   "submarket": "West Palm Beach",
+   "profile": "4bd / 4ba - Golf / Country-Club Estate",
+   "price_band": "$1M-$1.5M",
+   "cap_label": "~$300/sqft",
+   "thumb_url": "",
+   "desc": "Golf / Country-Club Estate in West Palm Beach; ~$300/sqft. Exact address, photos & financials on request.",
+   "inquiry_subject": "Inquiry: West Palm Beach Golf / Country-Club Estate (~$300/sqft)",
+   "highlights": [
+    "~3.8K sq ft - built 2006",
+    "#3 best value by price/sqft"
+   ]
+  },
+  {
+   "id": "countryclub-value-2026-08-18-04",
+   "analytics_id": "A-00878",
+   "rank": 4,
+   "submarket": "West Palm Beach",
+   "profile": "4bd / 3ba - Golf / Country-Club Estate",
+   "price_band": "$500K-$1M",
+   "cap_label": "~$300/sqft",
+   "thumb_url": "",
+   "desc": "Golf / Country-Club Estate in West Palm Beach; ~$300/sqft. Exact address, photos & financials on request.",
+   "inquiry_subject": "Inquiry: West Palm Beach Golf / Country-Club Estate (~$300/sqft)",
+   "highlights": [
+    "~2.6K sq ft - built 1995",
+    "#4 best value by price/sqft"
+   ]
+  },
+  {
+   "id": "countryclub-value-2026-08-18-05",
+   "analytics_id": "A-00879",
+   "rank": 5,
+   "submarket": "Boca Raton",
+   "profile": "4bd / 3ba - Golf / Country-Club Estate",
+   "price_band": "$500K-$1M",
+   "cap_label": "~$325/sqft",
+   "thumb_url": "",
+   "desc": "Golf / Country-Club Estate in Boca Raton; ~$325/sqft. Exact address, photos & financials on request.",
+   "inquiry_subject": "Inquiry: Boca Raton Golf / Country-Club Estate (~$325/sqft)",
+   "highlights": [
+    "~2.7K sq ft - built 1999",
+    "#5 best value by price/sqft"
+   ]
+  },
+  {
+   "id": "countryclub-value-2026-08-18-06",
+   "analytics_id": "A-00880",
+   "rank": 6,
+   "submarket": "West Palm Beach",
+   "profile": "3bd / 3ba - Golf / Country-Club Estate",
+   "price_band": "$500K-$1M",
+   "cap_label": "~$350/sqft",
+   "thumb_url": "",
+   "desc": "Golf / Country-Club Estate in West Palm Beach; ~$350/sqft. Exact address, photos & financials on request.",
+   "inquiry_subject": "Inquiry: West Palm Beach Golf / Country-Club Estate (~$350/sqft)",
+   "highlights": [
+    "~2.3K sq ft - built 1991",
+    "#6 best value by price/sqft"
+   ]
+  },
+  {
+   "id": "countryclub-value-2026-08-18-07",
+   "analytics_id": "A-00881",
+   "rank": 7,
+   "submarket": "West Palm Beach",
+   "profile": "3bd / 3ba - Golf / Country-Club Estate",
+   "price_band": "$1M-$1.5M",
+   "cap_label": "~$375/sqft",
+   "thumb_url": "",
+   "desc": "Golf / Country-Club Estate in West Palm Beach; ~$375/sqft. Exact address, photos & financials on request.",
+   "inquiry_subject": "Inquiry: West Palm Beach Golf / Country-Club Estate (~$375/sqft)",
+   "highlights": [
+    "~2.9K sq ft - built 2005",
+    "#7 best value by price/sqft"
+   ]
+  },
+  {
+   "id": "countryclub-value-2026-08-18-08",
+   "analytics_id": "A-00882",
+   "rank": 8,
+   "submarket": "Boca Raton",
+   "profile": "5bd / 3ba - Golf / Country-Club Estate",
+   "price_band": "$1M-$1.5M",
+   "cap_label": "~$375/sqft",
+   "thumb_url": "",
+   "desc": "Golf / Country-Club Estate in Boca Raton; ~$375/sqft. Exact address, photos & financials on request.",
+   "inquiry_subject": "Inquiry: Boca Raton Golf / Country-Club Estate (~$375/sqft)",
+   "highlights": [
+    "~3.3K sq ft - built 1998",
+    "#8 best value by price/sqft"
+   ]
+  },
+  {
+   "id": "countryclub-value-2026-08-18-09",
+   "analytics_id": "A-00883",
+   "rank": 9,
+   "submarket": "West Palm Beach",
+   "profile": "3bd / 3ba - Golf / Country-Club Estate",
+   "price_band": "$1M-$1.5M",
+   "cap_label": "~$375/sqft",
+   "thumb_url": "",
+   "desc": "Golf / Country-Club Estate in West Palm Beach; ~$375/sqft. Exact address, photos & financials on request.",
+   "inquiry_subject": "Inquiry: West Palm Beach Golf / Country-Club Estate (~$375/sqft)",
+   "highlights": [
+    "~3.0K sq ft - built 2006",
+    "#9 best value by price/sqft"
+   ]
+  },
+  {
+   "id": "countryclub-value-2026-08-18-10",
+   "analytics_id": "A-00884",
+   "rank": 10,
+   "submarket": "West Palm Beach",
+   "profile": "3bd / 3ba - Golf / Country-Club Estate",
+   "price_band": "$1M-$1.5M",
+   "cap_label": "~$400/sqft",
+   "thumb_url": "",
+   "desc": "Golf / Country-Club Estate in West Palm Beach; ~$400/sqft. Exact address, photos & financials on request.",
+   "inquiry_subject": "Inquiry: West Palm Beach Golf / Country-Club Estate (~$400/sqft)",
+   "highlights": [
+    "~2.8K sq ft - built 2004",
+    "#10 best value by price/sqft"
+   ]
+  }
+ ]
+}
