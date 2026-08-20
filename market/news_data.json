@@ -1,5 +1,38 @@
 [
   {
+    "id": 85,
+    "date": "2026-08-18",
+    "title": "Palm Beach's 206 Phipps Plaza, a 1920s John Volk Design, Sells for $27.5M",
+    "summary": "A company managed by Thomas J. Morrison sold the 6,900 SF house at 206 Phipps Plaza in Palm Beach to a trust for $27.5 million - the week's top recorded South Florida home sale. The seven-bedroom, nine-and-a-half-bath residence dates to the 1920s and once belonged to Palm Beach society architect John Volk; Jim McCann of Premier Estate Properties had the listing and Christopher Leavitt of Douglas Elliman represented the buyer. Also recorded that day: a 5,100 SF oceanfront home at 3567 South Ocean Boulevard in Highland Beach for $12.8 million - medical-technology executive Alexis Lukianov and his wife Katherine sold to Jonathan and Chemai Jura after first asking $15.9 million in October - plus a 5,000 SF villa at the Oceana Key Biscayne, 111 Reef Lane, for $10.9 million and a Miami Beach waterfront house at 5000 North Bay Road for $9.3 million.",
+    "source": "The Real Deal",
+    "sourceUrl": "https://therealdeal.com/miami/2026/08/19/south-florida-top-real-estate-deals-aug-18-2026/",
+    "category": "Luxury",
+    "tags": ["Palm Beach", "John Volk", "Highland Beach", "Key Biscayne", "Miami Beach", "top deals"],
+    "importance": "high"
+  },
+  {
+    "id": 84,
+    "date": "2026-08-18",
+    "title": "U.S. Home-Sale Cancellations Hit Highest Level Since 2023; 14% of July Deals Fell Through",
+    "summary": "Buyers backed out of just over 14 percent of pending U.S. home sales in July, the highest share since June 2023, according to Redfin data. More than 47,000 contracts were canceled nationwide during the month, a 4.8 percent year-over-year increase, though the cancellation share ran only 0.7 percentage points above July 2025. Southern markets, Florida among them, are posting the highest fall-through rates. The practical read for sellers: a signed contract is a weaker signal than it was two years ago - buyer diligence, insurance quotes and appraisal gaps are all live risks - so pricing to a realistic close rather than a headline list price matters more than it did in the 2021-22 market.",
+    "source": "The Real Deal / Redfin",
+    "sourceUrl": "https://therealdeal.com/miami/2026/08/19/south-florida-top-real-estate-deals-aug-18-2026/",
+    "category": "Market Data",
+    "tags": ["cancellations", "Redfin", "pending sales", "contract fall-through", "buyer leverage"],
+    "importance": "medium"
+  },
+  {
+    "id": 83,
+    "date": "2026-08-17",
+    "title": "Bay Harbor Islands Waterfront Home Sells for $20M, Up from $12M in 2021",
+    "summary": "Venture capitalist Fued Sadala and his wife Silvana sold their 5,900 SF waterfront home at 9814 West Broadview Drive in Bay Harbor Islands for $20 million - the week's top recorded South Florida home sale - to Jack Tabacinic, a managing director at Loom Capital Management, and Andrea Blau Russ. The 2002-built, five-bedroom house had been listed earlier in August at $22 million; the Sadalas paid $12 million for it in 2021, a roughly 67 percent gain in five years. Joel Lusky and Shneur Shapira of The Brokerage South Florida Real Estate represented both sides. Also recorded: a waterfront home at 4216 Intracoastal Drive in Highland Beach for $9.5 million, sold by hedge-fund manager Leonard Zelin and Moira Zelin to Antonio and Dolores Seabra, and a newly built home at 256 Alhambra Place in West Palm Beach for $7.5 million.",
+    "source": "The Real Deal",
+    "sourceUrl": "https://therealdeal.com/miami/2026/08/18/south-florida-top-real-estate-deals-aug-17-2026/",
+    "category": "Luxury",
+    "tags": ["Bay Harbor Islands", "waterfront", "Highland Beach", "West Palm Beach", "top deals"],
+    "importance": "high"
+  },
+  {
     "id": 82,
     "date": "2026-08-17",
     "title": "Florida Home Sales Rise for 11th Straight Month; Statewide Single-Family Median Hits $425,000",
@@ -140,39 +173,6 @@
     "sourceUrl": "https://therealdeal.com/miami/2026/08/06/top-permits-witkoffs-shore-club-starts-construction/",
     "category": "Development",
     "tags": ["Miami Beach", "Shore Club", "Witkoff", "Related Group", "permits", "development"],
-    "importance": "high"
-  },
-  {
-    "id": 69,
-    "date": "2026-08-06",
-    "title": "Rivani Buys Miami Beach's 404 Washington Office-Retail Building for $31.5M",
-    "summary": "Local developer Rivani paid $31.5 million - about $201 per square foot - for 404 Washington, a 156,752 SF office-and-retail building in Miami Beach, buying from Dominion Partners LP of Sunny Isles Beach. The purchase reflects continued investor interest in well-located South Beach commercial space even as broader South Florida office and retail sales volume cooled in the first half of 2026.",
-    "source": "Commercial Real Estate Direct / South Florida Business Journal",
-    "sourceUrl": "https://crenews.com/2026/08/06/miami-beach-office-retail-building-fetches-31-5mln/",
-    "category": "Commercial/CRE",
-    "tags": ["Miami Beach", "office", "retail", "Rivani", "Dominion Partners"],
-    "importance": "medium"
-  },
-  {
-    "id": 67,
-    "date": "2026-08-06",
-    "title": "Fisher Island Condo Sells for $15M; Margate Medical Complex Trades for $14.7M",
-    "summary": "Software executive Mark Sutcliffe paid $15 million for a 3,600 SF condo at 7811 Fisher Island Drive in Miami - the week's top recorded South Florida home sale (three bedrooms, three-and-a-half baths, plus about 2,100 SF of terraces), buying from a company led by Olga Postolnikov. Also trading was a Miami home at 7426 Southwest 49th Place, which a trust bought for $9.3 million from entrepreneur Juan Tavares and Naila Gonzalez. The region's priciest recorded commercial deal was a Margate medical-office complex at 3251 and 3271-3285 North State Road 7, which changed hands for $14.7 million.",
-    "source": "The Real Deal",
-    "sourceUrl": "https://therealdeal.com/miami/2026/08/07/south-florida-top-real-estate-deals-august-6-2026/",
-    "category": "Luxury",
-    "tags": ["Fisher Island", "Miami", "Margate", "medical office", "top deals"],
-    "importance": "high"
-  },
-  {
-    "id": 66,
-    "date": "2026-08-05",
-    "title": "Miami's Kiaora Street New-Build Sells for $22.5M; Harbor Group Pays $109M for a SoFla Property",
-    "summary": "A trust paid $22.5 million for a newly built 8,500 SF home at 4040 Kiaora Street in Miami - the week's top recorded South Florida home sale (six bedrooms, seven-and-a-half baths, with a guest house). Other notable trades included a $9.9 million Fort Lauderdale waterfront home at 4 Isla Bahia Drive, bought by Andrea Naticchione, and an $18 million vacant waterfront lot at 10312 West Broadview Drive in Bay Harbor Islands, which a family trust sold to an affiliate of David Burstyn's Winston Capital Management. In the week's top commercial deal, Norfolk, Virginia-based Harbor Group International paid $109 million for a South Florida commercial property.",
-    "source": "The Real Deal",
-    "sourceUrl": "https://therealdeal.com/miami/2026/08/06/south-florida-top-real-estate-deals-august-5-2026/",
-    "category": "Luxury",
-    "tags": ["Miami", "Fort Lauderdale", "Bay Harbor Islands", "Harbor Group", "top deals"],
     "importance": "high"
   }
 ]
