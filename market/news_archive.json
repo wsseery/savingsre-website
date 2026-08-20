@@ -1,11 +1,47 @@
 {
   "meta": {
     "created": "2026-07-06",
-    "updated": "2026-08-18",
+    "updated": "2026-08-20",
     "note": "Archive of items rotated off the live market/news_data.json 16-item list. Weekly refresh APPENDS dropped items here (newest first) - never delete. Same item schema as news_data.json. Not rendered on the site; kept for content reuse, history, and a future archive/search section.",
-    "count": 60
+    "count": 63
   },
   "items": [
+    {
+      "id": 69,
+      "date": "2026-08-06",
+      "title": "Rivani Buys Miami Beach's 404 Washington Office-Retail Building for $31.5M",
+      "summary": "Local developer Rivani paid $31.5 million - about $201 per square foot - for 404 Washington, a 156,752 SF office-and-retail building in Miami Beach, buying from Dominion Partners LP of Sunny Isles Beach. The purchase reflects continued investor interest in well-located South Beach commercial space even as broader South Florida office and retail sales volume cooled in the first half of 2026.",
+      "source": "Commercial Real Estate Direct / South Florida Business Journal",
+      "sourceUrl": "https://crenews.com/2026/08/06/miami-beach-office-retail-building-fetches-31-5mln/",
+      "category": "Commercial/CRE",
+      "tags": ["Miami Beach", "office", "retail", "Rivani", "Dominion Partners"],
+      "importance": "medium",
+      "archivedOn": "2026-08-20"
+    },
+    {
+      "id": 67,
+      "date": "2026-08-06",
+      "title": "Fisher Island Condo Sells for $15M; Margate Medical Complex Trades for $14.7M",
+      "summary": "Software executive Mark Sutcliffe paid $15 million for a 3,600 SF condo at 7811 Fisher Island Drive in Miami - the week's top recorded South Florida home sale (three bedrooms, three-and-a-half baths, plus about 2,100 SF of terraces), buying from a company led by Olga Postolnikov. Also trading was a Miami home at 7426 Southwest 49th Place, which a trust bought for $9.3 million from entrepreneur Juan Tavares and Naila Gonzalez. The region's priciest recorded commercial deal was a Margate medical-office complex at 3251 and 3271-3285 North State Road 7, which changed hands for $14.7 million.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/08/07/south-florida-top-real-estate-deals-august-6-2026/",
+      "category": "Luxury",
+      "tags": ["Fisher Island", "Miami", "Margate", "medical office", "top deals"],
+      "importance": "high",
+      "archivedOn": "2026-08-20"
+    },
+    {
+      "id": 66,
+      "date": "2026-08-05",
+      "title": "Miami's Kiaora Street New-Build Sells for $22.5M; Harbor Group Pays $109M for a SoFla Property",
+      "summary": "A trust paid $22.5 million for a newly built 8,500 SF home at 4040 Kiaora Street in Miami - the week's top recorded South Florida home sale (six bedrooms, seven-and-a-half baths, with a guest house). Other notable trades included a $9.9 million Fort Lauderdale waterfront home at 4 Isla Bahia Drive, bought by Andrea Naticchione, and an $18 million vacant waterfront lot at 10312 West Broadview Drive in Bay Harbor Islands, which a family trust sold to an affiliate of David Burstyn's Winston Capital Management. In the week's top commercial deal, Norfolk, Virginia-based Harbor Group International paid $109 million for a South Florida commercial property.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/08/06/south-florida-top-real-estate-deals-august-5-2026/",
+      "category": "Luxury",
+      "tags": ["Miami", "Fort Lauderdale", "Bay Harbor Islands", "Harbor Group", "top deals"],
+      "importance": "high",
+      "archivedOn": "2026-08-20"
+    },
     {
       "id": 65,
       "date": "2026-08-04",
