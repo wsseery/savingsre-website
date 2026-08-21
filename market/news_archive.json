@@ -1,11 +1,47 @@
 {
   "meta": {
     "created": "2026-07-06",
-    "updated": "2026-08-20",
+    "updated": "2026-08-21",
     "note": "Archive of items rotated off the live market/news_data.json 16-item list. Weekly refresh APPENDS dropped items here (newest first) - never delete. Same item schema as news_data.json. Not rendered on the site; kept for content reuse, history, and a future archive/search section.",
-    "count": 63
+    "count": 66
   },
   "items": [
+    {
+      "id": 72,
+      "date": "2026-08-07",
+      "title": "MLG Sells Lake Worth's Savona Grand Apartments for $64.8M; Holman Sheds FTL Honda Dealership for $44.8M",
+      "summary": "Affiliates of Wisconsin-based MLG Legacy Fund Investments sold Savona Grand, a garden-style apartment community at 7132 Colony Club Drive in Lake Worth, for $64.8 million - the week's top recorded South Florida commercial trade and a sign of continued institutional appetite for stabilized Palm Beach County rentals. Holman Automotive shed the Stoler Honda of Fort Lauderdale dealership at 12 East Sunrise Boulevard - about 96,000 SF of buildings - for $44.8 million, and the week's priciest recorded home sale was in Hillsboro Beach, where auto-industry executive Mike Manley sold a 9,000 SF oceanfront house at 955 Hillsboro Mile for $14.5 million.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/08/10/south-florida-top-real-estate-deals-august-7-2026/",
+      "category": "Multifamily",
+      "tags": ["Lake Worth", "MLG", "Savona Grand", "Fort Lauderdale", "Holman", "Hillsboro Beach", "multifamily"],
+      "importance": "high",
+      "archivedOn": "2026-08-21"
+    },
+    {
+      "id": 71,
+      "date": "2026-08-07",
+      "title": "Starwood Buys Two Miami-Dade Affordable Housing Communities for $63.8M",
+      "summary": "Barry Sternlicht's Starwood Asset Management paid a combined $63.8 million for two Miami-Dade affordable-housing rental communities, buying from the Gatehouse Group. Starwood paid $34 million for Magnolia Landing, a 150-unit, 20-building complex built in 2011 on 4.8 acres at 25881 Southwest 143rd Court in the Naranja area, and $29.75 million for Lafayette Square, a 160-unit, 19-story building on 1.2 acres at 150 Northeast 79th Street in Miami's Little River neighborhood. CBRE Capital Markets arranged a $23.8 million Freddie Mac loan for the deal, which underscores growing institutional appetite for income-restricted rentals as market-rate multifamily activity moderates.",
+      "source": "Commercial Observer / Commercial Real Estate Direct",
+      "sourceUrl": "https://commercialobserver.com/2026/08/barry-sternlicht-starwood-miami-affordable-housing/",
+      "category": "Multifamily",
+      "tags": ["Starwood", "Miami-Dade", "affordable housing", "Gatehouse Group", "multifamily"],
+      "importance": "high",
+      "archivedOn": "2026-08-21"
+    },
+    {
+      "id": 70,
+      "date": "2026-08-06",
+      "title": "Witkoff's $97M Shore Club, Related's Gallery at Lummus Top South Florida Permits",
+      "summary": "South Florida's largest construction permits for the week ending August 5 were led by a $97 million phased new-construction permit for The Shore Club Private Collection at 1901 Collins Avenue in Miami Beach - Witkoff and Monroe Capital's roughly 481,200 SF luxury condo-and-hotel project (about 45 residences and 79 hotel rooms), which lined up $430 million in construction financing in 2023. The second-largest was a $74.5 million permit for the Related Group's Gallery at Lummus, a 415,500 SF apartment project at 395 Northwest First Street in Miami. The pipeline highlights how ultra-luxury coastal condos and large rental towers continue to drive the region's development activity.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/08/06/top-permits-witkoffs-shore-club-starts-construction/",
+      "category": "Development",
+      "tags": ["Miami Beach", "Shore Club", "Witkoff", "Related Group", "permits", "development"],
+      "importance": "high",
+      "archivedOn": "2026-08-21"
+    },
     {
       "id": 69,
       "date": "2026-08-06",
