@@ -1,5 +1,38 @@
 [
   {
+    "id": 91,
+    "date": "2026-08-21",
+    "title": "Palm Beach Lakefront Estate Sells for $26.5M - 1,458% Above Its 2005 Price",
+    "summary": "A lakefront house at 127 Ocean View Road in Palm Beach's Estate Section, about a mile south of Mar-a-Lago, traded for a recorded $26.5 million after more than 25 years in the same family. Heidi Niblack and retired pharmaceutical executive John Niblack sold as co-trustees of a revocable trust; the buyer was Florida Iconic Ventures LLC, managed by Issac Ashkenazy and sharing an address with New York-based Ashkenazy Acquisition Corp. The 1999-built, four-bedroom house has 8,387 square feet inside and out plus a lakefront pool and spa. The sellers paid $1.7 million in 2005 for the house and an oceanfront parcel down the street - a 1,458% gain.",
+    "source": "Palm Beach Daily News via Boca Raton Tribune",
+    "sourceUrl": "https://www.bocaratontribune.com/bocaratonnews/2026/08/palm-beach-house-that-sold-for-1-7m-in-2005-sells-for-26-5-million/",
+    "category": "Luxury",
+    "tags": ["Palm Beach", "luxury sale", "lakefront", "record appreciation"],
+    "importance": "high"
+  },
+  {
+    "id": 90,
+    "date": "2026-08-20",
+    "title": "Miami Beach Double-Lot Mansion Trades for $51.5M; Al Capone's Former Palm Island Lot Fetches $21M",
+    "summary": "A trust paid $51.5 million for the newly built waterfront mansion at 270 South Hibiscus Drive in Miami Beach, off a $55 million ask. The seller was an entity managed by broker Denis Smykalov; the 10,500-square-foot, seven-bedroom house sits on a double lot. Jordan Karp had the listing and Dora Puig of Luxe Living Realty represented the buyer. Separately, the 30,000-square-foot waterfront lot at 93 Palm Avenue that once held Al Capone's mansion sold for $21 million to an LLC tied to Russian businessman Ilya Karpov, up from $15.5 million in 2021.",
+    "source": "The Real Deal",
+    "sourceUrl": "https://therealdeal.com/miami/2026/08/21/south-florida-top-real-estate-deals-aug-20-2026/",
+    "category": "Luxury",
+    "tags": ["Miami Beach", "waterfront", "teardown lot", "top deals"],
+    "importance": "high"
+  },
+  {
+    "id": 89,
+    "date": "2026-08-20",
+    "title": "Brickell Development Site Sells for $50M for Planned 60-Story Tower; SW Miami-Dade Industrial Trades at $24.5M",
+    "summary": "Prosper Group and Versluys Group paid $50 million for a Brickell assemblage - two commercial buildings totaling 16,800 square feet at 625 SW First Avenue and 66 SW Sixth Street plus a 74,400-square-foot vacant lot at 99 SW Seventh Street - from Two Roads Development and Newgard Development Group. The buyers are planning a 60-story residential tower on the site. In southwest Miami-Dade, a 155,000-square-foot two-story industrial building and parking lot at 11900-11905 SW 128th Street changed hands for $24.5 million.",
+    "source": "The Real Deal",
+    "sourceUrl": "https://therealdeal.com/miami/2026/08/21/south-florida-top-real-estate-deals-aug-20-2026/",
+    "category": "Commercial/CRE",
+    "tags": ["Brickell", "development site", "industrial", "Miami-Dade"],
+    "importance": "high"
+  },
+  {
     "id": 88,
     "date": "2026-08-20",
     "title": "Mortgage Rates Fall a Second Straight Week to 6.65%; 15-Year Dips to 5.95%",
@@ -140,39 +173,6 @@
     "sourceUrl": "https://www.freddiemac.com/pmms",
     "category": "Market Data",
     "tags": ["mortgage rates", "jumbo", "financing", "PMMS", "rate drop"],
-    "importance": "high"
-  },
-  {
-    "id": 75,
-    "date": "2026-08-11",
-    "title": "Moishe Mana's Mana Common Buys Downtown Miami Former Post Office for $20.3M; Key Biscayne Home Sells for $14M",
-    "summary": "Affiliates of Miami-based Stambul sold a five-story former post office at 100 Northeast First Avenue in downtown Miami, plus a neighboring 15,000 SF vacant lot at 54 Northeast 2nd Street, to Moishe Mana's Mana Common for $20.3 million - the week's priciest recorded South Florida commercial deal and another piece of Mana's long-running downtown Miami land assemblage (the office building spans about 35,600 SF). The week's top recorded home sale was in Key Biscayne, where an entity led by Concha Dominguez sold a 4,300 SF waterfront residence at 591 North Mashta Drive for $14 million - about $3,300 per square foot - to a company managed by Alvaro Castro Mendivil; the seller had paid just $3.2 million for the property in 2004.",
-    "source": "The Real Deal",
-    "sourceUrl": "https://therealdeal.com/miami/2026/08/12/south-florida-top-real-estate-deals-august-11-2026/",
-    "category": "Commercial/CRE",
-    "tags": ["Miami", "Moishe Mana", "Mana Common", "post office", "Key Biscayne", "assemblage"],
-    "importance": "high"
-  },
-  {
-    "id": 74,
-    "date": "2026-08-12",
-    "title": "Palm Beach's Seabreeze Estate Sells for $17.1M to Red Ventures CEO; Fort Lauderdale Home Fetches $16M",
-    "summary": "Ric Elias, co-founder and CEO of Red Ventures, and his wife, Brenda, paid $17.1 million for a 4,900 SF home at 350 Seabreeze Avenue in Palm Beach - the week's top recorded South Florida home sale. Seller Steven K. Hudson had bought the property for $15.8 million just three months earlier, in May (Christopher Leavitt held the listing and Jack Rooney brought the buyer, both of Douglas Elliman). In Fort Lauderdale, a 7,000 SF home at 1721 Southeast 11th Street - listed at $24.9 million a year ago - sold for $16 million, with an entity tied to Alon Steiger selling to Arlene G. Inch, chairwoman and owner of TransPak.",
-    "source": "The Real Deal",
-    "sourceUrl": "https://therealdeal.com/miami/2026/08/13/south-florida-top-real-estate-deals-august-12-2026/",
-    "category": "Luxury",
-    "tags": ["Palm Beach", "Red Ventures", "Fort Lauderdale", "luxury", "top deals"],
-    "importance": "high"
-  },
-  {
-    "id": 73,
-    "date": "2026-08-10",
-    "title": "Aviation Exec Pays $19M for Surf Club Four Seasons Condo in Surfside",
-    "summary": "Private-aviation executive William Papariella and accountant Michael Deo paid $19 million, through an LLC, for unit 307 in the south tower of the Four Seasons Residences at the Surf Club at 9001 Collins Avenue in Surfside - the week's top recorded South Florida home sale. The 4,000 SF, four-bedroom, four-and-a-half-bath condo traded for about $4,800 per square foot. The seller, a trust tied to Richard Gold that had paid $10.4 million for the unit in 2021, realized an 83% gain in five years - a mark of how durable trophy oceanfront-condo pricing has been across Miami-Dade's barrier-island market.",
-    "source": "The Real Deal",
-    "sourceUrl": "https://therealdeal.com/miami/2026/08/11/south-florida-top-real-estate-deals-august-10-2026/",
-    "category": "Luxury",
-    "tags": ["Surfside", "Four Seasons", "Surf Club", "oceanfront condo", "top deals"],
     "importance": "high"
   }
 ]
