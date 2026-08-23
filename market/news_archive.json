@@ -1,11 +1,47 @@
 {
   "meta": {
     "created": "2026-07-06",
-    "updated": "2026-08-21",
+    "updated": "2026-08-23",
     "note": "Archive of items rotated off the live market/news_data.json 16-item list. Weekly refresh APPENDS dropped items here (newest first) - never delete. Same item schema as news_data.json. Not rendered on the site; kept for content reuse, history, and a future archive/search section.",
-    "count": 66
+    "count": 69
   },
   "items": [
+    {
+      "id": 75,
+      "date": "2026-08-11",
+      "title": "Moishe Mana's Mana Common Buys Downtown Miami Former Post Office for $20.3M; Key Biscayne Home Sells for $14M",
+      "summary": "Affiliates of Miami-based Stambul sold a five-story former post office at 100 Northeast First Avenue in downtown Miami, plus a neighboring 15,000 SF vacant lot at 54 Northeast 2nd Street, to Moishe Mana's Mana Common for $20.3 million - the week's priciest recorded South Florida commercial deal and another piece of Mana's long-running downtown Miami land assemblage (the office building spans about 35,600 SF). The week's top recorded home sale was in Key Biscayne, where an entity led by Concha Dominguez sold a 4,300 SF waterfront residence at 591 North Mashta Drive for $14 million - about $3,300 per square foot - to a company managed by Alvaro Castro Mendivil; the seller had paid just $3.2 million for the property in 2004.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/08/12/south-florida-top-real-estate-deals-august-11-2026/",
+      "category": "Commercial/CRE",
+      "tags": ["Miami", "Moishe Mana", "Mana Common", "post office", "Key Biscayne", "assemblage"],
+      "importance": "high",
+      "archivedOn": "2026-08-23"
+    },
+    {
+      "id": 74,
+      "date": "2026-08-12",
+      "title": "Palm Beach's Seabreeze Estate Sells for $17.1M to Red Ventures CEO; Fort Lauderdale Home Fetches $16M",
+      "summary": "Ric Elias, co-founder and CEO of Red Ventures, and his wife, Brenda, paid $17.1 million for a 4,900 SF home at 350 Seabreeze Avenue in Palm Beach - the week's top recorded South Florida home sale. Seller Steven K. Hudson had bought the property for $15.8 million just three months earlier, in May (Christopher Leavitt held the listing and Jack Rooney brought the buyer, both of Douglas Elliman). In Fort Lauderdale, a 7,000 SF home at 1721 Southeast 11th Street - listed at $24.9 million a year ago - sold for $16 million, with an entity tied to Alon Steiger selling to Arlene G. Inch, chairwoman and owner of TransPak.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/08/13/south-florida-top-real-estate-deals-august-12-2026/",
+      "category": "Luxury",
+      "tags": ["Palm Beach", "Red Ventures", "Fort Lauderdale", "luxury", "top deals"],
+      "importance": "high",
+      "archivedOn": "2026-08-23"
+    },
+    {
+      "id": 73,
+      "date": "2026-08-10",
+      "title": "Aviation Exec Pays $19M for Surf Club Four Seasons Condo in Surfside",
+      "summary": "Private-aviation executive William Papariella and accountant Michael Deo paid $19 million, through an LLC, for unit 307 in the south tower of the Four Seasons Residences at the Surf Club at 9001 Collins Avenue in Surfside - the week's top recorded South Florida home sale. The 4,000 SF, four-bedroom, four-and-a-half-bath condo traded for about $4,800 per square foot. The seller, a trust tied to Richard Gold that had paid $10.4 million for the unit in 2021, realized an 83% gain in five years - a mark of how durable trophy oceanfront-condo pricing has been across Miami-Dade's barrier-island market.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/08/11/south-florida-top-real-estate-deals-august-10-2026/",
+      "category": "Luxury",
+      "tags": ["Surfside", "Four Seasons", "Surf Club", "oceanfront condo", "top deals"],
+      "importance": "high",
+      "archivedOn": "2026-08-23"
+    },
     {
       "id": 72,
       "date": "2026-08-07",
