@@ -1,0 +1,166 @@
+{
+ "segment": "starter-mf-corridor",
+ "collection": "curated",
+ "template": "curated-generic",
+ "label": "Starter Multifamily \u2014 $800K to $2M",
+ "tagline": "Delray Beach to Fort Lauderdale corridor \u00b7 2\u20139 units \u00b7 built for smaller & first-time investors \u00b7 ranked by price per unit",
+ "search_name": "Crexi (Delray-Fort Lauderdale corridor MF)",
+ "generated": "2026-08-25",
+ "pdf": "pdf/starter-mf-corridor__2026-08-25.pdf",
+ "expires": "2026-09-24",
+ "total_results": 8,
+ "metric_label": "Price / unit",
+ "methodology": "Crexi Florida pull 2026-08-25 via the Crexi asset API (search + per-asset detail enrichment). Delray Beach to Fort Lauderdale corridor, $800K-$2M, 2-9 units, existing product; ranked by LOWEST price per unit for smaller and first-time investors. Disguised: area + type + price band + price-per-unit band public; exact address & financials on request.",
+ "items": [
+  {
+   "id": "starter-mf-corridor-2026-08-25-01",
+   "analytics_id": "A-00967",
+   "rank": 1,
+   "submarket": "Fort Lauderdale",
+   "profile": "8-Unit Multifamily",
+   "price_band": "$1M-$1.5M",
+   "cap_label": "~$156K/unit",
+   "desc": "8-Unit Multifamily in Fort Lauderdale; 8 units. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 8-Unit Multifamily, Fort Lauderdale (~$156K/unit)",
+   "highlights": [
+    "built 1960s"
+   ],
+   "inv_line": [
+    "Opportunity Zone",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "starter-mf-corridor-2026-08-25-02",
+   "analytics_id": "A-00968",
+   "rank": 2,
+   "submarket": "Hallandale Beach",
+   "profile": "6-Unit Multifamily",
+   "price_band": "$500K-$1M",
+   "cap_label": "~$159K/unit",
+   "desc": "6-Unit Multifamily in Hallandale Beach; ~4.00% cap, 6 units, ~2.3K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 6-Unit Multifamily, Hallandale Beach (~$159K/unit)",
+   "highlights": [
+    "Investor: Levered spread thin at ~7% debt (rate-sensitive)",
+    "~2.3K sq ft",
+    "built 1990s",
+    "~100% occupied"
+   ],
+   "inv_line": [
+    "Levered spread thin at ~7% debt (rate-sensitive)",
+    "Opportunity Zone"
+   ]
+  },
+  {
+   "id": "starter-mf-corridor-2026-08-25-03",
+   "analytics_id": "A-00969",
+   "rank": 3,
+   "submarket": "Hallandale Beach",
+   "profile": "9-Unit Multifamily",
+   "price_band": "$1.5M-$2M",
+   "cap_label": "~$172K/unit",
+   "desc": "9-Unit Multifamily in Hallandale Beach; 9 units, ~3.4K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 9-Unit Multifamily, Hallandale Beach (~$172K/unit)",
+   "highlights": [
+    "~3.4K sq ft",
+    "built 1960s"
+   ],
+   "inv_line": [
+    "Value-add business plan",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "starter-mf-corridor-2026-08-25-04",
+   "analytics_id": "A-00970",
+   "rank": 4,
+   "submarket": "Hollywood",
+   "profile": "9-Unit Multifamily",
+   "price_band": "$1.5M-$2M",
+   "cap_label": "~$177K/unit",
+   "desc": "9-Unit Multifamily in Hollywood; 9 units, ~4.4K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 9-Unit Multifamily, Hollywood (~$177K/unit)",
+   "highlights": [
+    "~4.4K sq ft",
+    "built 1960s"
+   ],
+   "inv_line": []
+  },
+  {
+   "id": "starter-mf-corridor-2026-08-25-05",
+   "analytics_id": "A-00971",
+   "rank": 5,
+   "submarket": "Dania Beach",
+   "profile": "5-Unit Multifamily",
+   "price_band": "$500K-$1M",
+   "cap_label": "~$180K/unit",
+   "desc": "5-Unit Multifamily in Dania Beach; ~7.00% cap, 5 units, ~2.4K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 5-Unit Multifamily, Dania Beach (~$180K/unit)",
+   "highlights": [
+    "Investor: ~6-8% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~2.4K sq ft",
+    "built 1950s"
+   ],
+   "inv_line": [
+    "~6-8% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Value-add business plan"
+   ]
+  },
+  {
+   "id": "starter-mf-corridor-2026-08-25-06",
+   "analytics_id": "A-00972",
+   "rank": 6,
+   "submarket": "Hallandale Beach",
+   "profile": "8-Unit Multifamily",
+   "price_band": "$1M-$1.5M",
+   "cap_label": "~$180K/unit",
+   "desc": "8-Unit Multifamily in Hallandale Beach; ~6.53% cap, 8 units, ~4.9K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 8-Unit Multifamily, Hallandale Beach (~$180K/unit)",
+   "highlights": [
+    "Investor: ~4-6% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~4.9K sq ft",
+    "built 1950s"
+   ],
+   "inv_line": [
+    "~4-6% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Value-add business plan"
+   ]
+  },
+  {
+   "id": "starter-mf-corridor-2026-08-25-07",
+   "analytics_id": "A-00973",
+   "rank": 7,
+   "submarket": "Hallandale Beach",
+   "profile": "9-Unit Multifamily",
+   "price_band": "$1.5M-$2M",
+   "cap_label": "~$181K/unit",
+   "desc": "9-Unit Multifamily in Hallandale Beach; 9 units, ~4.8K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 9-Unit Multifamily, Hallandale Beach (~$181K/unit)",
+   "highlights": [
+    "~4.8K sq ft"
+   ],
+   "inv_line": [
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "starter-mf-corridor-2026-08-25-08",
+   "analytics_id": "A-00974",
+   "rank": 8,
+   "submarket": "Hollywood",
+   "profile": "7-Unit Multifamily",
+   "price_band": "$1M-$1.5M",
+   "cap_label": "~$185K/unit",
+   "desc": "7-Unit Multifamily in Hollywood; 7 units, ~3.2K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 7-Unit Multifamily, Hollywood (~$185K/unit)",
+   "highlights": [
+    "~3.2K sq ft",
+    "built 1950s"
+   ],
+   "inv_line": [
+    "Opportunity Zone",
+    "Value-add business plan"
+   ]
+  }
+ ]
+}

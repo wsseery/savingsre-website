@@ -1,0 +1,226 @@
+{
+ "segment": "commercial-fl",
+ "collection": "curated",
+ "template": "curated-generic",
+ "label": "Commercial & Office \u2014 Florida",
+ "tagline": "Top general commercial, office & mixed-use deals statewide \u00b7 ranked by cap rate",
+ "search_name": "Crexi (FL commercial & office)",
+ "generated": "2026-08-25",
+ "pdf": "pdf/commercial-fl__2026-08-25.pdf",
+ "expires": "2026-09-24",
+ "total_results": 10,
+ "metric_label": "Cap rate",
+ "methodology": "Crexi Florida pull 2026-08-25 via the Crexi asset API (search + per-asset detail enrichment). Florida office & mixed-use (non-medical), ranked by published cap rate. Disguised: area + type + price band + cap band public; exact address & financials on request.",
+ "items": [
+  {
+   "id": "commercial-fl-2026-08-25-01",
+   "analytics_id": "A-00938",
+   "rank": 1,
+   "submarket": "Altamonte Springs",
+   "profile": "Traditional Office",
+   "price_band": "$15M-$16M",
+   "cap_label": "~11.00% cap",
+   "desc": "Traditional Office in Altamonte Springs; ~11.00% cap, ~98K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Traditional Office, Altamonte Springs (~11.00% cap)",
+   "highlights": [
+    "Investor: ~22-24% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~98K sq ft",
+    "~100% occupied"
+   ],
+   "inv_line": [
+    "~22-24% est. cash-on-cash (25% down, IO @ ~7%)",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "commercial-fl-2026-08-25-02",
+   "analytics_id": "A-00939",
+   "rank": 2,
+   "submarket": "Maitland",
+   "profile": "Traditional Office",
+   "price_band": "$5M-$6M",
+   "cap_label": "~10.95% cap",
+   "desc": "Traditional Office in Maitland; ~10.95% cap, ~43K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Traditional Office, Maitland (~10.95% cap)",
+   "highlights": [
+    "Investor: ~22-24% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Multi-tenant",
+    "~43K sq ft",
+    "built 1980s"
+   ],
+   "inv_line": [
+    "~22-24% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Value-add business plan",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "commercial-fl-2026-08-25-03",
+   "analytics_id": "A-00940",
+   "rank": 3,
+   "submarket": "Fort Myers",
+   "profile": "Executive Office",
+   "price_band": "$1.5M-$2M",
+   "cap_label": "~10.22% cap",
+   "desc": "Executive Office in Fort Myers; ~10.22% cap, ~7.0K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Executive Office, Fort Myers (~10.22% cap)",
+   "highlights": [
+    "Investor: ~19-21% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Multi-tenant",
+    "~7.0K sq ft",
+    "built 1910s"
+   ],
+   "inv_line": [
+    "~19-21% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Value-add business plan",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "commercial-fl-2026-08-25-04",
+   "analytics_id": "A-00941",
+   "rank": 4,
+   "submarket": "Kissimmee",
+   "profile": "Traditional Office",
+   "price_band": "$1.5M-$2M",
+   "cap_label": "~10.00% cap",
+   "desc": "Traditional Office in Kissimmee; ~10.00% cap, ~5.5K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Traditional Office, Kissimmee (~10.00% cap)",
+   "highlights": [
+    "Investor: ~18-20% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Multi-tenant",
+    "~5.5K sq ft",
+    "new construction"
+   ],
+   "inv_line": [
+    "~18-20% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "commercial-fl-2026-08-25-05",
+   "analytics_id": "A-00942",
+   "rank": 5,
+   "submarket": "Jacksonville",
+   "profile": "Commercial Office",
+   "price_band": "$5M-$6M",
+   "cap_label": "~9.23% cap",
+   "desc": "Commercial Office in Jacksonville; ~9.23% cap. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Commercial Office, Jacksonville (~9.23% cap)",
+   "highlights": [
+    "Investor: ~15-17% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Multi-tenant",
+    "built 1980s",
+    "~90% occupied"
+   ],
+   "inv_line": [
+    "~15-17% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Value-add business plan"
+   ]
+  },
+  {
+   "id": "commercial-fl-2026-08-25-06",
+   "analytics_id": "A-00943",
+   "rank": 6,
+   "submarket": "Orlando",
+   "profile": "Flex",
+   "price_band": "$4M-$5M",
+   "cap_label": "~8.70% cap",
+   "desc": "Flex in Orlando; ~8.70% cap, ~20K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Flex, Orlando (~8.70% cap)",
+   "highlights": [
+    "Investor: ~13-15% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~20K sq ft",
+    "built 2000s",
+    "~100% occupied"
+   ],
+   "inv_line": [
+    "~13-15% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "commercial-fl-2026-08-25-07",
+   "analytics_id": "A-00900",
+   "rank": 7,
+   "submarket": "Fort Lauderdale",
+   "profile": "Apartment Building",
+   "price_band": "$1.5M-$2M",
+   "cap_label": "~8.58% cap",
+   "desc": "Apartment Building in Fort Lauderdale; ~8.58% cap, 6 units, ~2.8K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Apartment Building, Fort Lauderdale (~8.58% cap)",
+   "highlights": [
+    "Investor: ~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~2.8K sq ft",
+    "built 1960s"
+   ],
+   "inv_line": [
+    "~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Price reduced",
+    "Value-add business plan"
+   ]
+  },
+  {
+   "id": "commercial-fl-2026-08-25-08",
+   "analytics_id": "A-00944",
+   "rank": 8,
+   "submarket": "Fort Myers",
+   "profile": "Restaurant",
+   "price_band": "$4M-$5M",
+   "cap_label": "~8.57% cap",
+   "desc": "Restaurant in Fort Myers; ~8.57% cap, ~32K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Restaurant, Fort Myers (~8.57% cap)",
+   "highlights": [
+    "Investor: ~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Multi-tenant",
+    "~32K sq ft",
+    "~100% occupied"
+   ],
+   "inv_line": [
+    "~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Value-add business plan",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "commercial-fl-2026-08-25-09",
+   "analytics_id": "A-00945",
+   "rank": 9,
+   "submarket": "Temple Terrace",
+   "profile": "Traditional Office",
+   "price_band": "$5M-$6M",
+   "cap_label": "~8.50% cap",
+   "desc": "Traditional Office in Temple Terrace; ~8.50% cap, ~17K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Traditional Office, Temple Terrace (~8.50% cap)",
+   "highlights": [
+    "Investor: ~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~17K sq ft",
+    "built 2000s",
+    "~100% occupied"
+   ],
+   "inv_line": [
+    "~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "commercial-fl-2026-08-25-10",
+   "analytics_id": "A-00946",
+   "rank": 10,
+   "submarket": "Casselberry",
+   "profile": "Executive Office",
+   "price_band": "$8M-$9M",
+   "cap_label": "~8.50% cap",
+   "desc": "Executive Office in Casselberry; ~8.50% cap, 105 units, ~71K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Executive Office, Casselberry (~8.50% cap)",
+   "highlights": [
+    "Investor: ~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~71K sq ft",
+    "built 1980s",
+    "~90% occupied"
+   ],
+   "inv_line": [
+    "~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "180+ days on market"
+   ]
+  }
+ ]
+}

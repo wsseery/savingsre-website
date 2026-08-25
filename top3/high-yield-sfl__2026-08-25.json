@@ -1,0 +1,224 @@
+{
+ "segment": "high-yield-sfl",
+ "collection": "curated",
+ "template": "curated-generic",
+ "label": "High-Yield Multifamily \u2014 8%+ Cap",
+ "tagline": "Top 10 \u00b7 Florida (statewide) \u00b7 5\u201325 units \u00b7 value-add & high-yield",
+ "search_name": "Crexi (FL high-yield MF)",
+ "generated": "2026-08-25",
+ "pdf": "pdf/high-yield-sfl__2026-08-25.pdf",
+ "expires": "2026-09-24",
+ "total_results": 10,
+ "metric_label": "Cap rate",
+ "methodology": "Crexi Florida pull 2026-08-25 via the Crexi asset API (search + per-asset detail enrichment). Multifamily 5-25 units, $1M-$5M, published cap 8%+, cross-checked against published NOI; implausible outliers dropped. Disguised: area + type + price band + cap band public; exact address & financials on request.",
+ "items": [
+  {
+   "id": "high-yield-sfl-2026-08-25-01",
+   "analytics_id": "A-00891",
+   "rank": 1,
+   "submarket": "Sarasota",
+   "profile": "12-Unit Multifamily",
+   "price_band": "$1M-$1.5M",
+   "cap_label": "~10.31% cap",
+   "desc": "12-Unit Multifamily in Sarasota; ~10.31% cap, 12 units, ~11K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 12-Unit Multifamily, Sarasota (~10.31% cap)",
+   "highlights": [
+    "Investor: ~19-21% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Multi-tenant",
+    "~11K sq ft",
+    "built 1970s"
+   ],
+   "inv_line": [
+    "~19-21% est. cash-on-cash (25% down, IO @ ~7%)",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "high-yield-sfl-2026-08-25-02",
+   "analytics_id": "A-00892",
+   "rank": 2,
+   "submarket": "Daytona Beach",
+   "profile": "13-Unit Multifamily",
+   "price_band": "$1M-$1.5M",
+   "cap_label": "~9.78% cap",
+   "desc": "13-Unit Multifamily in Daytona Beach; ~9.78% cap, 13 units, ~6.6K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 13-Unit Multifamily, Daytona Beach (~9.78% cap)",
+   "highlights": [
+    "Investor: ~17-19% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Multi-tenant",
+    "~6.6K sq ft",
+    "~100% occupied"
+   ],
+   "inv_line": [
+    "~17-19% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Seller financing offered",
+    "Value-add business plan"
+   ]
+  },
+  {
+   "id": "high-yield-sfl-2026-08-25-03",
+   "analytics_id": "A-00893",
+   "rank": 3,
+   "submarket": "Vero Beach",
+   "profile": "8-Unit Multifamily",
+   "price_band": "$1M-$1.5M",
+   "cap_label": "~9.40% cap",
+   "desc": "8-Unit Multifamily in Vero Beach; ~9.40% cap, 8 units. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 8-Unit Multifamily, Vero Beach (~9.40% cap)",
+   "highlights": [
+    "Investor: ~16-18% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Multi-tenant",
+    "built 1910s"
+   ],
+   "inv_line": [
+    "~16-18% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Value-add business plan",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "high-yield-sfl-2026-08-25-04",
+   "analytics_id": "A-00894",
+   "rank": 4,
+   "submarket": "Fort Lauderdale",
+   "profile": "9-Unit Multifamily",
+   "price_band": "$2M-$2.5M",
+   "cap_label": "~9.38% cap",
+   "desc": "9-Unit Multifamily in Fort Lauderdale; ~9.38% cap, 9 units, ~3.8K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 9-Unit Multifamily, Fort Lauderdale (~9.38% cap)",
+   "highlights": [
+    "Investor: ~16-18% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~3.8K sq ft",
+    "built 1960s"
+   ],
+   "inv_line": [
+    "~16-18% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Price reduced",
+    "Value-add business plan",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "high-yield-sfl-2026-08-25-05",
+   "analytics_id": "A-00895",
+   "rank": 5,
+   "submarket": "Miami Beach",
+   "profile": "12-Unit Multifamily",
+   "price_band": "$4M-$5M",
+   "cap_label": "~9.09% cap",
+   "desc": "12-Unit Multifamily in Miami Beach; ~9.09% cap, 12 units, ~9.4K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 12-Unit Multifamily, Miami Beach (~9.09% cap)",
+   "highlights": [
+    "Investor: ~14-16% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Multi-tenant",
+    "~9.4K sq ft",
+    "built 1950s"
+   ],
+   "inv_line": [
+    "~14-16% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Seller financing offered",
+    "Recently listed"
+   ]
+  },
+  {
+   "id": "high-yield-sfl-2026-08-25-06",
+   "analytics_id": "A-00896",
+   "rank": 6,
+   "submarket": "Venice",
+   "profile": "5-Unit Multifamily",
+   "price_band": "$1M-$1.5M",
+   "cap_label": "~9.00% cap",
+   "desc": "5-Unit Multifamily in Venice; ~9.00% cap, 5 units, ~1.6K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 5-Unit Multifamily, Venice (~9.00% cap)",
+   "highlights": [
+    "Investor: ~14-16% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~1.6K sq ft",
+    "built 1970s"
+   ],
+   "inv_line": [
+    "~14-16% est. cash-on-cash (25% down, IO @ ~7%)",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "high-yield-sfl-2026-08-25-07",
+   "analytics_id": "A-00897",
+   "rank": 7,
+   "submarket": "Miami Gardens",
+   "profile": "18-Unit Multifamily",
+   "price_band": "$2M-$2.5M",
+   "cap_label": "~8.90% cap",
+   "desc": "18-Unit Multifamily in Miami Gardens; ~8.90% cap, 18 units, ~2.3K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 18-Unit Multifamily, Miami Gardens (~8.90% cap)",
+   "highlights": [
+    "Investor: ~14-16% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~2.3K sq ft"
+   ],
+   "inv_line": [
+    "~14-16% est. cash-on-cash (25% down, IO @ ~7%)",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "high-yield-sfl-2026-08-25-08",
+   "analytics_id": "A-00898",
+   "rank": 8,
+   "submarket": "Dunnellon",
+   "profile": "5-Unit Multifamily",
+   "price_band": "$1.5M-$2M",
+   "cap_label": "~8.72% cap",
+   "desc": "5-Unit Multifamily in Dunnellon; ~8.72% cap, 5 units, ~1.6K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 5-Unit Multifamily, Dunnellon (~8.72% cap)",
+   "highlights": [
+    "Investor: ~13-15% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~1.6K sq ft",
+    "new construction"
+   ],
+   "inv_line": [
+    "~13-15% est. cash-on-cash (25% down, IO @ ~7%)",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "high-yield-sfl-2026-08-25-09",
+   "analytics_id": "A-00899",
+   "rank": 9,
+   "submarket": "Margate",
+   "profile": "22-Unit Multifamily",
+   "price_band": "$3M-$4M",
+   "cap_label": "~8.66% cap",
+   "desc": "22-Unit Multifamily in Margate; ~8.66% cap, 22 units, ~17K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 22-Unit Multifamily, Margate (~8.66% cap)",
+   "highlights": [
+    "Investor: ~13-15% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Multi-tenant",
+    "~17K sq ft",
+    "built 1970s"
+   ],
+   "inv_line": [
+    "~13-15% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "high-yield-sfl-2026-08-25-10",
+   "analytics_id": "A-00900",
+   "rank": 10,
+   "submarket": "Fort Lauderdale",
+   "profile": "6-Unit Multifamily",
+   "price_band": "$1.5M-$2M",
+   "cap_label": "~8.58% cap",
+   "desc": "6-Unit Multifamily in Fort Lauderdale; ~8.58% cap, 6 units, ~2.8K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 6-Unit Multifamily, Fort Lauderdale (~8.58% cap)",
+   "highlights": [
+    "Investor: ~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~2.8K sq ft",
+    "built 1960s"
+   ],
+   "inv_line": [
+    "~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Price reduced",
+    "Value-add business plan"
+   ]
+  }
+ ]
+}

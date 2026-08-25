@@ -1,0 +1,211 @@
+{
+ "segment": "large-statewide",
+ "collection": "curated",
+ "template": "curated-generic",
+ "label": "Larger Investments \u2014 40+ Units",
+ "tagline": "Top 10 \u00b7 Statewide \u00b7 40+ units \u00b7 ranked by scale; institutional & value-add",
+ "search_name": "Crexi (FL multifamily, 40+ units)",
+ "generated": "2026-08-25",
+ "pdf": "pdf/large-statewide__2026-08-25.pdf",
+ "expires": "2026-09-24",
+ "total_results": 10,
+ "metric_label": "Units",
+ "methodology": "Crexi Florida pull 2026-08-25 via the Crexi asset API (search + per-asset detail enrichment). Florida multifamily 40+ units, priced listings only, development/entitlement plays excluded; ranked by unit count. Disguised: area + type + price band + unit count public; exact address & financials on request.",
+ "items": [
+  {
+   "id": "large-statewide-2026-08-25-01",
+   "analytics_id": "A-00901",
+   "rank": 1,
+   "submarket": "St. Petersburg",
+   "profile": "304-Unit Apartment Community",
+   "price_band": "$42M-$44M",
+   "cap_label": "304 units",
+   "desc": "304-Unit Apartment Community in St. Petersburg; 304 units, ~315K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 304-Unit Apartment Community, St. Petersburg (304 units)",
+   "highlights": [
+    "Multi-tenant",
+    "~315K sq ft",
+    "built 1970s"
+   ],
+   "inv_line": [
+    "Value-add business plan",
+    "Recently listed"
+   ]
+  },
+  {
+   "id": "large-statewide-2026-08-25-02",
+   "analytics_id": "A-00902",
+   "rank": 2,
+   "submarket": "Florida",
+   "profile": "275-Unit Apartment Community",
+   "price_band": "$26M-$28M",
+   "cap_label": "275 units",
+   "desc": "275-Unit Apartment Community in Florida; ~7.50% cap, 275 units. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 275-Unit Apartment Community, Florida (275 units)",
+   "highlights": [
+    "Investor: ~8-10% est. cash-on-cash (25% down, IO @ ~7%)"
+   ],
+   "inv_line": [
+    "~8-10% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Value-add business plan",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "large-statewide-2026-08-25-03",
+   "analytics_id": "A-00903",
+   "rank": 3,
+   "submarket": "Tallahassee",
+   "profile": "200-Unit Apartment Community",
+   "price_band": "$28M-$30M",
+   "cap_label": "200 units",
+   "desc": "200-Unit Apartment Community in Tallahassee; ~7.79% cap, 200 units, ~201K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 200-Unit Apartment Community, Tallahassee (200 units)",
+   "highlights": [
+    "Investor: ~9-11% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~201K sq ft",
+    "built 1970s",
+    "~90% occupied"
+   ],
+   "inv_line": [
+    "~9-11% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Value-add business plan"
+   ]
+  },
+  {
+   "id": "large-statewide-2026-08-25-04",
+   "analytics_id": "A-00904",
+   "rank": 4,
+   "submarket": "Lauderhill",
+   "profile": "192-Unit Apartment Community",
+   "price_band": "$44M-$46M",
+   "cap_label": "192 units",
+   "desc": "192-Unit Apartment Community in Lauderhill; ~5.85% cap, 192 units, ~179K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 192-Unit Apartment Community, Lauderhill (192 units)",
+   "highlights": [
+    "Investor: ~1-3% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~179K sq ft",
+    "~90% occupied"
+   ],
+   "inv_line": [
+    "~1-3% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Value-add business plan",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "large-statewide-2026-08-25-05",
+   "analytics_id": "A-00905",
+   "rank": 5,
+   "submarket": "Miami",
+   "profile": "177-Unit Apartment Community",
+   "price_band": "$12M-$13M",
+   "cap_label": "177 units",
+   "desc": "177-Unit Apartment Community in Miami; 177 units. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 177-Unit Apartment Community, Miami (177 units)",
+   "highlights": [],
+   "inv_line": []
+  },
+  {
+   "id": "large-statewide-2026-08-25-06",
+   "analytics_id": "A-00906",
+   "rank": 6,
+   "submarket": "Coral Springs",
+   "profile": "123-Unit Apartment Community",
+   "price_band": "$9M-$10M",
+   "cap_label": "123 units",
+   "desc": "123-Unit Apartment Community in Coral Springs; ~6.47% cap, 123 units, ~50K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 123-Unit Apartment Community, Coral Springs (123 units)",
+   "highlights": [
+    "Investor: ~4-6% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~50K sq ft",
+    "built 2000s",
+    "~100% occupied"
+   ],
+   "inv_line": [
+    "~4-6% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "large-statewide-2026-08-25-07",
+   "analytics_id": "A-00907",
+   "rank": 7,
+   "submarket": "Tallahassee",
+   "profile": "123-Unit Apartment Community",
+   "price_band": "$15M-$16M",
+   "cap_label": "123 units",
+   "desc": "123-Unit Apartment Community in Tallahassee; ~6.93% cap, 123 units, ~138K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 123-Unit Apartment Community, Tallahassee (123 units)",
+   "highlights": [
+    "Investor: ~6-8% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~138K sq ft",
+    "built 2000s"
+   ],
+   "inv_line": [
+    "~6-8% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Value-add business plan",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "large-statewide-2026-08-25-08",
+   "analytics_id": "A-00908",
+   "rank": 8,
+   "submarket": "Lauderhill",
+   "profile": "119-Unit Apartment Community",
+   "price_band": "$19M-$20M",
+   "cap_label": "119 units",
+   "desc": "119-Unit Apartment Community in Lauderhill; ~6.91% cap, 119 units, ~89K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 119-Unit Apartment Community, Lauderhill (119 units)",
+   "highlights": [
+    "Investor: ~6-8% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Multi-tenant",
+    "~89K sq ft",
+    "built 1960s"
+   ],
+   "inv_line": [
+    "~6-8% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Value-add business plan"
+   ]
+  },
+  {
+   "id": "large-statewide-2026-08-25-09",
+   "analytics_id": "A-00909",
+   "rank": 9,
+   "submarket": "Sunrise",
+   "profile": "113-Unit Apartment Community",
+   "price_band": "$21M-$22M",
+   "cap_label": "113 units",
+   "desc": "113-Unit Apartment Community in Sunrise; ~6.89% cap, 113 units, ~99K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 113-Unit Apartment Community, Sunrise (113 units)",
+   "highlights": [
+    "Investor: ~6-8% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Multi-tenant",
+    "~99K sq ft",
+    "built 1970s"
+   ],
+   "inv_line": [
+    "~6-8% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "large-statewide-2026-08-25-10",
+   "analytics_id": "A-00910",
+   "rank": 10,
+   "submarket": "Brooksville",
+   "profile": "111-Unit Apartment Community",
+   "price_band": "$11M-$12M",
+   "cap_label": "111 units",
+   "desc": "111-Unit Apartment Community in Brooksville; 111 units, ~61K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 111-Unit Apartment Community, Brooksville (111 units)",
+   "highlights": [
+    "~61K sq ft",
+    "built 1980s"
+   ],
+   "inv_line": [
+    "Value-add business plan",
+    "Recently listed"
+   ]
+  }
+ ]
+}

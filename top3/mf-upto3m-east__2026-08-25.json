@@ -1,0 +1,82 @@
+{
+ "segment": "mf-upto3m-east",
+ "collection": "weekly-top3",
+ "template": "mls-financial",
+ "label": "Multifamily - Up to $3M",
+ "tagline": "Income Properties - 2-4 Units up to $3M - East Palm Beach & Broward",
+ "search_name": "WSS-MF-upto3mmeast",
+ "generated": "2026-08-25",
+ "pdf": "pdf/mf-upto3m-east__2026-08-25.pdf",
+ "expires": "2026-09-24",
+ "total_results": 44,
+ "metric_label": "Cap rate",
+ "methodology": "Live Beaches MLS pull 2026-08-25 (WSS-MF-upto3mmeast, 44 active results). Cap rate computed only where the listing reports BOTH annual total expense > 0 and net operating income > 0 (10 of 44 qualified); monthly-misreported rows excluded. Disguised: area + type + price band + cap band public; exact address & financials on request.",
+ "items": [
+  {
+   "id": "mf-upto3m-east-2026-08-25-01",
+   "analytics_id": "A-00975",
+   "rank": 1,
+   "submarket": "West Palm Beach",
+   "profile": "Triplex Income Property",
+   "price_band": "$500K-$1M",
+   "cap_label": "~8.97% cap",
+   "desc": "Triplex Income Property in West Palm Beach; ~8.97% cap on broker-reported NOI, 3 units. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Triplex Income Property, West Palm Beach (~8.97% cap)",
+   "highlights": [
+    "Investor: ~14-16% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~9-10x GRM",
+    "3 units",
+    "built 1920s"
+   ],
+   "inv_line": [
+    "~14-16% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~9-10x GRM",
+    "Broker-reported NOI, unverified"
+   ]
+  },
+  {
+   "id": "mf-upto3m-east-2026-08-25-02",
+   "analytics_id": "A-00976",
+   "rank": 2,
+   "submarket": "West Palm Beach",
+   "profile": "Quadruplex Income Property",
+   "price_band": "$500K-$1M",
+   "cap_label": "~8.53% cap",
+   "desc": "Quadruplex Income Property in West Palm Beach; ~8.53% cap on broker-reported NOI, 4 units. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Quadruplex Income Property, West Palm Beach (~8.53% cap)",
+   "highlights": [
+    "Investor: ~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~9-10x GRM",
+    "4 units",
+    "built 1930s"
+   ],
+   "inv_line": [
+    "~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~9-10x GRM",
+    "Broker-reported NOI, unverified"
+   ]
+  },
+  {
+   "id": "mf-upto3m-east-2026-08-25-03",
+   "analytics_id": "A-00977",
+   "rank": 3,
+   "submarket": "Lake Worth Beach",
+   "profile": "Quadruplex Income Property",
+   "price_band": "$500K-$1M",
+   "cap_label": "~7.23% cap",
+   "desc": "Quadruplex Income Property in Lake Worth Beach; ~7.23% cap on broker-reported NOI, 4 units. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Quadruplex Income Property, Lake Worth Beach (~7.23% cap)",
+   "highlights": [
+    "Investor: ~7-9% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~10-11x GRM",
+    "4 units",
+    "built 1940s"
+   ],
+   "inv_line": [
+    "~7-9% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~10-11x GRM",
+    "Broker-reported NOI, unverified"
+   ]
+  }
+ ]
+}

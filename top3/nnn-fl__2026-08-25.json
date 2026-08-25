@@ -1,0 +1,226 @@
+{
+ "segment": "nnn-fl",
+ "collection": "curated",
+ "template": "curated-generic",
+ "label": "NNN Commercial \u2014 Florida",
+ "tagline": "Top triple-net (NNN) deals statewide \u2014 single & multi-tenant \u00b7 ranked by cap rate",
+ "search_name": "Crexi (FL retail, NNN)",
+ "generated": "2026-08-25",
+ "pdf": "pdf/nnn-fl__2026-08-25.pdf",
+ "expires": "2026-09-24",
+ "total_results": 10,
+ "metric_label": "Cap rate",
+ "methodology": "Crexi Florida pull 2026-08-25 via the Crexi asset API (search + per-asset detail enrichment). Florida retail, single- and multi-tenant, ranked purely by published cap rate (corroborated against NOI where published). Disguised: area + type + price band + cap band public; exact address & financials on request.",
+ "items": [
+  {
+   "id": "nnn-fl-2026-08-25-01",
+   "analytics_id": "A-00911",
+   "rank": 1,
+   "submarket": "Orlando",
+   "profile": "Net-Leased Pharmacy/Drug",
+   "price_band": "$2.5M-$3M",
+   "cap_label": "~11.45% cap",
+   "desc": "Net-Leased Pharmacy/Drug in Orlando; ~11.45% cap, 1 units, ~13K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Net-Leased Pharmacy/Drug, Orlando (~11.45% cap)",
+   "highlights": [
+    "Investor: ~24-26% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~13K sq ft",
+    "built 2000s",
+    "~100% occupied"
+   ],
+   "inv_line": [
+    "~24-26% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Lease term ~8.4 years"
+   ]
+  },
+  {
+   "id": "nnn-fl-2026-08-25-02",
+   "analytics_id": "A-00912",
+   "rank": 2,
+   "submarket": "Ocala",
+   "profile": "Net-Leased Storefront",
+   "price_band": "$1M-$1.5M",
+   "cap_label": "~10.73% cap",
+   "desc": "Net-Leased Storefront in Ocala; ~10.73% cap, 5 units, ~14K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Net-Leased Storefront, Ocala (~10.73% cap)",
+   "highlights": [
+    "Investor: ~21-23% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~14K sq ft",
+    "built 1940s"
+   ],
+   "inv_line": [
+    "~21-23% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Opportunity Zone",
+    "Lease term ~0 years"
+   ]
+  },
+  {
+   "id": "nnn-fl-2026-08-25-03",
+   "analytics_id": "A-00913",
+   "rank": 3,
+   "submarket": "Tampa",
+   "profile": "Net-Leased Convenience Store",
+   "price_band": "$7M-$8M",
+   "cap_label": "~10.47% cap",
+   "desc": "Net-Leased Convenience Store in Tampa; ~10.47% cap, ~13K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Net-Leased Convenience Store, Tampa (~10.47% cap)",
+   "highlights": [
+    "Investor: ~20-22% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~13K sq ft",
+    "built 2000s",
+    "~100% occupied"
+   ],
+   "inv_line": [
+    "~20-22% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Lease term ~9 years",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "nnn-fl-2026-08-25-04",
+   "analytics_id": "A-00914",
+   "rank": 4,
+   "submarket": "Bokeelia",
+   "profile": "Net-Leased Convenience Store",
+   "price_band": "$500K-$1M",
+   "cap_label": "~10.25% cap",
+   "desc": "Net-Leased Convenience Store in Bokeelia; ~10.25% cap, 6 units, ~5.2K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Net-Leased Convenience Store, Bokeelia (~10.25% cap)",
+   "highlights": [
+    "Investor: ~19-21% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~5.2K sq ft",
+    "built 1980s"
+   ],
+   "inv_line": [
+    "~19-21% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Seller financing offered",
+    "Lease term ~0 years"
+   ]
+  },
+  {
+   "id": "nnn-fl-2026-08-25-05",
+   "analytics_id": "A-00915",
+   "rank": 5,
+   "submarket": "Kissimmee",
+   "profile": "Net-Leased Storefront",
+   "price_band": "$500K-$1M",
+   "cap_label": "~10.00% cap",
+   "desc": "Net-Leased Storefront in Kissimmee; ~10.00% cap, ~2.4K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Net-Leased Storefront, Kissimmee (~10.00% cap)",
+   "highlights": [
+    "Investor: ~18-20% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Multi-tenant",
+    "~2.4K sq ft",
+    "new construction"
+   ],
+   "inv_line": [
+    "~18-20% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "nnn-fl-2026-08-25-06",
+   "analytics_id": "A-00916",
+   "rank": 6,
+   "submarket": "Kissimmee",
+   "profile": "Net-Leased Storefront",
+   "price_band": "$1.5M-$2M",
+   "cap_label": "~10.00% cap",
+   "desc": "Net-Leased Storefront in Kissimmee; ~10.00% cap, ~5.3K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Net-Leased Storefront, Kissimmee (~10.00% cap)",
+   "highlights": [
+    "Investor: ~18-20% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Multi-tenant",
+    "~5.3K sq ft",
+    "new construction"
+   ],
+   "inv_line": [
+    "~18-20% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "nnn-fl-2026-08-25-07",
+   "analytics_id": "A-00917",
+   "rank": 7,
+   "submarket": "Archer",
+   "profile": "Net-Leased Grocery Store",
+   "price_band": "$2.5M-$3M",
+   "cap_label": "~10.00% cap",
+   "desc": "Net-Leased Grocery Store in Archer; ~10.00% cap, ~18K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Net-Leased Grocery Store, Archer (~10.00% cap)",
+   "highlights": [
+    "Investor: ~18-20% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~18K sq ft",
+    "~100% occupied"
+   ],
+   "inv_line": [
+    "~18-20% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Lease term ~0 years",
+    "Recently listed"
+   ]
+  },
+  {
+   "id": "nnn-fl-2026-08-25-08",
+   "analytics_id": "A-00918",
+   "rank": 8,
+   "submarket": "Orlando",
+   "profile": "Net-Leased Grocery Store",
+   "price_band": "$6M-$7M",
+   "cap_label": "~10.00% cap",
+   "desc": "Net-Leased Grocery Store in Orlando; ~10.00% cap, 1 units, ~14K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Net-Leased Grocery Store, Orlando (~10.00% cap)",
+   "highlights": [
+    "Investor: ~18-20% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~14K sq ft",
+    "built 2010s"
+   ],
+   "inv_line": [
+    "~18-20% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Lease term ~9.1 years"
+   ]
+  },
+  {
+   "id": "nnn-fl-2026-08-25-09",
+   "analytics_id": "A-00919",
+   "rank": 9,
+   "submarket": "Bronson",
+   "profile": "Net-Leased Grocery Store",
+   "price_band": "$2.5M-$3M",
+   "cap_label": "~10.00% cap",
+   "desc": "Net-Leased Grocery Store in Bronson; ~10.00% cap, 1 units, ~13K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Net-Leased Grocery Store, Bronson (~10.00% cap)",
+   "highlights": [
+    "Investor: ~18-20% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~13K sq ft",
+    "built 1990s",
+    "~100% occupied"
+   ],
+   "inv_line": [
+    "~18-20% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Lease term ~1 year",
+    "Recently listed"
+   ]
+  },
+  {
+   "id": "nnn-fl-2026-08-25-10",
+   "analytics_id": "A-00920",
+   "rank": 10,
+   "submarket": "Pensacola",
+   "profile": "Net-Leased Storefront",
+   "price_band": "$2.5M-$3M",
+   "cap_label": "~9.52% cap",
+   "desc": "Net-Leased Storefront in Pensacola; ~9.52% cap, ~19K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Net-Leased Storefront, Pensacola (~9.52% cap)",
+   "highlights": [
+    "Investor: ~16-18% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~19K sq ft",
+    "built 2000s",
+    "~100% occupied"
+   ],
+   "inv_line": [
+    "~16-18% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Lease term ~1 year",
+    "180+ days on market"
+   ]
+  }
+ ]
+}
