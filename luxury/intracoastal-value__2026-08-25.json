@@ -1,0 +1,176 @@
+{
+ "segment": "intracoastal-value",
+ "collection": "luxury",
+ "template": "luxury-value",
+ "label": "Intracoastal - Best Value by $/sqft",
+ "tagline": "Lowest $/sqft intracoastal luxury; Florida",
+ "search_name": "WSS-LUX-Intracoastal",
+ "generated": "2026-08-25",
+ "pdf": "pdf/intracoastal-value__2026-08-25.pdf",
+ "expires": "2026-09-24",
+ "total_results": 99,
+ "metric_label": "$/sqft",
+ "methodology": "Live Beaches MLS pull 2026-08-25 (WSS-LUX-Intracoastal), Florida only, ranked by LOWEST price per square foot (best value). Disguised: area + beds/baths + $/sqft band + price band public; exact address & photos on request.",
+ "items": [
+  {
+   "id": "intracoastal-value-2026-08-25-01",
+   "analytics_id": "A-00991",
+   "rank": 1,
+   "submarket": "Fort Pierce",
+   "profile": "8bd / 5ba - Intracoastal Estate",
+   "price_band": "$2.5M-$3M",
+   "cap_label": "~$400/sqft",
+   "thumb_url": "",
+   "desc": "Intracoastal Estate in Fort Pierce; ~$400/sqft. Exact address, photos & financials on request.",
+   "inquiry_subject": "Inquiry: Fort Pierce Intracoastal Estate (~$400/sqft)",
+   "highlights": [
+    "~7.4K sq ft - built 2000s",
+    "Lowest price/sqft in this list"
+   ]
+  },
+  {
+   "id": "intracoastal-value-2026-08-25-02",
+   "analytics_id": "A-00992",
+   "rank": 2,
+   "submarket": "Jensen Beach",
+   "profile": "5bd / 3ba - Intracoastal Estate",
+   "price_band": "$1.5M-$2M",
+   "cap_label": "~$475/sqft",
+   "thumb_url": "",
+   "desc": "Intracoastal Estate in Jensen Beach; ~$475/sqft. Exact address, photos & financials on request.",
+   "inquiry_subject": "Inquiry: Jensen Beach Intracoastal Estate (~$475/sqft)",
+   "highlights": [
+    "~3.6K sq ft - built 1960s",
+    "#2 best value by price/sqft"
+   ]
+  },
+  {
+   "id": "intracoastal-value-2026-08-25-03",
+   "analytics_id": "A-00993",
+   "rank": 3,
+   "submarket": "Port St Lucie",
+   "profile": "6bd / 7ba - Intracoastal Estate",
+   "price_band": "$3M-$4M",
+   "cap_label": "~$525/sqft",
+   "thumb_url": "",
+   "desc": "Intracoastal Estate in Port St Lucie; ~$525/sqft. Exact address, photos & financials on request.",
+   "inquiry_subject": "Inquiry: Port St Lucie Intracoastal Estate (~$525/sqft)",
+   "highlights": [
+    "~6.2K sq ft - built 2010s",
+    "#3 best value by price/sqft"
+   ]
+  },
+  {
+   "id": "intracoastal-value-2026-08-25-04",
+   "analytics_id": "A-00994",
+   "rank": 4,
+   "submarket": "Vero Beach",
+   "profile": "5bd / 4ba - Intracoastal Estate",
+   "price_band": "$3M-$4M",
+   "cap_label": "~$525/sqft",
+   "thumb_url": "",
+   "desc": "Intracoastal Estate in Vero Beach; ~$525/sqft. Exact address, photos & financials on request.",
+   "inquiry_subject": "Inquiry: Vero Beach Intracoastal Estate (~$525/sqft)",
+   "highlights": [
+    "~7.6K sq ft - built 1990s",
+    "#4 best value by price/sqft"
+   ]
+  },
+  {
+   "id": "intracoastal-value-2026-08-25-05",
+   "analytics_id": "A-00995",
+   "rank": 5,
+   "submarket": "Riviera Beach",
+   "profile": "3bd / 3ba - Intracoastal Estate",
+   "price_band": "$1.5M-$2M",
+   "cap_label": "~$525/sqft",
+   "thumb_url": "",
+   "desc": "Intracoastal Estate in Riviera Beach; ~$525/sqft. Exact address, photos & financials on request.",
+   "inquiry_subject": "Inquiry: Riviera Beach Intracoastal Estate (~$525/sqft)",
+   "highlights": [
+    "~3.8K sq ft - new construction",
+    "#5 best value by price/sqft"
+   ]
+  },
+  {
+   "id": "intracoastal-value-2026-08-25-06",
+   "analytics_id": "A-00996",
+   "rank": 6,
+   "submarket": "Lighthouse Point",
+   "profile": "7bd / 6ba - Intracoastal Estate",
+   "price_band": "$3M-$4M",
+   "cap_label": "~$525/sqft",
+   "thumb_url": "",
+   "desc": "Intracoastal Estate in Lighthouse Point; ~$525/sqft. Exact address, photos & financials on request.",
+   "inquiry_subject": "Inquiry: Lighthouse Point Intracoastal Estate (~$525/sqft)",
+   "highlights": [
+    "~6.6K sq ft - built 1970s",
+    "#6 best value by price/sqft"
+   ]
+  },
+  {
+   "id": "intracoastal-value-2026-08-25-07",
+   "analytics_id": "A-00997",
+   "rank": 7,
+   "submarket": "Port St Lucie",
+   "profile": "5bd / 7ba - Intracoastal Estate",
+   "price_band": "$2.5M-$3M",
+   "cap_label": "~$550/sqft",
+   "thumb_url": "",
+   "desc": "Intracoastal Estate in Port St Lucie; ~$550/sqft. Exact address, photos & financials on request.",
+   "inquiry_subject": "Inquiry: Port St Lucie Intracoastal Estate (~$550/sqft)",
+   "highlights": [
+    "~4.8K sq ft - built 1990s",
+    "#7 best value by price/sqft"
+   ]
+  },
+  {
+   "id": "intracoastal-value-2026-08-25-08",
+   "analytics_id": "A-00998",
+   "rank": 8,
+   "submarket": "Fort Pierce",
+   "profile": "4bd / 4ba - Intracoastal Estate",
+   "price_band": "$2.5M-$3M",
+   "cap_label": "~$550/sqft",
+   "thumb_url": "",
+   "desc": "Intracoastal Estate in Fort Pierce; ~$550/sqft. Exact address, photos & financials on request.",
+   "inquiry_subject": "Inquiry: Fort Pierce Intracoastal Estate (~$550/sqft)",
+   "highlights": [
+    "~4.6K sq ft - built 2000s",
+    "#8 best value by price/sqft"
+   ]
+  },
+  {
+   "id": "intracoastal-value-2026-08-25-09",
+   "analytics_id": "A-00999",
+   "rank": 9,
+   "submarket": "Fort Lauderdale",
+   "profile": "3bd / 3ba - Intracoastal Condominium",
+   "price_band": "$1.5M-$2M",
+   "cap_label": "~$575/sqft",
+   "thumb_url": "",
+   "desc": "Intracoastal Condominium in Fort Lauderdale; ~$575/sqft. Exact address, photos & financials on request.",
+   "inquiry_subject": "Inquiry: Fort Lauderdale Intracoastal Condominium (~$575/sqft)",
+   "highlights": [
+    "~3.2K sq ft - built 2000s",
+    "#9 best value by price/sqft"
+   ]
+  },
+  {
+   "id": "intracoastal-value-2026-08-25-10",
+   "analytics_id": "A-01000",
+   "rank": 10,
+   "submarket": "Hollywood",
+   "profile": "7bd / 9ba - Intracoastal Estate",
+   "price_band": "$4M-$5M",
+   "cap_label": "~$600/sqft",
+   "thumb_url": "",
+   "desc": "Intracoastal Estate in Hollywood; ~$600/sqft. Exact address, photos & financials on request.",
+   "inquiry_subject": "Inquiry: Hollywood Intracoastal Estate (~$600/sqft)",
+   "highlights": [
+    "~8.2K sq ft - built 1960s",
+    "#10 best value by price/sqft"
+   ]
+  }
+ ]
+}
