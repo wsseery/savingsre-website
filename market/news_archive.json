@@ -1,11 +1,47 @@
 {
   "meta": {
     "created": "2026-07-06",
-    "updated": "2026-08-23",
+    "updated": "2026-08-25",
     "note": "Archive of items rotated off the live market/news_data.json 16-item list. Weekly refresh APPENDS dropped items here (newest first) - never delete. Same item schema as news_data.json. Not rendered on the site; kept for content reuse, history, and a future archive/search section.",
-    "count": 69
+    "count": 72
   },
   "items": [
+    {
+      "id": 78,
+      "date": "2026-08-13",
+      "title": "Miami Beach's 508 West Dilido Flips for $22.8M, Six Months After a $18.5M Purchase",
+      "summary": "A 5,500 SF waterfront home at 508 West Dilido Drive on Miami Beach's Venetian Islands sold for $22.8 million - the week's top recorded South Florida home sale. The 508 W Dilido Drive Land Trust sold to the 508 Di Lido Land Trust after paying $18.5 million for the 2018-built house in February of this year, a roughly 23% gain in about six months. Reid Heidenry and Marko Gojanovic of One Sotheby's International Realty represented the seller and Hayley Dodge of Compass brought the buyer. Quick resales at a premium remain a recurring feature of the Venetian and Sunset Islands market, where finished new-construction inventory is scarce.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/08/14/south-florida-top-real-estate-deals-august-13-2026/",
+      "category": "Luxury",
+      "tags": ["Miami Beach", "Venetian Islands", "Dilido", "waterfront", "resale", "top deals"],
+      "importance": "high",
+      "archivedOn": "2026-08-25"
+    },
+    {
+      "id": 77,
+      "date": "2026-08-13",
+      "title": "Rilea's $85.6M Mohawk at Wynwood Tops South Florida Construction Permits",
+      "summary": "South Florida's largest construction permit for the week ending August 10 was an $85.6 million new-building permit for Mohawk at Wynwood, Rilea Group's 300-unit, 488,880 SF apartment project at 50 Northeast 29th Street in Miami, which will include 30,000 SF of ground-floor retail and deliver in 2028. Rilea, led by Alan and Diego Ojeda, bought the land for $22 million in 2021 and closed a $149.2 million construction loan in January that included $124.2 million of C-PACE financing from Nuveen Green Capital. Also permitted: a $31.1 million, 115,820 SF permit for Sweetbird North, an eight-story office-and-retail project at 95 Northeast 40th Street from Miami Design District Associates and Raycliff Capital, and a $28 million permit for Kolter Multifamily's 336-unit Alton Biscayne at 11240 Biscayne Boulevard in North Miami Beach.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/08/13/rilea-groups-wynwood-apartments-top-south-florida-permits/",
+      "category": "Development",
+      "tags": ["Wynwood", "Rilea Group", "permits", "Design District", "Kolter", "North Miami Beach", "development"],
+      "importance": "high",
+      "archivedOn": "2026-08-25"
+    },
+    {
+      "id": 76,
+      "date": "2026-08-13",
+      "title": "Mortgage Rates Post First Drop in Six Weeks to 6.67%; 15-Yr Falls to 5.96%",
+      "summary": "Freddie Mac's 30-year fixed-rate mortgage averaged 6.67% the week of August 13, down from 6.69% - its first weekly decline in six weeks - while the 15-year fixed fell to 5.96% from 6.01%. A year ago the 30-year FRM averaged 6.58%, leaving financing only marginally above year-ago levels. Chief economist Sam Khater said the modest pullback, combined with for-sale inventory that keeps improving and listing prices running slightly below a year ago, is gradually shifting conditions toward buyers. Bankrate/Mortgage Research Center pegged the 30-year jumbo average near 6.84% as of mid-August.",
+      "source": "Freddie Mac / Bankrate",
+      "sourceUrl": "https://www.freddiemac.com/pmms",
+      "category": "Market Data",
+      "tags": ["mortgage rates", "jumbo", "financing", "PMMS", "rate drop"],
+      "importance": "high",
+      "archivedOn": "2026-08-25"
+    },
     {
       "id": 75,
       "date": "2026-08-11",
