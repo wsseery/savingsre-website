@@ -1,11 +1,59 @@
 {
   "meta": {
     "created": "2026-07-06",
-    "updated": "2026-08-25",
+    "updated": "2026-08-27",
     "note": "Archive of items rotated off the live market/news_data.json 16-item list. Weekly refresh APPENDS dropped items here (newest first) - never delete. Same item schema as news_data.json. Not rendered on the site; kept for content reuse, history, and a future archive/search section.",
-    "count": 72
+    "count": 76
   },
   "items": [
+    {
+      "id": 82,
+      "date": "2026-08-17",
+      "title": "Florida Home Sales Rise for 11th Straight Month; Statewide Single-Family Median Hits $425,000",
+      "summary": "July 2026 data released August 17 shows Florida's housing market posting its 11th consecutive month of year-over-year closed-sales gains in both major property types. Statewide single-family closings totaled 23,870, up 5.1%, while condo-townhouse sales totaled 8,194, up 11%. The statewide single-family median rose 3.7% to $425,000; the condo-townhouse median held flat at $295,000. Single-family inventory fell 13.4% to 97,741 active listings - a 4.5-months supply, squarely a seller's market - while condo supply sits at 7.8 months. Southeast Florida ran ahead of the state on price: Miami-Dade single-family median $685,000 (+3.8%), Broward $650,000 (+4.8%), Palm Beach $660,090 (+7.6%), with single-family active listings down 22.8%, 25.0% and 23.3% respectively. Million-dollar-plus sales climbed 15.5% in Miami-Dade and 33.9% in Broward.",
+      "source": "Florida Realtors / MIAMI REALTORS + RWorld",
+      "sourceUrl": "https://www.floridarealtors.org/news-media/news-articles/2026/08/florida-home-sales-rise-11th-straight-month",
+      "category": "Market Data",
+      "tags": ["Florida Realtors", "July 2026", "median price", "inventory", "Miami-Dade", "Broward", "Palm Beach"],
+      "importance": "high",
+      "archivedOn": "2026-08-27"
+    },
+    {
+      "id": 81,
+      "date": "2026-08-16",
+      "title": "Florida's November Property-Tax Amendment Draws Organized Opposition",
+      "summary": "Amendment 3 on Florida's November ballot would raise the non-school homestead exemption from $50,000 to $150,000 in 2027 and $250,000 by 2028, and would cut the annual cap on assessment increases for non-homestead property from 10% to 5%. It needs 60% voter approval. Legislative fiscal analysis estimates local government revenue would fall roughly $4.6 billion in the first year and $8.4 billion in the second, with no funding mechanism specified. Three political committees organized to oppose it - including Vote No on 3, also called Stop Unfair Tax Shifts - have together raised under $30,000 since the start of June, arguing the measure shifts the burden onto renters, commercial property owners and first-time buyers. For income-property owners the line item to watch is the non-homestead assessment cap: dropping it to 5% would materially slow taxable-value growth on rentals and small commercial assets.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/08/16/opposition-mounts-to-floridas-property-tax-amendment/",
+      "category": "Policy/Insurance",
+      "tags": ["property tax", "Amendment 3", "homestead exemption", "non-homestead cap", "November ballot"],
+      "importance": "medium",
+      "archivedOn": "2026-08-27"
+    },
+    {
+      "id": 80,
+      "date": "2026-08-14",
+      "title": "Artemis Pays $140M for Delray Beach Senior-Living Community; Golden Beach Oceanfront Lot Fetches $24M",
+      "summary": "An entity tied to Chevy Chase, Maryland-based Artemis Real Estate Partners bought a senior-living community at 6589 and 6595 Morikami Park Road in Delray Beach for $140 million from an affiliate of PGIM Real Estate - among the largest assisted-living trades ever recorded in Florida and the week's priciest South Florida commercial sale. The 2023-built complex spans 225,000 SF on 7.2 acres and holds 207 residences: 70 assisted-living, 76 independent-living and 41 memory-care units, with average monthly resident rates around $7,635. The week's top recorded home sale was dirt, not a house: a 0.6-acre oceanfront lot at 625 Ocean Boulevard in Golden Beach traded for $24 million, sold by the estate of Sydell Herrick to a company managed by spec developer David Rodriguez, who plans to build on the site.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/08/17/south-florida-top-real-estate-deals-aug-14-2026/",
+      "category": "Commercial/CRE",
+      "tags": ["Delray Beach", "senior living", "Artemis", "PGIM", "Golden Beach", "oceanfront lot"],
+      "importance": "high",
+      "archivedOn": "2026-08-27"
+    },
+    {
+      "id": 79,
+      "date": "2026-08-13",
+      "title": "Ken Griffin Sells Palm Beach's 125 Worth Avenue to Blackstone Affiliate for $86M",
+      "summary": "Citadel founder Ken Griffin sold his 50,000 SF office building at 125 Worth Avenue in Palm Beach to Blackstone's Revantage for $86 million - the week's priciest recorded South Florida commercial deal. Griffin had paid $83 million for the Worth Avenue property in 2023, and the resale underscores how tightly held - and how institutionally sought after - trophy office space on Palm Beach's premier retail corridor has become as financial firms continue relocating to the island. The week's second-largest commercial trade was industrial: a 120,700 SF warehouse at 16175 Northwest 49th Avenue in Hialeah sold for $31 million, or nearly $257 per square foot, with Kurv Industrial selling to an entity tied to Salt Lake City-based Alsco Uniforms after buying it for $26.3 million in 2022.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/08/14/south-florida-top-real-estate-deals-august-13-2026/",
+      "category": "Commercial/CRE",
+      "tags": ["Palm Beach", "Worth Avenue", "Ken Griffin", "Blackstone", "office", "Hialeah", "industrial"],
+      "importance": "high",
+      "archivedOn": "2026-08-27"
+    },
     {
       "id": 78,
       "date": "2026-08-13",
