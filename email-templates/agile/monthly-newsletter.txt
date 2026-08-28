@@ -1,0 +1,48 @@
+Hi {{{first_name}}},
+
+Once a month I send the short version of everything SavingsRE tracks - where South Florida pricing and inventory sit, what income property is actually yielding, where insurance has moved, and what it costs to list with me. Every figure behind the links below is refreshed on the site, so whenever you open this the numbers you see are the current ones rather than the ones from the day it was written.
+
+THE NUMBERS - refreshed weekly on the site
+Market Intel is the single page for South Florida market data. It carries county medians (single-family and condo for Miami-Dade, Broward, Palm Beach, Martin and St. Lucie against the statewide figure, with closed sales and inventory year over year); commercial and multifamily cap rates, vacancy and average asking rents for the Fort Lauderdale, Palm Beach and Miami-Dade submarkets; the weekly Freddie Mac survey rate, the 15-year and jumbo pricing; and coastal insurance - approved rate filings, Citizens policy counts, reinsurance pricing and average premiums with wind.
+Open Market Intel: https://savingsre.com/market/?utm_source=agilecrm&utm_medium=email&utm_campaign=monthly&utm_content=market-intel
+
+TOP INVESTMENTS - twelve curated lists, refreshed weekly
+High-Yield Multifamily (8%+ cap screen, Florida, 5-25 units) | Coastal Multifamily (Gulf beaches, Atlantic beaches, Delray) | Starter Multifamily ($800K to $2M) | Multifamily up to $3M (weekly Top 3 by NOI cap rate) | Larger Investments (40+ units) | NNN Commercial | Strip Malls & Retail Centers | Medical Office | Commercial & Office | Airbnb / Short-Term Rental.
+Open Top Investments: https://savingsre.com/top3/?utm_source=agilecrm&utm_medium=email&utm_campaign=monthly&utm_content=top-investments
+
+HOW EVERY LIST IS RANKED
+Income properties are ranked by NOI cap rate - broker-reported net operating income divided by price - counted only when both expenses and NOI are actually reported. High-yield and larger lists are curated from commercial sources and screened to a published cap-rate floor, then cross-checked against reported NOI; implausible outliers are dropped. Luxury is ranked by lowest price per square foot. Short-term-rental picks use estimated gross yield from market ADR and occupancy, not host data - an estimate, and STR legality varies by city and HOA.
+Public lists are generic by design - area, type, a price band and a cap or yield band, with a reference number and no exact address. Reply with a Ref and I will send the address and the full financials.
+
+INSURANCE, ON BOTH SIDES OF A DEAL
+Insurance is now a line item buyers underwrite before they underwrite the building, and on income property it is the expense most likely to break a cap rate you thought you had. Florida coastal pricing has been easing off its peak - approved rate filings, Citizens depopulation and softer reinsurance are all tracked on the Market Intel page - which makes it worth re-shopping rather than renewing. Quotes are free and there is no obligation.
+Home insurance quote: https://alphageninsurance.com/personal-insurance-quote/?utm_source=agilecrm&utm_medium=email&utm_campaign=monthly&utm_content=insurance-home
+Rental / portfolio quote: https://alphageninsurance.com/commercial-insurance-quote/?utm_source=agilecrm&utm_medium=email&utm_campaign=monthly&utm_content=insurance-portfolio
+
+SELLING SOMETHING? LIST AT 1.5%
+Typical listing-side commission 3%. SavingsRE listing commission 1.5% - half the usual listing side, for the same full-service marketing, MLS and syndication exposure, pricing strategy and negotiation. On a million-dollar sale that difference is roughly fifteen thousand dollars staying with you. The buyer's-agent commission is negotiated separately.
+Free home valuation: https://docs.google.com/forms/d/e/1FAIpQLSeh2FPmzhbkINNoskp72ang1zJO7xa-sxqKiDekxMmQSZz5IA/viewform?utm_source=agilecrm&utm_medium=email&utm_campaign=monthly&utm_content=valuation
+Talk about listing at 1.5%: https://savingsre.com/contact/?utm_source=agilecrm&utm_medium=email&utm_campaign=monthly&utm_content=list-1-5
+
+PAGES WORTH KEEPING
+Move-in-ready homes: https://savingsre.com/move-in-ready.html?utm_source=agilecrm&utm_medium=email&utm_campaign=monthly&utm_content=move-in-ready
+55+ communities: https://savingsre.com/55-plus.html?utm_source=agilecrm&utm_medium=email&utm_campaign=monthly&utm_content=55-plus
+Luxury - ocean, golf & yachting: https://savingsre.com/luxury.html?utm_source=agilecrm&utm_medium=email&utm_campaign=monthly&utm_content=luxury
+All luxury listings: https://savingsre.com/luxury-listings.html?utm_source=agilecrm&utm_medium=email&utm_campaign=monthly&utm_content=luxury-listings
+Oceanfront & waterfront estates: https://savingsre.com/weekly/luxury-oceanfront.html?utm_source=agilecrm&utm_medium=email&utm_campaign=monthly&utm_content=oceanfront
+Investor & commercial hub: https://savingsre.com/investor-hub.html?utm_source=agilecrm&utm_medium=email&utm_campaign=monthly&utm_content=investor-hub
+
+Reply any time with a Ref number, an address, or a question about a market you are watching - it comes straight to me.
+
+Bill Seery, MBA - Realtor, SavingsRE / United Realty Group
+bill@savingsre.com - 917-805-4262 - 5550 Glades Road, Boca Raton, FL 33431
+
+Real estate brokerage services provided by William Spencer Seery Jr, PA through United Realty Group - FL Real Estate License #3333692, MLS ID 276537152. Insurance products are offered separately through AlphaGen Insurance Agency - FL Insurance License #G164863; insurance coverage is not real estate, mortgage, tax or financial advice and is subject to carrier underwriting, terms and eligibility. Equal Housing Opportunity.
+
+Cap rates and net operating income shown on the site are broker/third-party reported and not independently verified; price and cap bands are informational only and are not investment, tax, legal or financial advice. Short-term-rental yield figures are estimates, and short-term-rental legality varies by city and HOA. Commission rates are negotiable and are not set by law; the 1.5% figure is the seller's-side (listing) commission and any buyer's-agent commission is separate and negotiable.
+
+Listing and market data are deemed reliable but not guaranteed and are provided for general information only. Not intended to solicit property already listed with another broker.
+
+Buyer Representation Terms. By receiving, reviewing, or responding to any property listing, search result, or real estate communication from William Spencer Seery Jr, PA, you acknowledge that an exclusive buyer representation relationship exists and that the terms of the Exclusive Buyer Representation Agreement govern our work together. This agreement covers all properties sent to you by any means - including email, MLS portal, text, or phone - whether received before or after today. No signature is required. Continued engagement with listings constitutes acceptance of all terms, including a 3% buyer's broker commission (credited if paid by the seller), confidentiality obligations, and non-circumvention.
+
+You're receiving this because you subscribed to SavingsRE. {{{unsubscribe_link}}}
