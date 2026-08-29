@@ -1,5 +1,49 @@
 [
   {
+    "id": 102,
+    "date": "2026-08-27",
+    "title": "Mortgage Rates Edge Back Up to 6.66%; 15-Year at 5.98%, Jumbo Eases to ~6.71%",
+    "summary": "Freddie Mac's Aug. 27 Primary Mortgage Market Survey put the 30-year fixed at 6.66%, one basis point above the prior week and up from 6.56% a year ago, snapping a two-week slide. The 15-year averaged 5.98%, up from 5.95%. Chief economist Sam Khater cited resilient consumer spending and rising household incomes, with more listings and slower price growth giving buyers better options and creating a more balanced market. The 30-year jumbo average moved the other way, easing roughly eight basis points on the week to about 6.71%, narrowing the jumbo-to-conforming spread to about five basis points.",
+    "source": "Freddie Mac PMMS",
+    "sourceUrl": "https://www.freddiemac.com/pmms",
+    "category": "Market Data",
+    "tags": ["mortgage rates", "PMMS", "jumbo", "financing"],
+    "importance": "high"
+  },
+  {
+    "id": 101,
+    "date": "2026-08-27",
+    "title": "Fairfield Buys West Palm Beach's 812-Unit Portofino Place From Cortland for $208M at ~$256,200 Per Door",
+    "summary": "San Diego-based Fairfield Residential paid $208 million for the 812-unit Portofino Place Apartments at 4400 and 4600 Portofino Way in West Palm Beach, buying from Atlanta-based Cortland - about $256,200 per unit and the second-largest South Florida multifamily trade of the year. The 2003- and 2006-built complex spans 34 three-story buildings and two clubhouses on nearly 40 acres; Fairfield financed it with $93.1 million and $85 million Freddie Mac loans maturing in 2033. South Florida multifamily investment volume reached $2.5 billion in the first half, up 19.4% year over year per Avison Young, and in the 12 months through Q2 leasing (13,774 units) outpaced deliveries (12,751) for the first time in three years per CoStar - though average asking rents still slipped 1.3% year over year to $2,279 in July.",
+    "source": "The Real Deal",
+    "sourceUrl": "https://therealdeal.com/miami/2026/08/27/cortland-sells-sofla-rentals-to-fairfield-for-208-million/",
+    "category": "Multifamily",
+    "tags": ["West Palm Beach", "apartments", "Fairfield", "Cortland", "investment sales"],
+    "importance": "high"
+  },
+  {
+    "id": 100,
+    "date": "2026-08-28",
+    "title": "Midtown Capital Pays $86M for 14-Building Doral Industrial Portfolio at $296 PSF; Mana Wynwood Sale to Ken Griffin Reported at $700M-Plus",
+    "summary": "Midtown Capital Partners acquired a 300,000-square-foot, 14-property small-bay industrial portfolio along Northwest 54th and 56th Streets and Northwest 79th and 82nd Avenues in Doral for $86 million - roughly $296 per square foot and a near-record for Miami-Dade - from 13 separate sellers tied to the Waas family, who developed and managed the buildings for decades. Miami industrial posted 402,000 square feet of positive net absorption in the second quarter, pulling vacancy to 6.9% with rents near record highs, per Avison Young. Separately, The Real Deal reports that Moishe Mana's 30-acre Mana Wynwood campus is being sold to billionaire Ken Griffin at a rumored $700 million to more than $1 billion, which would set a South Florida record for a development assemblage; neither party has confirmed the deal, and both denied it earlier this year.",
+    "source": "The Real Deal",
+    "sourceUrl": "https://therealdeal.com/miami/2026/08/28/midtown-capital-drops-86-million-in-doral-industrial-market/",
+    "category": "Commercial/CRE",
+    "tags": ["Doral", "industrial", "small-bay", "Wynwood", "Miami-Dade"],
+    "importance": "high"
+  },
+  {
+    "id": 99,
+    "date": "2026-08-27",
+    "title": "Lost Tree Village Waterfront Teardown Trades for $27.5M - More Than $4,000 Per Foot in North Palm Beach",
+    "summary": "The estate of the late Penn Corporation founder Dana Hamel sold 11800 Turtle Beach Road in North Palm Beach for $27.5 million, over $4,000 per square foot on a 6,800-square-foot home built in 1992. The property listed in April at $35 million; Hamel had paid $2.5 million for it in 1991. The buyer, shielded behind 11800 Turtle Beach Rd LLC, plans to tear down and rebuild on the roughly one-acre lot with 128 feet of water frontage. James Kenny and Paul Kaneb of K2 Realty had the listing and represented both sides. Lost Tree Village, a 450-acre community with a private oceanfront and golf course, set its record at $55 million last year.",
+    "source": "The Real Deal",
+    "sourceUrl": "https://therealdeal.com/miami/2026/08/27/north-palm-beach-waterfront-teardown-sells-for-28-million/",
+    "category": "Luxury",
+    "tags": ["North Palm Beach", "Lost Tree Village", "waterfront", "teardown", "luxury sales"],
+    "importance": "high"
+  },
+  {
     "id": 98,
     "date": "2026-08-26",
     "title": "Amendment 3 Would Lift Florida's Homestead Exemption to $250K and Cut $11.86B a Year From Local Tax Rolls",
@@ -129,50 +173,6 @@
     "sourceUrl": "https://therealdeal.com/miami/2026/08/20/south-florida-top-real-estate-deals-aug-18-2026-2/",
     "category": "Luxury",
     "tags": ["Miami Beach", "North Bay Road", "teardown lot", "West Palm Beach", "Lighthouse Point", "top deals"],
-    "importance": "high"
-  },
-  {
-    "id": 86,
-    "date": "2026-08-20",
-    "title": "Kolter and Carlyle's 336-Unit One Alton Biscayne Tops Permits; Neumann's Flow and Huizenga File Demolitions",
-    "summary": "For permits issued August 12-19, the largest was One Alton Biscayne, a 12-story, 336-unit apartment building at 11240 Biscayne Boulevard near North Miami from Kolter Multifamily, the Carlyle Group and Altman. The partners bought the site last year for $15 million and secured an $86.1 million construction loan from PNC Bank. On the demolition side, Huizenga Holdings - led by H. Wayne Huizenga Jr. - pulled seven permits across a West Palm Beach residential assemblage, Crescent Heights cleared the way for phase two of its 42-story Forma Suites tower in Miami's Edgewater, and Adam Neumann's Flow filed to demolish structures on the 16-acre former trailer park at 8500 Biscayne Boulevard it bought at a court-ordered auction for $70.5 million.",
-    "source": "The Real Deal",
-    "sourceUrl": "https://therealdeal.com/miami/2026/08/20/adam-neumann-huizenga-secure-permits-in-south-florida/",
-    "category": "Development",
-    "tags": ["permits", "North Miami", "multifamily", "West Palm Beach", "Edgewater", "Adam Neumann"],
-    "importance": "medium"
-  },
-  {
-    "id": 85,
-    "date": "2026-08-18",
-    "title": "Palm Beach's 206 Phipps Plaza, a 1920s John Volk Design, Sells for $27.5M",
-    "summary": "A company managed by Thomas J. Morrison sold the 6,900 SF house at 206 Phipps Plaza in Palm Beach to a trust for $27.5 million - the week's top recorded South Florida home sale. The seven-bedroom, nine-and-a-half-bath residence dates to the 1920s and once belonged to Palm Beach society architect John Volk; Jim McCann of Premier Estate Properties had the listing and Christopher Leavitt of Douglas Elliman represented the buyer. Also recorded that day: a 5,100 SF oceanfront home at 3567 South Ocean Boulevard in Highland Beach for $12.8 million - medical-technology executive Alexis Lukianov and his wife Katherine sold to Jonathan and Chemai Jura after first asking $15.9 million in October - plus a 5,000 SF villa at the Oceana Key Biscayne, 111 Reef Lane, for $10.9 million and a Miami Beach waterfront house at 5000 North Bay Road for $9.3 million.",
-    "source": "The Real Deal",
-    "sourceUrl": "https://therealdeal.com/miami/2026/08/19/south-florida-top-real-estate-deals-aug-18-2026/",
-    "category": "Luxury",
-    "tags": ["Palm Beach", "John Volk", "Highland Beach", "Key Biscayne", "Miami Beach", "top deals"],
-    "importance": "high"
-  },
-  {
-    "id": 84,
-    "date": "2026-08-18",
-    "title": "U.S. Home-Sale Cancellations Hit Highest Level Since 2023; 14% of July Deals Fell Through",
-    "summary": "Buyers backed out of just over 14 percent of pending U.S. home sales in July, the highest share since June 2023, according to Redfin data. More than 47,000 contracts were canceled nationwide during the month, a 4.8 percent year-over-year increase, though the cancellation share ran only 0.7 percentage points above July 2025. Southern markets, Florida among them, are posting the highest fall-through rates. The practical read for sellers: a signed contract is a weaker signal than it was two years ago - buyer diligence, insurance quotes and appraisal gaps are all live risks - so pricing to a realistic close rather than a headline list price matters more than it did in the 2021-22 market.",
-    "source": "The Real Deal / Redfin",
-    "sourceUrl": "https://therealdeal.com/miami/2026/08/19/south-florida-top-real-estate-deals-aug-18-2026/",
-    "category": "Market Data",
-    "tags": ["cancellations", "Redfin", "pending sales", "contract fall-through", "buyer leverage"],
-    "importance": "medium"
-  },
-  {
-    "id": 83,
-    "date": "2026-08-17",
-    "title": "Bay Harbor Islands Waterfront Home Sells for $20M, Up from $12M in 2021",
-    "summary": "Venture capitalist Fued Sadala and his wife Silvana sold their 5,900 SF waterfront home at 9814 West Broadview Drive in Bay Harbor Islands for $20 million - the week's top recorded South Florida home sale - to Jack Tabacinic, a managing director at Loom Capital Management, and Andrea Blau Russ. The 2002-built, five-bedroom house had been listed earlier in August at $22 million; the Sadalas paid $12 million for it in 2021, a roughly 67 percent gain in five years. Joel Lusky and Shneur Shapira of The Brokerage South Florida Real Estate represented both sides. Also recorded: a waterfront home at 4216 Intracoastal Drive in Highland Beach for $9.5 million, sold by hedge-fund manager Leonard Zelin and Moira Zelin to Antonio and Dolores Seabra, and a newly built home at 256 Alhambra Place in West Palm Beach for $7.5 million.",
-    "source": "The Real Deal",
-    "sourceUrl": "https://therealdeal.com/miami/2026/08/18/south-florida-top-real-estate-deals-aug-17-2026/",
-    "category": "Luxury",
-    "tags": ["Bay Harbor Islands", "waterfront", "Highland Beach", "West Palm Beach", "top deals"],
     "importance": "high"
   }
 ]
