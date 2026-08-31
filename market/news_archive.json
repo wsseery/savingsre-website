@@ -1,11 +1,59 @@
 {
   "meta": {
     "created": "2026-07-06",
-    "updated": "2026-08-29",
+    "updated": "2026-08-31",
     "note": "Archive of items rotated off the live market/news_data.json 16-item list. Weekly refresh APPENDS dropped items here (newest first) - never delete. Same item schema as news_data.json. Not rendered on the site; kept for content reuse, history, and a future archive/search section.",
-    "count": 80
+    "count": 84
   },
   "items": [
+    {
+      "id": 90,
+      "date": "2026-08-20",
+      "title": "Miami Beach Double-Lot Mansion Trades for $51.5M; Al Capone's Former Palm Island Lot Fetches $21M",
+      "summary": "A trust paid $51.5 million for the newly built waterfront mansion at 270 South Hibiscus Drive in Miami Beach, off a $55 million ask. The seller was an entity managed by broker Denis Smykalov; the 10,500-square-foot, seven-bedroom house sits on a double lot. Jordan Karp had the listing and Dora Puig of Luxe Living Realty represented the buyer. Separately, the 30,000-square-foot waterfront lot at 93 Palm Avenue that once held Al Capone's mansion sold for $21 million to an LLC tied to Russian businessman Ilya Karpov, up from $15.5 million in 2021.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/08/21/south-florida-top-real-estate-deals-aug-20-2026/",
+      "category": "Luxury",
+      "tags": ["Miami Beach", "waterfront", "teardown lot", "top deals"],
+      "importance": "high",
+      "archivedOn": "2026-08-31"
+    },
+    {
+      "id": 89,
+      "date": "2026-08-20",
+      "title": "Brickell Development Site Sells for $50M for Planned 60-Story Tower; SW Miami-Dade Industrial Trades at $24.5M",
+      "summary": "Prosper Group and Versluys Group paid $50 million for a Brickell assemblage - two commercial buildings totaling 16,800 square feet at 625 SW First Avenue and 66 SW Sixth Street plus a 74,400-square-foot vacant lot at 99 SW Seventh Street - from Two Roads Development and Newgard Development Group. The buyers are planning a 60-story residential tower on the site. In southwest Miami-Dade, a 155,000-square-foot two-story industrial building and parking lot at 11900-11905 SW 128th Street changed hands for $24.5 million.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/08/21/south-florida-top-real-estate-deals-aug-20-2026/",
+      "category": "Commercial/CRE",
+      "tags": ["Brickell", "development site", "industrial", "Miami-Dade"],
+      "importance": "high",
+      "archivedOn": "2026-08-31"
+    },
+    {
+      "id": 88,
+      "date": "2026-08-20",
+      "title": "Mortgage Rates Fall a Second Straight Week to 6.65%; 15-Year Dips to 5.95%",
+      "summary": "Freddie Mac's Primary Mortgage Market Survey put the 30-year fixed at 6.65% for the week ending August 20, down from 6.67% and the second consecutive weekly decline. The 15-year fixed eased to 5.95% from 5.96%. Both sit modestly above year-ago levels of 6.58% and 5.69%. Jumbo 30-year pricing averaged roughly 6.78%, down from about 6.84% in mid-August - the more relevant benchmark for most South Florida coastal and luxury purchases, where loan sizes clear the $832,750 conforming ceiling.",
+      "source": "Freddie Mac PMMS",
+      "sourceUrl": "https://www.freddiemac.com/pmms",
+      "category": "Market Data",
+      "tags": ["mortgage rates", "Freddie Mac", "jumbo", "financing"],
+      "importance": "high",
+      "archivedOn": "2026-08-31"
+    },
+    {
+      "id": 87,
+      "date": "2026-08-19",
+      "title": "Russian Businessman Sells Miami Beach's 2740 North Bay Road Lot for $72M, More Than Triple His 2022 Price",
+      "summary": "Ilyha Karpov sold the vacant 0.6-acre waterfront lot at 2740 North Bay Road in Miami Beach to a trust for $72 million - the week's priciest recorded South Florida residential deal. Karpov had paid $20.8 million for the site in 2022, buying from Delphine Dray, owner of Miami Beach's National Hotel. The top commercial trade was in Miami Beach as well: an affiliate of Coral Gables-based Capital Realty Services sold the 31,000 SF two-story mixed-use building at 1200 Washington Avenue for $10 million, or about $323 per square foot, to an entity managed by investor Ryan Manoocheri; the property last traded for $2.8 million more than two decades ago. Also recorded: the estate of Rudolf Silk sold a 42,000 SF West Palm Beach industrial property at 2658-2660 Electronics Way for $7.8 million, and John Thomas Hayes paid $6.2 million for a 2022-built waterfront home at 3701 Northeast 26th Avenue in Lighthouse Point.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/08/20/south-florida-top-real-estate-deals-aug-18-2026-2/",
+      "category": "Luxury",
+      "tags": ["Miami Beach", "North Bay Road", "teardown lot", "West Palm Beach", "Lighthouse Point", "top deals"],
+      "importance": "high",
+      "archivedOn": "2026-08-31"
+    },
     {
       "id": 86,
       "date": "2026-08-20",
