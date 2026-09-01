@@ -1,0 +1,176 @@
+{
+ "segment": "starter-mf-corridor",
+ "collection": "curated",
+ "template": "curated-generic",
+ "label": "Starter Multifamily — $800K to $2M",
+ "tagline": "Delray Beach to Fort Lauderdale corridor · 2–9 units · built for smaller & first-time investors · ranked by price per unit",
+ "search_name": "Crexi (FL pull)",
+ "generated": "2026-09-01",
+ "pdf": "pdf/starter-mf-corridor__2026-09-01.pdf",
+ "expires": "2026-10-01",
+ "total_results": 8,
+ "metric_label": "Price per unit",
+ "methodology": "Crexi Delray Beach-to-Fort Lauderdale corridor pull 2026-09-01 via the Crexi asset API. Existing 2-9 unit product priced $800K-$2M, ranked by LOWEST price per unit; built for smaller and first-time investors.",
+ "items": [
+  {
+   "id": "starter-mf-corridor-2026-09-01-01",
+   "analytics_id": "A-01040",
+   "rank": 1,
+   "submarket": "Fort Lauderdale",
+   "profile": "8-Unit Multifamily",
+   "price_band": "$1M-$1.5M",
+   "cap_label": "~$155K/unit",
+   "desc": "8-Unit Multifamily in Fort Lauderdale; ~$155K/unit, 8 units. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 8-Unit Multifamily, Fort Lauderdale (~$155K/unit)",
+   "highlights": [
+    "built 1960s",
+    "Opportunity Zone",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "Opportunity Zone",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "starter-mf-corridor-2026-09-01-02",
+   "analytics_id": "A-01041",
+   "rank": 2,
+   "submarket": "Pompano Beach",
+   "profile": "8-Unit Multifamily",
+   "price_band": "$1M-$1.5M",
+   "cap_label": "~$175K/unit",
+   "desc": "8-Unit Multifamily in Pompano Beach; ~$175K/unit, 8 units, ~3.2K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 8-Unit Multifamily, Pompano Beach (~$175K/unit)",
+   "highlights": [
+    "Investor: Levered spread thin at ~7% debt (rate-sensitive)",
+    "~22-23x GRM",
+    "~3.2K sq ft",
+    "built 1950s"
+   ],
+   "inv_line": [
+    "Levered spread thin at ~7% debt (rate-sensitive)",
+    "Value-add business plan",
+    "~100% occupied"
+   ]
+  },
+  {
+   "id": "starter-mf-corridor-2026-09-01-03",
+   "analytics_id": "A-01042",
+   "rank": 3,
+   "submarket": "Fort Lauderdale",
+   "profile": "6-Unit Multifamily",
+   "price_band": "$1M-$1.5M",
+   "cap_label": "~$200K/unit",
+   "desc": "6-Unit Multifamily in Fort Lauderdale; ~$200K/unit, 6 units, ~6.5K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 6-Unit Multifamily, Fort Lauderdale (~$200K/unit)",
+   "highlights": [
+    "~6.5K sq ft",
+    "built 1960s",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "starter-mf-corridor-2026-09-01-04",
+   "analytics_id": "A-01043",
+   "rank": 4,
+   "submarket": "Fort Lauderdale",
+   "profile": "5-Unit Multifamily",
+   "price_band": "$500K-$1M",
+   "cap_label": "~$200K/unit",
+   "desc": "5-Unit Multifamily in Fort Lauderdale; ~$200K/unit, 5 units. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 5-Unit Multifamily, Fort Lauderdale (~$200K/unit)",
+   "highlights": [
+    "built 1970s",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "starter-mf-corridor-2026-09-01-05",
+   "analytics_id": "A-01044",
+   "rank": 5,
+   "submarket": "Fort Lauderdale",
+   "profile": "4-Unit Multifamily",
+   "price_band": "$500K-$1M",
+   "cap_label": "~$205K/unit",
+   "desc": "4-Unit Multifamily in Fort Lauderdale; ~$205K/unit, 4 units, ~2.2K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 4-Unit Multifamily, Fort Lauderdale (~$205K/unit)",
+   "highlights": [
+    "~2.2K sq ft",
+    "built 1970s",
+    "Opportunity Zone",
+    "30-90 days on market"
+   ],
+   "inv_line": [
+    "Opportunity Zone",
+    "30-90 days on market"
+   ]
+  },
+  {
+   "id": "starter-mf-corridor-2026-09-01-06",
+   "analytics_id": "A-01045",
+   "rank": 6,
+   "submarket": "Deerfield Beach",
+   "profile": "4-Unit Multifamily",
+   "price_band": "$500K-$1M",
+   "cap_label": "~$205K/unit",
+   "desc": "4-Unit Multifamily in Deerfield Beach; ~$205K/unit, 4 units, ~2.4K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 4-Unit Multifamily, Deerfield Beach (~$205K/unit)",
+   "highlights": [
+    "~2.4K sq ft",
+    "built 1960s",
+    "30-90 days on market"
+   ],
+   "inv_line": [
+    "30-90 days on market"
+   ]
+  },
+  {
+   "id": "starter-mf-corridor-2026-09-01-07",
+   "analytics_id": "A-01046",
+   "rank": 7,
+   "submarket": "Fort Lauderdale",
+   "profile": "4-Unit Multifamily",
+   "price_band": "$500K-$1M",
+   "cap_label": "~$205K/unit",
+   "desc": "4-Unit Multifamily in Fort Lauderdale; ~$205K/unit, 4 units, ~2.3K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 4-Unit Multifamily, Fort Lauderdale (~$205K/unit)",
+   "highlights": [
+    "Investor: Levered spread thin at ~7% debt (rate-sensitive)",
+    "~2.3K sq ft",
+    "built 1970s",
+    "recently listed"
+   ],
+   "inv_line": [
+    "Levered spread thin at ~7% debt (rate-sensitive)",
+    "recently listed"
+   ]
+  },
+  {
+   "id": "starter-mf-corridor-2026-09-01-08",
+   "analytics_id": "A-01047",
+   "rank": 8,
+   "submarket": "Pompano Beach",
+   "profile": "5-Unit Multifamily",
+   "price_band": "$1M-$1.5M",
+   "cap_label": "~$210K/unit",
+   "desc": "5-Unit Multifamily in Pompano Beach; ~$210K/unit, 5 units. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 5-Unit Multifamily, Pompano Beach (~$210K/unit)",
+   "highlights": [
+    "built 1980s",
+    "Opportunity Zone",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "Opportunity Zone",
+    "180+ days on market"
+   ]
+  }
+ ]
+}

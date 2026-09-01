@@ -1,0 +1,79 @@
+{
+ "segment": "mf-upto3m-east",
+ "collection": "weekly-top3",
+ "template": "mls-financial",
+ "label": "Multifamily — Up to $3M",
+ "tagline": "Income Properties · 2–4 Units up to $3M · East Palm Beach & Broward",
+ "search_name": "WSS-MF-upto3mmeast",
+ "generated": "2026-09-01",
+ "pdf": "pdf/mf-upto3m-east__2026-09-01.pdf",
+ "expires": "2026-10-01",
+ "total_results": 14,
+ "metric_label": "Cap rate",
+ "methodology": "Live Beaches MLS pull 2026-09-01 (WSS-MF-upto3mmeast). Cap rate computed from the listing's own reported ANNUAL TOTAL EXPENSE and NET OPERATING INCOME; only listings reporting both expense>0 and NOI>0 are eligible. NOI is broker-reported and unverified.",
+ "items": [
+  {
+   "id": "mf-upto3m-east-2026-09-01-01",
+   "analytics_id": "A-01098",
+   "rank": 1,
+   "submarket": "West Palm Beach",
+   "profile": "3-Unit Multifamily",
+   "price_band": "$500K-$1M",
+   "cap_label": "~8.97% cap",
+   "desc": "3-Unit Multifamily in West Palm Beach; ~8.97% cap on broker-reported NOI, 3 units. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 3-Unit Multifamily, West Palm Beach (~8.97% cap)",
+   "highlights": [
+    "Investor: ~14-16% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~9-10x GRM",
+    "~2.7K sq ft",
+    "built 1920s"
+   ],
+   "inv_line": [
+    "~14-16% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~9-10x GRM"
+   ]
+  },
+  {
+   "id": "mf-upto3m-east-2026-09-01-02",
+   "analytics_id": "A-01099",
+   "rank": 2,
+   "submarket": "West Palm Beach",
+   "profile": "4-Unit Multifamily",
+   "price_band": "$500K-$1M",
+   "cap_label": "~8.53% cap",
+   "desc": "4-Unit Multifamily in West Palm Beach; ~8.53% cap on broker-reported NOI, 4 units. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 4-Unit Multifamily, West Palm Beach (~8.53% cap)",
+   "highlights": [
+    "Investor: ~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~9-10x GRM",
+    "~2.2K sq ft",
+    "built 1930s"
+   ],
+   "inv_line": [
+    "~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~9-10x GRM"
+   ]
+  },
+  {
+   "id": "mf-upto3m-east-2026-09-01-03",
+   "analytics_id": "A-01100",
+   "rank": 3,
+   "submarket": "Lake Worth Beach",
+   "profile": "4-Unit Multifamily",
+   "price_band": "$500K-$1M",
+   "cap_label": "~7.23% cap",
+   "desc": "4-Unit Multifamily in Lake Worth Beach; ~7.23% cap on broker-reported NOI, 4 units. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 4-Unit Multifamily, Lake Worth Beach (~7.23% cap)",
+   "highlights": [
+    "Investor: ~7-9% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~10-11x GRM",
+    "~1.6K sq ft",
+    "built 1940s"
+   ],
+   "inv_line": [
+    "~7-9% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~10-11x GRM"
+   ]
+  }
+ ]
+}

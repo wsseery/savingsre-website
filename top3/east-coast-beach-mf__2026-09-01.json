@@ -1,0 +1,236 @@
+{
+ "segment": "east-coast-beach-mf",
+ "collection": "curated",
+ "template": "curated-generic",
+ "label": "Coastal Multifamily — Atlantic Beaches",
+ "tagline": "Top 10 · Fort Lauderdale to Boynton Beach · coastal income multifamily · ranked by cap rate where published, else scale",
+ "search_name": "Crexi (FL pull)",
+ "generated": "2026-09-01",
+ "pdf": "pdf/east-coast-beach-mf__2026-09-01.pdf",
+ "expires": "2026-10-01",
+ "total_results": 10,
+ "metric_label": "Cap rate",
+ "methodology": "Crexi Fort Lauderdale-to-Boynton Beach corridor pull 2026-09-01 via the Crexi asset API. Coastal income multifamily, 2-99 units, $1M-$5M preferred, ranked by published cap rate then scale.",
+ "items": [
+  {
+   "id": "east-coast-beach-mf-2026-09-01-01",
+   "analytics_id": "A-01013",
+   "rank": 1,
+   "submarket": "Fort Lauderdale",
+   "profile": "9-Unit Multifamily",
+   "price_band": "$2M-$2.5M",
+   "cap_label": "~9.38% cap",
+   "desc": "9-Unit Multifamily in Fort Lauderdale; ~9.38% cap, 9 units, ~3.8K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 9-Unit Multifamily, Fort Lauderdale (~9.38% cap)",
+   "highlights": [
+    "Investor: ~16-18% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~7-8x GRM",
+    "~3.8K sq ft",
+    "built 1960s"
+   ],
+   "inv_line": [
+    "~16-18% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Price reduced",
+    "Value-add business plan"
+   ]
+  },
+  {
+   "id": "east-coast-beach-mf-2026-09-01-02",
+   "analytics_id": "A-01015",
+   "rank": 2,
+   "submarket": "Fort Lauderdale",
+   "profile": "6-Unit Multifamily",
+   "price_band": "$1.5M-$2M",
+   "cap_label": "~8.58% cap",
+   "desc": "6-Unit Multifamily in Fort Lauderdale; ~8.58% cap, 6 units, ~2.8K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 6-Unit Multifamily, Fort Lauderdale (~8.58% cap)",
+   "highlights": [
+    "Investor: ~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~8-9x GRM",
+    "~2.8K sq ft",
+    "built 1960s"
+   ],
+   "inv_line": [
+    "~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Price reduced",
+    "Value-add business plan"
+   ]
+  },
+  {
+   "id": "east-coast-beach-mf-2026-09-01-03",
+   "analytics_id": "A-01027",
+   "rank": 3,
+   "submarket": "Fort Lauderdale",
+   "profile": "13-Unit Multifamily",
+   "price_band": "$2.5M-$3M",
+   "cap_label": "~7.11% cap",
+   "desc": "13-Unit Multifamily in Fort Lauderdale; ~7.11% cap, 13 units, ~6.0K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 13-Unit Multifamily, Fort Lauderdale (~7.11% cap)",
+   "highlights": [
+    "Investor: ~6-8% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~9-10x GRM",
+    "~6.0K sq ft",
+    "built 1990s"
+   ],
+   "inv_line": [
+    "~6-8% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Value-add business plan",
+    "30-90 days on market"
+   ]
+  },
+  {
+   "id": "east-coast-beach-mf-2026-09-01-04",
+   "analytics_id": "A-01028",
+   "rank": 4,
+   "submarket": "Fort Lauderdale",
+   "profile": "16-Unit Multifamily",
+   "price_band": "$2.5M-$3M",
+   "cap_label": "~7.01% cap",
+   "desc": "16-Unit Multifamily in Fort Lauderdale; ~7.01% cap, 16 units, ~8.6K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 16-Unit Multifamily, Fort Lauderdale (~7.01% cap)",
+   "highlights": [
+    "Investor: ~6-8% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~9-10x GRM",
+    "~8.6K sq ft",
+    "built 1950s"
+   ],
+   "inv_line": [
+    "~6-8% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Opportunity Zone",
+    "~100% occupied"
+   ]
+  },
+  {
+   "id": "east-coast-beach-mf-2026-09-01-05",
+   "analytics_id": "A-01029",
+   "rank": 5,
+   "submarket": "Fort Lauderdale",
+   "profile": "8-Unit Multifamily",
+   "price_band": "$2.5M-$3M",
+   "cap_label": "~6.69% cap",
+   "desc": "8-Unit Multifamily in Fort Lauderdale; ~6.69% cap, 8 units, ~9.7K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 8-Unit Multifamily, Fort Lauderdale (~6.69% cap)",
+   "highlights": [
+    "Investor: ~5-7% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~10-11x GRM",
+    "~9.7K sq ft",
+    "built 1970s"
+   ],
+   "inv_line": [
+    "~5-7% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Value-add business plan",
+    "recently listed"
+   ]
+  },
+  {
+   "id": "east-coast-beach-mf-2026-09-01-06",
+   "analytics_id": "A-01030",
+   "rank": 6,
+   "submarket": "Fort Lauderdale",
+   "profile": "16-Unit Multifamily",
+   "price_band": "$3M-$4M",
+   "cap_label": "~6.57% cap",
+   "desc": "16-Unit Multifamily in Fort Lauderdale; ~6.57% cap, 16 units. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 16-Unit Multifamily, Fort Lauderdale (~6.57% cap)",
+   "highlights": [
+    "Investor: ~4-6% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~10-11x GRM",
+    "Opportunity Zone",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "~4-6% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Opportunity Zone",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "east-coast-beach-mf-2026-09-01-07",
+   "analytics_id": "A-01031",
+   "rank": 7,
+   "submarket": "Fort Lauderdale",
+   "profile": "6-Unit Multifamily",
+   "price_band": "$1M-$1.5M",
+   "cap_label": "~6.44% cap",
+   "desc": "6-Unit Multifamily in Fort Lauderdale; ~6.44% cap, 6 units, ~4.9K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 6-Unit Multifamily, Fort Lauderdale (~6.44% cap)",
+   "highlights": [
+    "Investor: ~4-6% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~10-11x GRM",
+    "~4.9K sq ft",
+    "built 1950s"
+   ],
+   "inv_line": [
+    "~4-6% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~100% occupied",
+    "90+ days on market"
+   ]
+  },
+  {
+   "id": "east-coast-beach-mf-2026-09-01-08",
+   "analytics_id": "A-01032",
+   "rank": 8,
+   "submarket": "Pompano Beach",
+   "profile": "8-Unit Multifamily",
+   "price_band": "$1.5M-$2M",
+   "cap_label": "~6.43% cap",
+   "desc": "8-Unit Multifamily in Pompano Beach; ~6.43% cap, 8 units. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 8-Unit Multifamily, Pompano Beach (~6.43% cap)",
+   "highlights": [
+    "Investor: ~4-6% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~10-11x GRM",
+    "built 1950s",
+    "~100% occupied"
+   ],
+   "inv_line": [
+    "~4-6% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~100% occupied",
+    "90+ days on market"
+   ]
+  },
+  {
+   "id": "east-coast-beach-mf-2026-09-01-09",
+   "analytics_id": "A-01033",
+   "rank": 9,
+   "submarket": "Pompano Beach",
+   "profile": "10-Unit Multifamily",
+   "price_band": "$2.5M-$3M",
+   "cap_label": "~6.25% cap",
+   "desc": "10-Unit Multifamily in Pompano Beach; ~6.25% cap, 10 units, ~8.4K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 10-Unit Multifamily, Pompano Beach (~6.25% cap)",
+   "highlights": [
+    "Investor: ~3-5% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~8.4K sq ft",
+    "built 1970s",
+    "Opportunity Zone"
+   ],
+   "inv_line": [
+    "~3-5% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Opportunity Zone",
+    "Value-add business plan"
+   ]
+  },
+  {
+   "id": "east-coast-beach-mf-2026-09-01-10",
+   "analytics_id": "A-01034",
+   "rank": 10,
+   "submarket": "Fort Lauderdale",
+   "profile": "10-Unit Multifamily",
+   "price_band": "$2M-$2.5M",
+   "cap_label": "~5.88% cap",
+   "desc": "10-Unit Multifamily in Fort Lauderdale; ~5.88% cap, 10 units, ~6.9K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 10-Unit Multifamily, Fort Lauderdale (~5.88% cap)",
+   "highlights": [
+    "Investor: ~2-4% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~12-13x GRM",
+    "~6.9K sq ft",
+    "built 1960s"
+   ],
+   "inv_line": [
+    "~2-4% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Opportunity Zone",
+    "Value-add business plan"
+   ]
+  }
+ ]
+}

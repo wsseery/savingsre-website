@@ -1,0 +1,236 @@
+{
+ "segment": "commercial-fl",
+ "collection": "curated",
+ "template": "curated-generic",
+ "label": "Commercial & Office — Florida",
+ "tagline": "Top general commercial, office & mixed-use deals statewide · ranked by cap rate",
+ "search_name": "Crexi (FL pull)",
+ "generated": "2026-09-01",
+ "pdf": "pdf/commercial-fl__2026-09-01.pdf",
+ "expires": "2026-10-01",
+ "total_results": 10,
+ "metric_label": "Cap rate",
+ "methodology": "Crexi Florida office pull 2026-09-01 via the Crexi asset API, general office, flex and mixed-use of 3,000+ sq ft, ranked by published cap rate; caps cross-checked against published NOI.",
+ "items": [
+  {
+   "id": "commercial-fl-2026-09-01-01",
+   "analytics_id": "A-01088",
+   "rank": 1,
+   "submarket": "Altamonte Springs",
+   "profile": "Office Building",
+   "price_band": "$15M-$16M",
+   "cap_label": "~11.00% cap",
+   "desc": "Office Building in Altamonte Springs; ~11.00% cap, ~98K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Office Building, Altamonte Springs (~11.00% cap)",
+   "highlights": [
+    "Investor: ~22-24% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~98K sq ft",
+    "~100% occupied",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "~22-24% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~100% occupied",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "commercial-fl-2026-09-01-02",
+   "analytics_id": "A-01089",
+   "rank": 2,
+   "submarket": "Maitland",
+   "profile": "Office Building",
+   "price_band": "$5M-$6M",
+   "cap_label": "~10.95% cap",
+   "desc": "Office Building in Maitland; ~10.95% cap, ~43K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Office Building, Maitland (~10.95% cap)",
+   "highlights": [
+    "Investor: ~22-24% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~43K sq ft",
+    "built 1980s",
+    "Value-add business plan"
+   ],
+   "inv_line": [
+    "~22-24% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Value-add business plan",
+    "~70% occupied"
+   ]
+  },
+  {
+   "id": "commercial-fl-2026-09-01-03",
+   "analytics_id": "A-01090",
+   "rank": 3,
+   "submarket": "Fort Myers",
+   "profile": "Office Building",
+   "price_band": "$1.5M-$2M",
+   "cap_label": "~10.22% cap",
+   "desc": "Office Building in Fort Myers; ~10.22% cap, ~7.0K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Office Building, Fort Myers (~10.22% cap)",
+   "highlights": [
+    "Investor: ~19-21% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~7.0K sq ft",
+    "built 1910s",
+    "Value-add business plan"
+   ],
+   "inv_line": [
+    "~19-21% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Value-add business plan",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "commercial-fl-2026-09-01-04",
+   "analytics_id": "A-01091",
+   "rank": 4,
+   "submarket": "Chiefland",
+   "profile": "Office Building",
+   "price_band": "Under $500K",
+   "cap_label": "~10.00% cap",
+   "desc": "Office Building in Chiefland; ~10.00% cap, 3 units, ~4.4K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Office Building, Chiefland (~10.00% cap)",
+   "highlights": [
+    "Investor: ~18-20% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~4.4K sq ft",
+    "built 1970s",
+    "~100% occupied"
+   ],
+   "inv_line": [
+    "~18-20% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~100% occupied",
+    "NNN lease structure"
+   ]
+  },
+  {
+   "id": "commercial-fl-2026-09-01-05",
+   "analytics_id": "A-01092",
+   "rank": 5,
+   "submarket": "Fort Myers",
+   "profile": "Industrial/Flex Building",
+   "price_band": "$10M-$11M",
+   "cap_label": "~9.25% cap",
+   "desc": "Industrial/Flex Building in Fort Myers; ~9.25% cap, ~38K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Industrial/Flex Building, Fort Myers (~9.25% cap)",
+   "highlights": [
+    "Investor: ~15-17% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~38K sq ft",
+    "built 2000s",
+    "~100% occupied"
+   ],
+   "inv_line": [
+    "~15-17% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~100% occupied",
+    "~5-7 yr term remaining"
+   ]
+  },
+  {
+   "id": "commercial-fl-2026-09-01-06",
+   "analytics_id": "A-01093",
+   "rank": 6,
+   "submarket": "Orlando",
+   "profile": "Flex/Office",
+   "price_band": "$4M-$5M",
+   "cap_label": "~8.70% cap",
+   "desc": "Flex/Office in Orlando; ~8.70% cap, ~20K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Flex/Office, Orlando (~8.70% cap)",
+   "highlights": [
+    "Investor: ~13-15% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~20K sq ft",
+    "built 2000s",
+    "~100% occupied"
+   ],
+   "inv_line": [
+    "~13-15% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~100% occupied",
+    "90+ days on market"
+   ]
+  },
+  {
+   "id": "commercial-fl-2026-09-01-07",
+   "analytics_id": "A-01094",
+   "rank": 7,
+   "submarket": "Temple Terrace",
+   "profile": "Office Building",
+   "price_band": "$5M-$6M",
+   "cap_label": "~8.50% cap",
+   "desc": "Office Building in Temple Terrace; ~8.50% cap, ~17K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Office Building, Temple Terrace (~8.50% cap)",
+   "highlights": [
+    "Investor: ~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~17K sq ft",
+    "built 2000s",
+    "~100% occupied"
+   ],
+   "inv_line": [
+    "~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~100% occupied",
+    "NNN lease structure"
+   ]
+  },
+  {
+   "id": "commercial-fl-2026-09-01-08",
+   "analytics_id": "A-01095",
+   "rank": 8,
+   "submarket": "Casselberry",
+   "profile": "Retail Center Building",
+   "price_band": "$8M-$9M",
+   "cap_label": "~8.50% cap",
+   "desc": "Retail Center Building in Casselberry; ~8.50% cap, 105 units, ~71K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Retail Center Building, Casselberry (~8.50% cap)",
+   "highlights": [
+    "Investor: ~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~71K sq ft",
+    "built 1980s",
+    "~90% occupied"
+   ],
+   "inv_line": [
+    "~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~90% occupied",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "commercial-fl-2026-09-01-09",
+   "analytics_id": "A-01096",
+   "rank": 9,
+   "submarket": "Largo",
+   "profile": "Office Building",
+   "price_band": "$5M-$6M",
+   "cap_label": "~8.45% cap",
+   "desc": "Office Building in Largo; ~8.45% cap, ~95K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Office Building, Largo (~8.45% cap)",
+   "highlights": [
+    "Investor: ~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~95K sq ft",
+    "built 1970s",
+    "Opportunity Zone"
+   ],
+   "inv_line": [
+    "~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Opportunity Zone",
+    "~60% occupied"
+   ]
+  },
+  {
+   "id": "commercial-fl-2026-09-01-10",
+   "analytics_id": "A-01097",
+   "rank": 10,
+   "submarket": "Punta Gorda",
+   "profile": "Restaurant Building",
+   "price_band": "$2.5M-$3M",
+   "cap_label": "~8.41% cap",
+   "desc": "Restaurant Building in Punta Gorda; ~8.41% cap, ~14K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Restaurant Building, Punta Gorda (~8.41% cap)",
+   "highlights": [
+    "Investor: ~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~14K sq ft",
+    "built 1920s",
+    "Value-add business plan"
+   ],
+   "inv_line": [
+    "~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Value-add business plan",
+    "~100% occupied"
+   ]
+  }
+ ]
+}

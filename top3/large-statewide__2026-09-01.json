@@ -1,0 +1,227 @@
+{
+ "segment": "large-statewide",
+ "collection": "curated",
+ "template": "curated-generic",
+ "label": "Larger Investments — 40+ Units",
+ "tagline": "Top 10 · Statewide · 40+ units · ranked by scale; institutional & value-add",
+ "search_name": "Crexi (FL pull)",
+ "generated": "2026-09-01",
+ "pdf": "pdf/large-statewide__2026-09-01.pdf",
+ "expires": "2026-10-01",
+ "total_results": 10,
+ "metric_label": "Units / price per unit",
+ "methodology": "Crexi Florida pull 2026-09-01 via the Crexi asset API. Multifamily 40+ units statewide, ranked by scale (unit count); $/unit shown where a price is published. Portfolio-aggregation and unbuilt/entitlement listings dropped.",
+ "items": [
+  {
+   "id": "large-statewide-2026-09-01-01",
+   "analytics_id": "A-01048",
+   "rank": 1,
+   "submarket": "Pine Hills",
+   "profile": "330-Unit Apartment Community",
+   "price_band": "$54M-$56M",
+   "cap_label": "~6.57% cap",
+   "desc": "330-Unit Apartment Community in Pine Hills; ~6.57% cap, 330 units, ~260K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 330-Unit Apartment Community, Pine Hills (~6.57% cap)",
+   "highlights": [
+    "Investor: ~4-6% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~10-11x GRM",
+    "~260K sq ft",
+    "built 1970s"
+   ],
+   "inv_line": [
+    "~4-6% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Value-add business plan",
+    "~90% occupied"
+   ]
+  },
+  {
+   "id": "large-statewide-2026-09-01-02",
+   "analytics_id": "A-01049",
+   "rank": 2,
+   "submarket": "Belle Glade",
+   "profile": "275-Unit Apartment Community",
+   "price_band": "$26M-$28M",
+   "cap_label": "~7.50% cap",
+   "desc": "275-Unit Apartment Community in Belle Glade; ~7.50% cap, 275 units. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 275-Unit Apartment Community, Belle Glade (~7.50% cap)",
+   "highlights": [
+    "Investor: ~8-10% est. cash-on-cash (25% down, IO @ ~7%)",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "~8-10% est. cash-on-cash (25% down, IO @ ~7%)",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "large-statewide-2026-09-01-03",
+   "analytics_id": "A-01050",
+   "rank": 3,
+   "submarket": "Tallahassee",
+   "profile": "200-Unit Apartment Community",
+   "price_band": "$28M-$30M",
+   "cap_label": "~7.79% cap",
+   "desc": "200-Unit Apartment Community in Tallahassee; ~7.79% cap, 200 units, ~200K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 200-Unit Apartment Community, Tallahassee (~7.79% cap)",
+   "highlights": [
+    "Investor: ~9-11% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~8-9x GRM",
+    "~200K sq ft",
+    "built 1970s"
+   ],
+   "inv_line": [
+    "~9-11% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Value-add business plan",
+    "~90% occupied"
+   ]
+  },
+  {
+   "id": "large-statewide-2026-09-01-04",
+   "analytics_id": "A-01051",
+   "rank": 4,
+   "submarket": "Coral Springs",
+   "profile": "123-Unit Apartment Community",
+   "price_band": "$9M-$10M",
+   "cap_label": "~6.47% cap",
+   "desc": "123-Unit Apartment Community in Coral Springs; ~6.47% cap, 123 units, ~50K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 123-Unit Apartment Community, Coral Springs (~6.47% cap)",
+   "highlights": [
+    "Investor: ~4-6% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~10-11x GRM",
+    "~50K sq ft",
+    "built 2000s"
+   ],
+   "inv_line": [
+    "~4-6% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~100% occupied",
+    "90+ days on market"
+   ]
+  },
+  {
+   "id": "large-statewide-2026-09-01-05",
+   "analytics_id": "A-01052",
+   "rank": 5,
+   "submarket": "Tallahassee",
+   "profile": "123-Unit Apartment Community",
+   "price_band": "$15M-$16M",
+   "cap_label": "~6.93% cap",
+   "desc": "123-Unit Apartment Community in Tallahassee; ~6.93% cap, 123 units, ~140K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 123-Unit Apartment Community, Tallahassee (~6.93% cap)",
+   "highlights": [
+    "Investor: ~6-8% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~9-10x GRM",
+    "~140K sq ft",
+    "built 2000s"
+   ],
+   "inv_line": [
+    "~6-8% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Value-add business plan",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "large-statewide-2026-09-01-06",
+   "analytics_id": "A-01053",
+   "rank": 6,
+   "submarket": "Sunrise",
+   "profile": "113-Unit Apartment Community",
+   "price_band": "$21M-$22M",
+   "cap_label": "~6.89% cap",
+   "desc": "113-Unit Apartment Community in Sunrise; ~6.89% cap, 113 units, ~99K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 113-Unit Apartment Community, Sunrise (~6.89% cap)",
+   "highlights": [
+    "Investor: ~6-8% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~10-11x GRM",
+    "~99K sq ft",
+    "built 1970s"
+   ],
+   "inv_line": [
+    "~6-8% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Value-add business plan",
+    "~100% occupied"
+   ]
+  },
+  {
+   "id": "large-statewide-2026-09-01-07",
+   "analytics_id": "A-01054",
+   "rank": 7,
+   "submarket": "Brooksville",
+   "profile": "111-Unit Apartment Community",
+   "price_band": "$11M-$12M",
+   "cap_label": "~$100K/unit",
+   "desc": "111-Unit Apartment Community in Brooksville; ~$100K/unit, 111 units, ~61K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 111-Unit Apartment Community, Brooksville (~$100K/unit)",
+   "highlights": [
+    "~61K sq ft",
+    "built 1980s",
+    "Value-add business plan",
+    "recently listed"
+   ],
+   "inv_line": [
+    "Value-add business plan",
+    "recently listed"
+   ]
+  },
+  {
+   "id": "large-statewide-2026-09-01-08",
+   "analytics_id": "A-01055",
+   "rank": 8,
+   "submarket": "New Port Richey",
+   "profile": "107-Unit Apartment Community",
+   "price_band": "$12M-$13M",
+   "cap_label": "~$115K/unit",
+   "desc": "107-Unit Apartment Community in New Port Richey; ~$115K/unit, 107 units. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 107-Unit Apartment Community, New Port Richey (~$115K/unit)",
+   "highlights": [
+    "Value-add business plan",
+    "90+ days on market"
+   ],
+   "inv_line": [
+    "Value-add business plan",
+    "90+ days on market"
+   ]
+  },
+  {
+   "id": "large-statewide-2026-09-01-09",
+   "analytics_id": "A-01056",
+   "rank": 9,
+   "submarket": "Lake City",
+   "profile": "107-Unit Apartment Community",
+   "price_band": "$10M-$11M",
+   "cap_label": "~$95K/unit",
+   "desc": "107-Unit Apartment Community in Lake City; ~$95K/unit, 107 units. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 107-Unit Apartment Community, Lake City (~$95K/unit)",
+   "highlights": [
+    "built 1980s",
+    "Value-add business plan",
+    "90+ days on market"
+   ],
+   "inv_line": [
+    "Value-add business plan",
+    "90+ days on market"
+   ]
+  },
+  {
+   "id": "large-statewide-2026-09-01-10",
+   "analytics_id": "A-01057",
+   "rank": 10,
+   "submarket": "Pompano Beach",
+   "profile": "98-Unit Apartment Community",
+   "price_band": "$14M-$15M",
+   "cap_label": "~6.51% cap",
+   "desc": "98-Unit Apartment Community in Pompano Beach; ~6.51% cap, 98 units, ~47K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 98-Unit Apartment Community, Pompano Beach (~6.51% cap)",
+   "highlights": [
+    "Investor: ~4-6% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~10-11x GRM",
+    "~47K sq ft",
+    "built 1950s"
+   ],
+   "inv_line": [
+    "~4-6% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Opportunity Zone",
+    "Value-add business plan"
+   ]
+  }
+ ]
+}

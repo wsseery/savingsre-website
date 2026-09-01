@@ -1,0 +1,233 @@
+{
+ "segment": "medical-fl",
+ "collection": "curated",
+ "template": "curated-generic",
+ "label": "Medical Office — Florida",
+ "tagline": "Top medical office & healthcare-tenant deals statewide · ranked by cap rate",
+ "search_name": "Crexi (FL pull)",
+ "generated": "2026-09-01",
+ "pdf": "pdf/medical-fl__2026-09-01.pdf",
+ "expires": "2026-10-01",
+ "total_results": 10,
+ "metric_label": "Cap rate",
+ "methodology": "Crexi Florida office pull 2026-09-01 via the Crexi asset API, medical / healthcare-tenant office only, ranked by published cap rate; caps cross-checked against published NOI.",
+ "items": [
+  {
+   "id": "medical-fl-2026-09-01-01",
+   "analytics_id": "A-01078",
+   "rank": 1,
+   "submarket": "Clearwater",
+   "profile": "Medical Office (Multi-Tenant)",
+   "price_band": "$1M-$1.5M",
+   "cap_label": "~10.77% cap",
+   "desc": "Medical Office (Multi-Tenant) in Clearwater; ~10.77% cap, 12 units, ~9.4K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Medical Office (Multi-Tenant), Clearwater (~10.77% cap)",
+   "highlights": [
+    "Investor: ~21-23% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~9.4K sq ft",
+    "built 1970s",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "~21-23% est. cash-on-cash (25% down, IO @ ~7%)",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "medical-fl-2026-09-01-02",
+   "analytics_id": "A-01079",
+   "rank": 2,
+   "submarket": "Orlando",
+   "profile": "Medical Office (Net-Leased)",
+   "price_band": "$3M-$4M",
+   "cap_label": "~9.64% cap",
+   "desc": "Medical Office (Net-Leased) in Orlando; ~9.64% cap, ~5.2K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Medical Office (Net-Leased), Orlando (~9.64% cap)",
+   "highlights": [
+    "Investor: ~17-19% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~5.2K sq ft",
+    "built 2010s",
+    "~2-4 yr term remaining"
+   ],
+   "inv_line": [
+    "~17-19% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~2-4 yr term remaining",
+    "90+ days on market"
+   ]
+  },
+  {
+   "id": "medical-fl-2026-09-01-03",
+   "analytics_id": "A-01080",
+   "rank": 3,
+   "submarket": "Orange Park",
+   "profile": "Medical Office (Net-Leased)",
+   "price_band": "$500K-$1M",
+   "cap_label": "~9.58% cap",
+   "desc": "Medical Office (Net-Leased) in Orange Park; ~9.58% cap, 1 units, ~3.1K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Medical Office (Net-Leased), Orange Park (~9.58% cap)",
+   "highlights": [
+    "Investor: ~16-18% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~3.1K sq ft",
+    "built 1980s",
+    "~2-4 yr term remaining"
+   ],
+   "inv_line": [
+    "~16-18% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~2-4 yr term remaining",
+    "90+ days on market"
+   ]
+  },
+  {
+   "id": "medical-fl-2026-09-01-04",
+   "analytics_id": "A-01081",
+   "rank": 4,
+   "submarket": "Orlando",
+   "profile": "Medical Office (Net-Leased)",
+   "price_band": "$1.5M-$2M",
+   "cap_label": "~9.56% cap",
+   "desc": "Medical Office (Net-Leased) in Orlando; ~9.56% cap, 2 units, ~6.6K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Medical Office (Net-Leased), Orlando (~9.56% cap)",
+   "highlights": [
+    "Investor: ~16-18% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~6.6K sq ft",
+    "~100% occupied",
+    "~5-7 yr term remaining"
+   ],
+   "inv_line": [
+    "~16-18% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~100% occupied",
+    "~5-7 yr term remaining"
+   ]
+  },
+  {
+   "id": "medical-fl-2026-09-01-05",
+   "analytics_id": "A-01082",
+   "rank": 5,
+   "submarket": "Tampa",
+   "profile": "Medical Office (Multi-Tenant)",
+   "price_band": "$2M-$2.5M",
+   "cap_label": "~9.40% cap",
+   "desc": "Medical Office (Multi-Tenant) in Tampa; ~9.40% cap, 40 units, ~14K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Medical Office (Multi-Tenant), Tampa (~9.40% cap)",
+   "highlights": [
+    "Investor: ~16-18% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~14K sq ft",
+    "built 1970s",
+    "Value-add business plan"
+   ],
+   "inv_line": [
+    "~16-18% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Value-add business plan",
+    "~100% occupied"
+   ]
+  },
+  {
+   "id": "medical-fl-2026-09-01-06",
+   "analytics_id": "A-01083",
+   "rank": 6,
+   "submarket": "Destin",
+   "profile": "Medical Office (Net-Leased)",
+   "price_band": "$500K-$1M",
+   "cap_label": "~9.00% cap",
+   "desc": "Medical Office (Net-Leased) in Destin; ~9.00% cap, 2 units, ~3.2K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Medical Office (Net-Leased), Destin (~9.00% cap)",
+   "highlights": [
+    "Investor: ~14-16% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~3.2K sq ft",
+    "built 2000s",
+    "NNN lease structure"
+   ],
+   "inv_line": [
+    "~14-16% est. cash-on-cash (25% down, IO @ ~7%)",
+    "NNN lease structure",
+    "90+ days on market"
+   ]
+  },
+  {
+   "id": "medical-fl-2026-09-01-07",
+   "analytics_id": "A-01084",
+   "rank": 7,
+   "submarket": "Fort Myers",
+   "profile": "Medical Office (Multi-Tenant)",
+   "price_band": "$28M-$30M",
+   "cap_label": "~9.00% cap",
+   "desc": "Medical Office (Multi-Tenant) in Fort Myers; ~9.00% cap, 8 units, ~80K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Medical Office (Multi-Tenant), Fort Myers (~9.00% cap)",
+   "highlights": [
+    "Investor: ~14-16% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~80K sq ft",
+    "~100% occupied",
+    "~5-7 yr term remaining"
+   ],
+   "inv_line": [
+    "~14-16% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~100% occupied",
+    "~5-7 yr term remaining"
+   ]
+  },
+  {
+   "id": "medical-fl-2026-09-01-08",
+   "analytics_id": "A-01085",
+   "rank": 8,
+   "submarket": "Pensacola",
+   "profile": "Medical Office (Net-Leased)",
+   "price_band": "Under $500K",
+   "cap_label": "~8.55% cap",
+   "desc": "Medical Office (Net-Leased) in Pensacola; ~8.55% cap, ~3.4K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Medical Office (Net-Leased), Pensacola (~8.55% cap)",
+   "highlights": [
+    "Investor: ~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~3.4K sq ft",
+    "built 1950s",
+    "Value-add business plan"
+   ],
+   "inv_line": [
+    "~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Value-add business plan",
+    "~100% occupied"
+   ]
+  },
+  {
+   "id": "medical-fl-2026-09-01-09",
+   "analytics_id": "A-01086",
+   "rank": 9,
+   "submarket": "Jacksonville",
+   "profile": "Medical Office (Multi-Tenant)",
+   "price_band": "Under $500K",
+   "cap_label": "~8.54% cap",
+   "desc": "Medical Office (Multi-Tenant) in Jacksonville; ~8.54% cap, ~2.7K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Medical Office (Multi-Tenant), Jacksonville (~8.54% cap)",
+   "highlights": [
+    "Investor: ~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~2.7K sq ft",
+    "~90% occupied",
+    "90+ days on market"
+   ],
+   "inv_line": [
+    "~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~90% occupied",
+    "90+ days on market"
+   ]
+  },
+  {
+   "id": "medical-fl-2026-09-01-10",
+   "analytics_id": "A-01087",
+   "rank": 10,
+   "submarket": "Englewood",
+   "profile": "Medical Office (Multi-Tenant)",
+   "price_band": "$500K-$1M",
+   "cap_label": "~8.50% cap",
+   "desc": "Medical Office (Multi-Tenant) in Englewood; ~8.50% cap, 2 units, ~3.9K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Medical Office (Multi-Tenant), Englewood (~8.50% cap)",
+   "highlights": [
+    "Investor: ~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~3.9K sq ft",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "180+ days on market"
+   ]
+  }
+ ]
+}

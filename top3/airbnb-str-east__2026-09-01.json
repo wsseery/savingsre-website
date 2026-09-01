@@ -1,0 +1,76 @@
+{
+ "segment": "airbnb-str-east",
+ "collection": "weekly-top3",
+ "template": "str-airbnb",
+ "label": "Airbnb / Short-Term Rental",
+ "tagline": "Top projected-STR-yield homes & condos · Delray, Deerfield, Ft. Lauderdale, Pompano, Hollywood, Lake Worth Beach, Lauderdale-by-the-Sea",
+ "search_name": "WSS-STR-airbnb-east",
+ "generated": "2026-09-01",
+ "pdf": "pdf/airbnb-str-east__2026-09-01.pdf",
+ "expires": "2026-10-01",
+ "total_results": 7,
+ "metric_label": "Est. gross STR yield",
+ "methodology": "Live Beaches MLS pull 2026-09-01 (WSS-STR-airbnb-east), filtered to the seven target coastal cities. Yield = market ADR x 65% occupancy x 365 x units / price. This is a GROSS pre-expense ESTIMATE, not actual revenue.",
+ "items": [
+  {
+   "id": "airbnb-str-east-2026-09-01-01",
+   "analytics_id": "A-01101",
+   "rank": 1,
+   "submarket": "Hollywood",
+   "profile": "3-Unit Multifamily",
+   "price_band": "$500K-$1M",
+   "cap_label": "~19% est. STR yield",
+   "desc": "3-Unit Multifamily in Hollywood; ~19% est. STR yield modelled from market ADR x ~65% occupancy. Estimate, not actual. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 3-Unit Multifamily, Hollywood (~19% est. STR yield)",
+   "highlights": [
+    "Investor: Yield shown is GROSS STR (pre-expense) · model ~65% occ · net typically ~55-65% of gross",
+    "~1.6K sq ft",
+    "built 1950s",
+    "modelled at ~$175 ADR"
+   ],
+   "inv_line": [
+    "Yield shown is GROSS STR (pre-expense) · model ~65% occ · net typically ~55-65% of gross"
+   ]
+  },
+  {
+   "id": "airbnb-str-east-2026-09-01-02",
+   "analytics_id": "A-01102",
+   "rank": 2,
+   "submarket": "Fort Lauderdale",
+   "profile": "3-Unit Multifamily",
+   "price_band": "$500K-$1M",
+   "cap_label": "~18% est. STR yield",
+   "desc": "3-Unit Multifamily in Fort Lauderdale; ~18% est. STR yield modelled from market ADR x ~65% occupancy. Estimate, not actual. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 3-Unit Multifamily, Fort Lauderdale (~18% est. STR yield)",
+   "highlights": [
+    "Investor: Yield shown is GROSS STR (pre-expense) · model ~65% occ · net typically ~55-65% of gross",
+    "~1.7K sq ft",
+    "built 1950s",
+    "modelled at ~$190 ADR"
+   ],
+   "inv_line": [
+    "Yield shown is GROSS STR (pre-expense) · model ~65% occ · net typically ~55-65% of gross"
+   ]
+  },
+  {
+   "id": "airbnb-str-east-2026-09-01-03",
+   "analytics_id": "A-01103",
+   "rank": 3,
+   "submarket": "Hollywood",
+   "profile": "2-Unit Multifamily",
+   "price_band": "$500K-$1M",
+   "cap_label": "~15% est. STR yield",
+   "desc": "2-Unit Multifamily in Hollywood; ~15% est. STR yield modelled from market ADR x ~65% occupancy. Estimate, not actual. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 2-Unit Multifamily, Hollywood (~15% est. STR yield)",
+   "highlights": [
+    "Investor: Yield shown is GROSS STR (pre-expense) · model ~65% occ · net typically ~55-65% of gross",
+    "~1.8K sq ft",
+    "built 1950s",
+    "modelled at ~$175 ADR"
+   ],
+   "inv_line": [
+    "Yield shown is GROSS STR (pre-expense) · model ~65% occ · net typically ~55-65% of gross"
+   ]
+  }
+ ]
+}
