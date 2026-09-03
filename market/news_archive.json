@@ -1,11 +1,59 @@
 {
   "meta": {
     "created": "2026-07-06",
-    "updated": "2026-09-01",
+    "updated": "2026-09-03",
     "note": "Archive of items rotated off the live market/news_data.json 16-item list. Weekly refresh APPENDS dropped items here (newest first) - never delete. Same item schema as news_data.json. Not rendered on the site; kept for content reuse, history, and a future archive/search section.",
-    "count": 88
+    "count": 92
   },
   "items": [
+    {
+      "id": 98,
+      "date": "2026-08-26",
+      "title": "Amendment 3 Would Lift Florida's Homestead Exemption to $250K and Cut $11.86B a Year From Local Tax Rolls",
+      "summary": "The November ballot measure would raise Florida's homestead exemption from $50,000 today to $150,000 next year and $250,000 by 2028 for non-school property taxes, and halve the annual assessment-growth cap on non-homestead property — investment homes, second homes and commercial real estate — from 10% to 5%. State economists put the statewide revenue hit at $11.86 billion a year, with Miami-Dade losing an estimated $445 million and Broward $326 million annually by fiscal 2028-29. Three consolidated lawsuits forced a court-ordered rewrite of the ballot language, and University of North Florida polling showed support sliding from 61% to 45% once voters were told the budget impact — well under the 60% threshold required to pass.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/08/26/south-florida-by-the-numbers-property-tax-pendulum/",
+      "category": "Policy/Insurance",
+      "tags": ["Amendment 3", "property tax", "homestead exemption", "Miami-Dade", "Broward"],
+      "importance": "high",
+      "archivedOn": "2026-09-03"
+    },
+    {
+      "id": 97,
+      "date": "2026-08-26",
+      "title": "25-Story Live Local Act Tower Filed in Downtown West Palm Beach — 40% Workforce Housing, 60% Condos",
+      "summary": "Urban Design Studio and Arquitectonica submitted a pre-application for a 25-story tower at 215 Fifth Street in downtown West Palm Beach: 36 workforce-housing rentals on the second and third floors and 41 market-rate condos above, including an 8,500-square-foot penthouse, with a fourth-floor amenity deck and pool. The developer has not been identified; the vacant 1920s commercial site last sold in 2005 for $5.9 million to an entity tied to Marsha Stocker, daughter of the late Palm Beach landlord Burt Handelsman. The Live Local Act, signed in 2023 and expanded this year, grants tax breaks and lets developers bypass municipal approval when at least 40% of units are workforce or affordable. Steve Ross and Jeff Greene have both filed Live Local projects nearby.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/08/26/another-live-local-act-tower-is-on-tap-in-west-palm-beach/",
+      "category": "Multifamily",
+      "tags": ["Live Local Act", "West Palm Beach", "workforce housing", "entitlements"],
+      "importance": "medium",
+      "archivedOn": "2026-09-03"
+    },
+    {
+      "id": 96,
+      "date": "2026-08-26",
+      "title": "Whole Foods-Anchored Doral Marketplace Trades for $83M at $1,056 Per Square Foot",
+      "summary": "An entity managed by Jonathan Perlman, founder and CEO of Dallas-based Tradition Senior Living, bought the newly completed 78,600-square-foot Doral Marketplace at Northwest 41st Street and Northwest 107th Avenue from Atlanta-based SJC Ventures, assuming the seller's $50.1 million loan, which was reassigned to Bank of Texas. The 8.2-acre center holds a 38,000-square-foot Whole Foods plus 40,700 square feet of strip retail and 488 parking spaces. SJC and Nuveen paid $32 million for the site in 2024 and delivered the project this year. Grocery-anchored retail keeps clearing steadily in South Florida: Nuveen paid $46.3 million for Aldi-anchored Coral Landings III in Margate in April, and Publix bought Fountains of Boynton for $78 million in May.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/08/26/sjc-ventures-sells-whole-foods-anchored-doral-retail-complex/",
+      "category": "Commercial/CRE",
+      "tags": ["Doral", "grocery-anchored retail", "Whole Foods", "net lease"],
+      "importance": "high",
+      "archivedOn": "2026-09-03"
+    },
+    {
+      "id": 95,
+      "date": "2026-08-24",
+      "title": "Una Residences Penthouse Sells for $17.9M at $2,700 PSF; Key Biscayne Waterfront Trades at $3,300 PSF",
+      "summary": "A trust paid $17.9 million for a 6,200-square-foot penthouse at Una Residences, 175 Southeast 25th Road in Brickell, developed by OKO Group and Cain — $2,700 per square foot and the day's priciest recorded South Florida home sale. In Key Biscayne, 591 North Mashta Drive sold for $14.3 million, or $3,300 per square foot, from a company managed by Alvaro Castro Mendivil to Isabela Ribaudo; the 4,300-square-foot house last traded at $3.2 million in 2004 and was asking just under $17 million in January (Cristina Anglemont De Tassigny of EXP Realty had the listing, Giulietta Ulloa of BHHS EWM Realty brought the buyer). A three-bedroom at Five Park, 501 West Avenue in Miami Beach, fetched $8.5 million, or $3,400 per square foot, up from $7 million in 2024.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/08/25/south-florida-top-real-estate-deals-aug-24-2026/",
+      "category": "Luxury",
+      "tags": ["Brickell", "Key Biscayne", "Miami Beach", "luxury condo"],
+      "importance": "high",
+      "archivedOn": "2026-09-03"
+    },
     {
       "id": 94,
       "date": "2026-08-24",
