@@ -1,5 +1,49 @@
 [
   {
+    "id": 118,
+    "date": "2026-09-04",
+    "title": "Trump Group Sells an Estates at Acqualina Penthouse for $33M - the Tower's Priciest Sale Yet",
+    "summary": "An affiliate of Jules and Eddie Trump's Trump Group sold the 52nd-floor unit at the Estates at Acqualina, 17975 Collins Avenue in Sunny Isles Beach, for $33 million - the highest price recorded in the tower to date. Buyer Acquilina 26 LLC, tied to consultant Lindsay Levert and Hallandale Beach real estate attorney Maria Marta Calderon, financed with a $20.5 million Morgan Stanley loan. The roughly 8,858-square-foot, six-bedroom, 7.5-bath unit sold furnished after asking $35 million, penciling to roughly $3,725 per square foot. The two oceanfront towers, completed in 2022 and 2023, hold 232 units combined; earlier this year a 7,700-square-foot Estates condo traded at $21.6 million, or about $2,800 per foot. The Trump Group is unrelated to President Donald Trump.",
+    "source": "The Real Deal",
+    "sourceUrl": "https://therealdeal.com/miami/2026/09/04/a3-development-sells-sunny-isles-acqualina-penthouse-for-33m/",
+    "category": "Luxury",
+    "tags": ["Sunny Isles Beach", "Acqualina", "penthouse", "oceanfront condo", "price per foot"],
+    "importance": "high"
+  },
+  {
+    "id": 117,
+    "date": "2026-09-04",
+    "title": "Phoenix Realty Pays $64.8M for 269-Unit Bay Pointe in South Miami-Dade at ~$240,900 Per Door",
+    "summary": "New York-based Phoenix Realty Group bought the 269-unit Bay Pointe Apartments at 18422 Homestead Avenue in unincorporated south Miami-Dade from an entity tied to Pride Homes by Garco for $64.8 million - about $240,892 per unit - assuming the seller's $55.2 million Corebridge Institutional Investments loan. The seven-story building was completed in 2024 on 2.4 acres with 134 one-bedroom, 129 two-bedroom and six three-bedroom apartments plus 3,700 square feet of retail. The trade extends a recovering cycle: South Florida multifamily sales totaled $2.5 billion in the first half, up 19.4 percent year over year per Avison Young, and 12-month leasing of 13,774 units finally edged past the 12,751 units delivered per CoStar. Nearly 28,000 units remain under construction, many due late next year.",
+    "source": "The Real Deal",
+    "sourceUrl": "https://therealdeal.com/miami/2026/09/04/pride-homes-by-garco-sells-miami-rentals-to-phoenix-realty/",
+    "category": "Multifamily",
+    "tags": ["multifamily", "Miami-Dade", "price per door", "loan assumption", "apartment sales"],
+    "importance": "high"
+  },
+  {
+    "id": 116,
+    "date": "2026-09-04",
+    "title": "Baptist Health Buys a Coconut Creek Kohl's for $53.5M - $577 Per Foot on 8.2 Acres",
+    "summary": "Baptist Health South Florida paid $53.5 million for the stand-alone Kohl's at 6950 North State Road 7 in Coconut Creek, or $577 per square foot for a 92,700-square-foot store on 8.2 acres that Kohl's bought for $14.8 million in 2008. The store remains open while Baptist evaluates plans for the site. Baptist is the region's largest hospital operator, with 12 hospitals and roughly 200 care and office facilities, and is also building a 61,000-square-foot Pembroke Pines medical center opening early next year and the 340,000-square-foot Baptist Health Sunrise Hospital due in 2029. Large medical anchors tend to lift surrounding retail, office and residential values, which is why big-box parcels near health-system expansion keep clearing well above traditional retail pricing.",
+    "source": "The Real Deal",
+    "sourceUrl": "https://therealdeal.com/miami/2026/09/04/baptist-health-buys-coconut-creek-kohls-store-for-54m/",
+    "category": "Commercial/CRE",
+    "tags": ["Broward", "medical", "big-box retail", "redevelopment", "price per foot"],
+    "importance": "high"
+  },
+  {
+    "id": 115,
+    "date": "2026-09-03",
+    "title": "Mortgage Rates Climb to 6.71%; 15-Year Back Above 6% and Jumbo Averages Near 6.8%",
+    "summary": "Freddie Mac's Primary Mortgage Market Survey put the 30-year fixed at 6.71 percent for the week ended September 3, up from 6.66 percent the prior week and above the 6.50 percent averaged a year ago. The 15-year fixed averaged 6.04 percent, up from 5.98 percent and back over 6 percent. Daily jumbo averages moved with it, running near 6.78 percent in the days after the print. For South Florida buyers and investors the practical read is that financing costs are grinding sideways-to-higher rather than easing, which keeps pressure on debt-service coverage for new acquisitions and continues to favor assumable-loan and seller-financed structures.",
+    "source": "Freddie Mac PMMS",
+    "sourceUrl": "https://www.freddiemac.com/pmms",
+    "category": "Market Data",
+    "tags": ["mortgage rates", "Freddie Mac", "jumbo", "financing", "PMMS"],
+    "importance": "high"
+  },
+  {
     "id": 114,
     "date": "2026-09-03",
     "title": "Palm Beach's Landmark 'Ham and Cheese House' Lists at $105M - Nearly $8,000 Per Foot",
@@ -129,50 +173,6 @@
     "sourceUrl": "https://therealdeal.com/miami/2026/08/27/palm-beach-county-advances-data-center-moratorium/",
     "category": "Policy/Insurance",
     "tags": ["Palm Beach County", "data centers", "industrial", "zoning", "policy"],
-    "importance": "high"
-  },
-  {
-    "id": 102,
-    "date": "2026-08-27",
-    "title": "Mortgage Rates Edge Back Up to 6.66%; 15-Year at 5.98%, Jumbo Eases to ~6.71%",
-    "summary": "Freddie Mac's Aug. 27 Primary Mortgage Market Survey put the 30-year fixed at 6.66%, one basis point above the prior week and up from 6.56% a year ago, snapping a two-week slide. The 15-year averaged 5.98%, up from 5.95%. Chief economist Sam Khater cited resilient consumer spending and rising household incomes, with more listings and slower price growth giving buyers better options and creating a more balanced market. The 30-year jumbo average moved the other way, easing roughly eight basis points on the week to about 6.71%, narrowing the jumbo-to-conforming spread to about five basis points.",
-    "source": "Freddie Mac PMMS",
-    "sourceUrl": "https://www.freddiemac.com/pmms",
-    "category": "Market Data",
-    "tags": ["mortgage rates", "PMMS", "jumbo", "financing"],
-    "importance": "high"
-  },
-  {
-    "id": 101,
-    "date": "2026-08-27",
-    "title": "Fairfield Buys West Palm Beach's 812-Unit Portofino Place From Cortland for $208M at ~$256,200 Per Door",
-    "summary": "San Diego-based Fairfield Residential paid $208 million for the 812-unit Portofino Place Apartments at 4400 and 4600 Portofino Way in West Palm Beach, buying from Atlanta-based Cortland - about $256,200 per unit and the second-largest South Florida multifamily trade of the year. The 2003- and 2006-built complex spans 34 three-story buildings and two clubhouses on nearly 40 acres; Fairfield financed it with $93.1 million and $85 million Freddie Mac loans maturing in 2033. South Florida multifamily investment volume reached $2.5 billion in the first half, up 19.4% year over year per Avison Young, and in the 12 months through Q2 leasing (13,774 units) outpaced deliveries (12,751) for the first time in three years per CoStar - though average asking rents still slipped 1.3% year over year to $2,279 in July.",
-    "source": "The Real Deal",
-    "sourceUrl": "https://therealdeal.com/miami/2026/08/27/cortland-sells-sofla-rentals-to-fairfield-for-208-million/",
-    "category": "Multifamily",
-    "tags": ["West Palm Beach", "apartments", "Fairfield", "Cortland", "investment sales"],
-    "importance": "high"
-  },
-  {
-    "id": 100,
-    "date": "2026-08-28",
-    "title": "Midtown Capital Pays $86M for 14-Building Doral Industrial Portfolio at $296 PSF; Mana Wynwood Sale to Ken Griffin Reported at $700M-Plus",
-    "summary": "Midtown Capital Partners acquired a 300,000-square-foot, 14-property small-bay industrial portfolio along Northwest 54th and 56th Streets and Northwest 79th and 82nd Avenues in Doral for $86 million - roughly $296 per square foot and a near-record for Miami-Dade - from 13 separate sellers tied to the Waas family, who developed and managed the buildings for decades. Miami industrial posted 402,000 square feet of positive net absorption in the second quarter, pulling vacancy to 6.9% with rents near record highs, per Avison Young. Separately, The Real Deal reports that Moishe Mana's 30-acre Mana Wynwood campus is being sold to billionaire Ken Griffin at a rumored $700 million to more than $1 billion, which would set a South Florida record for a development assemblage; neither party has confirmed the deal, and both denied it earlier this year.",
-    "source": "The Real Deal",
-    "sourceUrl": "https://therealdeal.com/miami/2026/08/28/midtown-capital-drops-86-million-in-doral-industrial-market/",
-    "category": "Commercial/CRE",
-    "tags": ["Doral", "industrial", "small-bay", "Wynwood", "Miami-Dade"],
-    "importance": "high"
-  },
-  {
-    "id": 99,
-    "date": "2026-08-27",
-    "title": "Lost Tree Village Waterfront Teardown Trades for $27.5M - More Than $4,000 Per Foot in North Palm Beach",
-    "summary": "The estate of the late Penn Corporation founder Dana Hamel sold 11800 Turtle Beach Road in North Palm Beach for $27.5 million, over $4,000 per square foot on a 6,800-square-foot home built in 1992. The property listed in April at $35 million; Hamel had paid $2.5 million for it in 1991. The buyer, shielded behind 11800 Turtle Beach Rd LLC, plans to tear down and rebuild on the roughly one-acre lot with 128 feet of water frontage. James Kenny and Paul Kaneb of K2 Realty had the listing and represented both sides. Lost Tree Village, a 450-acre community with a private oceanfront and golf course, set its record at $55 million last year.",
-    "source": "The Real Deal",
-    "sourceUrl": "https://therealdeal.com/miami/2026/08/27/north-palm-beach-waterfront-teardown-sells-for-28-million/",
-    "category": "Luxury",
-    "tags": ["North Palm Beach", "Lost Tree Village", "waterfront", "teardown", "luxury sales"],
     "importance": "high"
   }
 ]
