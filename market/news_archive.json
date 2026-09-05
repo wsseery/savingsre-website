@@ -1,11 +1,59 @@
 {
   "meta": {
     "created": "2026-07-06",
-    "updated": "2026-09-03",
+    "updated": "2026-09-05",
     "note": "Archive of items rotated off the live market/news_data.json 16-item list. Weekly refresh APPENDS dropped items here (newest first) - never delete. Same item schema as news_data.json. Not rendered on the site; kept for content reuse, history, and a future archive/search section.",
-    "count": 92
+    "count": 96
   },
   "items": [
+    {
+      "id": 102,
+      "date": "2026-08-27",
+      "title": "Mortgage Rates Edge Back Up to 6.66%; 15-Year at 5.98%, Jumbo Eases to ~6.71%",
+      "summary": "Freddie Mac's Aug. 27 Primary Mortgage Market Survey put the 30-year fixed at 6.66%, one basis point above the prior week and up from 6.56% a year ago, snapping a two-week slide. The 15-year averaged 5.98%, up from 5.95%. Chief economist Sam Khater cited resilient consumer spending and rising household incomes, with more listings and slower price growth giving buyers better options and creating a more balanced market. The 30-year jumbo average moved the other way, easing roughly eight basis points on the week to about 6.71%, narrowing the jumbo-to-conforming spread to about five basis points.",
+      "source": "Freddie Mac PMMS",
+      "sourceUrl": "https://www.freddiemac.com/pmms",
+      "category": "Market Data",
+      "tags": ["mortgage rates", "PMMS", "jumbo", "financing"],
+      "importance": "high",
+      "archivedOn": "2026-09-05"
+    },
+    {
+      "id": 101,
+      "date": "2026-08-27",
+      "title": "Fairfield Buys West Palm Beach's 812-Unit Portofino Place From Cortland for $208M at ~$256,200 Per Door",
+      "summary": "San Diego-based Fairfield Residential paid $208 million for the 812-unit Portofino Place Apartments at 4400 and 4600 Portofino Way in West Palm Beach, buying from Atlanta-based Cortland - about $256,200 per unit and the second-largest South Florida multifamily trade of the year. The 2003- and 2006-built complex spans 34 three-story buildings and two clubhouses on nearly 40 acres; Fairfield financed it with $93.1 million and $85 million Freddie Mac loans maturing in 2033. South Florida multifamily investment volume reached $2.5 billion in the first half, up 19.4% year over year per Avison Young, and in the 12 months through Q2 leasing (13,774 units) outpaced deliveries (12,751) for the first time in three years per CoStar - though average asking rents still slipped 1.3% year over year to $2,279 in July.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/08/27/cortland-sells-sofla-rentals-to-fairfield-for-208-million/",
+      "category": "Multifamily",
+      "tags": ["West Palm Beach", "apartments", "Fairfield", "Cortland", "investment sales"],
+      "importance": "high",
+      "archivedOn": "2026-09-05"
+    },
+    {
+      "id": 100,
+      "date": "2026-08-28",
+      "title": "Midtown Capital Pays $86M for 14-Building Doral Industrial Portfolio at $296 PSF; Mana Wynwood Sale to Ken Griffin Reported at $700M-Plus",
+      "summary": "Midtown Capital Partners acquired a 300,000-square-foot, 14-property small-bay industrial portfolio along Northwest 54th and 56th Streets and Northwest 79th and 82nd Avenues in Doral for $86 million - roughly $296 per square foot and a near-record for Miami-Dade - from 13 separate sellers tied to the Waas family, who developed and managed the buildings for decades. Miami industrial posted 402,000 square feet of positive net absorption in the second quarter, pulling vacancy to 6.9% with rents near record highs, per Avison Young. Separately, The Real Deal reports that Moishe Mana's 30-acre Mana Wynwood campus is being sold to billionaire Ken Griffin at a rumored $700 million to more than $1 billion, which would set a South Florida record for a development assemblage; neither party has confirmed the deal, and both denied it earlier this year.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/08/28/midtown-capital-drops-86-million-in-doral-industrial-market/",
+      "category": "Commercial/CRE",
+      "tags": ["Doral", "industrial", "small-bay", "Wynwood", "Miami-Dade"],
+      "importance": "high",
+      "archivedOn": "2026-09-05"
+    },
+    {
+      "id": 99,
+      "date": "2026-08-27",
+      "title": "Lost Tree Village Waterfront Teardown Trades for $27.5M - More Than $4,000 Per Foot in North Palm Beach",
+      "summary": "The estate of the late Penn Corporation founder Dana Hamel sold 11800 Turtle Beach Road in North Palm Beach for $27.5 million, over $4,000 per square foot on a 6,800-square-foot home built in 1992. The property listed in April at $35 million; Hamel had paid $2.5 million for it in 1991. The buyer, shielded behind 11800 Turtle Beach Rd LLC, plans to tear down and rebuild on the roughly one-acre lot with 128 feet of water frontage. James Kenny and Paul Kaneb of K2 Realty had the listing and represented both sides. Lost Tree Village, a 450-acre community with a private oceanfront and golf course, set its record at $55 million last year.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/08/27/north-palm-beach-waterfront-teardown-sells-for-28-million/",
+      "category": "Luxury",
+      "tags": ["North Palm Beach", "Lost Tree Village", "waterfront", "teardown", "luxury sales"],
+      "importance": "high",
+      "archivedOn": "2026-09-05"
+    },
     {
       "id": 98,
       "date": "2026-08-26",
