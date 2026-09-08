@@ -1,0 +1,193 @@
+{
+ "segment": "gulf-coast-beach-mf",
+ "collection": "curated",
+ "template": "curated-generic",
+ "label": "Coastal Multifamily \u2014 Gulf Beaches",
+ "tagline": "Top 9 \u00b7 Sarasota\u2013Bradenton\u2013Venice Gulf coast \u00b7 coastal income multifamily \u00b7 ranked by cap rate where published, else scale",
+ "search_name": "Crexi (FL pull)",
+ "generated": "2026-09-08",
+ "pdf": "pdf/gulf-coast-beach-mf__2026-09-08.pdf",
+ "expires": "2026-10-08",
+ "total_results": 9,
+ "metric_label": "Cap rate",
+ "methodology": "Crexi Sarasota-Bradenton-Venice Gulf-coast pull 2026-09-08 via the Crexi asset API. Coastal income multifamily, 2-99 units, ranked by published cap rate then scale.",
+ "items": [
+  {
+   "id": "gulf-coast-beach-mf-2026-09-08-01",
+   "analytics_id": "A-01137",
+   "rank": 1,
+   "submarket": "Palmetto",
+   "profile": "8-Unit Multifamily",
+   "price_band": "$1M-$2M",
+   "cap_label": "~8.50% cap",
+   "desc": "8-Unit Multifamily in Palmetto; ~8.50% cap, 8 units, ~6.6K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 8-Unit Multifamily, Palmetto (~8.50% cap)",
+   "highlights": [
+    "Investor: ~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~8-9x GRM",
+    "~6.6K sq ft",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "gulf-coast-beach-mf-2026-09-08-02",
+   "analytics_id": "A-01191",
+   "rank": 2,
+   "submarket": "Bradenton",
+   "profile": "2-Unit Multifamily",
+   "price_band": "$0K-$500K",
+   "cap_label": "~7.04% cap",
+   "desc": "2-Unit Multifamily in Bradenton; ~7.04% cap, 2 units, ~2.5K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 2-Unit Multifamily, Bradenton (~7.04% cap)",
+   "highlights": [
+    "Investor: ~6-8% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~9-10x GRM",
+    "~2.5K sq ft",
+    "recently listed"
+   ],
+   "inv_line": [
+    "~6-8% est. cash-on-cash (25% down, IO @ ~7%)",
+    "recently listed"
+   ]
+  },
+  {
+   "id": "gulf-coast-beach-mf-2026-09-08-03",
+   "analytics_id": "A-01192",
+   "rank": 3,
+   "submarket": "Sarasota",
+   "profile": "74-Unit Apartment Community",
+   "price_band": "Price on request",
+   "cap_label": "~6.16% cap",
+   "desc": "74-Unit Apartment Community in Sarasota; ~6.16% cap, 74 units, ~52K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 74-Unit Apartment Community, Sarasota (~6.16% cap)",
+   "highlights": [
+    "Investor: ~3-5% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~11-12x GRM",
+    "~52K sq ft",
+    "30-90 days on market"
+   ],
+   "inv_line": [
+    "~3-5% est. cash-on-cash (25% down, IO @ ~7%)",
+    "30-90 days on market"
+   ]
+  },
+  {
+   "id": "gulf-coast-beach-mf-2026-09-08-04",
+   "analytics_id": "A-01193",
+   "rank": 4,
+   "submarket": "Bradenton",
+   "profile": "92-Unit Apartment Community",
+   "price_band": "Price on request",
+   "cap_label": "92 units",
+   "desc": "92-Unit Apartment Community in Bradenton; 92 units, 92 units, ~87K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 92-Unit Apartment Community, Bradenton (92 units)",
+   "highlights": [
+    "~87K sq ft",
+    "Opportunity Zone",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "Opportunity Zone",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "gulf-coast-beach-mf-2026-09-08-05",
+   "analytics_id": "A-01194",
+   "rank": 5,
+   "submarket": "Palmetto",
+   "profile": "29-Unit Multifamily",
+   "price_band": "$4M-$5M",
+   "cap_label": "~$160K/unit",
+   "desc": "29-Unit Multifamily in Palmetto; ~$160K/unit, 29 units, ~21K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 29-Unit Multifamily, Palmetto (~$160K/unit)",
+   "highlights": [
+    "~21K sq ft",
+    "Opportunity Zone",
+    "90+ days on market"
+   ],
+   "inv_line": [
+    "Opportunity Zone",
+    "90+ days on market"
+   ]
+  },
+  {
+   "id": "gulf-coast-beach-mf-2026-09-08-06",
+   "analytics_id": "A-01195",
+   "rank": 6,
+   "submarket": "Bradenton",
+   "profile": "20-Unit Multifamily",
+   "price_band": "$3M-$4M",
+   "cap_label": "~$170K/unit",
+   "desc": "20-Unit Multifamily in Bradenton; ~$170K/unit, 20 units, ~15K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 20-Unit Multifamily, Bradenton (~$170K/unit)",
+   "highlights": [
+    "~15K sq ft",
+    "recently listed"
+   ],
+   "inv_line": [
+    "recently listed"
+   ]
+  },
+  {
+   "id": "gulf-coast-beach-mf-2026-09-08-07",
+   "analytics_id": "A-01196",
+   "rank": 7,
+   "submarket": "Bradenton",
+   "profile": "16-Unit Multifamily",
+   "price_band": "$8M-$9M",
+   "cap_label": "~$540K/unit",
+   "desc": "16-Unit Multifamily in Bradenton; ~$540K/unit, 16 units, ~15K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 16-Unit Multifamily, Bradenton (~$540K/unit)",
+   "highlights": [
+    "~15K sq ft",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "gulf-coast-beach-mf-2026-09-08-08",
+   "analytics_id": "A-01197",
+   "rank": 8,
+   "submarket": "Sarasota",
+   "profile": "16-Unit Multifamily",
+   "price_band": "$3M-$4M",
+   "cap_label": "~$205K/unit",
+   "desc": "16-Unit Multifamily in Sarasota; ~$205K/unit, 16 units, ~57K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 16-Unit Multifamily, Sarasota (~$205K/unit)",
+   "highlights": [
+    "~57K sq ft",
+    "Opportunity Zone",
+    "30-90 days on market"
+   ],
+   "inv_line": [
+    "Opportunity Zone",
+    "30-90 days on market"
+   ]
+  },
+  {
+   "id": "gulf-coast-beach-mf-2026-09-08-09",
+   "analytics_id": "A-01198",
+   "rank": 9,
+   "submarket": "Sarasota",
+   "profile": "16-Unit Multifamily",
+   "price_band": "$2M-$3M",
+   "cap_label": "~$170K/unit",
+   "desc": "16-Unit Multifamily in Sarasota; ~$170K/unit, 16 units, ~5.2K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 16-Unit Multifamily, Sarasota (~$170K/unit)",
+   "highlights": [
+    "~5.2K sq ft",
+    "30-90 days on market"
+   ],
+   "inv_line": [
+    "30-90 days on market"
+   ]
+  }
+ ]
+}

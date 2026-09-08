@@ -1,0 +1,225 @@
+{
+ "segment": "high-yield-sfl",
+ "collection": "curated",
+ "template": "curated-generic",
+ "label": "High-Yield Multifamily \u2014 8%+ Cap",
+ "tagline": "Top 10 \u00b7 Florida (statewide) \u00b7 5\u201325 units \u00b7 value-add & high-yield \u00b7 ranked by cap rate",
+ "search_name": "Crexi (FL pull)",
+ "generated": "2026-09-08",
+ "pdf": "pdf/high-yield-sfl__2026-09-08.pdf",
+ "expires": "2026-10-08",
+ "total_results": 10,
+ "metric_label": "Cap rate",
+ "methodology": "Crexi Florida pull 2026-09-08 via the Crexi asset API (search + per-asset detail enrichment). Multifamily 4-30 units, ranked by published cap rate; caps cross-checked against published NOI. Only two sellers published an 8%+ cap this week, so the list is filled to ten with the best available published caps down to ~7.4%; implausible outliers, development/entitlement plays and portfolio-aggregation listings dropped.",
+ "items": [
+  {
+   "id": "high-yield-sfl-2026-09-08-01",
+   "analytics_id": "A-01134",
+   "rank": 1,
+   "submarket": "Fort Walton Beach",
+   "profile": "4-Unit Multifamily",
+   "price_band": "$500K-$1M",
+   "cap_label": "~10.08% cap",
+   "desc": "4-Unit Multifamily in Fort Walton Beach; ~10.08% cap, 4 units, ~3.6K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 4-Unit Multifamily, Fort Walton Beach (~10.08% cap)",
+   "highlights": [
+    "Investor: ~18-20% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~6-7x GRM",
+    "~3.6K sq ft",
+    "30-90 days on market"
+   ],
+   "inv_line": [
+    "~18-20% est. cash-on-cash (25% down, IO @ ~7%)",
+    "30-90 days on market"
+   ]
+  },
+  {
+   "id": "high-yield-sfl-2026-09-08-02",
+   "analytics_id": "A-01135",
+   "rank": 2,
+   "submarket": "Lecanto",
+   "profile": "4-Unit Multifamily",
+   "price_band": "$500K-$1M",
+   "cap_label": "~9.78% cap",
+   "desc": "4-Unit Multifamily in Lecanto; ~9.78% cap, 4 units, ~3.9K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 4-Unit Multifamily, Lecanto (~9.78% cap)",
+   "highlights": [
+    "Investor: ~17-19% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~7-8x GRM",
+    "~3.9K sq ft",
+    "recently listed"
+   ],
+   "inv_line": [
+    "~17-19% est. cash-on-cash (25% down, IO @ ~7%)",
+    "recently listed"
+   ]
+  },
+  {
+   "id": "high-yield-sfl-2026-09-08-03",
+   "analytics_id": "A-01136",
+   "rank": 3,
+   "submarket": "Fort Pierce",
+   "profile": "6-Unit Multifamily",
+   "price_band": "$2M-$2M",
+   "cap_label": "~9.35% cap",
+   "desc": "6-Unit Multifamily in Fort Pierce; ~9.35% cap, 6 units, ~6.8K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 6-Unit Multifamily, Fort Pierce (~9.35% cap)",
+   "highlights": [
+    "Investor: ~15-17% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~7-8x GRM",
+    "~6.8K sq ft",
+    "Opportunity Zone",
+    "90+ days on market"
+   ],
+   "inv_line": [
+    "~15-17% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Opportunity Zone",
+    "90+ days on market"
+   ]
+  },
+  {
+   "id": "high-yield-sfl-2026-09-08-04",
+   "analytics_id": "A-01137",
+   "rank": 4,
+   "submarket": "Palmetto",
+   "profile": "8-Unit Multifamily",
+   "price_band": "$1M-$2M",
+   "cap_label": "~8.50% cap",
+   "desc": "8-Unit Multifamily in Palmetto; ~8.50% cap, 8 units, ~6.6K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 8-Unit Multifamily, Palmetto (~8.50% cap)",
+   "highlights": [
+    "Investor: ~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~8-9x GRM",
+    "~6.6K sq ft",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "high-yield-sfl-2026-09-08-05",
+   "analytics_id": "A-01138",
+   "rank": 5,
+   "submarket": "Tampa",
+   "profile": "10-Unit Multifamily",
+   "price_band": "$500K-$1M",
+   "cap_label": "~8.35% cap",
+   "desc": "10-Unit Multifamily in Tampa; ~8.35% cap, 10 units, ~3.3K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 10-Unit Multifamily, Tampa (~8.35% cap)",
+   "highlights": [
+    "Investor: ~11-13% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~8-9x GRM",
+    "~3.3K sq ft",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "~11-13% est. cash-on-cash (25% down, IO @ ~7%)",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "high-yield-sfl-2026-09-08-06",
+   "analytics_id": "A-01139",
+   "rank": 6,
+   "submarket": "Gulfport",
+   "profile": "10-Unit Multifamily",
+   "price_band": "$2M-$2M",
+   "cap_label": "~8.30% cap",
+   "desc": "10-Unit Multifamily in Gulfport; ~8.30% cap, 10 units. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 10-Unit Multifamily, Gulfport (~8.30% cap)",
+   "highlights": [
+    "Investor: ~11-13% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~8-9x GRM",
+    "90+ days on market"
+   ],
+   "inv_line": [
+    "~11-13% est. cash-on-cash (25% down, IO @ ~7%)",
+    "90+ days on market"
+   ]
+  },
+  {
+   "id": "high-yield-sfl-2026-09-08-07",
+   "analytics_id": "A-01140",
+   "rank": 7,
+   "submarket": "Daytona Beach",
+   "profile": "7-Unit Multifamily",
+   "price_band": "$500K-$1M",
+   "cap_label": "~7.97% cap",
+   "desc": "7-Unit Multifamily in Daytona Beach; ~7.97% cap, 7 units. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 7-Unit Multifamily, Daytona Beach (~7.97% cap)",
+   "highlights": [
+    "Investor: ~10-12% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~8-9x GRM",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "~10-12% est. cash-on-cash (25% down, IO @ ~7%)",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "high-yield-sfl-2026-09-08-08",
+   "analytics_id": "A-01141",
+   "rank": 8,
+   "submarket": "Belleview",
+   "profile": "8-Unit Multifamily",
+   "price_band": "$500K-$1M",
+   "cap_label": "~7.91% cap",
+   "desc": "8-Unit Multifamily in Belleview; ~7.91% cap, 8 units, ~4.1K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 8-Unit Multifamily, Belleview (~7.91% cap)",
+   "highlights": [
+    "Investor: ~10-12% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~8-9x GRM",
+    "~4.1K sq ft",
+    "90+ days on market"
+   ],
+   "inv_line": [
+    "~10-12% est. cash-on-cash (25% down, IO @ ~7%)",
+    "90+ days on market"
+   ]
+  },
+  {
+   "id": "high-yield-sfl-2026-09-08-09",
+   "analytics_id": "A-01142",
+   "rank": 9,
+   "submarket": "Cocoa",
+   "profile": "9-Unit Multifamily",
+   "price_band": "$2M-$2M",
+   "cap_label": "~7.46% cap",
+   "desc": "9-Unit Multifamily in Cocoa; ~7.46% cap, 9 units. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 9-Unit Multifamily, Cocoa (~7.46% cap)",
+   "highlights": [
+    "Investor: ~8-10% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~9-10x GRM",
+    "90+ days on market"
+   ],
+   "inv_line": [
+    "~8-10% est. cash-on-cash (25% down, IO @ ~7%)",
+    "90+ days on market"
+   ]
+  },
+  {
+   "id": "high-yield-sfl-2026-09-08-10",
+   "analytics_id": "A-01143",
+   "rank": 10,
+   "submarket": "Labelle",
+   "profile": "5-Unit Multifamily",
+   "price_band": "$1M-$2M",
+   "cap_label": "~7.44% cap",
+   "desc": "5-Unit Multifamily in Labelle; ~7.44% cap, 5 units, ~10K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 5-Unit Multifamily, Labelle (~7.44% cap)",
+   "highlights": [
+    "Investor: ~8-10% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~9-10x GRM",
+    "~10K sq ft",
+    "30-90 days on market"
+   ],
+   "inv_line": [
+    "~8-10% est. cash-on-cash (25% down, IO @ ~7%)",
+    "30-90 days on market"
+   ]
+  }
+ ]
+}

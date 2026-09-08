@@ -1,0 +1,218 @@
+{
+ "segment": "strip-mall-fl",
+ "collection": "curated",
+ "template": "curated-generic",
+ "label": "Strip Malls & Retail Centers \u2014 Florida",
+ "tagline": "Top multi-tenant strip & neighborhood retail centers statewide \u00b7 ranked by cap rate",
+ "search_name": "Crexi (FL pull)",
+ "generated": "2026-09-08",
+ "pdf": "pdf/strip-mall-fl__2026-09-08.pdf",
+ "expires": "2026-10-08",
+ "total_results": 10,
+ "metric_label": "Cap rate",
+ "methodology": "Crexi Florida retail pull 2026-09-08 via the Crexi asset API, multi-tenant strip and neighborhood centers of 4,000+ sq ft only (no retail condos), ranked by published cap rate.",
+ "items": [
+  {
+   "id": "strip-mall-fl-2026-09-08-01",
+   "analytics_id": "A-01161",
+   "rank": 1,
+   "submarket": "Cape Coral",
+   "profile": "Multi-Tenant Retail Center",
+   "price_band": "$2M-$3M",
+   "cap_label": "~9.00% cap",
+   "desc": "Multi-Tenant Retail Center in Cape Coral; ~9.00% cap, ~12K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Multi-Tenant Retail Center, Cape Coral (~9.00% cap)",
+   "highlights": [
+    "Investor: ~14-16% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~12K sq ft",
+    "90+ days on market"
+   ],
+   "inv_line": [
+    "~14-16% est. cash-on-cash (25% down, IO @ ~7%)",
+    "90+ days on market"
+   ]
+  },
+  {
+   "id": "strip-mall-fl-2026-09-08-02",
+   "analytics_id": "A-01162",
+   "rank": 2,
+   "submarket": "Ocoee",
+   "profile": "Multi-Tenant Retail Center",
+   "price_band": "$7M-$8M",
+   "cap_label": "~8.56% cap",
+   "desc": "Multi-Tenant Retail Center in Ocoee; ~8.56% cap, 24 units, ~61K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Multi-Tenant Retail Center, Ocoee (~8.56% cap)",
+   "highlights": [
+    "Investor: ~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~61K sq ft",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "strip-mall-fl-2026-09-08-03",
+   "analytics_id": "A-01163",
+   "rank": 3,
+   "submarket": "New Port Richey",
+   "profile": "Multi-Tenant Retail Center",
+   "price_band": "$1M-$2M",
+   "cap_label": "~8.49% cap",
+   "desc": "Multi-Tenant Retail Center in New Port Richey; ~8.49% cap, ~5.6K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Multi-Tenant Retail Center, New Port Richey (~8.49% cap)",
+   "highlights": [
+    "Investor: ~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~5.6K sq ft",
+    "recently listed"
+   ],
+   "inv_line": [
+    "~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "recently listed"
+   ]
+  },
+  {
+   "id": "strip-mall-fl-2026-09-08-04",
+   "analytics_id": "A-01164",
+   "rank": 4,
+   "submarket": "Cocoa",
+   "profile": "Multi-Tenant Retail Center",
+   "price_band": "$500K-$1M",
+   "cap_label": "~8.01% cap",
+   "desc": "Multi-Tenant Retail Center in Cocoa; ~8.01% cap, ~5.4K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Multi-Tenant Retail Center, Cocoa (~8.01% cap)",
+   "highlights": [
+    "Investor: ~10-12% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~5.4K sq ft",
+    "Opportunity Zone",
+    "30-90 days on market"
+   ],
+   "inv_line": [
+    "~10-12% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Opportunity Zone",
+    "30-90 days on market"
+   ]
+  },
+  {
+   "id": "strip-mall-fl-2026-09-08-05",
+   "analytics_id": "A-01165",
+   "rank": 5,
+   "submarket": "Jacksonville",
+   "profile": "Multi-Tenant Retail Center",
+   "price_band": "$2M-$3M",
+   "cap_label": "~7.84% cap",
+   "desc": "Multi-Tenant Retail Center in Jacksonville; ~7.84% cap, ~19K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Multi-Tenant Retail Center, Jacksonville (~7.84% cap)",
+   "highlights": [
+    "Investor: ~9-11% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~19K sq ft",
+    "30-90 days on market"
+   ],
+   "inv_line": [
+    "~9-11% est. cash-on-cash (25% down, IO @ ~7%)",
+    "30-90 days on market"
+   ]
+  },
+  {
+   "id": "strip-mall-fl-2026-09-08-06",
+   "analytics_id": "A-01166",
+   "rank": 6,
+   "submarket": "Orlando",
+   "profile": "Multi-Tenant Retail Center",
+   "price_band": "$6M-$7M",
+   "cap_label": "~7.60% cap",
+   "desc": "Multi-Tenant Retail Center in Orlando; ~7.60% cap, ~42K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Multi-Tenant Retail Center, Orlando (~7.60% cap)",
+   "highlights": [
+    "Investor: ~8-10% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~42K sq ft",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "~8-10% est. cash-on-cash (25% down, IO @ ~7%)",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "strip-mall-fl-2026-09-08-07",
+   "analytics_id": "A-01167",
+   "rank": 7,
+   "submarket": "Port St. Lucie",
+   "profile": "Multi-Tenant Retail Center",
+   "price_band": "$3M-$4M",
+   "cap_label": "~7.50% cap",
+   "desc": "Multi-Tenant Retail Center in Port St. Lucie; ~7.50% cap, ~4.1K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Multi-Tenant Retail Center, Port St. Lucie (~7.50% cap)",
+   "highlights": [
+    "Investor: ~8-10% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~4.1K sq ft",
+    "90+ days on market"
+   ],
+   "inv_line": [
+    "~8-10% est. cash-on-cash (25% down, IO @ ~7%)",
+    "90+ days on market"
+   ]
+  },
+  {
+   "id": "strip-mall-fl-2026-09-08-08",
+   "analytics_id": "A-01168",
+   "rank": 8,
+   "submarket": "Brooksville",
+   "profile": "Multi-Tenant Retail Center",
+   "price_band": "Price on request",
+   "cap_label": "~7.32% cap",
+   "desc": "Multi-Tenant Retail Center in Brooksville; ~7.32% cap, ~7.6K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Multi-Tenant Retail Center, Brooksville (~7.32% cap)",
+   "highlights": [
+    "Investor: ~7-9% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~7.6K sq ft",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "~7-9% est. cash-on-cash (25% down, IO @ ~7%)",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "strip-mall-fl-2026-09-08-09",
+   "analytics_id": "A-01169",
+   "rank": 9,
+   "submarket": "Jacksonville",
+   "profile": "Multi-Tenant Retail Center",
+   "price_band": "$5M-$6M",
+   "cap_label": "~7.13% cap",
+   "desc": "Multi-Tenant Retail Center in Jacksonville; ~7.13% cap, ~47K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Multi-Tenant Retail Center, Jacksonville (~7.13% cap)",
+   "highlights": [
+    "Investor: ~7-9% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~47K sq ft",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "~7-9% est. cash-on-cash (25% down, IO @ ~7%)",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "strip-mall-fl-2026-09-08-10",
+   "analytics_id": "A-01170",
+   "rank": 10,
+   "submarket": "Santa Rosa Beach",
+   "profile": "Multi-Tenant Retail Center",
+   "price_band": "$6M-$7M",
+   "cap_label": "~7.06% cap",
+   "desc": "Multi-Tenant Retail Center in Santa Rosa Beach; ~7.06% cap, ~12K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Multi-Tenant Retail Center, Santa Rosa Beach (~7.06% cap)",
+   "highlights": [
+    "Investor: ~6-8% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~12K sq ft",
+    "30-90 days on market"
+   ],
+   "inv_line": [
+    "~6-8% est. cash-on-cash (25% down, IO @ ~7%)",
+    "30-90 days on market"
+   ]
+  }
+ ]
+}

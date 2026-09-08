@@ -1,0 +1,217 @@
+{
+ "segment": "medical-fl",
+ "collection": "curated",
+ "template": "curated-generic",
+ "label": "Medical Office \u2014 Florida",
+ "tagline": "Top medical office & healthcare-tenant deals statewide \u00b7 ranked by cap rate",
+ "search_name": "Crexi (FL pull)",
+ "generated": "2026-09-08",
+ "pdf": "pdf/medical-fl__2026-09-08.pdf",
+ "expires": "2026-10-08",
+ "total_results": 10,
+ "metric_label": "Cap rate",
+ "methodology": "Crexi Florida office pull 2026-09-08 via the Crexi asset API, medical / healthcare-tenant office only, ranked by published cap rate; caps cross-checked against published NOI.",
+ "items": [
+  {
+   "id": "medical-fl-2026-09-08-01",
+   "analytics_id": "A-01171",
+   "rank": 1,
+   "submarket": "Orlando",
+   "profile": "Medical Office (Multi-Tenant)",
+   "price_band": "$3M-$4M",
+   "cap_label": "~9.64% cap",
+   "desc": "Medical Office (Multi-Tenant) in Orlando; ~9.64% cap, ~5.2K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Medical Office (Multi-Tenant), Orlando (~9.64% cap)",
+   "highlights": [
+    "Investor: ~17-19% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~5.2K sq ft",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "~17-19% est. cash-on-cash (25% down, IO @ ~7%)",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "medical-fl-2026-09-08-02",
+   "analytics_id": "A-01172",
+   "rank": 2,
+   "submarket": "Palm Coast",
+   "profile": "Medical Office (Multi-Tenant)",
+   "price_band": "$1M-$2M",
+   "cap_label": "~9.60% cap",
+   "desc": "Medical Office (Multi-Tenant) in Palm Coast; ~9.60% cap, ~15K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Medical Office (Multi-Tenant), Palm Coast (~9.60% cap)",
+   "highlights": [
+    "Investor: ~16-18% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~15K sq ft",
+    "recently listed"
+   ],
+   "inv_line": [
+    "~16-18% est. cash-on-cash (25% down, IO @ ~7%)",
+    "recently listed"
+   ]
+  },
+  {
+   "id": "medical-fl-2026-09-08-03",
+   "analytics_id": "A-01173",
+   "rank": 3,
+   "submarket": "Jacksonville",
+   "profile": "Medical Office (Multi-Tenant)",
+   "price_band": "Price on request",
+   "cap_label": "~8.55% cap",
+   "desc": "Medical Office (Multi-Tenant) in Jacksonville; ~8.55% cap, ~110K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Medical Office (Multi-Tenant), Jacksonville (~8.55% cap)",
+   "highlights": [
+    "Investor: ~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~110K sq ft",
+    "recently listed"
+   ],
+   "inv_line": [
+    "~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "recently listed"
+   ]
+  },
+  {
+   "id": "medical-fl-2026-09-08-04",
+   "analytics_id": "A-01174",
+   "rank": 4,
+   "submarket": "Jacksonville",
+   "profile": "Medical Office (Multi-Tenant)",
+   "price_band": "$0K-$500K",
+   "cap_label": "~8.54% cap",
+   "desc": "Medical Office (Multi-Tenant) in Jacksonville; ~8.54% cap, ~2.7K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Medical Office (Multi-Tenant), Jacksonville (~8.54% cap)",
+   "highlights": [
+    "Investor: ~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~2.7K sq ft",
+    "90+ days on market"
+   ],
+   "inv_line": [
+    "~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "90+ days on market"
+   ]
+  },
+  {
+   "id": "medical-fl-2026-09-08-05",
+   "analytics_id": "A-01175",
+   "rank": 5,
+   "submarket": "Jacksonville",
+   "profile": "Medical Office (Multi-Tenant)",
+   "price_band": "Price on request",
+   "cap_label": "~8.50% cap",
+   "desc": "Medical Office (Multi-Tenant) in Jacksonville; ~8.50% cap, ~71K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Medical Office (Multi-Tenant), Jacksonville (~8.50% cap)",
+   "highlights": [
+    "Investor: ~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~71K sq ft",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "medical-fl-2026-09-08-06",
+   "analytics_id": "A-01176",
+   "rank": 6,
+   "submarket": "Englewood",
+   "profile": "Medical Office (Multi-Tenant)",
+   "price_band": "$500K-$1M",
+   "cap_label": "~8.50% cap",
+   "desc": "Medical Office (Multi-Tenant) in Englewood; ~8.50% cap, ~3.9K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Medical Office (Multi-Tenant), Englewood (~8.50% cap)",
+   "highlights": [
+    "Investor: ~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~3.9K sq ft",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "medical-fl-2026-09-08-07",
+   "analytics_id": "A-01177",
+   "rank": 7,
+   "submarket": "Brandon",
+   "profile": "Medical Office (Multi-Tenant)",
+   "price_band": "$5M-$6M",
+   "cap_label": "~8.15% cap",
+   "desc": "Medical Office (Multi-Tenant) in Brandon; ~8.15% cap. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Medical Office (Multi-Tenant), Brandon (~8.15% cap)",
+   "highlights": [
+    "Investor: ~11-13% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Opportunity Zone",
+    "recently listed"
+   ],
+   "inv_line": [
+    "~11-13% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Opportunity Zone",
+    "recently listed"
+   ]
+  },
+  {
+   "id": "medical-fl-2026-09-08-08",
+   "analytics_id": "A-01178",
+   "rank": 8,
+   "submarket": "Orlando",
+   "profile": "Medical Office (Multi-Tenant)",
+   "price_band": "$500K-$1M",
+   "cap_label": "~8.00% cap",
+   "desc": "Medical Office (Multi-Tenant) in Orlando; ~8.00% cap, ~2.7K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Medical Office (Multi-Tenant), Orlando (~8.00% cap)",
+   "highlights": [
+    "Investor: ~10-12% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~2.7K sq ft",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "~10-12% est. cash-on-cash (25% down, IO @ ~7%)",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "medical-fl-2026-09-08-09",
+   "analytics_id": "A-01179",
+   "rank": 9,
+   "submarket": "Brandon",
+   "profile": "Medical Office (Multi-Tenant)",
+   "price_band": "$2M-$3M",
+   "cap_label": "~8.00% cap",
+   "desc": "Medical Office (Multi-Tenant) in Brandon; ~8.00% cap, ~9.1K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Medical Office (Multi-Tenant), Brandon (~8.00% cap)",
+   "highlights": [
+    "Investor: ~10-12% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~9.1K sq ft",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "~10-12% est. cash-on-cash (25% down, IO @ ~7%)",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "medical-fl-2026-09-08-10",
+   "analytics_id": "A-01180",
+   "rank": 10,
+   "submarket": "Orange Park",
+   "profile": "Medical Office (Multi-Tenant)",
+   "price_band": "$1M-$2M",
+   "cap_label": "~8.00% cap",
+   "desc": "Medical Office (Multi-Tenant) in Orange Park; ~8.00% cap, ~5.4K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Medical Office (Multi-Tenant), Orange Park (~8.00% cap)",
+   "highlights": [
+    "Investor: ~10-12% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~5.4K sq ft",
+    "30-90 days on market"
+   ],
+   "inv_line": [
+    "~10-12% est. cash-on-cash (25% down, IO @ ~7%)",
+    "30-90 days on market"
+   ]
+  }
+ ]
+}

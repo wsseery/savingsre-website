@@ -1,0 +1,160 @@
+{
+ "segment": "nnn-fl",
+ "collection": "curated",
+ "template": "curated-generic",
+ "label": "NNN Commercial \u2014 Florida",
+ "tagline": "Top triple-net (NNN) deals statewide \u2014 single & multi-tenant \u00b7 ranked by cap rate",
+ "search_name": "Crexi (FL pull)",
+ "generated": "2026-09-08",
+ "pdf": "pdf/nnn-fl__2026-09-08.pdf",
+ "expires": "2026-10-08",
+ "total_results": 7,
+ "metric_label": "Cap rate",
+ "methodology": "Crexi Florida retail pull 2026-09-08 via the Crexi asset API, net-leased single- and multi-tenant only, ranked by published cap rate; caps cross-checked against published NOI, business-only and zero-cash-flow offerings dropped.",
+ "items": [
+  {
+   "id": "nnn-fl-2026-09-08-01",
+   "analytics_id": "A-01154",
+   "rank": 1,
+   "submarket": "Hudson",
+   "profile": "Net-Leased Automotive",
+   "price_band": "$0K-$500K",
+   "cap_label": "~8.42% cap",
+   "desc": "Net-Leased Automotive in Hudson; ~8.42% cap, ~1.3K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Net-Leased Automotive, Hudson (~8.42% cap)",
+   "highlights": [
+    "Investor: ~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~1.3K sq ft",
+    "Opportunity Zone",
+    "30-90 days on market"
+   ],
+   "inv_line": [
+    "~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Opportunity Zone",
+    "30-90 days on market"
+   ]
+  },
+  {
+   "id": "nnn-fl-2026-09-08-02",
+   "analytics_id": "A-01155",
+   "rank": 2,
+   "submarket": "Cocoa",
+   "profile": "Net-Leased Retail",
+   "price_band": "$2M-$3M",
+   "cap_label": "~8.27% cap",
+   "desc": "Net-Leased Retail in Cocoa; ~8.27% cap, ~17K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Net-Leased Retail, Cocoa (~8.27% cap)",
+   "highlights": [
+    "Investor: ~11-13% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~17K sq ft",
+    "90+ days on market"
+   ],
+   "inv_line": [
+    "~11-13% est. cash-on-cash (25% down, IO @ ~7%)",
+    "90+ days on market"
+   ]
+  },
+  {
+   "id": "nnn-fl-2026-09-08-03",
+   "analytics_id": "A-01156",
+   "rank": 3,
+   "submarket": "Lake City",
+   "profile": "Net-Leased Day Care",
+   "price_band": "$2M-$2M",
+   "cap_label": "~7.74% cap",
+   "desc": "Net-Leased Day Care in Lake City; ~7.74% cap, ~7.1K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Net-Leased Day Care, Lake City (~7.74% cap)",
+   "highlights": [
+    "Investor: ~9-11% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~7.1K sq ft",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "~9-11% est. cash-on-cash (25% down, IO @ ~7%)",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "nnn-fl-2026-09-08-04",
+   "analytics_id": "A-01157",
+   "rank": 4,
+   "submarket": "Melbourne",
+   "profile": "Net-Leased Gas Station / C-Store",
+   "price_band": "$3M-$4M",
+   "cap_label": "~7.70% cap",
+   "desc": "Net-Leased Gas Station / C-Store in Melbourne; ~7.70% cap, ~1.5K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Net-Leased Gas Station / C-Store, Melbourne (~7.70% cap)",
+   "highlights": [
+    "Investor: ~9-11% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~1.5K sq ft",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "~9-11% est. cash-on-cash (25% down, IO @ ~7%)",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "nnn-fl-2026-09-08-05",
+   "analytics_id": "A-01158",
+   "rank": 5,
+   "submarket": "Orlando",
+   "profile": "Net-Leased Restaurant",
+   "price_band": "$8M-$9M",
+   "cap_label": "~7.50% cap",
+   "desc": "Net-Leased Restaurant in Orlando; ~7.50% cap, 5 units, ~13K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Net-Leased Restaurant, Orlando (~7.50% cap)",
+   "highlights": [
+    "Investor: ~8-10% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~13K sq ft",
+    "Seller financing offered",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "~8-10% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Seller financing offered",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "nnn-fl-2026-09-08-06",
+   "analytics_id": "A-01159",
+   "rank": 6,
+   "submarket": "Orlando",
+   "profile": "Net-Leased Restaurant",
+   "price_band": "$4M-$5M",
+   "cap_label": "~7.39% cap",
+   "desc": "Net-Leased Restaurant in Orlando; ~7.39% cap, ~13K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Net-Leased Restaurant, Orlando (~7.39% cap)",
+   "highlights": [
+    "Investor: ~8-10% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~13K sq ft",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "~8-10% est. cash-on-cash (25% down, IO @ ~7%)",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "nnn-fl-2026-09-08-07",
+   "analytics_id": "A-01160",
+   "rank": 7,
+   "submarket": "Zephyrhills",
+   "profile": "Net-Leased Gas Station / C-Store",
+   "price_band": "$3M-$4M",
+   "cap_label": "~7.10% cap",
+   "desc": "Net-Leased Gas Station / C-Store in Zephyrhills; ~7.10% cap, ~2.4K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Net-Leased Gas Station / C-Store, Zephyrhills (~7.10% cap)",
+   "highlights": [
+    "Investor: ~6-8% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~2.4K sq ft",
+    "90+ days on market"
+   ],
+   "inv_line": [
+    "~6-8% est. cash-on-cash (25% down, IO @ ~7%)",
+    "90+ days on market"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,161 @@
+{
+ "segment": "starter-mf-corridor",
+ "collection": "curated",
+ "template": "curated-generic",
+ "label": "Starter Multifamily \u2014 $800K to $2M",
+ "tagline": "Delray Beach to Fort Lauderdale corridor \u00b7 2\u20139 units \u00b7 built for smaller & first-time investors \u00b7 ranked by price per unit",
+ "search_name": "Crexi (FL pull)",
+ "generated": "2026-09-08",
+ "pdf": "pdf/starter-mf-corridor__2026-09-08.pdf",
+ "expires": "2026-10-08",
+ "total_results": 8,
+ "metric_label": "Price per unit",
+ "methodology": "Crexi Delray Beach-to-Fort Lauderdale corridor pull 2026-09-08 via the Crexi asset API. Existing 2-9 unit product priced $800K-$2M, ranked by LOWEST price per unit; built for smaller and first-time investors.",
+ "items": [
+  {
+   "id": "starter-mf-corridor-2026-09-08-01",
+   "analytics_id": "A-01214",
+   "rank": 1,
+   "submarket": "Fort Lauderdale",
+   "profile": "8-Unit Multifamily",
+   "price_band": "$1M-$2M",
+   "cap_label": "~$155K/unit",
+   "desc": "8-Unit Multifamily in Fort Lauderdale; ~$155K/unit, 8 units. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 8-Unit Multifamily, Fort Lauderdale (~$155K/unit)",
+   "highlights": [
+    "Opportunity Zone",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "Opportunity Zone",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "starter-mf-corridor-2026-09-08-02",
+   "analytics_id": "A-01215",
+   "rank": 2,
+   "submarket": "Hallandale Beach",
+   "profile": "9-Unit Multifamily",
+   "price_band": "$2M-$2M",
+   "cap_label": "~$170K/unit",
+   "desc": "9-Unit Multifamily in Hallandale Beach; ~$170K/unit, 9 units, ~3.4K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 9-Unit Multifamily, Hallandale Beach (~$170K/unit)",
+   "highlights": [
+    "~3.4K sq ft",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "starter-mf-corridor-2026-09-08-03",
+   "analytics_id": "A-01216",
+   "rank": 3,
+   "submarket": "Pompano Beach",
+   "profile": "8-Unit Multifamily",
+   "price_band": "$1M-$2M",
+   "cap_label": "~$175K/unit",
+   "desc": "8-Unit Multifamily in Pompano Beach; ~$175K/unit, 8 units, ~3.2K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 8-Unit Multifamily, Pompano Beach (~$175K/unit)",
+   "highlights": [
+    "~3.2K sq ft",
+    "recently listed"
+   ],
+   "inv_line": [
+    "recently listed"
+   ]
+  },
+  {
+   "id": "starter-mf-corridor-2026-09-08-04",
+   "analytics_id": "A-01217",
+   "rank": 4,
+   "submarket": "Dania Beach",
+   "profile": "5-Unit Multifamily",
+   "price_band": "$500K-$1M",
+   "cap_label": "~$180K/unit",
+   "desc": "5-Unit Multifamily in Dania Beach; ~$180K/unit, 5 units, ~2.4K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 5-Unit Multifamily, Dania Beach (~$180K/unit)",
+   "highlights": [
+    "~2.4K sq ft",
+    "90+ days on market"
+   ],
+   "inv_line": [
+    "90+ days on market"
+   ]
+  },
+  {
+   "id": "starter-mf-corridor-2026-09-08-05",
+   "analytics_id": "A-01218",
+   "rank": 5,
+   "submarket": "Hallandale Beach",
+   "profile": "8-Unit Multifamily",
+   "price_band": "$1M-$2M",
+   "cap_label": "~$180K/unit",
+   "desc": "8-Unit Multifamily in Hallandale Beach; ~$180K/unit, 8 units, ~4.9K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 8-Unit Multifamily, Hallandale Beach (~$180K/unit)",
+   "highlights": [
+    "~4.9K sq ft",
+    "90+ days on market"
+   ],
+   "inv_line": [
+    "90+ days on market"
+   ]
+  },
+  {
+   "id": "starter-mf-corridor-2026-09-08-06",
+   "analytics_id": "A-01219",
+   "rank": 6,
+   "submarket": "Hallandale Beach",
+   "profile": "9-Unit Multifamily",
+   "price_band": "$2M-$2M",
+   "cap_label": "~$180K/unit",
+   "desc": "9-Unit Multifamily in Hallandale Beach; ~$180K/unit, 9 units, ~4.8K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 9-Unit Multifamily, Hallandale Beach (~$180K/unit)",
+   "highlights": [
+    "~4.8K sq ft",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "starter-mf-corridor-2026-09-08-07",
+   "analytics_id": "A-01220",
+   "rank": 7,
+   "submarket": "Hallandale Beach",
+   "profile": "8-Unit Multifamily",
+   "price_band": "$2M-$2M",
+   "cap_label": "~$190K/unit",
+   "desc": "8-Unit Multifamily in Hallandale Beach; ~$190K/unit, 8 units, ~6.2K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 8-Unit Multifamily, Hallandale Beach (~$190K/unit)",
+   "highlights": [
+    "~6.2K sq ft",
+    "90+ days on market"
+   ],
+   "inv_line": [
+    "90+ days on market"
+   ]
+  },
+  {
+   "id": "starter-mf-corridor-2026-09-08-08",
+   "analytics_id": "A-01221",
+   "rank": 8,
+   "submarket": "Fort Lauderdale",
+   "profile": "6-Unit Multifamily",
+   "price_band": "$1M-$2M",
+   "cap_label": "~$200K/unit",
+   "desc": "6-Unit Multifamily in Fort Lauderdale; ~$200K/unit, 6 units, ~6.5K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 6-Unit Multifamily, Fort Lauderdale (~$200K/unit)",
+   "highlights": [
+    "~6.5K sq ft",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "180+ days on market"
+   ]
+  }
+ ]
+}
