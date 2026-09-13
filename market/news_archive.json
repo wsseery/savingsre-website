@@ -1,11 +1,47 @@
 {
   "meta": {
     "created": "2026-07-06",
-    "updated": "2026-09-11",
+    "updated": "2026-09-13",
     "note": "Archive of items rotated off the live market/news_data.json 16-item list. Weekly refresh APPENDS dropped items here (newest first) - never delete. Same item schema as news_data.json. Not rendered on the site; kept for content reuse, history, and a future archive/search section.",
-    "count": 104
+    "count": 107
   },
   "items": [
+    {
+      "id": 113,
+      "date": "2026-09-02",
+      "title": "Manalapan Lake-to-Ocean Homesite Trades at $30M After More Than Quadrupling in 11 Years",
+      "summary": "A company managed by auto dealer Ralph Gesualdo sold the nearly 2-acre lake-to-ocean parcel at 1820 South Ocean Boulevard in Manalapan for $30 million in an off-market deal to an entity tied to Palm Beach attorney Maura Ziska of Kochman & Ziska; the end buyer is undisclosed. MGM Designs paid $7 million for the site in 2015, so the price is more than four times the 2015 basis and well above this year's $19.1 million county appraiser value. The last ask was $35 million, per seller's agent Jack Elkins of William Raveis, who calls the barrier island south of Palm Beach the 'next billionaire's bunker.' The low-density residential site runs Intracoastal-to-Atlantic across Ocean Boulevard, with a 1969 cabana and a 1988 dock. Nearby comps: 1800 South Ocean at $25 million last year, Gesualdo's 1920 South Ocean to WeatherTech founder David MacNeil at $36 million in July, and Sean Hannity's 1840 South Ocean at $23.5 million two years ago; Larry Ellison also owns on the island.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/09/02/lake-to-ocean-homesite-in-manalapan-sells-for-30-million/",
+      "category": "Luxury",
+      "tags": ["Manalapan", "Palm Beach County", "land", "oceanfront", "off-market"],
+      "importance": "medium",
+      "archivedOn": "2026-09-13"
+    },
+    {
+      "id": 112,
+      "date": "2026-09-01",
+      "title": "Shoma Lands $172.5M C-PACE Construction Loan for a 333-Unit North Bay Village Condo Tower",
+      "summary": "Shoma Group closed a $172.5 million construction loan from Nuveen Green Capital for Shoma Bay, the 24-story, 333-unit condo-and-retail tower at 1850 John F. Kennedy Causeway in North Bay Village; Newmark's Anthony Orso, Clifford Welden and Daniel Matz arranged the debt. Nuveen calls it one of the five largest C-PACE-financed projects in Florida - a useful marker of how far Commercial Property Assessed Clean Energy debt has moved into mainstream South Florida condo capital stacks. The Coral Gables developer, led by Masoud and Stephanie Shojaee, paid about $16 million for the waterfront site in 2022 planning a rental tower, then converted to condos; a 36,000-square-foot Publix anchors the retail. Asking prices start in the $800,000s with Craig Studnicky's ISG World on sales, and the financing retires a $29.9 million Forman Capital predevelopment loan.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/09/01/shoma-scores-173-million-loan-for-sofla-condo-tower/",
+      "category": "Development",
+      "tags": ["North Bay Village", "Miami-Dade", "condo", "construction loan", "C-PACE"],
+      "importance": "high",
+      "archivedOn": "2026-09-13"
+    },
+    {
+      "id": 111,
+      "date": "2026-09-01",
+      "title": "Miami Advances Little Havana and Miami River Upzoning - 150 Units Per Acre, No Affordable Mandate",
+      "summary": "Miami is moving a pair of zoning and land-use changes covering 661 lots on 136 acres across 11 Little Havana and Miami River-area thoroughfares, plus a companion comprehensive-plan item retargeting 349 properties on 72 acres (47 to medium-density multifamily, 302 to restricted commercial). The changes would open T6-8 zoning - generally up to eight stories - on lots now in lower-rise districts and lift density to 150 units per acre where the baseline runs 36 to 65, potentially adding close to 20,000 residents. Despite planners citing mixed-income housing as the rationale, the proposals carry no affordable-housing guarantee, per Coconut Grove Spotlight. The Planning, Zoning and Appeals Board votes Wednesday evening and forwards a recommendation to the full city commission. Investor read: the area's single-family homes, duplexes, small apartment buildings and retail plazas reprice as land if the density lift survives to the commission.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/09/01/miamis-next-upzoning-targets-little-havana-miami-river/",
+      "category": "Development",
+      "tags": ["Little Havana", "Miami River", "Miami", "upzoning", "density"],
+      "importance": "high",
+      "archivedOn": "2026-09-13"
+    },
     {
       "id": 110,
       "date": "2026-08-31",
