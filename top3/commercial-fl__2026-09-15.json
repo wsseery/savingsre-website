@@ -1,0 +1,215 @@
+{
+ "segment": "commercial-fl",
+ "collection": "curated",
+ "template": "curated-generic",
+ "label": "Commercial & Office — Florida",
+ "tagline": "Top general commercial, office & mixed-use deals statewide · ranked by cap rate",
+ "search_name": "Crexi (FL pull)",
+ "generated": "2026-09-15",
+ "pdf": "pdf/commercial-fl__2026-09-15.pdf",
+ "expires": "2026-10-15",
+ "total_results": 10,
+ "metric_label": "Cap rate",
+ "methodology": "Crexi Florida pull 2026-09-15 via the Crexi asset API (cap-bucket sweep). General commercial, office & mixed-use statewide, ranked by recovered cap rate. NNN, strip-center and medical assets are carried on their own lists and excluded here.",
+ "items": [
+  {
+   "id": "commercial-fl-2026-09-15-01",
+   "analytics_id": "A-01394",
+   "rank": 1,
+   "submarket": "Altamonte Springs",
+   "profile": "Office",
+   "price_band": "$15M-$16M",
+   "cap_label": "~11.00% cap",
+   "desc": "Office in Altamonte Springs; ~11.00% cap, ~98K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Office, Altamonte Springs (~11.00% cap)",
+   "highlights": [
+    "Investor: ~22-24% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~98K sq ft",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "~22-24% est. cash-on-cash (25% down, IO @ ~7%)",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "commercial-fl-2026-09-15-02",
+   "analytics_id": "A-01395",
+   "rank": 2,
+   "submarket": "Maitland",
+   "profile": "Office",
+   "price_band": "$5M-$5M",
+   "cap_label": "~10.95% cap",
+   "desc": "Office in Maitland; ~10.95% cap, ~43K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Office, Maitland (~10.95% cap)",
+   "highlights": [
+    "Investor: ~22-24% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~43K sq ft",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "~22-24% est. cash-on-cash (25% down, IO @ ~7%)",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "commercial-fl-2026-09-15-03",
+   "analytics_id": "A-01396",
+   "rank": 3,
+   "submarket": "Chiefland",
+   "profile": "Office",
+   "price_band": "$0K-$500K",
+   "cap_label": "~10.00% cap",
+   "desc": "Office in Chiefland; ~10.00% cap, ~4.4K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Office, Chiefland (~10.00% cap)",
+   "highlights": [
+    "Investor: ~18-20% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~4.4K sq ft",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "~18-20% est. cash-on-cash (25% down, IO @ ~7%)",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "commercial-fl-2026-09-15-04",
+   "analytics_id": "A-01397",
+   "rank": 4,
+   "submarket": "Orlando",
+   "profile": "Office",
+   "price_band": "$3M-$4M",
+   "cap_label": "~9.64% cap",
+   "desc": "Office in Orlando; ~9.64% cap, ~5.2K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Office, Orlando (~9.64% cap)",
+   "highlights": [
+    "Investor: ~17-19% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~5.2K sq ft",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "~17-19% est. cash-on-cash (25% down, IO @ ~7%)",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "commercial-fl-2026-09-15-05",
+   "analytics_id": "A-01398",
+   "rank": 5,
+   "submarket": "Palm Coast",
+   "profile": "Office",
+   "price_band": "$1M-$1M",
+   "cap_label": "~9.63% cap",
+   "desc": "Office in Palm Coast; ~9.63% cap, ~15K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Office, Palm Coast (~9.63% cap)",
+   "highlights": [
+    "Investor: ~17-19% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~15K sq ft",
+    "recently listed"
+   ],
+   "inv_line": [
+    "~17-19% est. cash-on-cash (25% down, IO @ ~7%)",
+    "recently listed"
+   ]
+  },
+  {
+   "id": "commercial-fl-2026-09-15-06",
+   "analytics_id": "A-01399",
+   "rank": 6,
+   "submarket": "Orange Park",
+   "profile": "Office",
+   "price_band": "$500K-$1M",
+   "cap_label": "~9.58% cap",
+   "desc": "Office in Orange Park; ~9.58% cap, ~3.1K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Office, Orange Park (~9.58% cap)",
+   "highlights": [
+    "Investor: ~16-18% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~3.1K sq ft",
+    "90+ days on market"
+   ],
+   "inv_line": [
+    "~16-18% est. cash-on-cash (25% down, IO @ ~7%)",
+    "90+ days on market"
+   ]
+  },
+  {
+   "id": "commercial-fl-2026-09-15-07",
+   "analytics_id": "A-01400",
+   "rank": 7,
+   "submarket": "Venice",
+   "profile": "Commercial Retail",
+   "price_band": "$0K-$500K",
+   "cap_label": "~9.52% cap",
+   "desc": "Commercial Retail in Venice; ~9.52% cap, ~0.6K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Commercial Retail, Venice (~9.52% cap)",
+   "highlights": [
+    "Investor: ~16-18% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~0.6K sq ft",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "~16-18% est. cash-on-cash (25% down, IO @ ~7%)",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "commercial-fl-2026-09-15-08",
+   "analytics_id": "A-01401",
+   "rank": 8,
+   "submarket": "Jacksonville",
+   "profile": "Office",
+   "price_band": "$5M-$5M",
+   "cap_label": "~9.23% cap",
+   "desc": "Office in Jacksonville; ~9.23% cap. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Office, Jacksonville (~9.23% cap)",
+   "highlights": [
+    "Investor: ~15-17% est. cash-on-cash (25% down, IO @ ~7%)",
+    "90+ days on market"
+   ],
+   "inv_line": [
+    "~15-17% est. cash-on-cash (25% down, IO @ ~7%)",
+    "90+ days on market"
+   ]
+  },
+  {
+   "id": "commercial-fl-2026-09-15-09",
+   "analytics_id": "A-01402",
+   "rank": 9,
+   "submarket": "Orlando",
+   "profile": "Office",
+   "price_band": "$8M-$9M",
+   "cap_label": "~9.00% cap",
+   "desc": "Office in Orlando; ~9.00% cap, ~34K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Office, Orlando (~9.00% cap)",
+   "highlights": [
+    "Investor: ~14-16% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~34K sq ft",
+    "recently listed"
+   ],
+   "inv_line": [
+    "~14-16% est. cash-on-cash (25% down, IO @ ~7%)",
+    "recently listed"
+   ]
+  },
+  {
+   "id": "commercial-fl-2026-09-15-10",
+   "analytics_id": "A-01403",
+   "rank": 10,
+   "submarket": "Live Oak",
+   "profile": "Office",
+   "price_band": "$0K-$500K",
+   "cap_label": "~8.74% cap",
+   "desc": "Office in Live Oak; ~8.74% cap, ~2.7K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Office, Live Oak (~8.74% cap)",
+   "highlights": [
+    "Investor: ~13-15% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~2.7K sq ft",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "~13-15% est. cash-on-cash (25% down, IO @ ~7%)",
+    "180+ days on market"
+   ]
+  }
+ ]
+}

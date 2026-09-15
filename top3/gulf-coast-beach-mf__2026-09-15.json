@@ -1,0 +1,201 @@
+{
+ "segment": "gulf-coast-beach-mf",
+ "collection": "curated",
+ "template": "curated-generic",
+ "label": "Coastal Multifamily — Gulf Beaches",
+ "tagline": "Top 9 · Sarasota–Bradenton–Venice Gulf coast · coastal income multifamily · ranked by cap rate where published, else scale",
+ "search_name": "Crexi (FL pull)",
+ "generated": "2026-09-15",
+ "pdf": "pdf/gulf-coast-beach-mf__2026-09-15.pdf",
+ "expires": "2026-10-15",
+ "total_results": 9,
+ "metric_label": "Cap rate",
+ "methodology": "Crexi Florida pull 2026-09-15 via the Crexi asset API (cap-bucket sweep). Coastal multifamily on the Sarasota-Bradenton-Venice Gulf coast, ranked by recovered cap rate where published, else by scale (unit count). Hospitality/storage/development and land listings excluded.",
+ "items": [
+  {
+   "id": "gulf-coast-beach-mf-2026-09-15-01",
+   "analytics_id": "A-01326",
+   "rank": 1,
+   "submarket": "North Port",
+   "profile": "2-Unit Multifamily",
+   "price_band": "$0K-$500K",
+   "cap_label": "~9.00% cap",
+   "desc": "2-Unit Multifamily in North Port; ~9.00% cap, 2 units, ~1.6K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 2-Unit Multifamily, North Port (~9.00% cap)",
+   "highlights": [
+    "Investor: ~14-16% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~1.6K sq ft",
+    "Opportunity Zone",
+    "90+ days on market"
+   ],
+   "inv_line": [
+    "~14-16% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Opportunity Zone",
+    "90+ days on market"
+   ]
+  },
+  {
+   "id": "gulf-coast-beach-mf-2026-09-15-02",
+   "analytics_id": "A-01327",
+   "rank": 2,
+   "submarket": "North Port",
+   "profile": "2-Unit Multifamily",
+   "price_band": "$0K-$500K",
+   "cap_label": "~9.00% cap",
+   "desc": "2-Unit Multifamily in North Port; ~9.00% cap, 2 units. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 2-Unit Multifamily, North Port (~9.00% cap)",
+   "highlights": [
+    "Investor: ~14-16% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Opportunity Zone",
+    "90+ days on market"
+   ],
+   "inv_line": [
+    "~14-16% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Opportunity Zone",
+    "90+ days on market"
+   ]
+  },
+  {
+   "id": "gulf-coast-beach-mf-2026-09-15-03",
+   "analytics_id": "A-01328",
+   "rank": 3,
+   "submarket": "Palmetto",
+   "profile": "8-Unit Multifamily",
+   "price_band": "$1M-$1M",
+   "cap_label": "~8.50% cap",
+   "desc": "8-Unit Multifamily in Palmetto; ~8.50% cap, 8 units, ~6.6K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 8-Unit Multifamily, Palmetto (~8.50% cap)",
+   "highlights": [
+    "Investor: ~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~6.6K sq ft",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "gulf-coast-beach-mf-2026-09-15-04",
+   "analytics_id": "A-01329",
+   "rank": 4,
+   "submarket": "Bradenton",
+   "profile": "2-Unit Multifamily",
+   "price_band": "$500K-$1M",
+   "cap_label": "~7.60% cap",
+   "desc": "2-Unit Multifamily in Bradenton; ~7.60% cap, 2 units, ~2.7K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 2-Unit Multifamily, Bradenton (~7.60% cap)",
+   "highlights": [
+    "Investor: ~8-10% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~2.7K sq ft",
+    "Opportunity Zone",
+    "90+ days on market"
+   ],
+   "inv_line": [
+    "~8-10% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Opportunity Zone",
+    "90+ days on market"
+   ]
+  },
+  {
+   "id": "gulf-coast-beach-mf-2026-09-15-05",
+   "analytics_id": "A-01330",
+   "rank": 5,
+   "submarket": "Sarasota",
+   "profile": "16-Unit Multifamily",
+   "price_band": "$2M-$2M",
+   "cap_label": "~7.47% cap",
+   "desc": "16-Unit Multifamily in Sarasota; ~7.47% cap, 16 units, ~8.2K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 16-Unit Multifamily, Sarasota (~7.47% cap)",
+   "highlights": [
+    "Investor: ~8-10% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~8.2K sq ft",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "~8-10% est. cash-on-cash (25% down, IO @ ~7%)",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "gulf-coast-beach-mf-2026-09-15-06",
+   "analytics_id": "A-01331",
+   "rank": 6,
+   "submarket": "Bradenton",
+   "profile": "2-Unit Multifamily",
+   "price_band": "$0K-$500K",
+   "cap_label": "~7.03% cap",
+   "desc": "2-Unit Multifamily in Bradenton; ~7.03% cap, 2 units, ~2.5K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 2-Unit Multifamily, Bradenton (~7.03% cap)",
+   "highlights": [
+    "Investor: ~6-8% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~2.5K sq ft",
+    "30-90 days on market"
+   ],
+   "inv_line": [
+    "~6-8% est. cash-on-cash (25% down, IO @ ~7%)",
+    "30-90 days on market"
+   ]
+  },
+  {
+   "id": "gulf-coast-beach-mf-2026-09-15-07",
+   "analytics_id": "A-01332",
+   "rank": 7,
+   "submarket": "Sarasota",
+   "profile": "2-Unit Multifamily",
+   "price_band": "$1M-$2M",
+   "cap_label": "~6.82% cap",
+   "desc": "2-Unit Multifamily in Sarasota; ~6.82% cap, 2 units, ~8.5K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 2-Unit Multifamily, Sarasota (~6.82% cap)",
+   "highlights": [
+    "Investor: ~5-7% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~8.5K sq ft",
+    "90+ days on market"
+   ],
+   "inv_line": [
+    "~5-7% est. cash-on-cash (25% down, IO @ ~7%)",
+    "90+ days on market"
+   ]
+  },
+  {
+   "id": "gulf-coast-beach-mf-2026-09-15-08",
+   "analytics_id": "A-01333",
+   "rank": 8,
+   "submarket": "Sarasota",
+   "profile": "4-Unit Multifamily",
+   "price_band": "$1M-$1M",
+   "cap_label": "~6.79% cap",
+   "desc": "4-Unit Multifamily in Sarasota; ~6.79% cap, 4 units, ~5.5K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 4-Unit Multifamily, Sarasota (~6.79% cap)",
+   "highlights": [
+    "Investor: ~5-7% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~5.5K sq ft",
+    "90+ days on market"
+   ],
+   "inv_line": [
+    "~5-7% est. cash-on-cash (25% down, IO @ ~7%)",
+    "90+ days on market"
+   ]
+  },
+  {
+   "id": "gulf-coast-beach-mf-2026-09-15-09",
+   "analytics_id": "A-01334",
+   "rank": 9,
+   "submarket": "Bradenton",
+   "profile": "20-Unit Multifamily",
+   "price_band": "$3M-$3M",
+   "cap_label": "~6.64% cap",
+   "desc": "20-Unit Multifamily in Bradenton; ~6.64% cap, 20 units, ~15K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 20-Unit Multifamily, Bradenton (~6.64% cap)",
+   "highlights": [
+    "Investor: ~5-7% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~15K sq ft",
+    "recently listed"
+   ],
+   "inv_line": [
+    "~5-7% est. cash-on-cash (25% down, IO @ ~7%)",
+    "recently listed"
+   ]
+  }
+ ]
+}
