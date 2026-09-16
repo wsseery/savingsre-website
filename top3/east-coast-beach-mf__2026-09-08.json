@@ -1,0 +1,216 @@
+{
+ "segment": "east-coast-beach-mf",
+ "collection": "curated",
+ "template": "curated-generic",
+ "label": "Coastal Multifamily \u2014 Atlantic Beaches",
+ "tagline": "Top 10 \u00b7 Fort Lauderdale to Boynton Beach \u00b7 coastal income multifamily \u00b7 ranked by cap rate where published, else scale",
+ "search_name": "Crexi (FL pull)",
+ "generated": "2026-09-08",
+ "pdf": "pdf/east-coast-beach-mf__2026-09-08.pdf",
+ "expires": "2026-10-08",
+ "total_results": 10,
+ "metric_label": "Cap rate",
+ "methodology": "Crexi Fort Lauderdale-to-Boynton Beach corridor pull 2026-09-08 via the Crexi asset API. Coastal income multifamily, 2-99 units, ranked by published cap rate then scale.",
+ "items": [
+  {
+   "id": "east-coast-beach-mf-2026-09-08-01",
+   "analytics_id": "A-01199",
+   "rank": 1,
+   "submarket": "Fort Lauderdale",
+   "profile": "13-Unit Multifamily",
+   "price_band": "$2M-$3M",
+   "cap_label": "~7.11% cap",
+   "desc": "13-Unit Multifamily in Fort Lauderdale; ~7.11% cap, 13 units, ~6.0K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 13-Unit Multifamily, Fort Lauderdale (~7.11% cap)",
+   "highlights": [
+    "Investor: ~6-8% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~9-10x GRM",
+    "~6.0K sq ft",
+    "30-90 days on market"
+   ],
+   "inv_line": [
+    "~6-8% est. cash-on-cash (25% down, IO @ ~7%)",
+    "30-90 days on market"
+   ]
+  },
+  {
+   "id": "east-coast-beach-mf-2026-09-08-02",
+   "analytics_id": "A-01200",
+   "rank": 2,
+   "submarket": "Hollywood",
+   "profile": "20-Unit Multifamily",
+   "price_band": "$2M-$2M",
+   "cap_label": "~7.03% cap",
+   "desc": "20-Unit Multifamily in Hollywood; ~7.03% cap, 20 units, ~7.4K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 20-Unit Multifamily, Hollywood (~7.03% cap)",
+   "highlights": [
+    "Investor: ~6-8% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~9-10x GRM",
+    "~7.4K sq ft",
+    "90+ days on market"
+   ],
+   "inv_line": [
+    "~6-8% est. cash-on-cash (25% down, IO @ ~7%)",
+    "90+ days on market"
+   ]
+  },
+  {
+   "id": "east-coast-beach-mf-2026-09-08-03",
+   "analytics_id": "A-01201",
+   "rank": 3,
+   "submarket": "Lake Worth Beach",
+   "profile": "4-Unit Multifamily",
+   "price_band": "$500K-$1M",
+   "cap_label": "~6.50% cap",
+   "desc": "4-Unit Multifamily in Lake Worth Beach; ~6.50% cap, 4 units, ~2.3K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 4-Unit Multifamily, Lake Worth Beach (~6.50% cap)",
+   "highlights": [
+    "Investor: ~4-6% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~10-11x GRM",
+    "~2.3K sq ft",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "~4-6% est. cash-on-cash (25% down, IO @ ~7%)",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "east-coast-beach-mf-2026-09-08-04",
+   "analytics_id": "A-01202",
+   "rank": 4,
+   "submarket": "Lake Worth Beach",
+   "profile": "3-Unit Multifamily",
+   "price_band": "$500K-$1M",
+   "cap_label": "~6.50% cap",
+   "desc": "3-Unit Multifamily in Lake Worth Beach; ~6.50% cap, 3 units, ~2.4K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 3-Unit Multifamily, Lake Worth Beach (~6.50% cap)",
+   "highlights": [
+    "Investor: ~4-6% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~10-11x GRM",
+    "~2.4K sq ft",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "~4-6% est. cash-on-cash (25% down, IO @ ~7%)",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "east-coast-beach-mf-2026-09-08-05",
+   "analytics_id": "A-01203",
+   "rank": 5,
+   "submarket": "Hollywood",
+   "profile": "14-Unit Multifamily",
+   "price_band": "$2M-$3M",
+   "cap_label": "~5.63% cap",
+   "desc": "14-Unit Multifamily in Hollywood; ~5.63% cap, 14 units, ~8.3K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 14-Unit Multifamily, Hollywood (~5.63% cap)",
+   "highlights": [
+    "Investor: Levered spread thin at ~7% debt (rate-sensitive)",
+    "~12-13x GRM",
+    "~8.3K sq ft",
+    "90+ days on market"
+   ],
+   "inv_line": [
+    "Levered spread thin at ~7% debt (rate-sensitive)",
+    "90+ days on market"
+   ]
+  },
+  {
+   "id": "east-coast-beach-mf-2026-09-08-06",
+   "analytics_id": "A-01204",
+   "rank": 6,
+   "submarket": "Pompano Beach",
+   "profile": "98-Unit Apartment Community",
+   "price_band": "$13M-$14M",
+   "cap_label": "~$140K/unit",
+   "desc": "98-Unit Apartment Community in Pompano Beach; ~$140K/unit, 98 units, ~47K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 98-Unit Apartment Community, Pompano Beach (~$140K/unit)",
+   "highlights": [
+    "~47K sq ft",
+    "Opportunity Zone",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "Opportunity Zone",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "east-coast-beach-mf-2026-09-08-07",
+   "analytics_id": "A-01205",
+   "rank": 7,
+   "submarket": "West Palm Beach",
+   "profile": "68-Unit Apartment Community",
+   "price_band": "$17M-$18M",
+   "cap_label": "~$265K/unit",
+   "desc": "68-Unit Apartment Community in West Palm Beach; ~$265K/unit, 68 units, ~76K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 68-Unit Apartment Community, West Palm Beach (~$265K/unit)",
+   "highlights": [
+    "~76K sq ft",
+    "Opportunity Zone",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "Opportunity Zone",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "east-coast-beach-mf-2026-09-08-08",
+   "analytics_id": "A-01206",
+   "rank": 8,
+   "submarket": "Hollywood",
+   "profile": "48-Unit Apartment Community",
+   "price_band": "$4M-$5M",
+   "cap_label": "~$90K/unit",
+   "desc": "48-Unit Apartment Community in Hollywood; ~$90K/unit, 48 units, ~14K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 48-Unit Apartment Community, Hollywood (~$90K/unit)",
+   "highlights": [
+    "~14K sq ft",
+    "90+ days on market"
+   ],
+   "inv_line": [
+    "90+ days on market"
+   ]
+  },
+  {
+   "id": "east-coast-beach-mf-2026-09-08-09",
+   "analytics_id": "A-01207",
+   "rank": 9,
+   "submarket": "Pompano Beach",
+   "profile": "46-Unit Apartment Community",
+   "price_band": "$8M-$9M",
+   "cap_label": "~$185K/unit",
+   "desc": "46-Unit Apartment Community in Pompano Beach; ~$185K/unit, 46 units, ~35K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 46-Unit Apartment Community, Pompano Beach (~$185K/unit)",
+   "highlights": [
+    "~35K sq ft",
+    "recently listed"
+   ],
+   "inv_line": [
+    "recently listed"
+   ]
+  },
+  {
+   "id": "east-coast-beach-mf-2026-09-08-10",
+   "analytics_id": "A-01208",
+   "rank": 10,
+   "submarket": "Fort Lauderdale",
+   "profile": "40-Unit Apartment Community",
+   "price_band": "$5M-$6M",
+   "cap_label": "~$145K/unit",
+   "desc": "40-Unit Apartment Community in Fort Lauderdale; ~$145K/unit, 40 units. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 40-Unit Apartment Community, Fort Lauderdale (~$145K/unit)",
+   "highlights": [
+    "Opportunity Zone",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "Opportunity Zone",
+    "180+ days on market"
+   ]
+  }
+ ]
+}

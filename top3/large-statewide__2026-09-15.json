@@ -1,0 +1,208 @@
+{
+ "segment": "large-statewide",
+ "collection": "curated",
+ "template": "curated-generic",
+ "label": "Larger Investments — 40+ Units",
+ "tagline": "Top 10 · Statewide · 40+ units · ranked by scale; institutional & value-add",
+ "search_name": "Crexi (FL pull)",
+ "generated": "2026-09-15",
+ "pdf": "pdf/large-statewide__2026-09-15.pdf",
+ "expires": "2026-10-15",
+ "total_results": 10,
+ "metric_label": "Units / price per unit",
+ "methodology": "Crexi Florida pull 2026-09-15 via the Crexi asset API. Multifamily 40+ units statewide, ranked by scale (unit count); recovered cap and $/unit shown where a price is published. Land, MPUD/entitlement and unbuilt offerings and sub-$70K/unit aggregation plays excluded.",
+ "items": [
+  {
+   "id": "large-statewide-2026-09-15-01",
+   "analytics_id": "A-01355",
+   "rank": 1,
+   "submarket": "Pine Hills",
+   "profile": "330-Unit Apartment Community",
+   "price_band": "$54M-$56M",
+   "cap_label": "~6.57% cap",
+   "desc": "330-Unit Apartment Community in Pine Hills; ~6.57% cap, 330 units, ~257K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 330-Unit Apartment Community, Pine Hills (~6.57% cap)",
+   "highlights": [
+    "Investor: ~4-6% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~257K sq ft",
+    "recently listed"
+   ],
+   "inv_line": [
+    "~4-6% est. cash-on-cash (25% down, IO @ ~7%)",
+    "recently listed"
+   ]
+  },
+  {
+   "id": "large-statewide-2026-09-15-02",
+   "analytics_id": "A-01356",
+   "rank": 2,
+   "submarket": "Tallahassee",
+   "profile": "200-Unit Apartment Community",
+   "price_band": "$28M-$30M",
+   "cap_label": "~7.79% cap",
+   "desc": "200-Unit Apartment Community in Tallahassee; ~7.79% cap, 200 units, ~201K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 200-Unit Apartment Community, Tallahassee (~7.79% cap)",
+   "highlights": [
+    "Investor: ~9-11% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~201K sq ft",
+    "90+ days on market"
+   ],
+   "inv_line": [
+    "~9-11% est. cash-on-cash (25% down, IO @ ~7%)",
+    "90+ days on market"
+   ]
+  },
+  {
+   "id": "large-statewide-2026-09-15-03",
+   "analytics_id": "A-01357",
+   "rank": 3,
+   "submarket": "Lauderhill",
+   "profile": "192-Unit Apartment Community",
+   "price_band": "$44M-$46M",
+   "cap_label": "~5.85% cap",
+   "desc": "192-Unit Apartment Community in Lauderhill; ~5.85% cap, 192 units, ~179K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 192-Unit Apartment Community, Lauderhill (~5.85% cap)",
+   "highlights": [
+    "Investor: ~1-3% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~179K sq ft",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "~1-3% est. cash-on-cash (25% down, IO @ ~7%)",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "large-statewide-2026-09-15-04",
+   "analytics_id": "A-01358",
+   "rank": 4,
+   "submarket": "Clearwater",
+   "profile": "155-Unit Rental Portfolio",
+   "price_band": "$32M-$34M",
+   "cap_label": "~6.00% cap",
+   "desc": "155-Unit Rental Portfolio in Clearwater; ~6.00% cap, 155 units, ~150K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 155-Unit Rental Portfolio, Clearwater (~6.00% cap)",
+   "highlights": [
+    "Investor: ~2-4% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~150K sq ft",
+    "90+ days on market"
+   ],
+   "inv_line": [
+    "~2-4% est. cash-on-cash (25% down, IO @ ~7%)",
+    "90+ days on market"
+   ]
+  },
+  {
+   "id": "large-statewide-2026-09-15-05",
+   "analytics_id": "A-01359",
+   "rank": 5,
+   "submarket": "Bradenton",
+   "profile": "152-Unit Apartment Community",
+   "price_band": "$28M-$30M",
+   "cap_label": "152 units",
+   "desc": "152-Unit Apartment Community in Bradenton; 152 units, 152 units, ~151K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 152-Unit Apartment Community, Bradenton (152 units)",
+   "highlights": [
+    "~151K sq ft",
+    "30-90 days on market"
+   ],
+   "inv_line": [
+    "30-90 days on market"
+   ]
+  },
+  {
+   "id": "large-statewide-2026-09-15-06",
+   "analytics_id": "A-01360",
+   "rank": 6,
+   "submarket": "Tallahassee",
+   "profile": "123-Unit Apartment Community",
+   "price_band": "$15M-$15M",
+   "cap_label": "~6.93% cap",
+   "desc": "123-Unit Apartment Community in Tallahassee; ~6.93% cap, 123 units, ~138K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 123-Unit Apartment Community, Tallahassee (~6.93% cap)",
+   "highlights": [
+    "Investor: ~6-8% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~138K sq ft",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "~6-8% est. cash-on-cash (25% down, IO @ ~7%)",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "large-statewide-2026-09-15-07",
+   "analytics_id": "A-01361",
+   "rank": 7,
+   "submarket": "Gainesville",
+   "profile": "114-Unit Student Housing Community",
+   "price_band": "$20M-$22M",
+   "cap_label": "114 units",
+   "desc": "114-Unit Student Housing Community in Gainesville; 114 units, 114 units, ~49K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 114-Unit Student Housing Community, Gainesville (114 units)",
+   "highlights": [
+    "~49K sq ft",
+    "recently listed"
+   ],
+   "inv_line": [
+    "recently listed"
+   ]
+  },
+  {
+   "id": "large-statewide-2026-09-15-08",
+   "analytics_id": "A-01362",
+   "rank": 8,
+   "submarket": "Sunrise",
+   "profile": "113-Unit Apartment Community",
+   "price_band": "$20M-$22M",
+   "cap_label": "~6.89% cap",
+   "desc": "113-Unit Apartment Community in Sunrise; ~6.89% cap, 113 units, ~99K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 113-Unit Apartment Community, Sunrise (~6.89% cap)",
+   "highlights": [
+    "Investor: ~6-8% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~99K sq ft",
+    "30-90 days on market"
+   ],
+   "inv_line": [
+    "~6-8% est. cash-on-cash (25% down, IO @ ~7%)",
+    "30-90 days on market"
+   ]
+  },
+  {
+   "id": "large-statewide-2026-09-15-09",
+   "analytics_id": "A-01363",
+   "rank": 9,
+   "submarket": "Cape Canaveral",
+   "profile": "112-Unit Apartment Community",
+   "price_band": "$8M-$8M",
+   "cap_label": "112 units",
+   "desc": "112-Unit Apartment Community in Cape Canaveral; 112 units, 112 units, ~385K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 112-Unit Apartment Community, Cape Canaveral (112 units)",
+   "highlights": [
+    "~385K sq ft",
+    "90+ days on market"
+   ],
+   "inv_line": [
+    "90+ days on market"
+   ]
+  },
+  {
+   "id": "large-statewide-2026-09-15-10",
+   "analytics_id": "A-01364",
+   "rank": 10,
+   "submarket": "Brooksville",
+   "profile": "111-Unit Apartment Community",
+   "price_band": "$11M-$11M",
+   "cap_label": "111 units",
+   "desc": "111-Unit Apartment Community in Brooksville; 111 units, 111 units, ~61K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 111-Unit Apartment Community, Brooksville (111 units)",
+   "highlights": [
+    "~61K sq ft",
+    "recently listed"
+   ],
+   "inv_line": [
+    "recently listed"
+   ]
+  }
+ ]
+}

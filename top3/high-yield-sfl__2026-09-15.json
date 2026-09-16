@@ -1,0 +1,224 @@
+{
+ "segment": "high-yield-sfl",
+ "collection": "curated",
+ "template": "curated-generic",
+ "label": "High-Yield Multifamily — 8%+ Cap",
+ "tagline": "Top 10 · Florida (statewide) · 4–30 units · value-add & high-yield · ranked by cap rate",
+ "search_name": "Crexi (FL pull)",
+ "generated": "2026-09-15",
+ "pdf": "pdf/high-yield-sfl__2026-09-15.pdf",
+ "expires": "2026-10-15",
+ "total_results": 10,
+ "metric_label": "Cap rate",
+ "methodology": "Crexi Florida pull 2026-09-15 via the Crexi asset API (search + capRateMin/capRateMax 0.01-bucket sweep to recover masked cap rates; NOI derived as cap x price; units inferred from listing name). Multifamily 4-30 units statewide, ranked by recovered cap rate. Best available each week; 8%+ where the market offers it. Hospitality/storage/development, land/entitlement, portfolio-aggregation and stated-cap-conflict listings dropped.",
+ "items": [
+  {
+   "id": "high-yield-sfl-2026-09-15-01",
+   "analytics_id": "A-01316",
+   "rank": 1,
+   "submarket": "Gainesville",
+   "profile": "4-Unit Multifamily",
+   "price_band": "$0K-$500K",
+   "cap_label": "~10.23% cap",
+   "desc": "4-Unit Multifamily in Gainesville; ~10.23% cap, 4 units, ~4.2K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 4-Unit Multifamily, Gainesville (~10.23% cap)",
+   "highlights": [
+    "Investor: ~19-21% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~4.2K sq ft",
+    "30-90 days on market"
+   ],
+   "inv_line": [
+    "~19-21% est. cash-on-cash (25% down, IO @ ~7%)",
+    "30-90 days on market"
+   ]
+  },
+  {
+   "id": "high-yield-sfl-2026-09-15-02",
+   "analytics_id": "A-01317",
+   "rank": 2,
+   "submarket": "South Daytona",
+   "profile": "8-Unit Multifamily",
+   "price_band": "$1M-$1M",
+   "cap_label": "~10.18% cap",
+   "desc": "8-Unit Multifamily in South Daytona; ~10.18% cap, 8 units, ~5.3K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 8-Unit Multifamily, South Daytona (~10.18% cap)",
+   "highlights": [
+    "Investor: ~19-21% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~5.3K sq ft",
+    "Opportunity Zone",
+    "recently listed"
+   ],
+   "inv_line": [
+    "~19-21% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Opportunity Zone",
+    "recently listed"
+   ]
+  },
+  {
+   "id": "high-yield-sfl-2026-09-15-03",
+   "analytics_id": "A-01318",
+   "rank": 3,
+   "submarket": "Cocoa Beach",
+   "profile": "7-Unit Multifamily",
+   "price_band": "$1M-$2M",
+   "cap_label": "~10.09% cap",
+   "desc": "7-Unit Multifamily in Cocoa Beach; ~10.09% cap, 7 units, ~3.3K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 7-Unit Multifamily, Cocoa Beach (~10.09% cap)",
+   "highlights": [
+    "Investor: ~18-20% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~3.3K sq ft",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "~18-20% est. cash-on-cash (25% down, IO @ ~7%)",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "high-yield-sfl-2026-09-15-04",
+   "analytics_id": "A-01319",
+   "rank": 4,
+   "submarket": "Gainesville",
+   "profile": "4-Unit Multifamily",
+   "price_band": "$0K-$500K",
+   "cap_label": "~9.79% cap",
+   "desc": "4-Unit Multifamily in Gainesville; ~9.79% cap, 4 units, ~3.9K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 4-Unit Multifamily, Gainesville (~9.79% cap)",
+   "highlights": [
+    "Investor: ~17-19% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~3.9K sq ft",
+    "30-90 days on market"
+   ],
+   "inv_line": [
+    "~17-19% est. cash-on-cash (25% down, IO @ ~7%)",
+    "30-90 days on market"
+   ]
+  },
+  {
+   "id": "high-yield-sfl-2026-09-15-05",
+   "analytics_id": "A-01320",
+   "rank": 5,
+   "submarket": "Lecanto",
+   "profile": "4-Unit Multifamily",
+   "price_band": "$500K-$1M",
+   "cap_label": "~9.78% cap",
+   "desc": "4-Unit Multifamily in Lecanto; ~9.78% cap, 4 units, ~3.9K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 4-Unit Multifamily, Lecanto (~9.78% cap)",
+   "highlights": [
+    "Investor: ~17-19% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~3.9K sq ft",
+    "recently listed"
+   ],
+   "inv_line": [
+    "~17-19% est. cash-on-cash (25% down, IO @ ~7%)",
+    "recently listed"
+   ]
+  },
+  {
+   "id": "high-yield-sfl-2026-09-15-06",
+   "analytics_id": "A-01321",
+   "rank": 6,
+   "submarket": "Miami",
+   "profile": "10-Unit Multifamily",
+   "price_band": "$3M-$4M",
+   "cap_label": "~9.50% cap",
+   "desc": "10-Unit Multifamily in Miami; ~9.50% cap, 10 units, ~5.6K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 10-Unit Multifamily, Miami (~9.50% cap)",
+   "highlights": [
+    "Investor: ~16-18% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~5.6K sq ft",
+    "recently listed"
+   ],
+   "inv_line": [
+    "~16-18% est. cash-on-cash (25% down, IO @ ~7%)",
+    "recently listed"
+   ]
+  },
+  {
+   "id": "high-yield-sfl-2026-09-15-07",
+   "analytics_id": "A-01322",
+   "rank": 7,
+   "submarket": "Winter Haven",
+   "profile": "5-Unit Multifamily",
+   "price_band": "$500K-$1M",
+   "cap_label": "~9.41% cap",
+   "desc": "5-Unit Multifamily in Winter Haven; ~9.41% cap, 5 units, ~3.2K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 5-Unit Multifamily, Winter Haven (~9.41% cap)",
+   "highlights": [
+    "Investor: ~16-18% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~3.2K sq ft",
+    "price reduced",
+    "90+ days on market"
+   ],
+   "inv_line": [
+    "~16-18% est. cash-on-cash (25% down, IO @ ~7%)",
+    "price reduced",
+    "90+ days on market"
+   ]
+  },
+  {
+   "id": "high-yield-sfl-2026-09-15-08",
+   "analytics_id": "A-01323",
+   "rank": 8,
+   "submarket": "Fort Lauderdale",
+   "profile": "9-Unit Multifamily",
+   "price_band": "$2M-$2M",
+   "cap_label": "~9.38% cap",
+   "desc": "9-Unit Multifamily in Fort Lauderdale; ~9.38% cap, 9 units, ~3.8K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 9-Unit Multifamily, Fort Lauderdale (~9.38% cap)",
+   "highlights": [
+    "Investor: ~16-18% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~3.8K sq ft",
+    "price reduced",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "~16-18% est. cash-on-cash (25% down, IO @ ~7%)",
+    "price reduced",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "high-yield-sfl-2026-09-15-09",
+   "analytics_id": "A-01324",
+   "rank": 9,
+   "submarket": "St. Petersburg",
+   "profile": "4-Unit Multifamily",
+   "price_band": "$500K-$1M",
+   "cap_label": "~9.26% cap",
+   "desc": "4-Unit Multifamily in St. Petersburg; ~9.26% cap, 4 units, ~2.2K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 4-Unit Multifamily, St. Petersburg (~9.26% cap)",
+   "highlights": [
+    "Investor: ~15-17% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~2.2K sq ft",
+    "Opportunity Zone",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "~15-17% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Opportunity Zone",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "high-yield-sfl-2026-09-15-10",
+   "analytics_id": "A-01325",
+   "rank": 10,
+   "submarket": "Gainesville",
+   "profile": "4-Unit Multifamily",
+   "price_band": "$0K-$500K",
+   "cap_label": "~9.25% cap",
+   "desc": "4-Unit Multifamily in Gainesville; ~9.25% cap, 4 units, ~2.9K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 4-Unit Multifamily, Gainesville (~9.25% cap)",
+   "highlights": [
+    "Investor: ~15-17% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~2.9K sq ft",
+    "30-90 days on market"
+   ],
+   "inv_line": [
+    "~15-17% est. cash-on-cash (25% down, IO @ ~7%)",
+    "30-90 days on market"
+   ]
+  }
+ ]
+}

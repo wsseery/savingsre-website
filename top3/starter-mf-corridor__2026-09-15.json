@@ -1,0 +1,179 @@
+{
+ "segment": "starter-mf-corridor",
+ "collection": "curated",
+ "template": "curated-generic",
+ "label": "Starter Multifamily — $800K to $2M",
+ "tagline": "Delray Beach to Fort Lauderdale corridor · 2–9 units · built for smaller & first-time investors · ranked by price per unit",
+ "search_name": "Crexi (FL pull)",
+ "generated": "2026-09-15",
+ "pdf": "pdf/starter-mf-corridor__2026-09-15.pdf",
+ "expires": "2026-10-15",
+ "total_results": 8,
+ "metric_label": "Price per unit",
+ "methodology": "Crexi Florida pull 2026-09-15 via the Crexi asset API (cap-bucket sweep). Smaller multifamily in the Delray Beach to Fort Lauderdale corridor, 2-9 units, $800K-$2M, ranked by lowest price per unit for smaller & first-time investors.",
+ "items": [
+  {
+   "id": "starter-mf-corridor-2026-09-15-01",
+   "analytics_id": "A-01335",
+   "rank": 1,
+   "submarket": "Fort Lauderdale",
+   "profile": "3-Unit Multifamily",
+   "price_band": "$500K-$1M",
+   "cap_label": "~9.45% cap",
+   "desc": "3-Unit Multifamily in Fort Lauderdale; ~9.45% cap, 3 units, ~1.5K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 3-Unit Multifamily, Fort Lauderdale (~9.45% cap)",
+   "highlights": [
+    "Investor: ~16-18% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~1.5K sq ft",
+    "price reduced",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "~16-18% est. cash-on-cash (25% down, IO @ ~7%)",
+    "price reduced",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "starter-mf-corridor-2026-09-15-02",
+   "analytics_id": "A-01337",
+   "rank": 2,
+   "submarket": "Fort Lauderdale",
+   "profile": "6-Unit Multifamily",
+   "price_band": "$1M-$2M",
+   "cap_label": "~8.58% cap",
+   "desc": "6-Unit Multifamily in Fort Lauderdale; ~8.58% cap, 6 units, ~2.8K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 6-Unit Multifamily, Fort Lauderdale (~8.58% cap)",
+   "highlights": [
+    "Investor: ~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~2.8K sq ft",
+    "price reduced",
+    "90+ days on market"
+   ],
+   "inv_line": [
+    "~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "price reduced",
+    "90+ days on market"
+   ]
+  },
+  {
+   "id": "starter-mf-corridor-2026-09-15-03",
+   "analytics_id": "A-01349",
+   "rank": 3,
+   "submarket": "Boynton Beach",
+   "profile": "2-Unit Multifamily",
+   "price_band": "$1M-$2M",
+   "cap_label": "~7.00% cap",
+   "desc": "2-Unit Multifamily in Boynton Beach; ~7.00% cap, 2 units, ~1.8K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 2-Unit Multifamily, Boynton Beach (~7.00% cap)",
+   "highlights": [
+    "Investor: ~6-8% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~1.8K sq ft",
+    "30-90 days on market"
+   ],
+   "inv_line": [
+    "~6-8% est. cash-on-cash (25% down, IO @ ~7%)",
+    "30-90 days on market"
+   ]
+  },
+  {
+   "id": "starter-mf-corridor-2026-09-15-04",
+   "analytics_id": "A-01350",
+   "rank": 4,
+   "submarket": "Fort Lauderdale",
+   "profile": "6-Unit Multifamily",
+   "price_band": "$1M-$1M",
+   "cap_label": "~6.44% cap",
+   "desc": "6-Unit Multifamily in Fort Lauderdale; ~6.44% cap, 6 units, ~4.9K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 6-Unit Multifamily, Fort Lauderdale (~6.44% cap)",
+   "highlights": [
+    "Investor: ~4-6% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~4.9K sq ft",
+    "90+ days on market"
+   ],
+   "inv_line": [
+    "~4-6% est. cash-on-cash (25% down, IO @ ~7%)",
+    "90+ days on market"
+   ]
+  },
+  {
+   "id": "starter-mf-corridor-2026-09-15-05",
+   "analytics_id": "A-01351",
+   "rank": 5,
+   "submarket": "Pompano Beach",
+   "profile": "8-Unit Multifamily",
+   "price_band": "$1M-$2M",
+   "cap_label": "~6.43% cap",
+   "desc": "8-Unit Multifamily in Pompano Beach; ~6.43% cap, 8 units. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 8-Unit Multifamily, Pompano Beach (~6.43% cap)",
+   "highlights": [
+    "Investor: ~4-6% est. cash-on-cash (25% down, IO @ ~7%)",
+    "90+ days on market"
+   ],
+   "inv_line": [
+    "~4-6% est. cash-on-cash (25% down, IO @ ~7%)",
+    "90+ days on market"
+   ]
+  },
+  {
+   "id": "starter-mf-corridor-2026-09-15-06",
+   "analytics_id": "A-01352",
+   "rank": 6,
+   "submarket": "Oakland Park",
+   "profile": "2-Unit Multifamily",
+   "price_band": "$1M-$2M",
+   "cap_label": "~5.84% cap",
+   "desc": "2-Unit Multifamily in Oakland Park; ~5.84% cap, 2 units, ~3.5K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 2-Unit Multifamily, Oakland Park (~5.84% cap)",
+   "highlights": [
+    "Investor: ~1-3% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~3.5K sq ft",
+    "Opportunity Zone",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "~1-3% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Opportunity Zone",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "starter-mf-corridor-2026-09-15-07",
+   "analytics_id": "A-01353",
+   "rank": 7,
+   "submarket": "Fort Lauderdale",
+   "profile": "7-Unit Multifamily",
+   "price_band": "$1M-$2M",
+   "cap_label": "~5.26% cap",
+   "desc": "7-Unit Multifamily in Fort Lauderdale; ~5.26% cap, 7 units. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 7-Unit Multifamily, Fort Lauderdale (~5.26% cap)",
+   "highlights": [
+    "Investor: Levered spread thin at ~7% debt (rate-sensitive)",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "Levered spread thin at ~7% debt (rate-sensitive)",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "starter-mf-corridor-2026-09-15-08",
+   "analytics_id": "A-01354",
+   "rank": 8,
+   "submarket": "Fort Lauderdale",
+   "profile": "2-Unit Multifamily",
+   "price_band": "$1M-$2M",
+   "cap_label": "~4.54% cap",
+   "desc": "2-Unit Multifamily in Fort Lauderdale; ~4.54% cap, 2 units. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 2-Unit Multifamily, Fort Lauderdale (~4.54% cap)",
+   "highlights": [
+    "Investor: Levered spread thin at ~7% debt (rate-sensitive)",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "Levered spread thin at ~7% debt (rate-sensitive)",
+    "180+ days on market"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,208 @@
+{
+ "segment": "large-statewide",
+ "collection": "curated",
+ "template": "curated-generic",
+ "label": "Larger Investments \u2014 40+ Units",
+ "tagline": "Top 10 \u00b7 Statewide \u00b7 40+ units \u00b7 ranked by scale; institutional & value-add",
+ "search_name": "Crexi (FL pull)",
+ "generated": "2026-09-08",
+ "pdf": "pdf/large-statewide__2026-09-08.pdf",
+ "expires": "2026-10-08",
+ "total_results": 10,
+ "metric_label": "Units / price per unit",
+ "methodology": "Crexi Florida pull 2026-09-08 via the Crexi asset API. Multifamily 40+ units statewide, ranked by scale (unit count); $/unit shown where a price is published. Land, MPUD/entitlement and unbuilt offerings dropped.",
+ "items": [
+  {
+   "id": "large-statewide-2026-09-08-01",
+   "analytics_id": "A-01144",
+   "rank": 1,
+   "submarket": "Miami Gardens",
+   "profile": "491-Unit Apartment Community",
+   "price_band": "Price on request",
+   "cap_label": "~6.00% cap",
+   "desc": "491-Unit Apartment Community in Miami Gardens; ~6.00% cap, 491 units, ~340K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 491-Unit Apartment Community, Miami Gardens (~6.00% cap)",
+   "highlights": [
+    "Investor: ~2-4% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~11-12x GRM",
+    "~340K sq ft",
+    "Opportunity Zone",
+    "recently listed"
+   ],
+   "inv_line": [
+    "~2-4% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Opportunity Zone",
+    "recently listed"
+   ]
+  },
+  {
+   "id": "large-statewide-2026-09-08-02",
+   "analytics_id": "A-01145",
+   "rank": 2,
+   "submarket": "Jacksonville",
+   "profile": "360-Unit Apartment Community",
+   "price_band": "Price on request",
+   "cap_label": "360 units",
+   "desc": "360-Unit Apartment Community in Jacksonville; 360 units, 360 units, ~310K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 360-Unit Apartment Community, Jacksonville (360 units)",
+   "highlights": [
+    "~310K sq ft",
+    "recently listed"
+   ],
+   "inv_line": [
+    "recently listed"
+   ]
+  },
+  {
+   "id": "large-statewide-2026-09-08-03",
+   "analytics_id": "A-01146",
+   "rank": 3,
+   "submarket": "Pine Hills",
+   "profile": "330-Unit Apartment Community",
+   "price_band": "$54M-$56M",
+   "cap_label": "~$165K/unit",
+   "desc": "330-Unit Apartment Community in Pine Hills; ~$165K/unit, 330 units, ~260K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 330-Unit Apartment Community, Pine Hills (~$165K/unit)",
+   "highlights": [
+    "~260K sq ft",
+    "recently listed"
+   ],
+   "inv_line": [
+    "recently listed"
+   ]
+  },
+  {
+   "id": "large-statewide-2026-09-08-04",
+   "analytics_id": "A-01147",
+   "rank": 4,
+   "submarket": "Sarasota",
+   "profile": "242-Unit Apartment Community",
+   "price_band": "Price on request",
+   "cap_label": "242 units",
+   "desc": "242-Unit Apartment Community in Sarasota; 242 units, 242 units, ~75K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 242-Unit Apartment Community, Sarasota (242 units)",
+   "highlights": [
+    "~75K sq ft",
+    "Opportunity Zone",
+    "90+ days on market"
+   ],
+   "inv_line": [
+    "Opportunity Zone",
+    "90+ days on market"
+   ]
+  },
+  {
+   "id": "large-statewide-2026-09-08-05",
+   "analytics_id": "A-01148",
+   "rank": 5,
+   "submarket": "Tallahassee",
+   "profile": "200-Unit Apartment Community",
+   "price_band": "$28M-$30M",
+   "cap_label": "~$145K/unit",
+   "desc": "200-Unit Apartment Community in Tallahassee; ~$145K/unit, 200 units, ~200K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 200-Unit Apartment Community, Tallahassee (~$145K/unit)",
+   "highlights": [
+    "~200K sq ft",
+    "90+ days on market"
+   ],
+   "inv_line": [
+    "90+ days on market"
+   ]
+  },
+  {
+   "id": "large-statewide-2026-09-08-06",
+   "analytics_id": "A-01149",
+   "rank": 6,
+   "submarket": "Lauderhill",
+   "profile": "192-Unit Apartment Community",
+   "price_band": "$44M-$46M",
+   "cap_label": "~$235K/unit",
+   "desc": "192-Unit Apartment Community in Lauderhill; ~$235K/unit, 192 units, ~180K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 192-Unit Apartment Community, Lauderhill (~$235K/unit)",
+   "highlights": [
+    "~180K sq ft",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "large-statewide-2026-09-08-07",
+   "analytics_id": "A-01150",
+   "rank": 7,
+   "submarket": "Clearwater",
+   "profile": "155-Unit Apartment Community",
+   "price_band": "$32M-$34M",
+   "cap_label": "~$220K/unit",
+   "desc": "155-Unit Apartment Community in Clearwater; ~$220K/unit, 155 units, ~150K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 155-Unit Apartment Community, Clearwater (~$220K/unit)",
+   "highlights": [
+    "Investor: ~2-4% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~11-12x GRM",
+    "~150K sq ft",
+    "90+ days on market"
+   ],
+   "inv_line": [
+    "~2-4% est. cash-on-cash (25% down, IO @ ~7%)",
+    "90+ days on market"
+   ]
+  },
+  {
+   "id": "large-statewide-2026-09-08-08",
+   "analytics_id": "A-01151",
+   "rank": 8,
+   "submarket": "Bradenton",
+   "profile": "152-Unit Apartment Community",
+   "price_band": "Price on request",
+   "cap_label": "152 units",
+   "desc": "152-Unit Apartment Community in Bradenton; 152 units, 152 units, ~150K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 152-Unit Apartment Community, Bradenton (152 units)",
+   "highlights": [
+    "~150K sq ft",
+    "30-90 days on market"
+   ],
+   "inv_line": [
+    "30-90 days on market"
+   ]
+  },
+  {
+   "id": "large-statewide-2026-09-08-09",
+   "analytics_id": "A-01152",
+   "rank": 9,
+   "submarket": "Bradenton",
+   "profile": "145-Unit Apartment Community",
+   "price_band": "Price on request",
+   "cap_label": "145 units",
+   "desc": "145-Unit Apartment Community in Bradenton; 145 units, 145 units, ~120K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 145-Unit Apartment Community, Bradenton (145 units)",
+   "highlights": [
+    "~120K sq ft",
+    "Opportunity Zone",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "Opportunity Zone",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "large-statewide-2026-09-08-10",
+   "analytics_id": "A-01153",
+   "rank": 10,
+   "submarket": "Fort Myers",
+   "profile": "134-Unit Apartment Community",
+   "price_band": "Price on request",
+   "cap_label": "134 units",
+   "desc": "134-Unit Apartment Community in Fort Myers; 134 units, 134 units, ~140K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 134-Unit Apartment Community, Fort Myers (134 units)",
+   "highlights": [
+    "~140K sq ft",
+    "90+ days on market"
+   ],
+   "inv_line": [
+    "90+ days on market"
+   ]
+  }
+ ]
+}

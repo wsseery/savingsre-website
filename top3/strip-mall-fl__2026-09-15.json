@@ -1,0 +1,220 @@
+{
+ "segment": "strip-mall-fl",
+ "collection": "curated",
+ "template": "curated-generic",
+ "label": "Strip Malls & Retail Centers — Florida",
+ "tagline": "Top multi-tenant strip & neighborhood retail centers statewide · ranked by cap rate",
+ "search_name": "Crexi (FL pull)",
+ "generated": "2026-09-15",
+ "pdf": "pdf/strip-mall-fl__2026-09-15.pdf",
+ "expires": "2026-10-15",
+ "total_results": 10,
+ "metric_label": "Cap rate",
+ "methodology": "Crexi Florida pull 2026-09-15 via the Crexi asset API (cap-bucket sweep). Multi-tenant strip & neighborhood retail centers statewide, ranked by recovered cap rate. A center must be 6,000+ sq ft or carry a plaza/center/shoppes-style name; single-tenant listings excluded.",
+ "items": [
+  {
+   "id": "strip-mall-fl-2026-09-15-01",
+   "analytics_id": "A-01375",
+   "rank": 1,
+   "submarket": "Starke",
+   "profile": "Multi-Tenant Retail Center",
+   "price_band": "$1M-$1M",
+   "cap_label": "~10.00% cap",
+   "desc": "Multi-Tenant Retail Center in Starke; ~10.00% cap, ~17K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Multi-Tenant Retail Center, Starke (~10.00% cap)",
+   "highlights": [
+    "Investor: ~18-20% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~17K sq ft",
+    "recently listed"
+   ],
+   "inv_line": [
+    "~18-20% est. cash-on-cash (25% down, IO @ ~7%)",
+    "recently listed"
+   ]
+  },
+  {
+   "id": "strip-mall-fl-2026-09-15-02",
+   "analytics_id": "A-01376",
+   "rank": 2,
+   "submarket": "Cape Coral",
+   "profile": "Multi-Tenant Retail Center",
+   "price_band": "$2M-$3M",
+   "cap_label": "~9.06% cap",
+   "desc": "Multi-Tenant Retail Center in Cape Coral; ~9.06% cap, ~12K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Multi-Tenant Retail Center, Cape Coral (~9.06% cap)",
+   "highlights": [
+    "Investor: ~14-16% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~12K sq ft",
+    "90+ days on market"
+   ],
+   "inv_line": [
+    "~14-16% est. cash-on-cash (25% down, IO @ ~7%)",
+    "90+ days on market"
+   ]
+  },
+  {
+   "id": "strip-mall-fl-2026-09-15-03",
+   "analytics_id": "A-01377",
+   "rank": 3,
+   "submarket": "Ocala",
+   "profile": "Multi-Tenant Retail Center",
+   "price_band": "$7M-$8M",
+   "cap_label": "~9.00% cap",
+   "desc": "Multi-Tenant Retail Center in Ocala; ~9.00% cap, ~86K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Multi-Tenant Retail Center, Ocala (~9.00% cap)",
+   "highlights": [
+    "Investor: ~14-16% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~86K sq ft",
+    "90+ days on market"
+   ],
+   "inv_line": [
+    "~14-16% est. cash-on-cash (25% down, IO @ ~7%)",
+    "90+ days on market"
+   ]
+  },
+  {
+   "id": "strip-mall-fl-2026-09-15-04",
+   "analytics_id": "A-01378",
+   "rank": 4,
+   "submarket": "Lake Wales",
+   "profile": "Multi-Tenant Retail Center",
+   "price_band": "$11M-$12M",
+   "cap_label": "~9.00% cap",
+   "desc": "Multi-Tenant Retail Center in Lake Wales; ~9.00% cap, ~101K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Multi-Tenant Retail Center, Lake Wales (~9.00% cap)",
+   "highlights": [
+    "Investor: ~14-16% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~101K sq ft",
+    "90+ days on market"
+   ],
+   "inv_line": [
+    "~14-16% est. cash-on-cash (25% down, IO @ ~7%)",
+    "90+ days on market"
+   ]
+  },
+  {
+   "id": "strip-mall-fl-2026-09-15-05",
+   "analytics_id": "A-01379",
+   "rank": 5,
+   "submarket": "Lake Wales",
+   "profile": "Multi-Tenant Retail Center",
+   "price_band": "$1M-$2M",
+   "cap_label": "~8.80% cap",
+   "desc": "Multi-Tenant Retail Center in Lake Wales; ~8.80% cap, ~8.0K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Multi-Tenant Retail Center, Lake Wales (~8.80% cap)",
+   "highlights": [
+    "Investor: ~13-15% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~8.0K sq ft",
+    "recently listed"
+   ],
+   "inv_line": [
+    "~13-15% est. cash-on-cash (25% down, IO @ ~7%)",
+    "recently listed"
+   ]
+  },
+  {
+   "id": "strip-mall-fl-2026-09-15-06",
+   "analytics_id": "A-01380",
+   "rank": 6,
+   "submarket": "Fort Myers",
+   "profile": "Multi-Tenant Retail Center",
+   "price_band": "$4M-$5M",
+   "cap_label": "~8.76% cap",
+   "desc": "Multi-Tenant Retail Center in Fort Myers; ~8.76% cap, ~32K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Multi-Tenant Retail Center, Fort Myers (~8.76% cap)",
+   "highlights": [
+    "Investor: ~13-15% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~32K sq ft",
+    "price reduced",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "~13-15% est. cash-on-cash (25% down, IO @ ~7%)",
+    "price reduced",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "strip-mall-fl-2026-09-15-07",
+   "analytics_id": "A-01381",
+   "rank": 7,
+   "submarket": "Ocoee",
+   "profile": "Multi-Tenant Retail Center",
+   "price_band": "$7M-$7M",
+   "cap_label": "~8.56% cap",
+   "desc": "Multi-Tenant Retail Center in Ocoee; ~8.56% cap, ~61K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Multi-Tenant Retail Center, Ocoee (~8.56% cap)",
+   "highlights": [
+    "Investor: ~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~61K sq ft",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "strip-mall-fl-2026-09-15-08",
+   "analytics_id": "A-01382",
+   "rank": 8,
+   "submarket": "Eustis",
+   "profile": "Multi-Tenant Retail Center",
+   "price_band": "$4M-$5M",
+   "cap_label": "~8.25% cap",
+   "desc": "Multi-Tenant Retail Center in Eustis; ~8.25% cap, ~36K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Multi-Tenant Retail Center, Eustis (~8.25% cap)",
+   "highlights": [
+    "Investor: ~11-13% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~36K sq ft",
+    "90+ days on market"
+   ],
+   "inv_line": [
+    "~11-13% est. cash-on-cash (25% down, IO @ ~7%)",
+    "90+ days on market"
+   ]
+  },
+  {
+   "id": "strip-mall-fl-2026-09-15-09",
+   "analytics_id": "A-01383",
+   "rank": 9,
+   "submarket": "Tallahassee",
+   "profile": "Multi-Tenant Retail Center",
+   "price_band": "$2M-$3M",
+   "cap_label": "~8.12% cap",
+   "desc": "Multi-Tenant Retail Center in Tallahassee; ~8.12% cap, ~26K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Multi-Tenant Retail Center, Tallahassee (~8.12% cap)",
+   "highlights": [
+    "Investor: ~10-12% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~26K sq ft",
+    "90+ days on market"
+   ],
+   "inv_line": [
+    "~10-12% est. cash-on-cash (25% down, IO @ ~7%)",
+    "90+ days on market"
+   ]
+  },
+  {
+   "id": "strip-mall-fl-2026-09-15-10",
+   "analytics_id": "A-01384",
+   "rank": 10,
+   "submarket": "Eustis",
+   "profile": "Multi-Tenant Retail Center",
+   "price_band": "$2M-$2M",
+   "cap_label": "~8.05% cap",
+   "desc": "Multi-Tenant Retail Center in Eustis; ~8.05% cap, ~17K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Multi-Tenant Retail Center, Eustis (~8.05% cap)",
+   "highlights": [
+    "Investor: ~10-12% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~17K sq ft",
+    "Opportunity Zone",
+    "90+ days on market"
+   ],
+   "inv_line": [
+    "~10-12% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Opportunity Zone",
+    "90+ days on market"
+   ]
+  }
+ ]
+}

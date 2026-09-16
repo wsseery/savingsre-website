@@ -1,0 +1,224 @@
+{
+ "segment": "nnn-fl",
+ "collection": "curated",
+ "template": "curated-generic",
+ "label": "NNN Commercial — Florida",
+ "tagline": "Top triple-net (NNN) deals statewide — single & multi-tenant · ranked by cap rate",
+ "search_name": "Crexi (FL pull)",
+ "generated": "2026-09-15",
+ "pdf": "pdf/nnn-fl__2026-09-15.pdf",
+ "expires": "2026-10-15",
+ "total_results": 10,
+ "metric_label": "Cap rate",
+ "methodology": "Crexi Florida pull 2026-09-15 via the Crexi asset API (cap-bucket sweep). Single-tenant triple-net (NNN) retail statewide, ranked by recovered cap rate. Real net-lease screen: requires net-lease language and a single-tenant subtype; owner-user, business-for-sale and build-your-dream listings excluded; cap ceiling 13%.",
+ "items": [
+  {
+   "id": "nnn-fl-2026-09-15-01",
+   "analytics_id": "A-01365",
+   "rank": 1,
+   "submarket": "Tampa",
+   "profile": "Net-Leased Pharmacy",
+   "price_band": "$7M-$7M",
+   "cap_label": "~10.47% cap",
+   "desc": "Net-Leased Pharmacy in Tampa; ~10.47% cap, ~13K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Net-Leased Pharmacy, Tampa (~10.47% cap)",
+   "highlights": [
+    "Investor: ~20-22% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~13K sq ft",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "~20-22% est. cash-on-cash (25% down, IO @ ~7%)",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "nnn-fl-2026-09-15-02",
+   "analytics_id": "A-01366",
+   "rank": 2,
+   "submarket": "Bronson",
+   "profile": "Net-Leased Grocery",
+   "price_band": "$2M-$3M",
+   "cap_label": "~10.00% cap",
+   "desc": "Net-Leased Grocery in Bronson; ~10.00% cap, ~13K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Net-Leased Grocery, Bronson (~10.00% cap)",
+   "highlights": [
+    "Investor: ~18-20% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~13K sq ft",
+    "recently listed"
+   ],
+   "inv_line": [
+    "~18-20% est. cash-on-cash (25% down, IO @ ~7%)",
+    "recently listed"
+   ]
+  },
+  {
+   "id": "nnn-fl-2026-09-15-03",
+   "analytics_id": "A-01367",
+   "rank": 3,
+   "submarket": "Archer",
+   "profile": "Net-Leased Grocery",
+   "price_band": "$2M-$3M",
+   "cap_label": "~10.00% cap",
+   "desc": "Net-Leased Grocery in Archer; ~10.00% cap, ~18K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Net-Leased Grocery, Archer (~10.00% cap)",
+   "highlights": [
+    "Investor: ~18-20% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~18K sq ft",
+    "recently listed"
+   ],
+   "inv_line": [
+    "~18-20% est. cash-on-cash (25% down, IO @ ~7%)",
+    "recently listed"
+   ]
+  },
+  {
+   "id": "nnn-fl-2026-09-15-04",
+   "analytics_id": "A-01368",
+   "rank": 4,
+   "submarket": "Orlando",
+   "profile": "Net-Leased Pharmacy",
+   "price_band": "$6M-$6M",
+   "cap_label": "~10.00% cap",
+   "desc": "Net-Leased Pharmacy in Orlando; ~10.00% cap, ~14K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Net-Leased Pharmacy, Orlando (~10.00% cap)",
+   "highlights": [
+    "Investor: ~18-20% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~14K sq ft",
+    "90+ days on market"
+   ],
+   "inv_line": [
+    "~18-20% est. cash-on-cash (25% down, IO @ ~7%)",
+    "90+ days on market"
+   ]
+  },
+  {
+   "id": "nnn-fl-2026-09-15-05",
+   "analytics_id": "A-01369",
+   "rank": 5,
+   "submarket": "Wauchula",
+   "profile": "Net-Leased Pharmacy",
+   "price_band": "$2M-$2M",
+   "cap_label": "~9.25% cap",
+   "desc": "Net-Leased Pharmacy in Wauchula; ~9.25% cap, ~13K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Net-Leased Pharmacy, Wauchula (~9.25% cap)",
+   "highlights": [
+    "Investor: ~15-17% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~13K sq ft",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "~15-17% est. cash-on-cash (25% down, IO @ ~7%)",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "nnn-fl-2026-09-15-06",
+   "analytics_id": "A-01370",
+   "rank": 6,
+   "submarket": "Lakeland",
+   "profile": "Net-Leased Pharmacy",
+   "price_band": "$4M-$4M",
+   "cap_label": "~8.81% cap",
+   "desc": "Net-Leased Pharmacy in Lakeland; ~8.81% cap, ~12K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Net-Leased Pharmacy, Lakeland (~8.81% cap)",
+   "highlights": [
+    "Investor: ~13-15% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~12K sq ft",
+    "Opportunity Zone",
+    "30-90 days on market"
+   ],
+   "inv_line": [
+    "~13-15% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Opportunity Zone",
+    "30-90 days on market"
+   ]
+  },
+  {
+   "id": "nnn-fl-2026-09-15-07",
+   "analytics_id": "A-01371",
+   "rank": 7,
+   "submarket": "Fort Lauderdale",
+   "profile": "Net-Leased Pharmacy",
+   "price_band": "$3M-$3M",
+   "cap_label": "~8.50% cap",
+   "desc": "Net-Leased Pharmacy in Fort Lauderdale; ~8.50% cap, ~15K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Net-Leased Pharmacy, Fort Lauderdale (~8.50% cap)",
+   "highlights": [
+    "Investor: ~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~15K sq ft",
+    "Opportunity Zone",
+    "recently listed"
+   ],
+   "inv_line": [
+    "~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Opportunity Zone",
+    "recently listed"
+   ]
+  },
+  {
+   "id": "nnn-fl-2026-09-15-08",
+   "analytics_id": "A-01372",
+   "rank": 8,
+   "submarket": "Lutz",
+   "profile": "Net-Leased EV / Automotive",
+   "price_band": "$15M-$15M",
+   "cap_label": "~8.50% cap",
+   "desc": "Net-Leased EV / Automotive in Lutz; ~8.50% cap, ~53K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Net-Leased EV / Automotive, Lutz (~8.50% cap)",
+   "highlights": [
+    "Investor: ~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~53K sq ft",
+    "30-90 days on market"
+   ],
+   "inv_line": [
+    "~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "30-90 days on market"
+   ]
+  },
+  {
+   "id": "nnn-fl-2026-09-15-09",
+   "analytics_id": "A-01373",
+   "rank": 9,
+   "submarket": "Hudson",
+   "profile": "Net-Leased Automotive",
+   "price_band": "$0K-$500K",
+   "cap_label": "~8.42% cap",
+   "desc": "Net-Leased Automotive in Hudson; ~8.42% cap, ~1.3K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Net-Leased Automotive, Hudson (~8.42% cap)",
+   "highlights": [
+    "Investor: ~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~1.3K sq ft",
+    "Opportunity Zone",
+    "30-90 days on market"
+   ],
+   "inv_line": [
+    "~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Opportunity Zone",
+    "30-90 days on market"
+   ]
+  },
+  {
+   "id": "nnn-fl-2026-09-15-10",
+   "analytics_id": "A-01374",
+   "rank": 10,
+   "submarket": "Daytona Beach",
+   "profile": "Net-Leased Single-Tenant Retail",
+   "price_band": "$0K-$500K",
+   "cap_label": "~8.42% cap",
+   "desc": "Net-Leased Single-Tenant Retail in Daytona Beach; ~8.42% cap, ~2.2K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Net-Leased Single-Tenant Retail, Daytona Beach (~8.42% cap)",
+   "highlights": [
+    "Investor: ~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~2.2K sq ft",
+    "Opportunity Zone",
+    "30-90 days on market"
+   ],
+   "inv_line": [
+    "~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Opportunity Zone",
+    "30-90 days on market"
+   ]
+  }
+ ]
+}

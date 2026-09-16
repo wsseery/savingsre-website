@@ -1,11 +1,143 @@
 {
   "meta": {
     "created": "2026-07-06",
-    "updated": "2026-09-05",
+    "updated": "2026-09-13",
     "note": "Archive of items rotated off the live market/news_data.json 16-item list. Weekly refresh APPENDS dropped items here (newest first) - never delete. Same item schema as news_data.json. Not rendered on the site; kept for content reuse, history, and a future archive/search section.",
-    "count": 96
+    "count": 107
   },
   "items": [
+    {
+      "id": 113,
+      "date": "2026-09-02",
+      "title": "Manalapan Lake-to-Ocean Homesite Trades at $30M After More Than Quadrupling in 11 Years",
+      "summary": "A company managed by auto dealer Ralph Gesualdo sold the nearly 2-acre lake-to-ocean parcel at 1820 South Ocean Boulevard in Manalapan for $30 million in an off-market deal to an entity tied to Palm Beach attorney Maura Ziska of Kochman & Ziska; the end buyer is undisclosed. MGM Designs paid $7 million for the site in 2015, so the price is more than four times the 2015 basis and well above this year's $19.1 million county appraiser value. The last ask was $35 million, per seller's agent Jack Elkins of William Raveis, who calls the barrier island south of Palm Beach the 'next billionaire's bunker.' The low-density residential site runs Intracoastal-to-Atlantic across Ocean Boulevard, with a 1969 cabana and a 1988 dock. Nearby comps: 1800 South Ocean at $25 million last year, Gesualdo's 1920 South Ocean to WeatherTech founder David MacNeil at $36 million in July, and Sean Hannity's 1840 South Ocean at $23.5 million two years ago; Larry Ellison also owns on the island.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/09/02/lake-to-ocean-homesite-in-manalapan-sells-for-30-million/",
+      "category": "Luxury",
+      "tags": ["Manalapan", "Palm Beach County", "land", "oceanfront", "off-market"],
+      "importance": "medium",
+      "archivedOn": "2026-09-13"
+    },
+    {
+      "id": 112,
+      "date": "2026-09-01",
+      "title": "Shoma Lands $172.5M C-PACE Construction Loan for a 333-Unit North Bay Village Condo Tower",
+      "summary": "Shoma Group closed a $172.5 million construction loan from Nuveen Green Capital for Shoma Bay, the 24-story, 333-unit condo-and-retail tower at 1850 John F. Kennedy Causeway in North Bay Village; Newmark's Anthony Orso, Clifford Welden and Daniel Matz arranged the debt. Nuveen calls it one of the five largest C-PACE-financed projects in Florida - a useful marker of how far Commercial Property Assessed Clean Energy debt has moved into mainstream South Florida condo capital stacks. The Coral Gables developer, led by Masoud and Stephanie Shojaee, paid about $16 million for the waterfront site in 2022 planning a rental tower, then converted to condos; a 36,000-square-foot Publix anchors the retail. Asking prices start in the $800,000s with Craig Studnicky's ISG World on sales, and the financing retires a $29.9 million Forman Capital predevelopment loan.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/09/01/shoma-scores-173-million-loan-for-sofla-condo-tower/",
+      "category": "Development",
+      "tags": ["North Bay Village", "Miami-Dade", "condo", "construction loan", "C-PACE"],
+      "importance": "high",
+      "archivedOn": "2026-09-13"
+    },
+    {
+      "id": 111,
+      "date": "2026-09-01",
+      "title": "Miami Advances Little Havana and Miami River Upzoning - 150 Units Per Acre, No Affordable Mandate",
+      "summary": "Miami is moving a pair of zoning and land-use changes covering 661 lots on 136 acres across 11 Little Havana and Miami River-area thoroughfares, plus a companion comprehensive-plan item retargeting 349 properties on 72 acres (47 to medium-density multifamily, 302 to restricted commercial). The changes would open T6-8 zoning - generally up to eight stories - on lots now in lower-rise districts and lift density to 150 units per acre where the baseline runs 36 to 65, potentially adding close to 20,000 residents. Despite planners citing mixed-income housing as the rationale, the proposals carry no affordable-housing guarantee, per Coconut Grove Spotlight. The Planning, Zoning and Appeals Board votes Wednesday evening and forwards a recommendation to the full city commission. Investor read: the area's single-family homes, duplexes, small apartment buildings and retail plazas reprice as land if the density lift survives to the commission.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/09/01/miamis-next-upzoning-targets-little-havana-miami-river/",
+      "category": "Development",
+      "tags": ["Little Havana", "Miami River", "Miami", "upzoning", "density"],
+      "importance": "high",
+      "archivedOn": "2026-09-13"
+    },
+    {
+      "id": 110,
+      "date": "2026-08-31",
+      "title": "Fort Lauderdale's $51M Ember House Goes Under Contract - A Record for Broward Spec Homes",
+      "summary": "Dov Stark's newly built 15,000-square-foot waterfront estate at 513 Middle River Drive in Fort Lauderdale's Sunrise Intracoastal neighborhood is under contract for $51 million, per a Wall Street Journal report. The spec home listed in April at $55 million, then the priciest residential listing in Broward County. Stark, founder and CEO of Prestige Homes Development, designed, developed and listed the property and is the seller; the unidentified buyers are represented by Joelle Oiknine of One Sotheby's International Realty. The deal is set to close in January and would rank among the priciest home sales in the city. Oiknine said the buyers passed on Miami Beach and Golden Beach product before committing in Fort Lauderdale.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/08/31/dov-starks-51-million-fort-lauderdale-spec-home-nabs-buyer/",
+      "category": "Luxury",
+      "tags": ["Fort Lauderdale", "Broward", "spec home", "waterfront", "record sale"],
+      "importance": "high",
+      "archivedOn": "2026-09-11"
+    },
+    {
+      "id": 109,
+      "date": "2026-08-31",
+      "title": "Terra Lands $245M Refi on 578-Unit Sweetwater Rental as Miami's Multifamily Oversupply Balances Out",
+      "summary": "David Martin's Terra secured a $245 million permanent loan on the first phase of Upland Park, a 578-unit garden-style complex it completed this summer on a 47-acre site at 1455 Northwest 121st Avenue in Sweetwater, next to Miami-Dade's Dolphin Station Park & Ride. New York-based Slate Property Group provided the financing, retiring the $170 million construction loan Terra took from Slate affiliate Scale Lending in 2024. The refi pencils to roughly $423,875 per unit on a $1 billion completed phase, and Terra leases the land from Miami-Dade County. The deal lands as the region's rental oversupply starts to clear, a constructive signal for transit-adjacent garden-style multifamily basis.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/08/31/david-martins-terra-nabs-245-million-refi-for-rentals/",
+      "category": "Multifamily",
+      "tags": ["Sweetwater", "Miami-Dade", "refinancing", "garden-style", "Terra"],
+      "importance": "high",
+      "archivedOn": "2026-09-11"
+    },
+    {
+      "id": 108,
+      "date": "2026-08-31",
+      "title": "Related Ross Pays $28.3M for 31-Acre Wellington Site for the K-Park Mixed-Use District",
+      "summary": "Billionaire Steve Ross' Related Ross paid $28.3 million for the Village Landing site in Wellington, a 31-acre parcel at 10400 Stribling Way and State Road 7 bought from the Acme Improvement District. The purchase was backed by a $29.1 million mortgage from an entity tied to Barry Sternlicht's Starwood Capital. The land carries commercial zoning with an agricultural classification. Related Ross plans K-Park, a walkable downtown restaurant and retail district with a 180-key hotel and more than 300,000 square feet of retail, plus a private school on a separate adjacent property - continuing the firm's westward Palm Beach County land accumulation.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/08/31/steve-ross-pays-28-million-for-wellington-mixed-use-site/",
+      "category": "Development",
+      "tags": ["Wellington", "Palm Beach County", "land", "mixed-use", "Related Ross"],
+      "importance": "high",
+      "archivedOn": "2026-09-11"
+    },
+    {
+      "id": 107,
+      "date": "2026-08-31",
+      "title": "Two Roads Settles With Biscayne 21 Holdouts, Clearing a Landmark Condo-Termination Fight in Edgewater",
+      "summary": "Two Roads Development, led by Taylor Collins and Reid Boren, settled with the holdout owners at Biscayne 21 in Miami's Edgewater, ending a legal fight that began in 2023 over the buyout and termination of the waterfront condo association. The owners had argued the developer-controlled association acted illegally in lowering the termination threshold from 100 percent of owners to 80 percent. Two Roads paid the holdouts for their units at an undisclosed combined price. The settlement removes a closely watched obstacle to bulk condo-termination redevelopment plays across South Florida's aging waterfront inventory.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/08/31/two-roads-settles-with-holdout-biscayne-21-condo-owners/",
+      "category": "Development",
+      "tags": ["Edgewater", "Miami", "condo termination", "redevelopment", "Two Roads"],
+      "importance": "medium",
+      "archivedOn": "2026-09-11"
+    },
+    {
+      "id": 106,
+      "date": "2026-08-28",
+      "title": "Palm Beach Office-Retail Building Resells for $18M at $2,780 PSF - Double Its Price a Year Ago",
+      "summary": "Delray Beach-based Redfearn Capital is selling the 6,500-square-foot Mediterranean Revival office and retail building at 317 Peruvian Avenue for $18 million, about $2,780 per square foot and more than double the $8.4 million an entity tied to Alex Redfearn paid last year. Redfearn had expected a long-term hold but said the unnamed buyer made an offer the sellers could not refuse. The 2002 building has rare on-island built-in parking and counts Sotheby's International Realty, Pizza Al Fresco and Caroline Rafferty as tenants; the county appraiser values it at $6.9 million, and it last traded in 1999 for $750,000. On-island office remains scarce - Ken Griffin sold his 50,000-square-foot Worth Avenue building for $86 million earlier this year after a three-year hold.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/08/28/redfearn-sells-palm-beach-building-for-2x-last-years-price/",
+      "category": "Commercial/CRE",
+      "tags": ["Palm Beach", "office", "retail", "price per square foot", "Redfearn Capital"],
+      "importance": "high",
+      "archivedOn": "2026-09-09"
+    },
+    {
+      "id": 105,
+      "date": "2026-08-28",
+      "title": "South Florida's $1B Convention Center Hotel Boom Advances on Three Fronts",
+      "summary": "Related Ross' 18-story, 400-key Hilton Curio at 900 South Rosemary Avenue in West Palm Beach goes to a second city commission hearing this week. Its $290 million cost is privately financed and hinges on a $26 million sale-leaseback with Palm Beach County that takes the 1.8-acre site off the tax roll but guarantees the county $1 billion in rent over a lease of up to 99 years. In Miami Beach, Terra and Turnberry's 800-key Grand Hyatt beside the convention center topped off in July on a $392 million Tyko Capital construction loan plus $75 million in county grant funding, with completion due late next year. Broward's 801-room Omni Fort Lauderdale opened last December as part of a $1 billion-plus convention center expansion backed by $389.5 million in revenue bonds and $280 million from the county general fund.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/08/28/map-south-floridas-1-billion-convention-center-hotel-boom/",
+      "category": "Development",
+      "tags": ["hospitality", "West Palm Beach", "Miami Beach", "Fort Lauderdale", "development"],
+      "importance": "medium",
+      "archivedOn": "2026-09-09"
+    },
+    {
+      "id": 104,
+      "date": "2026-08-28",
+      "title": "Nelson Peltz Adds a $30M Mortgage on Palm Beach's Montsorrel - $98.5M Borrowed in 13 Months",
+      "summary": "Trian Fund Management founder Nelson Peltz and Claudia Heffner Peltz recorded a $30 million, 15-year Bank of America mortgage on their 13-acre Palm Beach estate at 542 and 548 North County Road, about a year after a $68.5 million loan on the same property and following a $40 million loan in 2022. The county property appraiser values Montsorrel at $307 million; the Peltzes assembled the two parcels for $16.5 million in 1987 and 1988. The pattern is a reminder that ultra-high-net-worth owners are increasingly pulling liquidity out of trophy Palm Beach real estate through debt rather than selling into the island's record pricing.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/08/28/nelson-peltz-secures-another-mortgage-on-montsorrel-estate/",
+      "category": "Luxury",
+      "tags": ["Palm Beach", "luxury", "financing", "trophy estate"],
+      "importance": "medium",
+      "archivedOn": "2026-09-09"
+    },
+    {
+      "id": 103,
+      "date": "2026-08-27",
+      "title": "Palm Beach County Advances a One-Year Hyperscale Data Center Moratorium; Martin County Follows",
+      "summary": "County commissioners voted unanimously to pursue a full-year pause on data centers with a monthly peak load of 50 megawatts or more, matching the statewide definition adopted this year, with a final vote set for Sept. 24. New proposals have been halted since July 9, and the county rejected the 3.7 million-square-foot Project Tango data center and warehouse near Loxahatchee, a decision owner PBA Holdings is appealing. Martin County advanced its own moratorium the same week, joining Clay, Hernando and Lake counties. For owners of large west-county industrial land the practical effect is that the highest-bidding buyer pool is off the table for at least a year.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/08/27/palm-beach-county-advances-data-center-moratorium/",
+      "category": "Policy/Insurance",
+      "tags": ["Palm Beach County", "data centers", "industrial", "zoning", "policy"],
+      "importance": "high",
+      "archivedOn": "2026-09-09"
+    },
     {
       "id": 102,
       "date": "2026-08-27",
