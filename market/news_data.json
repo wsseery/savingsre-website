@@ -1,5 +1,75 @@
 [
   {
+    "id": 136,
+    "date": "2026-09-16",
+    "title": "Mortgage Rates Break Above 7% After the Fed's September Hike; Daily 30-Year at 7.24% and Jumbo at 7.40%",
+    "summary": "Borrowing costs jumped sharply this week. The Federal Reserve raised rates at its September 16 meeting, and the benchmark 10-year Treasury yield pushed to roughly 5 percent - its highest level in about two decades - as an oil-price spike tied to the Iran conflict lifted inflation expectations. Daily lender surveys followed: Mortgage News Daily put the average 30-year conforming fixed at 7.24 percent and the 30-year jumbo at 7.40 percent on September 16-17, a one-year high and well above the 5.99 percent 2026 low. Freddie Mac's weekly PMMS survey, which lags daily pricing by several days, still read 6.76 percent for the week ended September 10; the next PMMS print is due September 17 and is expected to close much of that gap. For South Florida, where cash accounted for 37.8 percent of Miami-Dade closings and 35.9 percent of Broward closings in August, the move widens the advantage for cash and high-end buyers and raises the cost of financing on leveraged multifamily and commercial acquisitions.",
+    "source": "Mortgage News Daily",
+    "sourceUrl": "https://www.mortgagenewsdaily.com/mortgage-rates",
+    "category": "Market Data",
+    "importance": "high"
+  },
+  {
+    "id": 135,
+    "date": "2026-09-16",
+    "title": "August County Data: SE Florida Single-Family Medians Keep Rising While Listings Fall About 20% - Miami-Dade $680K, Broward $650K, Palm Beach $650K",
+    "summary": "MIAMI REALTORS + RWorld released August 2026 county statistics on September 16. Single-family median sale prices rose year-over-year in every SE Florida county: Miami-Dade to $680,000 (+3.8%), Broward to $650,000 (+4.0%), Palm Beach to $650,000 (+3.2%), Martin to $656,900 (+12.8%) and St. Lucie to $402,500 (+0.6%). Condo medians were mixed - Broward $257,500 (+4.0%), Palm Beach $300,000 (+5.3%), Martin $277,500 (+20.7%) and St. Lucie $320,000 (+7.2%), while Miami-Dade slipped 0.5% to $408,000. Single-family closed sales softened almost everywhere (Miami-Dade -3.1%, Palm Beach -2.0%, Martin -11.3%, St. Lucie -6.5%; Broward flat at +0.1%), ending an 11-month streak of year-over-year gains. The supply story is the tighter constraint: single-family active listings fell 19.2% in Miami-Dade, 22.5% in Broward, 23.8% in Palm Beach and 21.8% in Martin. Months' supply of single-family inventory sits at 4.9 in Miami-Dade and 4.1 in Broward - seller's-market territory - while existing condos remain a buyer's market at 12.1 and 9.9 months. Statewide, Florida Realtors reported 21,497 single-family closings (-1.4%) at a $415,000 median (+1.2%), with active listings down 13.0%.",
+    "source": "MIAMI REALTORS + RWorld",
+    "sourceUrl": "https://www.miamirealtors.com/2026/09/16/miami-dade-on-pace-to-shatter-10m-up-home-sales-annual-record/",
+    "category": "Market Data",
+    "importance": "high"
+  },
+  {
+    "id": 134,
+    "date": "2026-09-16",
+    "title": "13th Floor and Wexford Win Approval for a 30-Story, 350-Unit Flagler Village Tower in Fort Lauderdale",
+    "summary": "The Fort Lauderdale City Commission approved the site plan for Flagler Village Residences, a 30-story, 350-unit rental tower at 500 Northeast 3rd Avenue just north of downtown. The project adds about 3,500 square feet of retail and a seven-story podium with 512 parking spaces. Miami-based 13th Floor Investments, led by managing principal Arnaud Karsenti, is developing with West Palm Beach-based Wexford Real Estate Investors; the partnership assembled the 1.37-acre site in parcel buys between 2007 and 2019 for a combined $5.49 million. The commission granted a deviation allowing a 17,669-square-foot floorplate - 41 percent above the 12,500-square-foot by-right maximum - and separately vacated a 150-by-15-foot city alley bisecting the site. The approval lands in a softening rental market: Marcus & Millichap notes Fort Lauderdale's rental vacancy tightened from 5.1 to 4.8 percent in the 12 months through March, the fastest among major Florida markets, but affordability pressure and concession use continue to temper rent growth.",
+    "source": "The Real Deal",
+    "sourceUrl": "https://therealdeal.com/miami/2026/09/16/13th-floor-plans-30-story-fort-lauderdale-multifamily-tower/",
+    "category": "Multifamily",
+    "importance": "medium"
+  },
+  {
+    "id": 133,
+    "date": "2026-09-15",
+    "title": "Memorial Healthcare Pays $69M for Hollywood's 254,000 SF Venture Center, Becoming Its Own Office Landlord",
+    "summary": "South Broward Hospital District, doing business as Memorial Healthcare System, bought the three-building, 254,000-square-foot Venture Center office complex at 200-300 South Park Road and 3440 Hollywood Boulevard for $69 million - $272 per square foot - from entities tied to Fox Ridge Capital and Jackson Land Development. The complex last traded at $50 million in 2021, a 38 percent gain in five years. Cushman & Wakefield's Scott O'Donnell, Dominic Montazemi, Mike Davis and team represented the sellers; CBRE's Chris Lee and Will Portfolio brought the buyer. Memorial already leased space in the 16-acre complex, which sits three blocks from its flagship Memorial Regional Hospital. CEO Shane Strum told the South Florida Business Journal the system plans to relocate administrative offices there and would eventually like to occupy all three buildings, without forcing out current tenants. The deal follows Baptist Health's $53.5 million Coconut Creek Kohl's purchase and comes as Broward's medical office market cooled in the second quarter - sales volume dipped and vacancy rose to 12.5 percent per Colliers - even as rents and leasing held up. Healthcare owner-users continue to be the most aggressive bidders for well-located Broward office product.",
+    "source": "The Real Deal",
+    "sourceUrl": "https://therealdeal.com/miami/2026/09/15/memorial-healthcare-buys-hollywood-florida-office-complex/",
+    "category": "Commercial/CRE",
+    "importance": "medium"
+  },
+  {
+    "id": 132,
+    "date": "2026-09-15",
+    "title": "Bugatti to Brand a 60-Story, 183-Unit Condo Tower on the Miami River - Its First in the U.S.",
+    "summary": "French hypercar maker Bugatti will brand Prosper Group and Versluys Group's planned 60-story tower at 75 Southwest Miami Avenue Road, the first Bugatti-branded residential project in the United States. The developers paid $50 million for the one-acre site in August, a year and a half after going under contract; the parcel was part of Newgard Development Group and Two Roads Development's One Brickell Riverfront assemblage and carries more than 300 feet of Miami River frontage. The unit count rises to 183 condos including four penthouses, up from a previously planned 158, and the project is valued at roughly $650 million. Sales are expected to launch in the first half of 2027. Douglas Elliman had been expected to lead sales and marketing but is no longer involved. The tower deepens South Florida's lead as the U.S. capital of branded residences, alongside Bentley, Pagani, Aston Martin and Porsche Design towers - though brokers increasingly question how many more brand deals the market can absorb.",
+    "source": "The Real Deal",
+    "sourceUrl": "https://therealdeal.com/miami/2026/09/15/bugatti-branding-miami-condo-tower-its-first-in-u-s/",
+    "category": "Development",
+    "importance": "medium"
+  },
+  {
+    "id": 131,
+    "date": "2026-09-14",
+    "title": "Mount Vernon Pays $66.9M for a Publix-Anchored Palm Beach Gardens Center in Its First South Florida Retail Buy",
+    "summary": "Boston-based Mount Vernon Company paid $66.9 million - $321 per square foot - for the 207,900-square-foot Promenade Shopping Plaza at 9810 Alternate A1A in Palm Beach Gardens. Seller Nuveen Real Estate cleared $17.6 million over the $49.3 million it paid in 2017. Beacon Bank provided a $35.9 million acquisition loan. The 1989-vintage strip sits on about 22.8 acres, is 98 percent occupied, and is anchored by a Publix that reopened after renovations last year, with Planet Fitness, Goodwill and Ace Hardware among the other tenants; the county assessed it at $49 million this year. JLL's Danny Finkle, Jorge Portela and Kim Flores represented Nuveen. Mount Vernon, led by chairman Bruce Percelay, says it plans to hold long term - its first major South Florida shopping center acquisition. The sale runs counter to Nuveen's recent direction: the TIAA affiliate raised $330 million for its U.S. Cities Retail Fund this year and bought the Aldi-anchored Coral Landings III in Margate for $46.3 million in April. Grocery-anchored retail remains the most liquid commercial asset class in Palm Beach County.",
+    "source": "The Real Deal",
+    "sourceUrl": "https://therealdeal.com/miami/2026/09/14/mount-vernon-co-buys-south-florida-publix-shopping-center/",
+    "category": "Commercial/CRE",
+    "importance": "medium"
+  },
+  {
+    "id": 130,
+    "date": "2026-09-14",
+    "title": "Everglades Island Waterfront Trades at $40M - 158% Above Its 2019 Price and $6,765 Per Foot",
+    "summary": "Palm Beach philanthropist and art collector Kimberly Bluhm, buying through a land trust, paid $40 million for the 5,900-square-foot waterfront house at 608 Island Drive on Everglades Island - $6,765 per square foot. Sellers Roger and Raisa Webb had paid $15.5 million in 2019, making the trade a 158 percent gain in seven years. The 0.44-acre intracoastal lot holds five bedrooms and six and a half baths; the home was completed in 2019 after homebuilder Bruce Malasky bought the property for $6.5 million in 2016. It was listed in June at $41 million. Sotheby's Carole Koeppel represented the seller and Christian Angle the buyer. Bluhm, married to billionaire real estate and casino investor Neil Bluhm, also owns a Palm Beach condo bought for $7.4 million in 2020. Everglades Island continues to clear at extraordinary pricing - 757 Island Drive sold for $93.3 million in May and the vacant lot at 690 Island Drive fetched $39.2 million in June - while Angle's $195 million Billionaires Row listing at 1616 South Ocean Boulevard tests the top of the market.",
+    "source": "The Real Deal",
+    "sourceUrl": "https://therealdeal.com/miami/2026/09/14/kimberly-bluhm-buys-palm-beach-home-for-40-million/",
+    "category": "Luxury",
+    "importance": "medium"
+  },
+  {
     "id": 129,
     "date": "2026-09-11",
     "title": "Goldman Sachs Pays $154.5M for a 397-Unit Davie Rental at $389,169 Per Door; Kerra Buys Pompano's Aviara East for $73M",
@@ -7,7 +77,13 @@
     "source": "The Real Deal",
     "sourceUrl": "https://therealdeal.com/miami/2026/09/11/goldman-sachs-kerra-buy-separate-broward-rental-complexes/",
     "category": "Multifamily",
-    "tags": ["Multifamily", "Broward County", "Davie", "Pompano Beach", "Investment Sales"],
+    "tags": [
+      "Multifamily",
+      "Broward County",
+      "Davie",
+      "Pompano Beach",
+      "Investment Sales"
+    ],
     "importance": "high"
   },
   {
@@ -18,7 +94,13 @@
     "source": "The Real Deal",
     "sourceUrl": "https://therealdeal.com/miami/2026/09/11/redfearn-capital-pays-42-million-for-delray-beach-retail/",
     "category": "Commercial/CRE",
-    "tags": ["Retail", "Delray Beach", "Palm Beach County", "Commercial", "Investment Sales"],
+    "tags": [
+      "Retail",
+      "Delray Beach",
+      "Palm Beach County",
+      "Commercial",
+      "Investment Sales"
+    ],
     "importance": "high"
   },
   {
@@ -29,7 +111,12 @@
     "source": "The Real Deal",
     "sourceUrl": "https://therealdeal.com/miami/2026/09/11/galium-capital-buys-29-million-north-miami-beach-rentals/",
     "category": "Multifamily",
-    "tags": ["Multifamily", "North Miami Beach", "Miami-Dade County", "Value-Add"],
+    "tags": [
+      "Multifamily",
+      "North Miami Beach",
+      "Miami-Dade County",
+      "Value-Add"
+    ],
     "importance": "medium"
   },
   {
@@ -40,7 +127,13 @@
     "source": "The Real Deal",
     "sourceUrl": "https://therealdeal.com/miami/2026/09/10/steve-ross-related-ross-buys-boca-raton-innovation-campus/",
     "category": "Commercial/CRE",
-    "tags": ["Boca Raton", "Palm Beach County", "Office", "Redevelopment", "Related Ross"],
+    "tags": [
+      "Boca Raton",
+      "Palm Beach County",
+      "Office",
+      "Redevelopment",
+      "Related Ross"
+    ],
     "importance": "high"
   },
   {
@@ -51,7 +144,11 @@
     "source": "Freddie Mac / Fortune",
     "sourceUrl": "https://www.freddiemac.com/pmms",
     "category": "Market Data",
-    "tags": ["Mortgage Rates", "Financing", "Jumbo"],
+    "tags": [
+      "Mortgage Rates",
+      "Financing",
+      "Jumbo"
+    ],
     "importance": "high"
   },
   {
@@ -62,7 +159,12 @@
     "source": "The Real Deal",
     "sourceUrl": "https://therealdeal.com/miami/2026/09/09/longpoint-partners-buys-miami-dade-industrial-portfolio/",
     "category": "Commercial/CRE",
-    "tags": ["Industrial", "Miami-Dade", "Portfolio Sale", "Leasing"],
+    "tags": [
+      "Industrial",
+      "Miami-Dade",
+      "Portfolio Sale",
+      "Leasing"
+    ],
     "importance": "high"
   },
   {
@@ -73,7 +175,12 @@
     "source": "The Real Deal",
     "sourceUrl": "https://therealdeal.com/miami/2026/09/09/terra-frisbie-buy-more-of-former-palm-beach-kennel-club/",
     "category": "Development",
-    "tags": ["Palm Beach County", "Multifamily", "Development Site", "West Palm Beach"],
+    "tags": [
+      "Palm Beach County",
+      "Multifamily",
+      "Development Site",
+      "West Palm Beach"
+    ],
     "importance": "high"
   },
   {
@@ -84,7 +191,13 @@
     "source": "The Real Deal",
     "sourceUrl": "https://therealdeal.com/miami/2026/09/09/miami-puts-short-term-rentals-under-microscope/",
     "category": "Policy/Insurance",
-    "tags": ["short-term rentals", "Miami", "zoning", "Brickell", "regulation"],
+    "tags": [
+      "short-term rentals",
+      "Miami",
+      "zoning",
+      "Brickell",
+      "regulation"
+    ],
     "importance": "high"
   },
   {
@@ -95,84 +208,13 @@
     "source": "The Real Deal",
     "sourceUrl": "https://therealdeal.com/miami/2026/09/08/pebb-capitals-223m-refi-for-delray-beachs-sundy-village/",
     "category": "Commercial/CRE",
-    "tags": ["Delray Beach", "office", "retail", "refinancing", "Palm Beach County"],
-    "importance": "high"
-  },
-  {
-    "id": 120,
-    "date": "2026-09-08",
-    "title": "Charles Cohen Plans a $350M, 400K SF Speculative Office Project in Dania Beach",
-    "summary": "Cohen Brothers Realty will build Office Center of the Americas at 1805 and 1815 Griffin Road: two 10-story buildings totaling 400,000 square feet, each with a four-story garage, floorplates up to 14,000 square feet, connected by landscaped terraces and promenades. Nichols Brosch Wurst Wolfe & Associates designed the project and Cooper Horowitz is arranging construction financing. The site sits south of Fort Lauderdale-Hollywood International Airport and near the Design Center of the Americas showroom Cohen lost about two years ago in a foreclosure battle, making the announcement a comeback move after a yearslong, high-profile foreclosure saga. It is Cohen Brothers' second planned South Florida office project and one of the few speculative office starts on the board in Broward.",
-    "source": "The Real Deal",
-    "sourceUrl": "https://therealdeal.com/miami/2026/09/08/charles-cohen-plans-dania-beach-spec-office-project/",
-    "category": "Development",
-    "tags": ["Dania Beach", "office", "Broward", "speculative development"],
-    "importance": "high"
-  },
-  {
-    "id": 119,
-    "date": "2026-09-08",
-    "title": "Giannis Antetokounmpo Pays $13.5M for a Non-Waterfront Pinecrest Mansion",
-    "summary": "A company linked to the two-time NBA MVP, who joined the Miami Heat this summer in a trade that also moved Bobby Portis south, paid $13.5 million for a nearly 12,000-square-foot, eight-bedroom house on just over an acre, down from a $16.3 million ask. The recently completed home was designed by Ignacio Permuy of Coral Gables-based Permuy Architecture and includes a media room, pool, Jacuzzi and guest house; JCAS Realty represented the seller. Recent Pinecrest comps: Jeff Green sold at 9500 Southwest 61st Court for $15.5 million in April, and Tyler Herro listed across the street for nearly $12 million in July after paying $10.5 million in late 2022. The submarket draws athletes for its acre-plus lots, privacy and private schools. Separately, Antetokounmpo's family office has spent more than $69 million on multifamily real estate in Wisconsin, Brooklyn and Chicago over the past year.",
-    "source": "The Real Deal",
-    "sourceUrl": "https://therealdeal.com/miami/2026/09/08/giannis-antetokounmpo-buys-miami-mansion-in-pinecrest/",
-    "category": "Luxury",
-    "tags": ["Pinecrest", "Miami-Dade", "luxury sales", "athlete buyers"],
-    "importance": "medium"
-  },
-  {
-    "id": 118,
-    "date": "2026-09-04",
-    "title": "Trump Group Sells an Estates at Acqualina Penthouse for $33M - the Tower's Priciest Sale Yet",
-    "summary": "An affiliate of Jules and Eddie Trump's Trump Group sold the 52nd-floor unit at the Estates at Acqualina, 17975 Collins Avenue in Sunny Isles Beach, for $33 million - the highest price recorded in the tower to date. Buyer Acquilina 26 LLC, tied to consultant Lindsay Levert and Hallandale Beach real estate attorney Maria Marta Calderon, financed with a $20.5 million Morgan Stanley loan. The roughly 8,858-square-foot, six-bedroom, 7.5-bath unit sold furnished after asking $35 million, penciling to roughly $3,725 per square foot. The two oceanfront towers, completed in 2022 and 2023, hold 232 units combined; earlier this year a 7,700-square-foot Estates condo traded at $21.6 million, or about $2,800 per foot. The Trump Group is unrelated to President Donald Trump.",
-    "source": "The Real Deal",
-    "sourceUrl": "https://therealdeal.com/miami/2026/09/04/a3-development-sells-sunny-isles-acqualina-penthouse-for-33m/",
-    "category": "Luxury",
-    "tags": ["Sunny Isles Beach", "Acqualina", "penthouse", "oceanfront condo", "price per foot"],
-    "importance": "high"
-  },
-  {
-    "id": 117,
-    "date": "2026-09-04",
-    "title": "Phoenix Realty Pays $64.8M for 269-Unit Bay Pointe in South Miami-Dade at ~$240,900 Per Door",
-    "summary": "New York-based Phoenix Realty Group bought the 269-unit Bay Pointe Apartments at 18422 Homestead Avenue in unincorporated south Miami-Dade from an entity tied to Pride Homes by Garco for $64.8 million - about $240,892 per unit - assuming the seller's $55.2 million Corebridge Institutional Investments loan. The seven-story building was completed in 2024 on 2.4 acres with 134 one-bedroom, 129 two-bedroom and six three-bedroom apartments plus 3,700 square feet of retail. The trade extends a recovering cycle: South Florida multifamily sales totaled $2.5 billion in the first half, up 19.4 percent year over year per Avison Young, and 12-month leasing of 13,774 units finally edged past the 12,751 units delivered per CoStar. Nearly 28,000 units remain under construction, many due late next year.",
-    "source": "The Real Deal",
-    "sourceUrl": "https://therealdeal.com/miami/2026/09/04/pride-homes-by-garco-sells-miami-rentals-to-phoenix-realty/",
-    "category": "Multifamily",
-    "tags": ["multifamily", "Miami-Dade", "price per door", "loan assumption", "apartment sales"],
-    "importance": "high"
-  },
-  {
-    "id": 116,
-    "date": "2026-09-04",
-    "title": "Baptist Health Buys a Coconut Creek Kohl's for $53.5M - $577 Per Foot on 8.2 Acres",
-    "summary": "Baptist Health South Florida paid $53.5 million for the stand-alone Kohl's at 6950 North State Road 7 in Coconut Creek, or $577 per square foot for a 92,700-square-foot store on 8.2 acres that Kohl's bought for $14.8 million in 2008. The store remains open while Baptist evaluates plans for the site. Baptist is the region's largest hospital operator, with 12 hospitals and roughly 200 care and office facilities, and is also building a 61,000-square-foot Pembroke Pines medical center opening early next year and the 340,000-square-foot Baptist Health Sunrise Hospital due in 2029. Large medical anchors tend to lift surrounding retail, office and residential values, which is why big-box parcels near health-system expansion keep clearing well above traditional retail pricing.",
-    "source": "The Real Deal",
-    "sourceUrl": "https://therealdeal.com/miami/2026/09/04/baptist-health-buys-coconut-creek-kohls-store-for-54m/",
-    "category": "Commercial/CRE",
-    "tags": ["Broward", "medical", "big-box retail", "redevelopment", "price per foot"],
-    "importance": "high"
-  },
-  {
-    "id": 115,
-    "date": "2026-09-03",
-    "title": "Mortgage Rates Climb to 6.71%; 15-Year Back Above 6% and Jumbo Averages Near 6.8%",
-    "summary": "Freddie Mac's Primary Mortgage Market Survey put the 30-year fixed at 6.71 percent for the week ended September 3, up from 6.66 percent the prior week and above the 6.50 percent averaged a year ago. The 15-year fixed averaged 6.04 percent, up from 5.98 percent and back over 6 percent. Daily jumbo averages moved with it, running near 6.78 percent in the days after the print. For South Florida buyers and investors the practical read is that financing costs are grinding sideways-to-higher rather than easing, which keeps pressure on debt-service coverage for new acquisitions and continues to favor assumable-loan and seller-financed structures.",
-    "source": "Freddie Mac PMMS",
-    "sourceUrl": "https://www.freddiemac.com/pmms",
-    "category": "Market Data",
-    "tags": ["mortgage rates", "Freddie Mac", "jumbo", "financing", "PMMS"],
-    "importance": "high"
-  },
-  {
-    "id": 114,
-    "date": "2026-09-03",
-    "title": "Palm Beach's Landmark 'Ham and Cheese House' Lists at $105M - Nearly $8,000 Per Foot",
-    "summary": "Casa Eleda at 920 South Ocean Boulevard - the Maurice Fatio-designed brick-and-coquina landmark nicknamed the 'Ham and Cheese House' for its red-and-white facade - hit the market at $105 million, about $7,972 per square foot across 13,200 square feet on roughly an acre. Built for early-1900s banker Mortimer Schiff and named for his wife Adele ('Eleda' backward), it last sold for nearly $16 million in 2013 to the late industrialist Marion Antonini and his wife Penelope, so the ask is more than six times the 2013 basis. Seven bedrooms, 10 full and four half baths, wine cellar, and a tunnel running to a beachfront cabana; Christian Angle of Christian Angle Real Estate has the listing, first reported by the Wall Street Journal. In the same Palm Beach County roundup: Freedom Mortgage CEO Stanley Middleman listed his Ocean Ridge oceanfront estate at 6161 North Ocean Boulevard for $60 million ($5,699 per foot), and a Boca Raton yacht-club home traded at $20 million.",
-    "source": "The Real Deal",
-    "sourceUrl": "https://therealdeal.com/miami/2026/09/03/palm-beachs-ham-and-cheese-house-lists-for-105-million/",
-    "category": "Luxury",
-    "tags": ["Palm Beach", "Ocean Ridge", "Boca Raton", "trophy listing", "price per square foot"],
+    "tags": [
+      "Delray Beach",
+      "office",
+      "retail",
+      "refinancing",
+      "Palm Beach County"
+    ],
     "importance": "high"
   }
 ]
