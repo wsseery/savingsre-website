@@ -1,11 +1,115 @@
 {
   "meta": {
     "created": "2026-07-06",
-    "updated": "2026-09-17",
+    "updated": "2026-09-19",
     "note": "Archive of items rotated off the live market/news_data.json 16-item list. Weekly refresh APPENDS dropped items here (newest first) - never delete. Same item schema as news_data.json. Not rendered on the site; kept for content reuse, history, and a future archive/search section.",
-    "count": 114
+    "count": 120
   },
   "items": [
+    {
+      "id": 126,
+      "date": "2026-09-10",
+      "title": "Related Ross Buys the 124-Acre Boca Raton Innovation Campus, Entitled for a 1,243-Unit Micro-City",
+      "summary": "Steve Ross' Related Ross acquired BRiC, the 1.7 million-square-foot former IBM headquarters at 5000 T Rex Avenue between Yamato Road and I-95, in the firm's first Boca Raton deal. Price was not disclosed; the seller, an entity linked to Boca Raton-based CP Group, paid $320.2 million for the 124-acre campus in 2021, and Ares Commercial Real Estate Services provided acquisition financing. CP Group won zoning approval in 2023 for up to 1,243 residential units, a 140-room hotel, 125,000 square feet of retail, 85,000 square feet of medical office and a 55,000-square-foot entertainment venue; Related plans to keep the office and tech building while adding retail and amenities. D-Wave Quantum is moving its headquarters from Palo Alto to the campus by year-end. The buy follows Ross' $28.3 million Wellington land purchase in August and deepens the Palm Beach County office and mixed-use pipeline.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/09/10/steve-ross-related-ross-buys-boca-raton-innovation-campus/",
+      "category": "Commercial/CRE",
+      "tags": [
+        "Boca Raton",
+        "Palm Beach County",
+        "Office",
+        "Redevelopment",
+        "Related Ross"
+      ],
+      "importance": "high",
+      "archivedOn": "2026-09-19"
+    },
+    {
+      "id": 125,
+      "date": "2026-09-10",
+      "title": "Mortgage Rates Rise a Second Straight Week to 6.76%; 15-Year at 6.09% and Jumbo Near 6.85%",
+      "summary": "Freddie Mac's Primary Mortgage Market Survey put the 30-year fixed at 6.76% for the week ended September 10, up from 6.71%, with the 15-year fixed at 6.09% versus 6.04%. A year ago the 30-year averaged 6.35%, so financing is now roughly 40 basis points more expensive than last September. The daily 30-year jumbo average moved to about 6.85% from roughly 6.78%, leaving the jumbo-to-conforming spread near 9 basis points. Two consecutive increases modestly raise debt service on leveraged acquisitions and tighten cash-on-cash math on income deals underwritten at summer rates.",
+      "source": "Freddie Mac / Fortune",
+      "sourceUrl": "https://www.freddiemac.com/pmms",
+      "category": "Market Data",
+      "tags": [
+        "Mortgage Rates",
+        "Financing",
+        "Jumbo"
+      ],
+      "importance": "high",
+      "archivedOn": "2026-09-19"
+    },
+    {
+      "id": 124,
+      "date": "2026-09-09",
+      "title": "Longpoint Pays $195M for a 10-Building, 730,000 SF Miami-Dade Small-Bay Industrial Portfolio at $267 Per Foot",
+      "summary": "Boston-based Longpoint Partners, one of South Florida's most active warehouse owners, bought 730,000 square feet of small-bay space across 10 buildings on 42 acres in Miami-Dade industrial submarkets. The portfolio was 90% leased at closing with 74 tenants averaging close to 10,000 square feet each; buildings average 73,000 square feet. Seller and addresses were not disclosed. Industrial was South Florida's strongest commercial asset class in the first half, with 193 deals totaling $3.3 billion, a 130.5% jump from last year per Avison Young. Miami-Dade tenants leased 3 million square feet in the second quarter (7.4 million year to date) and net absorption reached 783,000 square feet, reversing three straight negative quarters, with asking rents at $17 per foot, up 1.5% year over year per Colliers.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/09/09/longpoint-partners-buys-miami-dade-industrial-portfolio/",
+      "category": "Commercial/CRE",
+      "tags": [
+        "Industrial",
+        "Miami-Dade",
+        "Portfolio Sale",
+        "Leasing"
+      ],
+      "importance": "high",
+      "archivedOn": "2026-09-19"
+    },
+    {
+      "id": 123,
+      "date": "2026-09-09",
+      "title": "Terra and Frisbie Add 26 Acres of the Former Palm Beach Kennel Club for $19.5M, Advancing 1,145 Apartments",
+      "summary": "Miami-based Terra and Palm Beach-based Frisbie Group paid $19.5 million, or about $1.44 million per acre, for 26.1 acres at 1111 North Congress Avenue, buying from Investment Corporation of Palm Beach. It is their third purchase at the defunct dog track after $20.9 million in 2025 and $7.79 million in June, assembling 42 acres in unincorporated Palm Beach County near the airport. The partners applied in 2024 to rezone the land for 1,145 multifamily units plus 120,000 square feet of retail and other commercial space in a community called Westgate Village, with construction expected to start this year. It is one of the larger rental pipelines moving forward in central Palm Beach County.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/09/09/terra-frisbie-buy-more-of-former-palm-beach-kennel-club/",
+      "category": "Development",
+      "tags": [
+        "Palm Beach County",
+        "Multifamily",
+        "Development Site",
+        "West Palm Beach"
+      ],
+      "importance": "high",
+      "archivedOn": "2026-09-19"
+    },
+    {
+      "id": 122,
+      "date": "2026-09-09",
+      "title": "Miami Commission Moves to Put Short-Term Rentals Under a Microscope After Brickell 'Animal House' Complaints",
+      "summary": "District 2 Commissioner Damian Pardo's resolution, set for a Thursday vote, would direct the city manager to scrutinize vacation rentals citywide and deliver quarterly updates on condo buildings with repeat violations, plus a city attorney report on how other cities have handled short-term rental registration since 2011. The trigger was The Club at Brickell Bay, nicknamed the \"Animal House\" after partying vacationers drew resident complaints. Rentals of under 30 days remain legal across Miami, but zoning dictates where lodging is allowed by right, requires additional approval, or is prohibited, and STRs must hold certificates of occupancy and use plus a state lodging license. Developer Ricardo Dunin of North Development, who builds purpose-built STR condos under hospitality zoning (most recently Domus Brickell Park), backs the effort and says enforcement, not the rules, is the gap. Investor read: condo-to-income plays in buildings without lodging entitlements carry rising enforcement risk, while hospitality-zoned product does not.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/09/09/miami-puts-short-term-rentals-under-microscope/",
+      "category": "Policy/Insurance",
+      "tags": [
+        "short-term rentals",
+        "Miami",
+        "zoning",
+        "Brickell",
+        "regulation"
+      ],
+      "importance": "high",
+      "archivedOn": "2026-09-19"
+    },
+    {
+      "id": 121,
+      "date": "2026-09-08",
+      "title": "Pebb Capital Lands $223M Refi on Delray Beach's 97%-Leased Sundy Village",
+      "summary": "JPMorgan Chase and Hudson Bay Capital provided the $223 million loan, replacing a $173 million 2023 construction loan from JPMorgan and Monroe Capital, which is stepping away from the project; Walker & Dunlop arranged the new financing. Phase one at 22 West Atlantic Avenue is a 7-acre development with 100,000 square feet of office, 30,000 square feet of retail and 268 parking spaces, completed in 2025 and now 97 percent pre-leased to tenants including Fairstead Development, Industrious and Vertical Bridge, with Van Leeuwen Ice Cream, Maman, Barcelona Wine Bar and Double Knot on the retail side. The next phase adds a 79,141-square-foot office at 100 Southeast First Avenue leased to Boca Raton-based DigitalBridge, a 165-space garage and 3,400 square feet of retail. Todd Rosenberg's Boca Raton-based Pebb began assembling the land in 2019 for $40 million, and has added a $70 million Miami Beach office building and a $72.5 million Design District stake this year.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/09/08/pebb-capitals-223m-refi-for-delray-beachs-sundy-village/",
+      "category": "Commercial/CRE",
+      "tags": [
+        "Delray Beach",
+        "office",
+        "retail",
+        "refinancing",
+        "Palm Beach County"
+      ],
+      "importance": "high",
+      "archivedOn": "2026-09-19"
+    },
     {
       "id": 120,
       "date": "2026-09-08",
