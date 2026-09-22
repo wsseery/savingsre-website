@@ -1,0 +1,76 @@
+{
+ "segment": "mf-upto3m-east",
+ "collection": "weekly",
+ "template": "mls-financial",
+ "label": "Top 3 Income Multifamily \u2014 East Coast",
+ "tagline": "Top 3 \u00b7 East coast, up to $3M \u00b7 ranked by NOI cap rate (broker-reported)",
+ "search_name": "WSS-MF-upto3mmeast",
+ "generated": "2026-09-22",
+ "pdf": "pdf/mf-upto3m-east__2026-09-22.pdf",
+ "expires": "2026-10-22",
+ "total_results": 3,
+ "metric_label": "NOI cap rate",
+ "methodology": "Live Beaches MLS pull 2026-09-22 (WSS-MF-upto3mmeast), 46 results. Cap rate = reported NOI / list price, computed ONLY where the listing reports both a positive annual expense and a positive NOI (12 of 46 qualified). Monthly-misreported income rows excluded. NOI is broker-reported and unverified.",
+ "items": [
+  {
+   "id": "mf-upto3m-east-2026-09-22-01",
+   "analytics_id": "A-01524",
+   "rank": 1,
+   "submarket": "Lantana",
+   "profile": "4-Unit Multifamily",
+   "price_band": "$500K-$1M",
+   "cap_label": "~7.96% cap",
+   "desc": "4-Unit Multifamily in Lantana; ~7.96% cap, 4 units, broker-reported NOI. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 4-Unit Multifamily, Lantana (~7.96% cap)",
+   "highlights": [
+    "Investor: ~10-12% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~9-10x GRM",
+    "Built 1960s"
+   ],
+   "inv_line": [
+    "~10-12% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~9-10x GRM"
+   ]
+  },
+  {
+   "id": "mf-upto3m-east-2026-09-22-02",
+   "analytics_id": "A-01525",
+   "rank": 2,
+   "submarket": "Lake Worth Beach",
+   "profile": "4-Unit Multifamily",
+   "price_band": "$500K-$1M",
+   "cap_label": "~7.23% cap",
+   "desc": "4-Unit Multifamily in Lake Worth Beach; ~7.23% cap, 4 units, broker-reported NOI. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 4-Unit Multifamily, Lake Worth Beach (~7.23% cap)",
+   "highlights": [
+    "Investor: ~7-9% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~10-11x GRM",
+    "Built 1940s"
+   ],
+   "inv_line": [
+    "~7-9% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~10-11x GRM"
+   ]
+  },
+  {
+   "id": "mf-upto3m-east-2026-09-22-03",
+   "analytics_id": "A-01526",
+   "rank": 3,
+   "submarket": "Lake Worth Beach",
+   "profile": "4-Unit Multifamily",
+   "price_band": "$500K-$1M",
+   "cap_label": "~7.05% cap",
+   "desc": "4-Unit Multifamily in Lake Worth Beach; ~7.05% cap, 4 units, broker-reported NOI. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 4-Unit Multifamily, Lake Worth Beach (~7.05% cap)",
+   "highlights": [
+    "Investor: ~6-8% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~9-10x GRM",
+    "Built 1920s"
+   ],
+   "inv_line": [
+    "~6-8% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~9-10x GRM"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,230 @@
+{
+ "segment": "medical-fl",
+ "collection": "curated",
+ "template": "curated-generic",
+ "label": "Medical & Healthcare Office \u2014 Florida",
+ "tagline": "Top 10 \u00b7 Florida statewide \u00b7 medical / dental / healthcare office \u00b7 ranked by cap rate",
+ "search_name": "Crexi (FL pull)",
+ "generated": "2026-09-22",
+ "pdf": "pdf/medical-fl__2026-09-22.pdf",
+ "expires": "2026-10-22",
+ "total_results": 10,
+ "metric_label": "Cap rate",
+ "methodology": "Crexi Florida pull 2026-09-22 via the Crexi asset API (POST /assets/search + 0.01 cap-bucket sweep to recover masked cap rates; per-asset detail endpoint for square footage, class and zoning). Florida medical, dental and healthcare office, ranked by recovered cap rate.",
+ "items": [
+  {
+   "id": "medical-fl-2026-09-22-01",
+   "analytics_id": "A-01474",
+   "rank": 1,
+   "submarket": "Clearwater",
+   "profile": "Medical / Healthcare Office",
+   "price_band": "$1M-$1.5M",
+   "cap_label": "~10.78% cap",
+   "desc": "Medical / Healthcare Office in Clearwater; ~10.78% cap, 12 units, ~9.4K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Medical / Healthcare Office, Clearwater (~10.78% cap)",
+   "highlights": [
+    "Investor: ~21-23% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~9.4K sq ft",
+    "Class B",
+    "value-add / below-market rents",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "~21-23% est. cash-on-cash (25% down, IO @ ~7%)",
+    "value-add / below-market rents",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "medical-fl-2026-09-22-02",
+   "analytics_id": "A-01475",
+   "rank": 2,
+   "submarket": "Orlando",
+   "profile": "Medical / Healthcare Office",
+   "price_band": "$3M-$4M",
+   "cap_label": "~9.64% cap",
+   "desc": "Medical / Healthcare Office in Orlando; ~9.64% cap, ~5.2K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Medical / Healthcare Office, Orlando (~9.64% cap)",
+   "highlights": [
+    "Investor: ~17-19% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~5.2K sq ft",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "~17-19% est. cash-on-cash (25% down, IO @ ~7%)",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "medical-fl-2026-09-22-03",
+   "analytics_id": "A-01476",
+   "rank": 3,
+   "submarket": "Tampa",
+   "profile": "Medical / Healthcare Office",
+   "price_band": "$2M-$2.5M",
+   "cap_label": "~9.40% cap",
+   "desc": "Medical / Healthcare Office in Tampa; ~9.40% cap, ~13.5K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Medical / Healthcare Office, Tampa (~9.40% cap)",
+   "highlights": [
+    "Investor: ~16-18% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~13.5K sq ft",
+    "Class B",
+    "reported fully occupied",
+    "value-add / below-market rents"
+   ],
+   "inv_line": [
+    "~16-18% est. cash-on-cash (25% down, IO @ ~7%)",
+    "reported fully occupied",
+    "value-add / below-market rents",
+    "90+ days on market"
+   ]
+  },
+  {
+   "id": "medical-fl-2026-09-22-04",
+   "analytics_id": "A-01477",
+   "rank": 4,
+   "submarket": "Pensacola",
+   "profile": "Medical / Healthcare Office",
+   "price_band": "$0K-$500K",
+   "cap_label": "~8.55% cap",
+   "desc": "Medical / Healthcare Office in Pensacola; ~8.55% cap, ~3.4K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Medical / Healthcare Office, Pensacola (~8.55% cap)",
+   "highlights": [
+    "Investor: ~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~3.4K sq ft",
+    "Class C",
+    "price reduced",
+    "reported fully occupied"
+   ],
+   "inv_line": [
+    "~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "price reduced",
+    "reported fully occupied",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "medical-fl-2026-09-22-05",
+   "analytics_id": "A-01478",
+   "rank": 5,
+   "submarket": "Brandon",
+   "profile": "Medical / Healthcare Office",
+   "price_band": "$5M-$6M",
+   "cap_label": "~8.15% cap",
+   "desc": "Medical / Healthcare Office in Brandon; ~8.15% cap. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Medical / Healthcare Office, Brandon (~8.15% cap)",
+   "highlights": [
+    "Investor: ~11-13% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Opportunity Zone"
+   ],
+   "inv_line": [
+    "~11-13% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Opportunity Zone"
+   ]
+  },
+  {
+   "id": "medical-fl-2026-09-22-06",
+   "analytics_id": "A-01479",
+   "rank": 6,
+   "submarket": "Marianna",
+   "profile": "Medical / Healthcare Office",
+   "price_band": "$2M-$2.5M",
+   "cap_label": "~8.13% cap",
+   "desc": "Medical / Healthcare Office in Marianna; ~8.13% cap, ~11.8K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Medical / Healthcare Office, Marianna (~8.13% cap)",
+   "highlights": [
+    "Investor: ~11-13% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~11.8K sq ft",
+    "Class A",
+    "reported fully occupied",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "~11-13% est. cash-on-cash (25% down, IO @ ~7%)",
+    "reported fully occupied",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "medical-fl-2026-09-22-07",
+   "analytics_id": "A-01480",
+   "rank": 7,
+   "submarket": "Eustis",
+   "profile": "Medical / Healthcare Office",
+   "price_band": "$2M-$2.5M",
+   "cap_label": "~8.05% cap",
+   "desc": "Medical / Healthcare Office in Eustis; ~8.05% cap, ~16.7K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Medical / Healthcare Office, Eustis (~8.05% cap)",
+   "highlights": [
+    "Investor: ~10-12% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~16.7K sq ft",
+    "Class B",
+    "Opportunity Zone",
+    "value-add / below-market rents"
+   ],
+   "inv_line": [
+    "~10-12% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Opportunity Zone",
+    "value-add / below-market rents",
+    "90+ days on market"
+   ]
+  },
+  {
+   "id": "medical-fl-2026-09-22-08",
+   "analytics_id": "A-01481",
+   "rank": 8,
+   "submarket": "Titusville",
+   "profile": "Medical / Healthcare Office",
+   "price_band": "$1.5M-$2M",
+   "cap_label": "~8.01% cap",
+   "desc": "Medical / Healthcare Office in Titusville; ~8.01% cap, ~6.3K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Medical / Healthcare Office, Titusville (~8.01% cap)",
+   "highlights": [
+    "Investor: ~10-12% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~6.3K sq ft"
+   ],
+   "inv_line": [
+    "~10-12% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "medical-fl-2026-09-22-09",
+   "analytics_id": "A-01482",
+   "rank": 9,
+   "submarket": "Orange Park",
+   "profile": "Medical / Healthcare Office",
+   "price_band": "$1M-$1.5M",
+   "cap_label": "~8.01% cap",
+   "desc": "Medical / Healthcare Office in Orange Park; ~8.01% cap, ~5.4K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Medical / Healthcare Office, Orange Park (~8.01% cap)",
+   "highlights": [
+    "Investor: ~10-12% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~5.4K sq ft",
+    "Class B",
+    "value-add / below-market rents"
+   ],
+   "inv_line": [
+    "~10-12% est. cash-on-cash (25% down, IO @ ~7%)",
+    "value-add / below-market rents"
+   ]
+  },
+  {
+   "id": "medical-fl-2026-09-22-10",
+   "analytics_id": "A-01483",
+   "rank": 10,
+   "submarket": "Cocoa",
+   "profile": "Medical / Healthcare Office",
+   "price_band": "$1.5M-$2M",
+   "cap_label": "~8.01% cap",
+   "desc": "Medical / Healthcare Office in Cocoa; ~8.01% cap, ~5.0K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Medical / Healthcare Office, Cocoa (~8.01% cap)",
+   "highlights": [
+    "Investor: ~10-12% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~5.0K sq ft"
+   ],
+   "inv_line": [
+    "~10-12% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  }
+ ]
+}

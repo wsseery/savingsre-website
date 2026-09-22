@@ -1,0 +1,233 @@
+{
+ "segment": "strip-mall-fl",
+ "collection": "curated",
+ "template": "curated-generic",
+ "label": "Strip & Neighborhood Retail Centers \u2014 Florida",
+ "tagline": "Top 10 \u00b7 Florida statewide \u00b7 multi-tenant strip / neighborhood centers \u00b7 ranked by cap rate",
+ "search_name": "Crexi (FL pull)",
+ "generated": "2026-09-22",
+ "pdf": "pdf/strip-mall-fl__2026-09-22.pdf",
+ "expires": "2026-10-22",
+ "total_results": 10,
+ "metric_label": "Cap rate",
+ "methodology": "Crexi Florida pull 2026-09-22 via the Crexi asset API (POST /assets/search + 0.01 cap-bucket sweep to recover masked cap rates; per-asset detail endpoint for square footage, class and zoning). Florida multi-tenant strip and neighborhood retail centers (6,000+ sq ft or a plaza/center-style asset), ranked by recovered cap rate. Single-tenant net lease routed to the NNN list; urban retail condos excluded.",
+ "items": [
+  {
+   "id": "strip-mall-fl-2026-09-22-01",
+   "analytics_id": "A-01464",
+   "rank": 1,
+   "submarket": "Ocala",
+   "profile": "Multi-Tenant Retail Center",
+   "price_band": "$1M-$1.5M",
+   "cap_label": "~10.73% cap",
+   "desc": "Multi-Tenant Retail Center in Ocala; ~10.73% cap, ~13.5K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Multi-Tenant Retail Center, Ocala (~10.73% cap)",
+   "highlights": [
+    "Investor: ~21-23% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~13.5K sq ft",
+    "Class B",
+    "Opportunity Zone",
+    "90+ days on market"
+   ],
+   "inv_line": [
+    "~21-23% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Opportunity Zone",
+    "90+ days on market"
+   ]
+  },
+  {
+   "id": "strip-mall-fl-2026-09-22-02",
+   "analytics_id": "A-01465",
+   "rank": 2,
+   "submarket": "Starke",
+   "profile": "Multi-Tenant Retail Center",
+   "price_band": "$1M-$1.5M",
+   "cap_label": "~10.01% cap",
+   "desc": "Multi-Tenant Retail Center in Starke; ~10.01% cap, ~17.0K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Multi-Tenant Retail Center, Starke (~10.01% cap)",
+   "highlights": [
+    "Investor: ~18-20% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~17.0K sq ft",
+    "Class C",
+    "value-add / below-market rents",
+    "recently listed"
+   ],
+   "inv_line": [
+    "~18-20% est. cash-on-cash (25% down, IO @ ~7%)",
+    "value-add / below-market rents",
+    "recently listed"
+   ]
+  },
+  {
+   "id": "strip-mall-fl-2026-09-22-03",
+   "analytics_id": "A-01466",
+   "rank": 3,
+   "submarket": "Archer",
+   "profile": "Multi-Tenant Retail Center",
+   "price_band": "$2.5M-$3M",
+   "cap_label": "~10.01% cap",
+   "desc": "Multi-Tenant Retail Center in Archer; ~10.01% cap, ~17.7K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Multi-Tenant Retail Center, Archer (~10.01% cap)",
+   "highlights": [
+    "Investor: ~18-20% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~17.7K sq ft"
+   ],
+   "inv_line": [
+    "~18-20% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "strip-mall-fl-2026-09-22-04",
+   "analytics_id": "A-01467",
+   "rank": 4,
+   "submarket": "Bronson",
+   "profile": "Multi-Tenant Retail Center",
+   "price_band": "$2.5M-$3M",
+   "cap_label": "~10.01% cap",
+   "desc": "Multi-Tenant Retail Center in Bronson; ~10.01% cap, ~13.4K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Multi-Tenant Retail Center, Bronson (~10.01% cap)",
+   "highlights": [
+    "Investor: ~18-20% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~13.4K sq ft"
+   ],
+   "inv_line": [
+    "~18-20% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "strip-mall-fl-2026-09-22-05",
+   "analytics_id": "A-01468",
+   "rank": 5,
+   "submarket": "Pensacola",
+   "profile": "Multi-Tenant Retail Center",
+   "price_band": "$2.5M-$3M",
+   "cap_label": "~9.53% cap",
+   "desc": "Multi-Tenant Retail Center in Pensacola; ~9.53% cap, ~18.8K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Multi-Tenant Retail Center, Pensacola (~9.53% cap)",
+   "highlights": [
+    "Investor: ~16-18% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~18.8K sq ft",
+    "Class B",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "~16-18% est. cash-on-cash (25% down, IO @ ~7%)",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "strip-mall-fl-2026-09-22-06",
+   "analytics_id": "A-01469",
+   "rank": 6,
+   "submarket": "Cape Coral",
+   "profile": "Multi-Tenant Retail Center",
+   "price_band": "$2.5M-$3M",
+   "cap_label": "~9.06% cap",
+   "desc": "Multi-Tenant Retail Center in Cape Coral; ~9.06% cap, ~11.7K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Multi-Tenant Retail Center, Cape Coral (~9.06% cap)",
+   "highlights": [
+    "Investor: ~14-16% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~11.7K sq ft",
+    "value-add / below-market rents",
+    "90+ days on market"
+   ],
+   "inv_line": [
+    "~14-16% est. cash-on-cash (25% down, IO @ ~7%)",
+    "value-add / below-market rents",
+    "90+ days on market"
+   ]
+  },
+  {
+   "id": "strip-mall-fl-2026-09-22-07",
+   "analytics_id": "A-01470",
+   "rank": 7,
+   "submarket": "Ocala",
+   "profile": "Multi-Tenant Retail Center",
+   "price_band": "$7M-$8M",
+   "cap_label": "~9.01% cap",
+   "desc": "Multi-Tenant Retail Center in Ocala; ~9.01% cap, ~86.0K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Multi-Tenant Retail Center, Ocala (~9.01% cap)",
+   "highlights": [
+    "Investor: ~14-16% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~86.0K sq ft",
+    "Class B",
+    "value-add / below-market rents",
+    "90+ days on market"
+   ],
+   "inv_line": [
+    "~14-16% est. cash-on-cash (25% down, IO @ ~7%)",
+    "value-add / below-market rents",
+    "90+ days on market"
+   ]
+  },
+  {
+   "id": "strip-mall-fl-2026-09-22-08",
+   "analytics_id": "A-01471",
+   "rank": 8,
+   "submarket": "Lake Wales",
+   "profile": "Multi-Tenant Retail Center",
+   "price_band": "$11M-$12M",
+   "cap_label": "~9.01% cap",
+   "desc": "Multi-Tenant Retail Center in Lake Wales; ~9.01% cap, ~100.8K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Multi-Tenant Retail Center, Lake Wales (~9.01% cap)",
+   "highlights": [
+    "Investor: ~14-16% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~100.8K sq ft",
+    "Class B",
+    "value-add / below-market rents",
+    "90+ days on market"
+   ],
+   "inv_line": [
+    "~14-16% est. cash-on-cash (25% down, IO @ ~7%)",
+    "value-add / below-market rents",
+    "90+ days on market"
+   ]
+  },
+  {
+   "id": "strip-mall-fl-2026-09-22-09",
+   "analytics_id": "A-01472",
+   "rank": 9,
+   "submarket": "Hudson",
+   "profile": "Multi-Tenant Retail Center",
+   "price_band": "$500K-$1M",
+   "cap_label": "~8.77% cap",
+   "desc": "Multi-Tenant Retail Center in Hudson; ~8.77% cap, ~4.5K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Multi-Tenant Retail Center, Hudson (~8.77% cap)",
+   "highlights": [
+    "Investor: ~13-15% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~4.5K sq ft",
+    "reported fully occupied",
+    "recently listed"
+   ],
+   "inv_line": [
+    "~13-15% est. cash-on-cash (25% down, IO @ ~7%)",
+    "reported fully occupied",
+    "recently listed"
+   ]
+  },
+  {
+   "id": "strip-mall-fl-2026-09-22-10",
+   "analytics_id": "A-01473",
+   "rank": 10,
+   "submarket": "Ocoee",
+   "profile": "Multi-Tenant Retail Center",
+   "price_band": "$7M-$8M",
+   "cap_label": "~8.56% cap",
+   "desc": "Multi-Tenant Retail Center in Ocoee; ~8.56% cap, ~61.1K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Multi-Tenant Retail Center, Ocoee (~8.56% cap)",
+   "highlights": [
+    "Investor: ~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~61.1K sq ft",
+    "reported fully occupied",
+    "value-add / below-market rents",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "reported fully occupied",
+    "value-add / below-market rents",
+    "180+ days on market"
+   ]
+  }
+ ]
+}
