@@ -1,5 +1,85 @@
 [
   {
+    "id": 150,
+    "date": "2026-09-24",
+    "title": "Freddie Mac 30-Year Rate Crosses 7% for the First Time Since January 2025, Averaging 7.03%",
+    "summary": "The PMMS 30-year fixed averaged 7.03% for the week of September 24, up 8 basis points from 6.95% and well above the 6.30% of a year ago; the 15-year rose to 6.42% from 6.26%. Daily lender indexes are running higher: Mortgage News Daily put the 30-year conforming at 7.45% and the 30-year jumbo at 7.55% on September 24, versus 2026 lows of 5.99% and 6.10%. Rising financing costs keep pressure on leveraged buyers and on cap-rate spreads for income property.",
+    "source": "Freddie Mac",
+    "sourceUrl": "https://www.freddiemac.com/pmms",
+    "category": "Market Data",
+    "importance": "high"
+  },
+  {
+    "id": 149,
+    "date": "2026-09-24",
+    "title": "Paper-Products Heir David Simkins Sells Waterfront Morningside Home for a Record $24.1M",
+    "summary": "Simkins sold the nearly one-acre bayfront property at 5725 North Bayshore Drive, with 125 feet of water frontage and a 3,900 SF 1969 house, to an undisclosed trust for $24.1 million in an off-market deal. He paid $16 million in 2025, itself a Morningside record at the time. The buyer's agents (Compass and One Sotheby's) say they approached owners directly because waterfront inventory is so thin; the buyer plans to build a new home on the lot.",
+    "source": "The Real Deal",
+    "sourceUrl": "https://therealdeal.com/miami/2026/09/24/david-simkins-flips-miami-home-for-morningside-record/",
+    "category": "Luxury",
+    "importance": "medium"
+  },
+  {
+    "id": 148,
+    "date": "2026-09-24",
+    "title": "Prestige Takes Back Dania Beach's 124-Unit Atlantica at $27.3M After a Failed Condo Conversion",
+    "summary": "Prestige Companies and MV Real Estate Holdings reacquired 118 of the 124 units at Atlantica, 624 NE Second Street, for $27.3 million (about $231,000 per unit) through a deed in lieu of foreclosure. Prestige had sold the garden-style complex to S2 Development for $36.7 million in 2024; S2 planned a for-sale conversion but sold only six units. Kawa Capital's CRE Lendco provided a $22.1 million loan, and Prestige will run the property as workforce rentals - a roughly 22% per-door discount to the 2024 price.",
+    "source": "The Real Deal",
+    "sourceUrl": "https://therealdeal.com/miami/2026/09/24/prestige-companies-reacquires-dania-beach-apartments/",
+    "category": "Multifamily",
+    "importance": "medium"
+  },
+  {
+    "id": 147,
+    "date": "2026-09-24",
+    "title": "Palm Beach County Finalizes a One-Year Moratorium on Hyperscale Data Centers",
+    "summary": "Commissioners unanimously approved a ban on new applications for data centers with a peak load of 50 megawatts or more, in effect until September 24, 2027. The pause follows the July rejection of the million-square-foot Project Tango at Central Park Commerce Center, which the owner has appealed. The county will hire a consultant rather than form a volunteer committee to shape future rules; Martin County holds its own moratorium hearings next month.",
+    "source": "The Real Deal",
+    "sourceUrl": "https://therealdeal.com/miami/2026/09/24/palm-beach-county-approves-1-year-data-center-pause/",
+    "category": "Policy/Insurance",
+    "importance": "low"
+  },
+  {
+    "id": 146,
+    "date": "2026-09-23",
+    "title": "Florida Approves Four More Homeowners Rate Cuts as Citizens Falls to About 266,000 Policies",
+    "summary": "The Office of Insurance Regulation approved average decreases of 3.2% to 10.4% from One Alliance, Safe Harbor, Unique and Vyrd, covering about 62,000 policies (7% average). The commissioner says the office is receiving a flood of decrease requests, with the 30-day average requested change at -4.8%, and expects deeper cuts into 2027; Kin has filed cuts of up to 20% in three South Florida counties. Citizens' count dropped to 266,231 in August from a 1.4 million peak in 2023.",
+    "source": "Insurance Journal",
+    "sourceUrl": "https://www.insurancejournal.com/news/southeast/2026/09/23/886558.htm",
+    "category": "Policy/Insurance",
+    "importance": "high"
+  },
+  {
+    "id": 145,
+    "date": "2026-09-23",
+    "title": "Thor Equities Buys Boca Raton's 11-Story Two Town Center Office from CP Group for About $62M",
+    "summary": "Joe Sitt's Thor paid roughly $62 million ($405 PSF) for the 153,000 SF, 90%-leased office tower at 5355 Town Center Road plus a 114,600 SF garage on 7 acres near Town Center at Boca Raton. CP Group developed the building in 1986 and reacquired it for $36.3 million in 2014; tenants include CBRE and Lincoln Financial Advisors. It is Thor's first South Florida office buy after a retail-focused run, reflecting a contrarian bet on Sun Belt office.",
+    "source": "The Real Deal",
+    "sourceUrl": "https://therealdeal.com/miami/2026/09/23/thor-equities-pays-63-million-for-boca-raton-office/",
+    "category": "Commercial/CRE",
+    "importance": "medium"
+  },
+  {
+    "id": 144,
+    "date": "2026-09-23",
+    "title": "Court Puts Brightline's MiamiCentral Retail Concourse in Receivership Amid $65M Foreclosure",
+    "summary": "A Miami-Dade judge appointed Cushman & Wakefield's Mike Nevins as receiver over the 124,000 SF retail portion of the MiamiCentral station, giving him control of rents, leasing and a possible sale. The lender group sued in July over the senior $65 million piece of a $128.5 million 2022 loan after missed principal and interest payments; the retail was about 65% leased. Train service is unaffected, but Brightline is reportedly preparing a Chapter 11 filing to restructure $1.1 billion of corporate debt.",
+    "source": "The Real Deal",
+    "sourceUrl": "https://therealdeal.com/miami/2026/09/23/brightlines-miami-retail-station-under-receivership/",
+    "category": "Commercial/CRE",
+    "importance": "medium"
+  },
+  {
+    "id": 143,
+    "date": "2026-09-22",
+    "title": "TA Realty Pays $105.5M for Wellington's 366-Unit Polo Lakes, or $288,300 Per Door",
+    "summary": "Boston-based TA Realty bought the 27-acre, 531,000 SF garden complex at 1950 Polo Lake Boulevard from a JPMorgan Chase affiliate in the property's first sale in more than two decades; the seller paid $47.4 million in 2002. Rents start around $1,880. The asset sits beside Wellington Regional Medical Center and across from the Mall at Wellington Green, as Related Ross plans a 71-acre mixed-use district nearby. TA paid $193 million for a 476-unit Palm Beach Gardens complex last year.",
+    "source": "The Real Deal",
+    "sourceUrl": "https://therealdeal.com/miami/2026/09/22/ta-realty-buys-palm-beach-county-apartments-for-105-million/",
+    "category": "Multifamily",
+    "importance": "high"
+  },
+  {
     "id": 142,
     "date": "2026-09-18",
     "title": "Robert Rivani Lands $114.3M Refi on South Beach Office Where Playboy Will Headquarter",
@@ -78,105 +158,5 @@
     "sourceUrl": "https://www.miamirealtors.com/2026/09/16/miami-dade-on-pace-to-shatter-10m-up-home-sales-annual-record/",
     "category": "Market Data",
     "importance": "high"
-  },
-  {
-    "id": 134,
-    "date": "2026-09-16",
-    "title": "13th Floor and Wexford Win Approval for a 30-Story, 350-Unit Flagler Village Tower in Fort Lauderdale",
-    "summary": "The Fort Lauderdale City Commission approved the site plan for Flagler Village Residences, a 30-story, 350-unit rental tower at 500 Northeast 3rd Avenue just north of downtown. The project adds about 3,500 square feet of retail and a seven-story podium with 512 parking spaces. Miami-based 13th Floor Investments, led by managing principal Arnaud Karsenti, is developing with West Palm Beach-based Wexford Real Estate Investors; the partnership assembled the 1.37-acre site in parcel buys between 2007 and 2019 for a combined $5.49 million. The commission granted a deviation allowing a 17,669-square-foot floorplate - 41 percent above the 12,500-square-foot by-right maximum - and separately vacated a 150-by-15-foot city alley bisecting the site. The approval lands in a softening rental market: Marcus & Millichap notes Fort Lauderdale's rental vacancy tightened from 5.1 to 4.8 percent in the 12 months through March, the fastest among major Florida markets, but affordability pressure and concession use continue to temper rent growth.",
-    "source": "The Real Deal",
-    "sourceUrl": "https://therealdeal.com/miami/2026/09/16/13th-floor-plans-30-story-fort-lauderdale-multifamily-tower/",
-    "category": "Multifamily",
-    "importance": "medium"
-  },
-  {
-    "id": 133,
-    "date": "2026-09-15",
-    "title": "Memorial Healthcare Pays $69M for Hollywood's 254,000 SF Venture Center, Becoming Its Own Office Landlord",
-    "summary": "South Broward Hospital District, doing business as Memorial Healthcare System, bought the three-building, 254,000-square-foot Venture Center office complex at 200-300 South Park Road and 3440 Hollywood Boulevard for $69 million - $272 per square foot - from entities tied to Fox Ridge Capital and Jackson Land Development. The complex last traded at $50 million in 2021, a 38 percent gain in five years. Cushman & Wakefield's Scott O'Donnell, Dominic Montazemi, Mike Davis and team represented the sellers; CBRE's Chris Lee and Will Portfolio brought the buyer. Memorial already leased space in the 16-acre complex, which sits three blocks from its flagship Memorial Regional Hospital. CEO Shane Strum told the South Florida Business Journal the system plans to relocate administrative offices there and would eventually like to occupy all three buildings, without forcing out current tenants. The deal follows Baptist Health's $53.5 million Coconut Creek Kohl's purchase and comes as Broward's medical office market cooled in the second quarter - sales volume dipped and vacancy rose to 12.5 percent per Colliers - even as rents and leasing held up. Healthcare owner-users continue to be the most aggressive bidders for well-located Broward office product.",
-    "source": "The Real Deal",
-    "sourceUrl": "https://therealdeal.com/miami/2026/09/15/memorial-healthcare-buys-hollywood-florida-office-complex/",
-    "category": "Commercial/CRE",
-    "importance": "medium"
-  },
-  {
-    "id": 132,
-    "date": "2026-09-15",
-    "title": "Bugatti to Brand a 60-Story, 183-Unit Condo Tower on the Miami River - Its First in the U.S.",
-    "summary": "French hypercar maker Bugatti will brand Prosper Group and Versluys Group's planned 60-story tower at 75 Southwest Miami Avenue Road, the first Bugatti-branded residential project in the United States. The developers paid $50 million for the one-acre site in August, a year and a half after going under contract; the parcel was part of Newgard Development Group and Two Roads Development's One Brickell Riverfront assemblage and carries more than 300 feet of Miami River frontage. The unit count rises to 183 condos including four penthouses, up from a previously planned 158, and the project is valued at roughly $650 million. Sales are expected to launch in the first half of 2027. Douglas Elliman had been expected to lead sales and marketing but is no longer involved. The tower deepens South Florida's lead as the U.S. capital of branded residences, alongside Bentley, Pagani, Aston Martin and Porsche Design towers - though brokers increasingly question how many more brand deals the market can absorb.",
-    "source": "The Real Deal",
-    "sourceUrl": "https://therealdeal.com/miami/2026/09/15/bugatti-branding-miami-condo-tower-its-first-in-u-s/",
-    "category": "Development",
-    "importance": "medium"
-  },
-  {
-    "id": 131,
-    "date": "2026-09-14",
-    "title": "Mount Vernon Pays $66.9M for a Publix-Anchored Palm Beach Gardens Center in Its First South Florida Retail Buy",
-    "summary": "Boston-based Mount Vernon Company paid $66.9 million - $321 per square foot - for the 207,900-square-foot Promenade Shopping Plaza at 9810 Alternate A1A in Palm Beach Gardens. Seller Nuveen Real Estate cleared $17.6 million over the $49.3 million it paid in 2017. Beacon Bank provided a $35.9 million acquisition loan. The 1989-vintage strip sits on about 22.8 acres, is 98 percent occupied, and is anchored by a Publix that reopened after renovations last year, with Planet Fitness, Goodwill and Ace Hardware among the other tenants; the county assessed it at $49 million this year. JLL's Danny Finkle, Jorge Portela and Kim Flores represented Nuveen. Mount Vernon, led by chairman Bruce Percelay, says it plans to hold long term - its first major South Florida shopping center acquisition. The sale runs counter to Nuveen's recent direction: the TIAA affiliate raised $330 million for its U.S. Cities Retail Fund this year and bought the Aldi-anchored Coral Landings III in Margate for $46.3 million in April. Grocery-anchored retail remains the most liquid commercial asset class in Palm Beach County.",
-    "source": "The Real Deal",
-    "sourceUrl": "https://therealdeal.com/miami/2026/09/14/mount-vernon-co-buys-south-florida-publix-shopping-center/",
-    "category": "Commercial/CRE",
-    "importance": "medium"
-  },
-  {
-    "id": 130,
-    "date": "2026-09-14",
-    "title": "Everglades Island Waterfront Trades at $40M - 158% Above Its 2019 Price and $6,765 Per Foot",
-    "summary": "Palm Beach philanthropist and art collector Kimberly Bluhm, buying through a land trust, paid $40 million for the 5,900-square-foot waterfront house at 608 Island Drive on Everglades Island - $6,765 per square foot. Sellers Roger and Raisa Webb had paid $15.5 million in 2019, making the trade a 158 percent gain in seven years. The 0.44-acre intracoastal lot holds five bedrooms and six and a half baths; the home was completed in 2019 after homebuilder Bruce Malasky bought the property for $6.5 million in 2016. It was listed in June at $41 million. Sotheby's Carole Koeppel represented the seller and Christian Angle the buyer. Bluhm, married to billionaire real estate and casino investor Neil Bluhm, also owns a Palm Beach condo bought for $7.4 million in 2020. Everglades Island continues to clear at extraordinary pricing - 757 Island Drive sold for $93.3 million in May and the vacant lot at 690 Island Drive fetched $39.2 million in June - while Angle's $195 million Billionaires Row listing at 1616 South Ocean Boulevard tests the top of the market.",
-    "source": "The Real Deal",
-    "sourceUrl": "https://therealdeal.com/miami/2026/09/14/kimberly-bluhm-buys-palm-beach-home-for-40-million/",
-    "category": "Luxury",
-    "importance": "medium"
-  },
-  {
-    "id": 129,
-    "date": "2026-09-11",
-    "title": "Goldman Sachs Pays $154.5M for a 397-Unit Davie Rental at $389,169 Per Door; Kerra Buys Pompano's Aviara East for $73M",
-    "summary": "Two Broward apartment complexes traded as South Florida multifamily investment sales regain momentum. A Goldman Sachs affiliate paid $154.5 million for the 397-unit Modera Academical Village I at 3440 SW 76th Terrace in Davie, buying from Boca Raton-based Mill Creek Residential, which completed the eight-story, 3.1-acre project last year - $389,169 per door. In Pompano Beach, Aviara Properties sold the 228-unit Aviara East Pompano at 1611 S Dixie Highway to Orlando-based Kerra Investments for $73 million, or $320,175 per unit; Kerra, led by Revital and Eliav Kling, assumed the seller's debt and increased it to $58 million with Ladder Capital as lender. First-half South Florida multifamily deal volume hit $2.5 billion, up 19.4 percent year-over-year per Avison Young, though brokers caution some reflects late-2025 contracts closing now. Leasing finally outpaced deliveries - 13,774 units leased versus 12,751 completed in the 12 months through Q2 per CoStar - but roughly 28,000 more units are due by late next year. Realtor.com put South Florida's July median asking rent at $2,279, down 1.3 percent year-over-year.",
-    "source": "The Real Deal",
-    "sourceUrl": "https://therealdeal.com/miami/2026/09/11/goldman-sachs-kerra-buy-separate-broward-rental-complexes/",
-    "category": "Multifamily",
-    "tags": [
-      "Multifamily",
-      "Broward County",
-      "Davie",
-      "Pompano Beach",
-      "Investment Sales"
-    ],
-    "importance": "high"
-  },
-  {
-    "id": 128,
-    "date": "2026-09-11",
-    "title": "Redfearn Capital Locks Up Delray Beach's East Atlantic Avenue with $42.2M in Back-to-Back Retail Buys",
-    "summary": "Alex Redfearn's Delray Beach-based Redfearn Capital paid a combined $42.2 million for two commercial properties on East Atlantic Avenue, among the largest commercial deals in the town's history. The firm paid $38.2 million at auction for the 22,800-square-foot office and retail property at 105-111 East Atlantic Avenue - $1,674 per square foot - with tenants including Sloan's Ice Cream and Geronimo Tequila Bar and Southwest Grill; Cushman & Wakefield's Ron Granite and Jason Hochman arranged financing. In a separate $4 million deal it bought the renovated 1,960-square-foot 1950-built retail building at 123 East Atlantic Avenue from William R. Burke, who paid $173,000 in 1996, for $2,040 per square foot. The larger sale followed a lawsuit settlement between the former co-owners, the estate of late TMP Worldwide CEO David Hosokawa and bakery owner Billy Himmelrich, who jointly sold and split proceeds. Redfearn paid $10 million for 131 East Atlantic Avenue in December, giving it a contiguous swath of Atlantic Avenue frontage, and last month flipped a Palm Beach office-retail building at 317 Peruvian Avenue for $18 million, a $10 million gain in a year.",
-    "source": "The Real Deal",
-    "sourceUrl": "https://therealdeal.com/miami/2026/09/11/redfearn-capital-pays-42-million-for-delray-beach-retail/",
-    "category": "Commercial/CRE",
-    "tags": [
-      "Retail",
-      "Delray Beach",
-      "Palm Beach County",
-      "Commercial",
-      "Investment Sales"
-    ],
-    "importance": "high"
-  },
-  {
-    "id": 127,
-    "date": "2026-09-11",
-    "title": "Galium Capital Buys North Miami Beach's 156-Unit Arbors Aventura for $28.7M in a Value-Add Play",
-    "summary": "Miami-based Galium Capital, led by Jacques Bessoudo and Iser Rabinovitz, acquired the 156-unit Arbors Aventura at 2365 NE 173rd Street in North Miami Beach for roughly $28.7 million excluding furniture and fixtures, with Newmark's Tal Frydman representing both sides. The 1969-built complex of three three-story buildings last sold for $35.2 million in 2022 to Mavik Capital Management, Triangle Capital Group and Corinthian Capital Real Estate Partners as part of an $82 million three-property portfolio - so the trade prints well below the prior basis. Galium, founded in 2018 with more than $750 million in assets under management and over $600 million of multifamily volume across Texas, Maryland and Tampa, plans renovations to lift value. The buy lands amid a North Miami Beach and North Miami building boom of about 11,500 units in construction or planning, including PPG Development's 728-unit project and LeFrak and Turnberry's SoLe Mia, which may reach 4,400 units and 1.5 million square feet of commercial space at full buildout.",
-    "source": "The Real Deal",
-    "sourceUrl": "https://therealdeal.com/miami/2026/09/11/galium-capital-buys-29-million-north-miami-beach-rentals/",
-    "category": "Multifamily",
-    "tags": [
-      "Multifamily",
-      "North Miami Beach",
-      "Miami-Dade County",
-      "Value-Add"
-    ],
-    "importance": "medium"
   }
 ]

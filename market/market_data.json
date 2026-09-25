@@ -1,7 +1,7 @@
 {
   "meta": {
-    "updated": "2026-09-19",
-    "period": "Residential through August 2026; rates as of September 18, 2026",
+    "updated": "2026-09-25",
+    "period": "Residential through August 2026; rates as of September 24, 2026",
     "coverage": "SE Florida (Miami-Dade, Broward, Palm Beach, Martin, St. Lucie) + statewide FL",
     "disclaimer": "Figures compiled from public market reports (Florida Realtors, MIAMI Realtors, CBRE, Freddie Mac, FL OIR) and are informational only - not investment, tax, or financial advice. Deemed reliable but not guaranteed.",
     "note_source": "County residential metrics are pulled monthly from the MIAMI REALTORS + RWorld county statistics releases (miamirealtors.com, MIAMI MLS + BeachesMLS), published ~the 16th-17th for the prior month; the statewide row comes from the Florida Realtors Monthly Market Summary (floridarealtors.org/newsroom/market-data). Note: as of September 2026 the Florida Realtors county report generator requires member login, so the public MIAMI REALTORS county releases are the county source. This replaced the RAPB-GFLR ShowingTime MMI as the residential source on 2026-07-23."
@@ -129,17 +129,17 @@
     ]
   },
   "rates": {
-    "updated": "2026-09-18",
+    "updated": "2026-09-24",
     "cards": [
       {
         "label": "30-Yr Fixed (conforming)",
-        "value": "7.20%",
-        "sub": "daily lender avg Sep 18; Freddie Mac PMMS 6.95% for the wk of 9/17, up 19 bps"
+        "value": "7.45%",
+        "sub": "daily lender avg Sep 24; Freddie Mac PMMS 7.03% for the wk of 9/24 - first print above 7% since Jan 2025"
       },
       {
         "label": "30-Yr Jumbo",
-        "value": "7.36%",
-        "sub": "daily jumbo avg Sep 18, near a one-year high (2026 low 6.10%)"
+        "value": "7.55%",
+        "sub": "daily jumbo avg Sep 24, a one-year high (2026 low 6.10%)"
       },
       {
         "label": "Jumbo loan threshold",
@@ -149,7 +149,7 @@
     ]
   },
   "insurance": {
-    "updated": "2026-07-10",
+    "updated": "2026-09-23",
     "trend": "Improving / stabilizing",
     "cards": [
       {
@@ -160,12 +160,12 @@
       {
         "label": "SE FL County Rate Filings",
         "value": "-11% to -14%",
-        "sub": "approved; in effect July 1, 2026 (Broward/Miami-Dade ~-14%)"
+        "sub": "approved; in effect July 1, 2026. Sept: 4 more HO cuts approved (avg -7%), more filed"
       },
       {
         "label": "Citizens Policy Count",
-        "value": "~336K",
-        "sub": "down 76% from 1.41M peak (Oct 2023) - lowest since 2012"
+        "value": "~266K",
+        "sub": "Aug 2026; down ~81% from 1.41M peak (Oct 2023)"
       },
       {
         "label": "June 2026 Reinsurance Pricing",
