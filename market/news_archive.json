@@ -1,11 +1,55 @@
 {
   "meta": {
     "created": "2026-07-06",
-    "updated": "2026-09-25",
+    "updated": "2026-09-27",
     "note": "Archive of items rotated off the live market/news_data.json 16-item list. Weekly refresh APPENDS dropped items here (newest first) - never delete. Same item schema as news_data.json. Not rendered on the site; kept for content reuse, history, and a future archive/search section.",
-    "count": 128
+    "count": 132
   },
   "items": [
+    {
+      "id": 138,
+      "date": "2026-09-17",
+      "title": "Alta Lists 675-Bed South Miami Student Housing Mid-Construction Before the Opportunity Zone Sunset",
+      "summary": "Alta Development is marketing SoMi Walk, a 16-story, 173-unit / 675-bed project at 5959 SW 71st Street near the University of Miami, without a broker and expects the mid-$200 million range - over $1.4 million per unit at $250 million. The unusual mid-construction offering is timed to the federal Opportunity Zone program's year-end expiration, since Opportunity Zones 2.0 census tracts have not been designated. Alta assembled the site for $29 million in May; delivery is fall 2028.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/09/17/alta-development-lists-miami-student-housing-project/",
+      "category": "Multifamily",
+      "importance": "medium",
+      "archivedOn": "2026-09-27"
+    },
+    {
+      "id": 137,
+      "date": "2026-09-17",
+      "title": "Developer Philippe Harari's Coconut Grove Waterfront Home Sells Off-Market for More Than $80M",
+      "summary": "The 11,000 SF, eight-bedroom estate at 3575 Battersea Road on 0.9 acres changed hands over the summer in an unrecorded trade sources put between $80 million and $100 million; the buyer entity took a $40.1 million J.P. Morgan mortgage at 4.9% fixed to 2031. It is the latest in a run of ultra-high-end Grove trades - Jorge Mas sold a 7.3-acre site for over $100 million last year, and Larry Page spent $173 million on two estates - with waterfront large-lot inventory scarce.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/09/17/philippe-hararis-miami-home-sells-for-over-80-million/",
+      "category": "Luxury",
+      "importance": "high",
+      "archivedOn": "2026-09-27"
+    },
+    {
+      "id": 136,
+      "date": "2026-09-16",
+      "title": "Mortgage Rates Break Above 7% After the Fed's September Hike; Daily 30-Year at 7.24% and Jumbo at 7.40%",
+      "summary": "Borrowing costs jumped sharply this week. The Federal Reserve raised rates at its September 16 meeting, and the benchmark 10-year Treasury yield pushed to roughly 5 percent - its highest level in about two decades - as an oil-price spike tied to the Iran conflict lifted inflation expectations. Daily lender surveys followed: Mortgage News Daily put the average 30-year conforming fixed at 7.24 percent and the 30-year jumbo at 7.40 percent on September 16-17, a one-year high and well above the 5.99 percent 2026 low. Freddie Mac's weekly PMMS survey, which lags daily pricing by several days, still read 6.76 percent for the week ended September 10; the next PMMS print is due September 17 and is expected to close much of that gap. For South Florida, where cash accounted for 37.8 percent of Miami-Dade closings and 35.9 percent of Broward closings in August, the move widens the advantage for cash and high-end buyers and raises the cost of financing on leveraged multifamily and commercial acquisitions.",
+      "source": "Mortgage News Daily",
+      "sourceUrl": "https://www.mortgagenewsdaily.com/mortgage-rates",
+      "category": "Market Data",
+      "importance": "high",
+      "archivedOn": "2026-09-27"
+    },
+    {
+      "id": 135,
+      "date": "2026-09-16",
+      "title": "August County Data: SE Florida Single-Family Medians Keep Rising While Listings Fall About 20% - Miami-Dade $680K, Broward $650K, Palm Beach $650K",
+      "summary": "MIAMI REALTORS + RWorld released August 2026 county statistics on September 16. Single-family median sale prices rose year-over-year in every SE Florida county: Miami-Dade to $680,000 (+3.8%), Broward to $650,000 (+4.0%), Palm Beach to $650,000 (+3.2%), Martin to $656,900 (+12.8%) and St. Lucie to $402,500 (+0.6%). Condo medians were mixed - Broward $257,500 (+4.0%), Palm Beach $300,000 (+5.3%), Martin $277,500 (+20.7%) and St. Lucie $320,000 (+7.2%), while Miami-Dade slipped 0.5% to $408,000. Single-family closed sales softened almost everywhere (Miami-Dade -3.1%, Palm Beach -2.0%, Martin -11.3%, St. Lucie -6.5%; Broward flat at +0.1%), ending an 11-month streak of year-over-year gains. The supply story is the tighter constraint: single-family active listings fell 19.2% in Miami-Dade, 22.5% in Broward, 23.8% in Palm Beach and 21.8% in Martin. Months' supply of single-family inventory sits at 4.9 in Miami-Dade and 4.1 in Broward - seller's-market territory - while existing condos remain a buyer's market at 12.1 and 9.9 months. Statewide, Florida Realtors reported 21,497 single-family closings (-1.4%) at a $415,000 median (+1.2%), with active listings down 13.0%.",
+      "source": "MIAMI REALTORS + RWorld",
+      "sourceUrl": "https://www.miamirealtors.com/2026/09/16/miami-dade-on-pace-to-shatter-10m-up-home-sales-annual-record/",
+      "category": "Market Data",
+      "importance": "high",
+      "archivedOn": "2026-09-27"
+    },
     {
       "id": 134,
       "date": "2026-09-16",
