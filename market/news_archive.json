@@ -1,11 +1,55 @@
 {
   "meta": {
     "created": "2026-07-06",
-    "updated": "2026-09-27",
+    "updated": "2026-09-29",
     "note": "Archive of items rotated off the live market/news_data.json 16-item list. Weekly refresh APPENDS dropped items here (newest first) - never delete. Same item schema as news_data.json. Not rendered on the site; kept for content reuse, history, and a future archive/search section.",
-    "count": 132
+    "count": 136
   },
   "items": [
+    {
+      "id": 142,
+      "date": "2026-09-18",
+      "title": "Robert Rivani Lands $114.3M Refi on South Beach Office Where Playboy Will Headquarter",
+      "summary": "BridgeInvest Credit Fund V provided $114.3 million to refinance the 165,200 SF Class X office building at 1691 Michigan Avenue in Miami Beach, now 83% leased. Rivani bought the building and ground lease in 2024 for $62.5 million and spent $38 million repositioning it; tenants include Playboy (relocating its HQ from Los Angeles next year), Apple, Morgan Stanley and Wix. Berkadia arranged. Debt continues to flow to well-leased South Florida office, though sporadically.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/09/18/robert-rivanis-south-beach-office-nabs-114-million-refi/",
+      "category": "Commercial/CRE",
+      "importance": "high",
+      "archivedOn": "2026-09-29"
+    },
+    {
+      "id": 141,
+      "date": "2026-09-18",
+      "title": "Investors Pay $55.2M for Miami-Dade Retail Condos; Wynwood Space Trades at $2,200 PSF",
+      "summary": "Related Group sold the 15,000 SF Casa Tua Cucina retail condo at NoMad Residences Wynwood for $33 million ($2,200 PSF) to an Optimar-affiliated LLC, financed with a $26 million seller-carried mortgage. Separately, Azora Capital paid $22.2 million for 17 ground-floor retail and mixed-use condos totaling 27,600 SF at Santona Corner in Coral Gables. Miami-Dade retail vacancy fell to 3% in Q2 with asking rents up 2.6% to $42.50 PSF, per Colliers.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/09/18/related-group-sells-casa-tua-cucina-space-at-nomad-wynwood/",
+      "category": "Commercial/CRE",
+      "importance": "medium",
+      "archivedOn": "2026-09-29"
+    },
+    {
+      "id": 140,
+      "date": "2026-09-17",
+      "title": "Freddie Mac 30-Year Rate Jumps to 6.95% in the First Print After the Fed's September Hike",
+      "summary": "The PMMS 30-year fixed averaged 6.95% for the week of September 17, up 19 basis points from 6.76% and up from 6.26% a year ago; the 15-year averaged 6.26%, up from 6.09%. Daily lender averages ran higher still, with the 30-year conforming around 7.20% and the 30-year jumbo near 7.36% - roughly a one-year high and about 120 bps above the 2026 low. Higher financing costs keep pressure on debt-service coverage for income property buyers.",
+      "source": "Freddie Mac",
+      "sourceUrl": "https://www.freddiemac.com/pmms",
+      "category": "Market Data",
+      "importance": "high",
+      "archivedOn": "2026-09-29"
+    },
+    {
+      "id": 139,
+      "date": "2026-09-17",
+      "title": "Jeff Greene Sells Palm Beach's Tideline Resort to Fort Partners for $150M, or $1.2M Per Key",
+      "summary": "The 134-room, 100,000 SF oceanfront hotel on 3 acres at 2842 South Ocean Boulevard traded at roughly $1,500 per square foot. Greene paid $41 million ($306,000 per key) in 2011 and completed a $20 million renovation in 2023; Eastdil Secured brokered. Fort Partners, which owns all four South Florida Four Seasons hotels, refinanced the neighboring Four Seasons Resort Palm Beach for $341 million in July. South Florida resort pricing continues to set records.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/09/17/jeff-greene-sells-tideline-palm-beach-ocean-resort/",
+      "category": "Commercial/CRE",
+      "importance": "high",
+      "archivedOn": "2026-09-29"
+    },
     {
       "id": 138,
       "date": "2026-09-17",

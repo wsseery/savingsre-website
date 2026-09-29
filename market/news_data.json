@@ -1,5 +1,45 @@
 [
   {
+    "id": 158,
+    "date": "2026-09-28",
+    "title": "West Palm Beach Forté on Flagler Condo Trades for $10.2M, or About $2,300 Per Square Foot",
+    "summary": "The top residential deal recorded for September 25 was unit 2202 at Forté on Flagler, 1333 South Flagler Drive: a trust with a concealed buyer paid $10.2 million for the 4,440-square-foot condo. Two Roads Development and Alpha Blue Ventures began closings at the 24-story Intracoastal-view tower in summer 2025. A 321 Ocean Drive condo in Miami Beach also traded for $9.9 million (about $2,600/SF), and a Balogh Company affiliate bought a ~32,000 SF Weston office complex for $8.4 million ($263/SF).",
+    "source": "The Real Deal",
+    "sourceUrl": "https://therealdeal.com/data/miami/2026/south-florida-top-real-estate-deals-sept-25-2026/",
+    "category": "Luxury",
+    "importance": "medium"
+  },
+  {
+    "id": 157,
+    "date": "2026-09-28",
+    "title": "Lenders Sue to Foreclose on MG Developer's 347-Unit Metro Parc South in Hialeah",
+    "summary": "Slate Property Group and The Carlyle Group filed a foreclosure suit on September 22 against Coral Gables-based MG Developer, alleging default on $31.1 million of a $105 million April 2025 construction financing for the 10-story, 347-unit Metro Parc South rental project. The lenders cite construction liens, missed reserve deposits and unpaid 2025 property taxes after a forbearance agreement expired. It is the latest of several lender actions against Alirio Torrealba's firm, which says it is negotiating and seeking an additional investor.",
+    "source": "The Real Deal",
+    "sourceUrl": "https://therealdeal.com/miami/2026/09/28/mg-developers-metro-parc-south-in-hialeah-faces-foreclosure/",
+    "category": "Commercial/CRE",
+    "importance": "high"
+  },
+  {
+    "id": 156,
+    "date": "2026-09-28",
+    "title": "PTM Partners Lands $125M Construction Loan for 330-Unit Edge Collective II in St. Petersburg",
+    "summary": "Fort Lauderdale-based PTM Partners secured a three-year floating-rate $125 million construction loan from a GID affiliate for Edge Collective II, a 20-story, 330-unit rental high-rise with 19,000 SF of retail at 11th Street South and 1st Avenue South in downtown St. Pete's Edge District - about $378,800 per unit. Berkadia arranged the debt. The Opportunity Zone project is phase two of a two-block master development; vertical construction starts in the coming months with completion slated for 2029.",
+    "source": "The Real Deal",
+    "sourceUrl": "https://therealdeal.com/miami/2026/09/28/ptm-partners-nabs-125-million-loan-for-st-pete-rentals/",
+    "category": "Multifamily",
+    "importance": "medium"
+  },
+  {
+    "id": 155,
+    "date": "2026-09-28",
+    "title": "Sunrise Approves Pinnacle's 229-Unit Enspire Rentals With 57 Workforce Units",
+    "summary": "The Sunrise City Commission unanimously approved the site plan for Pinnacle Communities' Enspire at Sunrise: two five- and six-story buildings with 229 apartments on a vacant 9.7-acre site west of Florida's Turnpike on West Oakland Park Boulevard. 57 units will be workforce housing for households at 80-120% of area median income for 30 years, using Broward County's six-market-rate-per-workforce-unit incentive. Market-rate one-bedrooms are expected from $2,500 a month; construction is targeted for April 2027 to November 2028.",
+    "source": "The Real Deal",
+    "sourceUrl": "https://therealdeal.com/miami/2026/09/28/pinnacle-communities-greenlit-for-broward-county-rentals/",
+    "category": "Development",
+    "importance": "medium"
+  },
+  {
     "id": 154,
     "date": "2026-09-25",
     "title": "Brightline's Parent Files Chapter 11 to Restructure $5.5B of Debt; Miami-Orlando Trains Keep Running",
@@ -117,46 +157,6 @@
     "source": "The Real Deal",
     "sourceUrl": "https://therealdeal.com/miami/2026/09/22/ta-realty-buys-palm-beach-county-apartments-for-105-million/",
     "category": "Multifamily",
-    "importance": "high"
-  },
-  {
-    "id": 142,
-    "date": "2026-09-18",
-    "title": "Robert Rivani Lands $114.3M Refi on South Beach Office Where Playboy Will Headquarter",
-    "summary": "BridgeInvest Credit Fund V provided $114.3 million to refinance the 165,200 SF Class X office building at 1691 Michigan Avenue in Miami Beach, now 83% leased. Rivani bought the building and ground lease in 2024 for $62.5 million and spent $38 million repositioning it; tenants include Playboy (relocating its HQ from Los Angeles next year), Apple, Morgan Stanley and Wix. Berkadia arranged. Debt continues to flow to well-leased South Florida office, though sporadically.",
-    "source": "The Real Deal",
-    "sourceUrl": "https://therealdeal.com/miami/2026/09/18/robert-rivanis-south-beach-office-nabs-114-million-refi/",
-    "category": "Commercial/CRE",
-    "importance": "high"
-  },
-  {
-    "id": 141,
-    "date": "2026-09-18",
-    "title": "Investors Pay $55.2M for Miami-Dade Retail Condos; Wynwood Space Trades at $2,200 PSF",
-    "summary": "Related Group sold the 15,000 SF Casa Tua Cucina retail condo at NoMad Residences Wynwood for $33 million ($2,200 PSF) to an Optimar-affiliated LLC, financed with a $26 million seller-carried mortgage. Separately, Azora Capital paid $22.2 million for 17 ground-floor retail and mixed-use condos totaling 27,600 SF at Santona Corner in Coral Gables. Miami-Dade retail vacancy fell to 3% in Q2 with asking rents up 2.6% to $42.50 PSF, per Colliers.",
-    "source": "The Real Deal",
-    "sourceUrl": "https://therealdeal.com/miami/2026/09/18/related-group-sells-casa-tua-cucina-space-at-nomad-wynwood/",
-    "category": "Commercial/CRE",
-    "importance": "medium"
-  },
-  {
-    "id": 140,
-    "date": "2026-09-17",
-    "title": "Freddie Mac 30-Year Rate Jumps to 6.95% in the First Print After the Fed's September Hike",
-    "summary": "The PMMS 30-year fixed averaged 6.95% for the week of September 17, up 19 basis points from 6.76% and up from 6.26% a year ago; the 15-year averaged 6.26%, up from 6.09%. Daily lender averages ran higher still, with the 30-year conforming around 7.20% and the 30-year jumbo near 7.36% - roughly a one-year high and about 120 bps above the 2026 low. Higher financing costs keep pressure on debt-service coverage for income property buyers.",
-    "source": "Freddie Mac",
-    "sourceUrl": "https://www.freddiemac.com/pmms",
-    "category": "Market Data",
-    "importance": "high"
-  },
-  {
-    "id": 139,
-    "date": "2026-09-17",
-    "title": "Jeff Greene Sells Palm Beach's Tideline Resort to Fort Partners for $150M, or $1.2M Per Key",
-    "summary": "The 134-room, 100,000 SF oceanfront hotel on 3 acres at 2842 South Ocean Boulevard traded at roughly $1,500 per square foot. Greene paid $41 million ($306,000 per key) in 2011 and completed a $20 million renovation in 2023; Eastdil Secured brokered. Fort Partners, which owns all four South Florida Four Seasons hotels, refinanced the neighboring Four Seasons Resort Palm Beach for $341 million in July. South Florida resort pricing continues to set records.",
-    "source": "The Real Deal",
-    "sourceUrl": "https://therealdeal.com/miami/2026/09/17/jeff-greene-sells-tideline-palm-beach-ocean-resort/",
-    "category": "Commercial/CRE",
     "importance": "high"
   }
 ]

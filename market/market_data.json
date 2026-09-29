@@ -1,7 +1,7 @@
 {
   "meta": {
-    "updated": "2026-09-27",
-    "period": "Residential through August 2026; rates as of September 25, 2026",
+    "updated": "2026-09-29",
+    "period": "Residential through August 2026; rates as of September 28, 2026",
     "coverage": "SE Florida (Miami-Dade, Broward, Palm Beach, Martin, St. Lucie) + statewide FL",
     "disclaimer": "Figures compiled from public market reports (Florida Realtors, MIAMI Realtors, CBRE, Freddie Mac, FL OIR) and are informational only - not investment, tax, or financial advice. Deemed reliable but not guaranteed.",
     "note_source": "County residential metrics are pulled monthly from the MIAMI REALTORS + RWorld county statistics releases (miamirealtors.com, MIAMI MLS + BeachesMLS), published ~the 16th-17th for the prior month; the statewide row comes from the Florida Realtors Monthly Market Summary (floridarealtors.org/newsroom/market-data). Note: as of September 2026 the Florida Realtors county report generator requires member login, so the public MIAMI REALTORS county releases are the county source. This replaced the RAPB-GFLR ShowingTime MMI as the residential source on 2026-07-23."
@@ -129,17 +129,17 @@
     ]
   },
   "rates": {
-    "updated": "2026-09-25",
+    "updated": "2026-09-28",
     "cards": [
       {
         "label": "30-Yr Fixed (conforming)",
-        "value": "7.43%",
-        "sub": "daily lender avg Sep 25; Freddie Mac PMMS 7.03% for the wk of 9/24 - first print above 7% since Jan 2025"
+        "value": "7.50%",
+        "sub": "daily lender avg Sep 28 - first time at 7.50% since Apr 2024; Freddie Mac PMMS 7.03% for the wk of 9/24 (next print 10/1)"
       },
       {
         "label": "30-Yr Jumbo",
-        "value": "7.55%",
-        "sub": "daily jumbo avg Sep 25, a one-year high (2026 low 6.10%)"
+        "value": "7.56%",
+        "sub": "daily jumbo avg Sep 28, a one-year high (2026 low 6.10%)"
       },
       {
         "label": "Jumbo loan threshold",
