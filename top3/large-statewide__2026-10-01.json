@@ -1,0 +1,227 @@
+{
+ "segment": "large-statewide",
+ "collection": "curated",
+ "template": "curated-generic",
+ "label": "Larger Investments \u2014 40+ Units",
+ "tagline": "Top 10 \u00b7 Florida statewide \u00b7 40+ unit apartment communities \u00b7 ranked by scale",
+ "search_name": "Crexi (FL pull)",
+ "generated": "2026-10-01",
+ "pdf": "pdf/large-statewide__2026-10-01.pdf",
+ "expires": "2026-10-31",
+ "total_results": 10,
+ "metric_label": "Unit count",
+ "methodology": "Crexi Florida pull 2026-10-01 via the Crexi asset API (POST /assets/search + 0.01 cap-bucket sweep to recover masked cap rates; per-asset detail endpoint for square footage, class and zoning). Florida statewide apartment communities of 40+ units, ranked by scale. Development sites, entitled land, approved-unit plays and listings with unreliable unit counts excluded; unpriced offerings shown as Price on request. This run: 50 statewide 40+ unit listings passed the development/hospitality screens (44 also cleared the $40K/unit floor); top 10 by unit count shown.",
+ "items": [
+  {
+   "id": "large-statewide-2026-10-01-01",
+   "analytics_id": "A-01582",
+   "rank": 1,
+   "submarket": "Miami Gardens",
+   "profile": "491-Unit Apartment Community",
+   "price_band": "Price on request",
+   "cap_label": "491 units",
+   "desc": "491-Unit Apartment Community in Miami Gardens; ~6.00% cap, 491 units, ~336.5K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 491-Unit Apartment Community, Miami Gardens (491 units)",
+   "highlights": [
+    "Investor: ~2-4% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~336.5K sq ft",
+    "Class B",
+    "Opportunity Zone",
+    "value-add / below-market rents"
+   ],
+   "inv_line": [
+    "~2-4% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Opportunity Zone",
+    "value-add / below-market rents"
+   ]
+  },
+  {
+   "id": "large-statewide-2026-10-01-02",
+   "analytics_id": "A-01583",
+   "rank": 2,
+   "submarket": "Pine Hills",
+   "profile": "330-Unit Apartment Community",
+   "price_band": "$54M-$56M",
+   "cap_label": "330 units",
+   "desc": "330-Unit Apartment Community in Pine Hills; ~6.57% cap, 330 units, ~256.7K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 330-Unit Apartment Community, Pine Hills (330 units)",
+   "highlights": [
+    "Investor: ~4-6% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~256.7K sq ft",
+    "Class C",
+    "value-add / below-market rents"
+   ],
+   "inv_line": [
+    "~4-6% est. cash-on-cash (25% down, IO @ ~7%)",
+    "value-add / below-market rents"
+   ]
+  },
+  {
+   "id": "large-statewide-2026-10-01-03",
+   "analytics_id": "A-01584",
+   "rank": 3,
+   "submarket": "Tallahassee",
+   "profile": "200-Unit Apartment Community",
+   "price_band": "$28M-$30M",
+   "cap_label": "200 units",
+   "desc": "200-Unit Apartment Community in Tallahassee; ~7.79% cap, 200 units, ~200.6K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 200-Unit Apartment Community, Tallahassee (200 units)",
+   "highlights": [
+    "Investor: ~9-11% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~200.6K sq ft",
+    "Class B",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "~9-11% est. cash-on-cash (25% down, IO @ ~7%)",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "large-statewide-2026-10-01-04",
+   "analytics_id": "A-01585",
+   "rank": 4,
+   "submarket": "Lauderhill",
+   "profile": "192-Unit Apartment Community",
+   "price_band": "$44M-$46M",
+   "cap_label": "192 units",
+   "desc": "192-Unit Apartment Community in Lauderhill; ~5.85% cap, 192 units, ~179.2K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 192-Unit Apartment Community, Lauderhill (192 units)",
+   "highlights": [
+    "Investor: ~1-3% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~179.2K sq ft",
+    "Class B",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "~1-3% est. cash-on-cash (25% down, IO @ ~7%)",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "large-statewide-2026-10-01-05",
+   "analytics_id": "A-01586",
+   "rank": 5,
+   "submarket": "Bradenton",
+   "profile": "152-Unit Apartment Community",
+   "price_band": "$28M-$30M",
+   "cap_label": "152 units",
+   "desc": "152-Unit Apartment Community in Bradenton; 152 units, ~151.2K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 152-Unit Apartment Community, Bradenton (152 units)",
+   "highlights": [
+    "~151.2K sq ft",
+    "Class B",
+    "value-add / below-market rents",
+    "90+ days on market"
+   ],
+   "inv_line": [
+    "value-add / below-market rents",
+    "90+ days on market"
+   ]
+  },
+  {
+   "id": "large-statewide-2026-10-01-06",
+   "analytics_id": "A-01587",
+   "rank": 6,
+   "submarket": "Sarasota",
+   "profile": "132-Unit Apartment Community",
+   "price_band": "$21M-$22M",
+   "cap_label": "132 units",
+   "desc": "132-Unit Apartment Community in Sarasota; ~6.95% cap, 132 units, ~104.5K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 132-Unit Apartment Community, Sarasota (132 units)",
+   "highlights": [
+    "Investor: ~6-8% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~104.5K sq ft",
+    "seller financing available",
+    "recently listed"
+   ],
+   "inv_line": [
+    "~6-8% est. cash-on-cash (25% down, IO @ ~7%)",
+    "seller financing available",
+    "recently listed"
+   ]
+  },
+  {
+   "id": "large-statewide-2026-10-01-07",
+   "analytics_id": "A-01588",
+   "rank": 7,
+   "submarket": "Tallahassee",
+   "profile": "123-Unit Apartment Community",
+   "price_band": "$15M-$16M",
+   "cap_label": "123 units",
+   "desc": "123-Unit Apartment Community in Tallahassee; ~6.93% cap, 123 units, ~137.9K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 123-Unit Apartment Community, Tallahassee (123 units)",
+   "highlights": [
+    "Investor: ~6-8% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~137.9K sq ft",
+    "Class A",
+    "value-add / below-market rents",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "~6-8% est. cash-on-cash (25% down, IO @ ~7%)",
+    "value-add / below-market rents",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "large-statewide-2026-10-01-08",
+   "analytics_id": "A-01589",
+   "rank": 8,
+   "submarket": "Gainesville",
+   "profile": "114-Unit Student Housing Community",
+   "price_band": "$19M-$20M",
+   "cap_label": "114 units",
+   "desc": "114-Unit Student Housing Community in Gainesville; 114 units, ~49.3K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 114-Unit Student Housing Community, Gainesville (114 units)",
+   "highlights": [
+    "~49.3K sq ft",
+    "Class B",
+    "value-add / below-market rents",
+    "reported fully occupied",
+    "recently listed"
+   ],
+   "inv_line": [
+    "value-add / below-market rents",
+    "reported fully occupied",
+    "recently listed"
+   ]
+  },
+  {
+   "id": "large-statewide-2026-10-01-09",
+   "analytics_id": "A-01590",
+   "rank": 9,
+   "submarket": "Sunrise",
+   "profile": "113-Unit Apartment Community",
+   "price_band": "$21M-$22M",
+   "cap_label": "113 units",
+   "desc": "113-Unit Apartment Community in Sunrise; ~6.89% cap, 113 units, ~98.7K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 113-Unit Apartment Community, Sunrise (113 units)",
+   "highlights": [
+    "Investor: ~6-8% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~98.7K sq ft"
+   ],
+   "inv_line": [
+    "~6-8% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "large-statewide-2026-10-01-10",
+   "analytics_id": "A-01591",
+   "rank": 10,
+   "submarket": "Brooksville",
+   "profile": "111-Unit Apartment Community",
+   "price_band": "$10M-$11M",
+   "cap_label": "111 units",
+   "desc": "111-Unit Apartment Community in Brooksville; 111 units, ~61.4K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 111-Unit Apartment Community, Brooksville (111 units)",
+   "highlights": [
+    "~61.4K sq ft",
+    "value-add / below-market rents"
+   ],
+   "inv_line": [
+    "value-add / below-market rents"
+   ]
+  }
+ ]
+}
