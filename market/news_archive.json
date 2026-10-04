@@ -1,11 +1,154 @@
 {
   "meta": {
     "created": "2026-07-06",
-    "updated": "2026-09-29",
+    "updated": "2026-10-04",
     "note": "Archive of items rotated off the live market/news_data.json 16-item list. Weekly refresh APPENDS dropped items here (newest first) - never delete. Same item schema as news_data.json. Not rendered on the site; kept for content reuse, history, and a future archive/search section.",
-    "count": 136
+    "count": 149
   },
   "items": [
+    {
+      "id": 155,
+      "date": "2026-09-28",
+      "title": "Sunrise Approves Pinnacle's 229-Unit Enspire Rentals With 57 Workforce Units",
+      "summary": "The Sunrise City Commission unanimously approved the site plan for Pinnacle Communities' Enspire at Sunrise: two five- and six-story buildings with 229 apartments on a vacant 9.7-acre site west of Florida's Turnpike on West Oakland Park Boulevard. 57 units will be workforce housing for households at 80-120% of area median income for 30 years, using Broward County's six-market-rate-per-workforce-unit incentive. Market-rate one-bedrooms are expected from $2,500 a month; construction is targeted for April 2027 to November 2028.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/09/28/pinnacle-communities-greenlit-for-broward-county-rentals/",
+      "category": "Development",
+      "importance": "medium",
+      "archivedOn": "2026-10-04"
+    },
+    {
+      "id": 154,
+      "date": "2026-09-25",
+      "title": "Brightline's Parent Files Chapter 11 to Restructure $5.5B of Debt; Miami-Orlando Trains Keep Running",
+      "summary": "Brightline Holdings and certain other parent entities filed for Chapter 11 on September 24 in New Jersey, listing assets and liabilities of $1 billion to $10 billion. The operating company is excluded from the filing, so service continues during the restructuring. Bond insurer Assured Guaranty and other investors are providing $258 million of post-petition funding and have agreed to $490 million of new debt at exit. The filing comes days after a court put Brightline's MiamiCentral retail concourse into receivership amid a $65M foreclosure.",
+      "source": "Insurance Journal",
+      "sourceUrl": "https://www.insurancejournal.com/news/southeast/2026/09/25/886892.htm",
+      "category": "Commercial/CRE",
+      "importance": "high",
+      "archivedOn": "2026-10-04"
+    },
+    {
+      "id": 153,
+      "date": "2026-09-25",
+      "title": "$50M Bankruptcy Sale of a 7-Acre Blue Lagoon Development Site Near MIA Falls Apart",
+      "summary": "Incomreal, led by Jorge Ramos, won the August bankruptcy auction for the 7-acre assemblage at 4865 NW Seventh Street with a $50 million bid, topping a $23.4 million credit bid by Toronto-based lender RIC. U.S. Bankruptcy Judge Robert Mark denied the owner entities' request to push back the September 24 closing and rejected an assignment of the contract to Quantum Advisors, whose $35 million Benworth Capital loan expired with the deadline. The owner entities have filed for rehearing and a notice of appeal.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/09/25/bankruptcy-purchase-of-miami-blue-lagoon-site-falls-apart/",
+      "category": "Development",
+      "importance": "medium",
+      "archivedOn": "2026-10-04"
+    },
+    {
+      "id": 152,
+      "date": "2026-09-25",
+      "title": "Eastwind and TMT Pitch 352 Apartments at Delray Beach's Congress Park Office Campus",
+      "summary": "Eastwind Development filed plans for the Easton at Atlantic: an eight-story building with 352 apartments plus six three-story townhouses on the 16.3-acre Congress Park office complex at 160-220 Congress Park Drive, between West Atlantic Avenue and South Congress Avenue. The three mid-1980s office buildings (122,600 SF) would remain. Coral Springs-based owner TMT Properties assembled the site for about $23.2 million starting in 2018 - another suburban South Florida office park adding multifamily density.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/09/25/eastwind-development-eyes-apartments-at-sofla-office-complex/",
+      "category": "Multifamily",
+      "importance": "medium",
+      "archivedOn": "2026-10-04"
+    },
+    {
+      "id": 151,
+      "date": "2026-09-25",
+      "title": "Palm Beach Waterfront Home Asking $29.8M Leads 16 Luxury Contracts Totaling $148.8M",
+      "summary": "Palm Beach County buyers signed 16 contracts on homes asking $3 million or more between September 14 and 20, totaling $148.8 million in asking volume, up from 15 contracts and about $126 million the prior week, per Douglas Elliman's Eklund Gomes team. The top deal was a waterfront house at 748 Island Drive asking $29.8 million, unsold for more than 40 years. Single-family contracts averaged $8.9 million ($1,785/SF) after 148 days on market; the one condo, a 4,500 SF corner unit at The Bristol in West Palm Beach, asked nearly $15 million ($3,334/SF).",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/09/25/top-contracts-palm-beach-home-asking-30-million/",
+      "category": "Luxury",
+      "importance": "medium",
+      "archivedOn": "2026-10-04"
+    },
+    {
+      "id": 150,
+      "date": "2026-09-24",
+      "title": "Freddie Mac 30-Year Rate Crosses 7% for the First Time Since January 2025, Averaging 7.03%",
+      "summary": "The PMMS 30-year fixed averaged 7.03% for the week of September 24, up 8 basis points from 6.95% and well above the 6.30% of a year ago; the 15-year rose to 6.42% from 6.26%. Daily lender indexes are running higher: Mortgage News Daily put the 30-year conforming at 7.45% and the 30-year jumbo at 7.55% on September 24, versus 2026 lows of 5.99% and 6.10%. Rising financing costs keep pressure on leveraged buyers and on cap-rate spreads for income property.",
+      "source": "Freddie Mac",
+      "sourceUrl": "https://www.freddiemac.com/pmms",
+      "category": "Market Data",
+      "importance": "high",
+      "archivedOn": "2026-10-04"
+    },
+    {
+      "id": 149,
+      "date": "2026-09-24",
+      "title": "Paper-Products Heir David Simkins Sells Waterfront Morningside Home for a Record $24.1M",
+      "summary": "Simkins sold the nearly one-acre bayfront property at 5725 North Bayshore Drive, with 125 feet of water frontage and a 3,900 SF 1969 house, to an undisclosed trust for $24.1 million in an off-market deal. He paid $16 million in 2025, itself a Morningside record at the time. The buyer's agents (Compass and One Sotheby's) say they approached owners directly because waterfront inventory is so thin; the buyer plans to build a new home on the lot.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/09/24/david-simkins-flips-miami-home-for-morningside-record/",
+      "category": "Luxury",
+      "importance": "medium",
+      "archivedOn": "2026-10-04"
+    },
+    {
+      "id": 148,
+      "date": "2026-09-24",
+      "title": "Prestige Takes Back Dania Beach's 124-Unit Atlantica at $27.3M After a Failed Condo Conversion",
+      "summary": "Prestige Companies and MV Real Estate Holdings reacquired 118 of the 124 units at Atlantica, 624 NE Second Street, for $27.3 million (about $231,000 per unit) through a deed in lieu of foreclosure. Prestige had sold the garden-style complex to S2 Development for $36.7 million in 2024; S2 planned a for-sale conversion but sold only six units. Kawa Capital's CRE Lendco provided a $22.1 million loan, and Prestige will run the property as workforce rentals - a roughly 22% per-door discount to the 2024 price.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/09/24/prestige-companies-reacquires-dania-beach-apartments/",
+      "category": "Multifamily",
+      "importance": "medium",
+      "archivedOn": "2026-10-04"
+    },
+    {
+      "id": 147,
+      "date": "2026-09-24",
+      "title": "Palm Beach County Finalizes a One-Year Moratorium on Hyperscale Data Centers",
+      "summary": "Commissioners unanimously approved a ban on new applications for data centers with a peak load of 50 megawatts or more, in effect until September 24, 2027. The pause follows the July rejection of the million-square-foot Project Tango at Central Park Commerce Center, which the owner has appealed. The county will hire a consultant rather than form a volunteer committee to shape future rules; Martin County holds its own moratorium hearings next month.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/09/24/palm-beach-county-approves-1-year-data-center-pause/",
+      "category": "Policy/Insurance",
+      "importance": "low",
+      "archivedOn": "2026-10-04"
+    },
+    {
+      "id": 146,
+      "date": "2026-09-23",
+      "title": "Florida Approves Four More Homeowners Rate Cuts as Citizens Falls to About 266,000 Policies",
+      "summary": "The Office of Insurance Regulation approved average decreases of 3.2% to 10.4% from One Alliance, Safe Harbor, Unique and Vyrd, covering about 62,000 policies (7% average). The commissioner says the office is receiving a flood of decrease requests, with the 30-day average requested change at -4.8%, and expects deeper cuts into 2027; Kin has filed cuts of up to 20% in three South Florida counties. Citizens' count dropped to 266,231 in August from a 1.4 million peak in 2023.",
+      "source": "Insurance Journal",
+      "sourceUrl": "https://www.insurancejournal.com/news/southeast/2026/09/23/886558.htm",
+      "category": "Policy/Insurance",
+      "importance": "high",
+      "archivedOn": "2026-10-04"
+    },
+    {
+      "id": 145,
+      "date": "2026-09-23",
+      "title": "Thor Equities Buys Boca Raton's 11-Story Two Town Center Office from CP Group for About $62M",
+      "summary": "Joe Sitt's Thor paid roughly $62 million ($405 PSF) for the 153,000 SF, 90%-leased office tower at 5355 Town Center Road plus a 114,600 SF garage on 7 acres near Town Center at Boca Raton. CP Group developed the building in 1986 and reacquired it for $36.3 million in 2014; tenants include CBRE and Lincoln Financial Advisors. It is Thor's first South Florida office buy after a retail-focused run, reflecting a contrarian bet on Sun Belt office.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/09/23/thor-equities-pays-63-million-for-boca-raton-office/",
+      "category": "Commercial/CRE",
+      "importance": "medium",
+      "archivedOn": "2026-10-04"
+    },
+    {
+      "id": 144,
+      "date": "2026-09-23",
+      "title": "Court Puts Brightline's MiamiCentral Retail Concourse in Receivership Amid $65M Foreclosure",
+      "summary": "A Miami-Dade judge appointed Cushman & Wakefield's Mike Nevins as receiver over the 124,000 SF retail portion of the MiamiCentral station, giving him control of rents, leasing and a possible sale. The lender group sued in July over the senior $65 million piece of a $128.5 million 2022 loan after missed principal and interest payments; the retail was about 65% leased. Train service is unaffected, but Brightline is reportedly preparing a Chapter 11 filing to restructure $1.1 billion of corporate debt.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/09/23/brightlines-miami-retail-station-under-receivership/",
+      "category": "Commercial/CRE",
+      "importance": "medium",
+      "archivedOn": "2026-10-04"
+    },
+    {
+      "id": 143,
+      "date": "2026-09-22",
+      "title": "TA Realty Pays $105.5M for Wellington's 366-Unit Polo Lakes, or $288,300 Per Door",
+      "summary": "Boston-based TA Realty bought the 27-acre, 531,000 SF garden complex at 1950 Polo Lake Boulevard from a JPMorgan Chase affiliate in the property's first sale in more than two decades; the seller paid $47.4 million in 2002. Rents start around $1,880. The asset sits beside Wellington Regional Medical Center and across from the Mall at Wellington Green, as Related Ross plans a 71-acre mixed-use district nearby. TA paid $193 million for a 476-unit Palm Beach Gardens complex last year.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/09/22/ta-realty-buys-palm-beach-county-apartments-for-105-million/",
+      "category": "Multifamily",
+      "importance": "high",
+      "archivedOn": "2026-10-04"
+    },
     {
       "id": 142,
       "date": "2026-09-18",
