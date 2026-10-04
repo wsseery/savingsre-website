@@ -1,0 +1,102 @@
+# SavingsRE Market Intel refresh — runs Claude on a schedule to update savingsre.com/market/
+# (news feed, rates, insurance, monthly residential table, and the email preview PNG).
+#
+# Replaces the Cowork + browser-upload routine, which failed whenever the desktop browser was offline.
+# Claude only researches and writes market/tools/_incoming.json; deterministic scripts apply it,
+# validate.py gates it, and this workflow (not Claude) commits exactly five files.
+# Instructions for Claude live in market/tools/REFRESH_PROMPT.md, so they can be edited without
+# touching this workflow (@claude cannot edit workflow files; it CAN edit that prompt).
+#
+# Auth: CLAUDE_CODE_OAUTH_TOKEN repo secret (subscription billing). Manual run: Actions tab ->
+# "Market Intel refresh" -> Run workflow (tick dry_run to build + validate without committing).
+
+name: Market Intel refresh
+
+on:
+  schedule:
+    - cron: "0 11 */2 * *"   # 11:00 UTC = 7am EDT / 6am EST, odd days of the month
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Build and validate only (no commit)"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: market-intel-refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          fetch-depth: 1
+
+      - name: Tools (Pillow, Playwright Chromium, pdfplumber, fonts)
+        run: |
+          echo "TODAY=$(TZ=America/New_York date +%F)" >> "$GITHUB_ENV"
+          sudo apt-get install -y -qq fonts-dejavu-core > /dev/null
+          python3 -m pip install --quiet pillow pdfplumber playwright
+          python3 -m playwright install --with-deps chromium > /dev/null
+          cp market/index.html /tmp/base_index.html
+
+      - name: Research and stage update (Claude)
+        uses: anthropics/claude-code-action@v1
+        with:
+          claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          prompt: |
+            Read market/tools/REFRESH_PROMPT.md and follow it exactly.
+            Today's date (America/New_York) is ${{ env.TODAY }}. Pass --today ${{ env.TODAY }} to apply_update.py.
+          claude_args: >-
+            --max-turns 80
+            --allowedTools "Read,Write,Edit,Glob,Grep,WebSearch,WebFetch,Bash(python3 market/tools/render_fetch.py:*),Bash(python3 market/tools/pdf_text.py:*),Bash(python3 market/tools/apply_update.py:*),Bash(python3 market/tools/market_news_image.py:*),Bash(python3 market/tools/validate.py:*)"
+
+      - name: Validate (gate)
+        run: python3 market/tools/validate.py --base-index /tmp/base_index.html
+
+      - name: Run report
+        if: always()
+        run: |
+          { echo "## Market Intel refresh ${TODAY}"; cat market/tools/_run_report.md 2>/dev/null || echo "(no report written)"; echo; echo '```'; git status --short; git diff --stat; echo '```'; } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Upload artifacts
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: market-intel-${{ env.TODAY }}
+          path: |
+            market/index.html
+            market/news_data.json
+            market/market_data.json
+            market/news_archive.json
+            market/tools/_incoming.json
+            market/tools/_run_report.md
+            assets/2026-07-02_savingsre_img_market-intel-newsfeed_v01.png
+          if-no-files-found: ignore
+
+      - name: Commit and push
+        if: ${{ !inputs.dry_run }}
+        run: |
+          FILES="market/index.html market/news_data.json market/market_data.json market/news_archive.json assets/2026-07-02_savingsre_img_market-intel-newsfeed_v01.png"
+          if git diff --quiet -- $FILES; then echo "No changes - nothing to commit."; exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add $FILES
+          git commit -m "Market Intel refresh ${TODAY} (scheduled)"
+          git push
+          echo "PUSHED=1" >> "$GITHUB_ENV"
+
+      - name: Request Pages build
+        if: ${{ env.PUSHED == '1' }}
+        continue-on-error: true
+        run: |
+          curl -sS -X POST -H "Authorization: Bearer ${{ github.token }}" -H "Accept: application/vnd.github+json" \
+            "https://api.github.com/repos/${{ github.repository }}/pages/builds"
