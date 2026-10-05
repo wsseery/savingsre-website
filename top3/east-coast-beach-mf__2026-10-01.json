@@ -1,0 +1,235 @@
+{
+ "segment": "east-coast-beach-mf",
+ "collection": "curated",
+ "template": "curated-generic",
+ "label": "Coastal Multifamily \u2014 Atlantic Beaches",
+ "tagline": "Top 10 \u00b7 Fort Lauderdale to Boynton Beach \u00b7 coastal income multifamily \u00b7 ranked by cap rate where published, else scale",
+ "search_name": "Crexi (FL pull)",
+ "generated": "2026-10-01",
+ "pdf": "pdf/east-coast-beach-mf__2026-10-01.pdf",
+ "expires": "2026-10-31",
+ "total_results": 10,
+ "metric_label": "Cap rate",
+ "methodology": "Crexi Florida pull 2026-10-01 via the Crexi asset API (POST /assets/search + 0.01 cap-bucket sweep to recover masked cap rates; per-asset detail endpoint for square footage, class and zoning). Coastal income multifamily from Fort Lauderdale to Boynton Beach, $1-5M, ranked by recovered cap rate where published, else by price per unit. Big/institutional deals routed to Larger Investments. This run: 191 Fort Lauderdale-to-Boynton listings screened; $1-5M preferred.",
+ "items": [
+  {
+   "id": "east-coast-beach-mf-2026-10-01-01",
+   "analytics_id": "A-01575",
+   "rank": 1,
+   "submarket": "Fort Lauderdale",
+   "profile": "9-Unit Multifamily",
+   "price_band": "$2M-$2.5M",
+   "cap_label": "~9.38% cap",
+   "desc": "9-Unit Multifamily in Fort Lauderdale; ~9.38% cap, 9 units, ~3.8K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 9-Unit Multifamily, Fort Lauderdale (~9.38% cap)",
+   "highlights": [
+    "Investor: ~16-18% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~3.8K sq ft",
+    "Class B",
+    "price reduced",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "~16-18% est. cash-on-cash (25% down, IO @ ~7%)",
+    "price reduced",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "east-coast-beach-mf-2026-10-01-02",
+   "analytics_id": "A-01579",
+   "rank": 2,
+   "submarket": "Hollywood",
+   "profile": "5-Unit Multifamily",
+   "price_band": "$1M-$1.5M",
+   "cap_label": "~8.69% cap",
+   "desc": "5-Unit Multifamily in Hollywood; ~8.69% cap, 5 units, ~2.6K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 5-Unit Multifamily, Hollywood (~8.69% cap)",
+   "highlights": [
+    "Investor: ~13-15% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~2.6K sq ft"
+   ],
+   "inv_line": [
+    "~13-15% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "east-coast-beach-mf-2026-10-01-03",
+   "analytics_id": "A-01580",
+   "rank": 3,
+   "submarket": "Fort Lauderdale",
+   "profile": "6-Unit Multifamily",
+   "price_band": "$1.5M-$2M",
+   "cap_label": "~8.58% cap",
+   "desc": "6-Unit Multifamily in Fort Lauderdale; ~8.58% cap, 6 units, ~2.8K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 6-Unit Multifamily, Fort Lauderdale (~8.58% cap)",
+   "highlights": [
+    "Investor: ~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~2.8K sq ft",
+    "Class B",
+    "price reduced",
+    "90+ days on market"
+   ],
+   "inv_line": [
+    "~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "price reduced",
+    "90+ days on market"
+   ]
+  },
+  {
+   "id": "east-coast-beach-mf-2026-10-01-04",
+   "analytics_id": "A-01646",
+   "rank": 4,
+   "submarket": "Fort Lauderdale",
+   "profile": "8-Unit Multifamily",
+   "price_band": "$1M-$1.5M",
+   "cap_label": "~7.30% cap",
+   "desc": "8-Unit Multifamily in Fort Lauderdale; ~7.30% cap, 8 units, ~3.6K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 8-Unit Multifamily, Fort Lauderdale (~7.30% cap)",
+   "highlights": [
+    "Investor: ~7-9% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~3.6K sq ft",
+    "Class B",
+    "reported fully occupied",
+    "recently listed"
+   ],
+   "inv_line": [
+    "~7-9% est. cash-on-cash (25% down, IO @ ~7%)",
+    "reported fully occupied",
+    "recently listed"
+   ]
+  },
+  {
+   "id": "east-coast-beach-mf-2026-10-01-05",
+   "analytics_id": "A-01647",
+   "rank": 5,
+   "submarket": "Fort Lauderdale",
+   "profile": "5-Unit Multifamily",
+   "price_band": "$2M-$2.5M",
+   "cap_label": "~7.21% cap",
+   "desc": "5-Unit Multifamily in Fort Lauderdale; ~7.21% cap, 5 units, ~3.2K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 5-Unit Multifamily, Fort Lauderdale (~7.21% cap)",
+   "highlights": [
+    "Investor: ~7-9% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~3.2K sq ft",
+    "Class B",
+    "price reduced",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "~7-9% est. cash-on-cash (25% down, IO @ ~7%)",
+    "price reduced",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "east-coast-beach-mf-2026-10-01-06",
+   "analytics_id": "A-01648",
+   "rank": 6,
+   "submarket": "Hollywood",
+   "profile": "9-Unit Multifamily",
+   "price_band": "$2M-$2.5M",
+   "cap_label": "~7.17% cap",
+   "desc": "9-Unit Multifamily in Hollywood; ~7.17% cap, 9 units, ~4.6K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 9-Unit Multifamily, Hollywood (~7.17% cap)",
+   "highlights": [
+    "Investor: ~7-9% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~4.6K sq ft",
+    "Opportunity Zone",
+    "reported fully occupied",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "~7-9% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Opportunity Zone",
+    "reported fully occupied",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "east-coast-beach-mf-2026-10-01-07",
+   "analytics_id": "A-01649",
+   "rank": 7,
+   "submarket": "Fort Lauderdale",
+   "profile": "13-Unit Multifamily",
+   "price_band": "$2.5M-$3M",
+   "cap_label": "~7.11% cap",
+   "desc": "13-Unit Multifamily in Fort Lauderdale; ~7.11% cap, 13 units, ~6.0K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 13-Unit Multifamily, Fort Lauderdale (~7.11% cap)",
+   "highlights": [
+    "Investor: ~6-8% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~6.0K sq ft",
+    "90+ days on market"
+   ],
+   "inv_line": [
+    "~6-8% est. cash-on-cash (25% down, IO @ ~7%)",
+    "90+ days on market"
+   ]
+  },
+  {
+   "id": "east-coast-beach-mf-2026-10-01-08",
+   "analytics_id": "A-01650",
+   "rank": 8,
+   "submarket": "Fort Lauderdale",
+   "profile": "8-Unit Multifamily",
+   "price_band": "$2.5M-$3M",
+   "cap_label": "~7.08% cap",
+   "desc": "8-Unit Multifamily in Fort Lauderdale; ~7.08% cap, 8 units, ~9.7K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 8-Unit Multifamily, Fort Lauderdale (~7.08% cap)",
+   "highlights": [
+    "Investor: ~6-8% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~9.7K sq ft",
+    "Class C",
+    "value-add / below-market rents"
+   ],
+   "inv_line": [
+    "~6-8% est. cash-on-cash (25% down, IO @ ~7%)",
+    "value-add / below-market rents"
+   ]
+  },
+  {
+   "id": "east-coast-beach-mf-2026-10-01-09",
+   "analytics_id": "A-01651",
+   "rank": 9,
+   "submarket": "Hollywood",
+   "profile": "Multifamily Income Property",
+   "price_band": "$2M-$2.5M",
+   "cap_label": "~7.03% cap",
+   "desc": "Multifamily Income Property in Hollywood; ~7.03% cap, ~7.4K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Multifamily Income Property, Hollywood (~7.03% cap)",
+   "highlights": [
+    "Investor: ~6-8% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~7.4K sq ft",
+    "Class C",
+    "value-add / below-market rents",
+    "reported fully occupied"
+   ],
+   "inv_line": [
+    "~6-8% est. cash-on-cash (25% down, IO @ ~7%)",
+    "value-add / below-market rents",
+    "reported fully occupied",
+    "90+ days on market"
+   ]
+  },
+  {
+   "id": "east-coast-beach-mf-2026-10-01-10",
+   "analytics_id": "A-01652",
+   "rank": 10,
+   "submarket": "Hollywood",
+   "profile": "Multifamily Income Property",
+   "price_band": "$2M-$2.5M",
+   "cap_label": "~6.69% cap",
+   "desc": "Multifamily Income Property in Hollywood; ~6.69% cap, ~3.6K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Multifamily Income Property, Hollywood (~6.69% cap)",
+   "highlights": [
+    "Investor: ~5-7% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~3.6K sq ft",
+    "reported fully occupied"
+   ],
+   "inv_line": [
+    "~5-7% est. cash-on-cash (25% down, IO @ ~7%)",
+    "reported fully occupied"
+   ]
+  }
+ ]
+}

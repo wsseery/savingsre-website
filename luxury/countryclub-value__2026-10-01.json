@@ -1,0 +1,176 @@
+{
+ "segment": "countryclub-value",
+ "collection": "luxury",
+ "template": "luxury-value",
+ "label": "Country Club \u2014 Best Value by $/sqft",
+ "tagline": "Lowest $/sqft country-club luxury \u00b7 SE Florida",
+ "search_name": "WSS-LUX-CountryClub",
+ "generated": "2026-10-01",
+ "pdf": "pdf/countryclub-value__2026-10-01.pdf",
+ "expires": "2026-10-31",
+ "total_results": 10,
+ "metric_label": "$/sqft",
+ "methodology": "Live Beaches MLS pull 2026-10-01 (WSS-LUX-CountryClub), Florida only, ranked by LOWEST price per square foot (best value) from 97 results. Disguised: area + beds/baths + $/sqft band + price band public; exact address & photos on request.",
+ "items": [
+  {
+   "id": "countryclub-value-2026-10-01-01",
+   "analytics_id": "A-01553",
+   "rank": 1,
+   "submarket": "West Palm Beach",
+   "profile": "3bd / 3ba \u2014 Country Club Residence",
+   "price_band": "$500K-$1M",
+   "cap_label": "~$300/sqft",
+   "thumb_url": "",
+   "desc": "Country Club Residence in West Palm Beach; ~$300/sqft. Exact address, photos & financials on request.",
+   "inquiry_subject": "Inquiry: West Palm Beach Country Club Residence (~$300/sqft)",
+   "highlights": [
+    "~2.9K sq ft \u00b7 built 1990s",
+    "Lowest price/sqft in this list"
+   ]
+  },
+  {
+   "id": "countryclub-value-2026-10-01-02",
+   "analytics_id": "A-01554",
+   "rank": 2,
+   "submarket": "West Palm Beach",
+   "profile": "3bd / 3ba \u2014 Country Club Residence",
+   "price_band": "$500K-$1M",
+   "cap_label": "~$300/sqft",
+   "thumb_url": "",
+   "desc": "Country Club Residence in West Palm Beach; ~$300/sqft. Exact address, photos & financials on request.",
+   "inquiry_subject": "Inquiry: West Palm Beach Country Club Residence (~$300/sqft)",
+   "highlights": [
+    "~2.9K sq ft \u00b7 built 2000s",
+    "#2 best value by price/sqft"
+   ]
+  },
+  {
+   "id": "countryclub-value-2026-10-01-03",
+   "analytics_id": "A-01555",
+   "rank": 3,
+   "submarket": "West Palm Beach",
+   "profile": "4bd / 4ba \u2014 Country Club Residence",
+   "price_band": "$1M-$1.5M",
+   "cap_label": "~$300/sqft",
+   "thumb_url": "",
+   "desc": "Country Club Residence in West Palm Beach; ~$300/sqft. Exact address, photos & financials on request.",
+   "inquiry_subject": "Inquiry: West Palm Beach Country Club Residence (~$300/sqft)",
+   "highlights": [
+    "~3.8K sq ft \u00b7 built 2000s",
+    "#3 best value by price/sqft"
+   ]
+  },
+  {
+   "id": "countryclub-value-2026-10-01-04",
+   "analytics_id": "A-01556",
+   "rank": 4,
+   "submarket": "West Palm Beach",
+   "profile": "4bd / 3ba \u2014 Country Club Residence",
+   "price_band": "$500K-$1M",
+   "cap_label": "~$300/sqft",
+   "thumb_url": "",
+   "desc": "Country Club Residence in West Palm Beach; ~$300/sqft. Exact address, photos & financials on request.",
+   "inquiry_subject": "Inquiry: West Palm Beach Country Club Residence (~$300/sqft)",
+   "highlights": [
+    "~2.6K sq ft \u00b7 built 1990s",
+    "#4 best value by price/sqft"
+   ]
+  },
+  {
+   "id": "countryclub-value-2026-10-01-05",
+   "analytics_id": "A-01557",
+   "rank": 5,
+   "submarket": "Boca Raton",
+   "profile": "3bd / 2ba \u2014 Country Club Residence",
+   "price_band": "$500K-$1M",
+   "cap_label": "~$350/sqft",
+   "thumb_url": "",
+   "desc": "Country Club Residence in Boca Raton; ~$350/sqft. Exact address, photos & financials on request.",
+   "inquiry_subject": "Inquiry: Boca Raton Country Club Residence (~$350/sqft)",
+   "highlights": [
+    "~2.5K sq ft \u00b7 built 1990s",
+    "#5 best value by price/sqft"
+   ]
+  },
+  {
+   "id": "countryclub-value-2026-10-01-06",
+   "analytics_id": "A-01558",
+   "rank": 6,
+   "submarket": "West Palm Beach",
+   "profile": "3bd / 3ba \u2014 Country Club Residence",
+   "price_band": "$500K-$1M",
+   "cap_label": "~$350/sqft",
+   "thumb_url": "",
+   "desc": "Country Club Residence in West Palm Beach; ~$350/sqft. Exact address, photos & financials on request.",
+   "inquiry_subject": "Inquiry: West Palm Beach Country Club Residence (~$350/sqft)",
+   "highlights": [
+    "~2.3K sq ft \u00b7 built 1990s",
+    "#6 best value by price/sqft"
+   ]
+  },
+  {
+   "id": "countryclub-value-2026-10-01-07",
+   "analytics_id": "A-01559",
+   "rank": 7,
+   "submarket": "West Palm Beach",
+   "profile": "3bd / 3ba \u2014 Country Club Residence",
+   "price_band": "$1M-$1.5M",
+   "cap_label": "~$350/sqft",
+   "thumb_url": "",
+   "desc": "Country Club Residence in West Palm Beach; ~$350/sqft. Exact address, photos & financials on request.",
+   "inquiry_subject": "Inquiry: West Palm Beach Country Club Residence (~$350/sqft)",
+   "highlights": [
+    "~3.0K sq ft \u00b7 built 1990s",
+    "#7 best value by price/sqft"
+   ]
+  },
+  {
+   "id": "countryclub-value-2026-10-01-08",
+   "analytics_id": "A-01560",
+   "rank": 8,
+   "submarket": "West Palm Beach",
+   "profile": "3bd / 3ba \u2014 Country Club Residence",
+   "price_band": "$1M-$1.5M",
+   "cap_label": "~$375/sqft",
+   "thumb_url": "",
+   "desc": "Country Club Residence in West Palm Beach; ~$375/sqft. Exact address, photos & financials on request.",
+   "inquiry_subject": "Inquiry: West Palm Beach Country Club Residence (~$375/sqft)",
+   "highlights": [
+    "~2.9K sq ft \u00b7 built 2000s",
+    "#8 best value by price/sqft"
+   ]
+  },
+  {
+   "id": "countryclub-value-2026-10-01-09",
+   "analytics_id": "A-01561",
+   "rank": 9,
+   "submarket": "Boca Raton",
+   "profile": "5bd / 3ba \u2014 Country Club Residence",
+   "price_band": "$1M-$1.5M",
+   "cap_label": "~$375/sqft",
+   "thumb_url": "",
+   "desc": "Country Club Residence in Boca Raton; ~$375/sqft. Exact address, photos & financials on request.",
+   "inquiry_subject": "Inquiry: Boca Raton Country Club Residence (~$375/sqft)",
+   "highlights": [
+    "~3.3K sq ft \u00b7 built 1990s",
+    "#9 best value by price/sqft"
+   ]
+  },
+  {
+   "id": "countryclub-value-2026-10-01-10",
+   "analytics_id": "A-01562",
+   "rank": 10,
+   "submarket": "West Palm Beach",
+   "profile": "4bd / 5ba \u2014 Country Club Residence",
+   "price_band": "$2M-$2.5M",
+   "cap_label": "~$375/sqft",
+   "thumb_url": "",
+   "desc": "Country Club Residence in West Palm Beach; ~$375/sqft. Exact address, photos & financials on request.",
+   "inquiry_subject": "Inquiry: West Palm Beach Country Club Residence (~$375/sqft)",
+   "highlights": [
+    "~5.5K sq ft \u00b7 built 1990s",
+    "#10 best value by price/sqft"
+   ]
+  }
+ ]
+}

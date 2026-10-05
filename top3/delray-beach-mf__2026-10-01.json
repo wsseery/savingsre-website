@@ -1,0 +1,105 @@
+{
+ "segment": "delray-beach-mf",
+ "collection": "curated",
+ "template": "curated-generic",
+ "label": "Delray Beach Multifamily",
+ "tagline": "Top 5 \u00b7 Delray Beach \u00b7 income multifamily \u00b7 ranked by lowest price per unit (no published caps this week)",
+ "search_name": "Crexi (FL pull)",
+ "generated": "2026-10-01",
+ "pdf": "pdf/delray-beach-mf__2026-10-01.pdf",
+ "expires": "2026-10-31",
+ "total_results": 5,
+ "metric_label": "Price per unit",
+ "methodology": "Crexi Florida pull 2026-10-01 via the Crexi asset API (POST /assets/search + 0.01 cap-bucket sweep to recover masked cap rates; per-asset detail endpoint for square footage, class and zoning). Delray Beach income multifamily. No listings published a cap rate this week, so the list is ranked by LOWEST price per unit. This run: 12 Delray Beach multifamily listings screened; none published a cap rate (seventh straight week).",
+ "items": [
+  {
+   "id": "delray-beach-mf-2026-10-01-01",
+   "analytics_id": "A-01632",
+   "rank": 1,
+   "submarket": "Delray Beach",
+   "profile": "4-Unit Multifamily",
+   "price_band": "$500K-$1M",
+   "cap_label": "~$250K/unit",
+   "desc": "4-Unit Multifamily in Delray Beach; 4 units, ~1.9K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 4-Unit Multifamily, Delray Beach (~$250K/unit)",
+   "highlights": [
+    "~1.9K sq ft"
+   ],
+   "inv_line": []
+  },
+  {
+   "id": "delray-beach-mf-2026-10-01-02",
+   "analytics_id": "A-01633",
+   "rank": 2,
+   "submarket": "Delray Beach",
+   "profile": "4-Unit Multifamily",
+   "price_band": "$1M-$1.5M",
+   "cap_label": "~$268K/unit",
+   "desc": "4-Unit Multifamily in Delray Beach; 4 units, ~2.4K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 4-Unit Multifamily, Delray Beach (~$268K/unit)",
+   "highlights": [
+    "~2.4K sq ft",
+    "90+ days on market"
+   ],
+   "inv_line": [
+    "90+ days on market"
+   ]
+  },
+  {
+   "id": "delray-beach-mf-2026-10-01-03",
+   "analytics_id": "A-01634",
+   "rank": 3,
+   "submarket": "Delray Beach",
+   "profile": "2-Unit Multifamily",
+   "price_band": "$500K-$1M",
+   "cap_label": "~$384K/unit",
+   "desc": "2-Unit Multifamily in Delray Beach; 2 units, ~1.7K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 2-Unit Multifamily, Delray Beach (~$384K/unit)",
+   "highlights": [
+    "~1.7K sq ft",
+    "90+ days on market"
+   ],
+   "inv_line": [
+    "90+ days on market"
+   ]
+  },
+  {
+   "id": "delray-beach-mf-2026-10-01-04",
+   "analytics_id": "A-01635",
+   "rank": 4,
+   "submarket": "Delray Beach",
+   "profile": "10-Unit Multifamily",
+   "price_band": "$3M-$4M",
+   "cap_label": "~$400K/unit",
+   "desc": "10-Unit Multifamily in Delray Beach; 10 units, ~7.7K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 10-Unit Multifamily, Delray Beach (~$400K/unit)",
+   "highlights": [
+    "~7.7K sq ft",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "delray-beach-mf-2026-10-01-05",
+   "analytics_id": "A-01636",
+   "rank": 5,
+   "submarket": "Delray Beach",
+   "profile": "4-Unit Multifamily",
+   "price_band": "$1.5M-$2M",
+   "cap_label": "~$424K/unit",
+   "desc": "4-Unit Multifamily in Delray Beach; 4 units, ~3.2K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 4-Unit Multifamily, Delray Beach (~$424K/unit)",
+   "highlights": [
+    "~3.2K sq ft",
+    "Opportunity Zone",
+    "recently listed"
+   ],
+   "inv_line": [
+    "Opportunity Zone",
+    "recently listed"
+   ]
+  }
+ ]
+}

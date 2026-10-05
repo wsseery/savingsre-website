@@ -1,0 +1,172 @@
+{
+ "segment": "starter-mf-corridor",
+ "collection": "curated",
+ "template": "curated-generic",
+ "label": "Starter Multifamily \u2014 Coastal Corridor",
+ "tagline": "Top 8 \u00b7 Delray Beach to Fort Lauderdale corridor \u00b7 $800K-$2M \u00b7 2-9 units \u00b7 ranked by lowest price per unit",
+ "search_name": "Crexi (FL pull)",
+ "generated": "2026-10-01",
+ "pdf": "pdf/starter-mf-corridor__2026-10-01.pdf",
+ "expires": "2026-10-31",
+ "total_results": 8,
+ "metric_label": "Price per unit",
+ "methodology": "Crexi Florida pull 2026-10-01 via the Crexi asset API (POST /assets/search + 0.01 cap-bucket sweep to recover masked cap rates; per-asset detail endpoint for square footage, class and zoning). Delray Beach to Fort Lauderdale corridor, $800K-$2M, 2-9 existing units, ranked by LOWEST price per unit. Aimed at smaller and first-time investors. Listings with unreliable unit counts excluded. This run: 164 corridor listings in the $800K-$2M / 2-9 unit range screened; the 8 lowest price-per-unit shown.",
+ "items": [
+  {
+   "id": "starter-mf-corridor-2026-10-01-01",
+   "analytics_id": "A-01653",
+   "rank": 1,
+   "submarket": "Fort Lauderdale",
+   "profile": "8-Unit Multifamily",
+   "price_band": "$1M-$1.5M",
+   "cap_label": "~$156K/unit",
+   "desc": "8-Unit Multifamily in Fort Lauderdale; 8 units. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 8-Unit Multifamily, Fort Lauderdale (~$156K/unit)",
+   "highlights": [
+    "Opportunity Zone",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "Opportunity Zone",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "starter-mf-corridor-2026-10-01-02",
+   "analytics_id": "A-01646",
+   "rank": 2,
+   "submarket": "Fort Lauderdale",
+   "profile": "8-Unit Multifamily",
+   "price_band": "$1M-$1.5M",
+   "cap_label": "~$166K/unit",
+   "desc": "8-Unit Multifamily in Fort Lauderdale; ~7.30% cap, 8 units, ~3.6K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 8-Unit Multifamily, Fort Lauderdale (~$166K/unit)",
+   "highlights": [
+    "Investor: ~7-9% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~3.6K sq ft",
+    "Class B",
+    "reported fully occupied",
+    "recently listed"
+   ],
+   "inv_line": [
+    "~7-9% est. cash-on-cash (25% down, IO @ ~7%)",
+    "reported fully occupied",
+    "recently listed"
+   ]
+  },
+  {
+   "id": "starter-mf-corridor-2026-10-01-03",
+   "analytics_id": "A-01654",
+   "rank": 3,
+   "submarket": "Hollywood",
+   "profile": "7-Unit Multifamily",
+   "price_band": "$1M-$1.5M",
+   "cap_label": "~$175K/unit",
+   "desc": "7-Unit Multifamily in Hollywood; 7 units, ~3.2K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 7-Unit Multifamily, Hollywood (~$175K/unit)",
+   "highlights": [
+    "~3.2K sq ft",
+    "Opportunity Zone",
+    "90+ days on market"
+   ],
+   "inv_line": [
+    "Opportunity Zone",
+    "90+ days on market"
+   ]
+  },
+  {
+   "id": "starter-mf-corridor-2026-10-01-04",
+   "analytics_id": "A-01655",
+   "rank": 4,
+   "submarket": "Hollywood",
+   "profile": "9-Unit Multifamily",
+   "price_band": "$1.5M-$2M",
+   "cap_label": "~$177K/unit",
+   "desc": "9-Unit Multifamily in Hollywood; 9 units, ~4.4K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 9-Unit Multifamily, Hollywood (~$177K/unit)",
+   "highlights": [
+    "~4.4K sq ft",
+    "90+ days on market"
+   ],
+   "inv_line": [
+    "90+ days on market"
+   ]
+  },
+  {
+   "id": "starter-mf-corridor-2026-10-01-05",
+   "analytics_id": "A-01656",
+   "rank": 5,
+   "submarket": "Fort Lauderdale",
+   "profile": "5-Unit Multifamily",
+   "price_band": "$500K-$1M",
+   "cap_label": "~$180K/unit",
+   "desc": "5-Unit Multifamily in Fort Lauderdale; 5 units. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 5-Unit Multifamily, Fort Lauderdale (~$180K/unit)",
+   "highlights": [
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "starter-mf-corridor-2026-10-01-06",
+   "analytics_id": "A-01657",
+   "rank": 6,
+   "submarket": "Hallandale Beach",
+   "profile": "8-Unit Multifamily",
+   "price_band": "$1M-$1.5M",
+   "cap_label": "~$180K/unit",
+   "desc": "8-Unit Multifamily in Hallandale Beach; ~6.53% cap, 8 units, ~4.9K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 8-Unit Multifamily, Hallandale Beach (~$180K/unit)",
+   "highlights": [
+    "Investor: ~4-6% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~4.9K sq ft",
+    "Class C",
+    "value-add / below-market rents",
+    "90+ days on market"
+   ],
+   "inv_line": [
+    "~4-6% est. cash-on-cash (25% down, IO @ ~7%)",
+    "value-add / below-market rents",
+    "90+ days on market"
+   ]
+  },
+  {
+   "id": "starter-mf-corridor-2026-10-01-07",
+   "analytics_id": "A-01658",
+   "rank": 7,
+   "submarket": "Hollywood",
+   "profile": "5-Unit Multifamily",
+   "price_band": "$500K-$1M",
+   "cap_label": "~$180K/unit",
+   "desc": "5-Unit Multifamily in Hollywood; 5 units, ~2.2K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 5-Unit Multifamily, Hollywood (~$180K/unit)",
+   "highlights": [
+    "~2.2K sq ft",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "starter-mf-corridor-2026-10-01-08",
+   "analytics_id": "A-01659",
+   "rank": 8,
+   "submarket": "Hallandale Beach",
+   "profile": "9-Unit Multifamily",
+   "price_band": "$1.5M-$2M",
+   "cap_label": "~$181K/unit",
+   "desc": "9-Unit Multifamily in Hallandale Beach; 9 units, ~4.8K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 9-Unit Multifamily, Hallandale Beach (~$181K/unit)",
+   "highlights": [
+    "~4.8K sq ft",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "180+ days on market"
+   ]
+  }
+ ]
+}
