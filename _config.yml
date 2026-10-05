@@ -1,0 +1,15 @@
+# GitHub Pages builds this repo with Jekyll, which publishes every file it
+# finds. These are repo-internal and must not be served on savingsre.com.
+# CLAUDE.md names the insurance licence G164863, which this site must never
+# show. No page links to any of them. Email templates stay published: emails
+# reference their images through raw.githubusercontent.com, which this does
+# not affect.
+exclude:
+  - CLAUDE.md
+  - flexmls-link-regeneration-prompt.md
+  - email-templates/README.md
+  - mf-top3/README.md
+  - top3/README.md
+  - scripts
+  - market/tools
+  - "savingsre update files.zip"
