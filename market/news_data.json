@@ -1,5 +1,35 @@
 [
   {
+    "id": 174,
+    "date": "2026-10-05",
+    "title": "Mandarin Oriental Miami Has Sold $1.7B of Condos Before Groundbreaking",
+    "summary": "Swire Properties' Residences at Mandarin Oriental on Brickell Key has booked $1.7 billion in pre-construction sales; its 66-floor south tower of 228 residences is 80% sold and the 33-floor north tower, with a 121-room hotel, is 25% sold. Buyers are 65% domestic and many pay all cash. Prices are up 30% since 2024 sales began; groundbreaking is this month, with completion projected for 2030.",
+    "source": "Insurance Journal",
+    "sourceUrl": "https://www.insurancejournal.com/news/southeast/2026/10/05/887980.htm",
+    "category": "Development",
+    "importance": "medium"
+  },
+  {
+    "id": 173,
+    "date": "2026-10-05",
+    "title": "SharkNinja Founder Sells Palm Island Mansion for $60.9M, $4,700 Per SF",
+    "summary": "An entity tied to SharkNinja founder Mark Rosenzweig sold the 13,000 SF waterfront house at 73 Palm Avenue for $60.9 million to a trust named for the address; it last traded in 2019 at $24.6 million. Other Oct. 2 deals: a $24.1 million Morningside flip (bought for $16 million last year), a $19.8 million Hibiscus Island home, and a $17 million Fisher Island condo at about $4,000 per SF.",
+    "source": "The Real Deal",
+    "sourceUrl": "https://therealdeal.com/data/miami/2026/sharkninja-founder-sells-miami-beach-mansion-for-61-million/",
+    "category": "Luxury",
+    "importance": "medium"
+  },
+  {
+    "id": 172,
+    "date": "2026-10-05",
+    "title": "Lenders Deal Out $436M for South Florida Projects, Led by JSB's $238M Doral Refi",
+    "summary": "JSB Capital refinanced the 631-unit Landmark South in Doral with a $238 million floating-rate, interest-only bridge loan from Torchlight Investors, about $377,000 per unit; Walker & Dunlop arranged it. Fuse Group and KREA Developments got a $127 million Madison Realty Capital loan on the 502-unit Arcadian in Fort Lauderdale ($253,000 per unit). Lenders describe a conservative market where mid-market deals are harder to place than large ones.",
+    "source": "The Real Deal",
+    "sourceUrl": "https://therealdeal.com/miami/2026/10/05/major-south-florida-projects-score-436-million-in-financing/",
+    "category": "Multifamily",
+    "importance": "high"
+  },
+  {
     "id": 171,
     "date": "2026-10-02",
     "title": "Monarch and Tourmaline Seek $400M-Plus for Brickell's 801 Brickell Office Tower",
@@ -128,35 +158,5 @@
     "sourceUrl": "https://therealdeal.com/miami/2026/09/29/ricardo-halfens-treo-sells-miami-area-home-for-70-million/",
     "category": "Luxury",
     "importance": "high"
-  },
-  {
-    "id": 158,
-    "date": "2026-09-28",
-    "title": "West Palm Beach Forté on Flagler Condo Trades for $10.2M, or About $2,300 Per Square Foot",
-    "summary": "The top residential deal recorded for September 25 was unit 2202 at Forté on Flagler, 1333 South Flagler Drive: a trust with a concealed buyer paid $10.2 million for the 4,440-square-foot condo. Two Roads Development and Alpha Blue Ventures began closings at the 24-story Intracoastal-view tower in summer 2025. A 321 Ocean Drive condo in Miami Beach also traded for $9.9 million (about $2,600/SF), and a Balogh Company affiliate bought a ~32,000 SF Weston office complex for $8.4 million ($263/SF).",
-    "source": "The Real Deal",
-    "sourceUrl": "https://therealdeal.com/data/miami/2026/south-florida-top-real-estate-deals-sept-25-2026/",
-    "category": "Luxury",
-    "importance": "medium"
-  },
-  {
-    "id": 157,
-    "date": "2026-09-28",
-    "title": "Lenders Sue to Foreclose on MG Developer's 347-Unit Metro Parc South in Hialeah",
-    "summary": "Slate Property Group and The Carlyle Group filed a foreclosure suit on September 22 against Coral Gables-based MG Developer, alleging default on $31.1 million of a $105 million April 2025 construction financing for the 10-story, 347-unit Metro Parc South rental project. The lenders cite construction liens, missed reserve deposits and unpaid 2025 property taxes after a forbearance agreement expired. It is the latest of several lender actions against Alirio Torrealba's firm, which says it is negotiating and seeking an additional investor.",
-    "source": "The Real Deal",
-    "sourceUrl": "https://therealdeal.com/miami/2026/09/28/mg-developers-metro-parc-south-in-hialeah-faces-foreclosure/",
-    "category": "Commercial/CRE",
-    "importance": "high"
-  },
-  {
-    "id": 156,
-    "date": "2026-09-28",
-    "title": "PTM Partners Lands $125M Construction Loan for 330-Unit Edge Collective II in St. Petersburg",
-    "summary": "Fort Lauderdale-based PTM Partners secured a three-year floating-rate $125 million construction loan from a GID affiliate for Edge Collective II, a 20-story, 330-unit rental high-rise with 19,000 SF of retail at 11th Street South and 1st Avenue South in downtown St. Pete's Edge District - about $378,800 per unit. Berkadia arranged the debt. The Opportunity Zone project is phase two of a two-block master development; vertical construction starts in the coming months with completion slated for 2029.",
-    "source": "The Real Deal",
-    "sourceUrl": "https://therealdeal.com/miami/2026/09/28/ptm-partners-nabs-125-million-loan-for-st-pete-rentals/",
-    "category": "Multifamily",
-    "importance": "medium"
   }
 ]
