@@ -1,0 +1,134 @@
+# Site safety checks: report-only, never blocking.
+#
+# Most changes to this repo are committed straight to main by the weekly
+# Cowork runs (Top-3, Luxury, Market Intel), not opened as PRs. So these checks
+# run on every push to main as well as on PRs, and nothing here gates a merge:
+# there is no branch protection behind them. When a check fails on main, the
+# alert job opens (or comments on) one "site-check" issue so the failure is
+# seen without anyone watching the Actions tab.
+#
+#   playwright       pages the change touches, plus the homepage, before and
+#                    after the change; fails only on problems it INTRODUCES.
+#   compliance-grep  G164863, DialRidge, AlphaGen's GA4 tag, SSN-shaped
+#                    strings, and identifying listing fields (address, owner,
+#                    MLS, parcel, folio) added to this public repo.
+#
+# Logic in .github/checks/. This repo is PUBLIC: never add show_full_output.
+
+name: Site checks
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    types: [opened, synchronize, reopened]
+
+# One run per commit; a later commit never cancels an earlier one's check.
+concurrency:
+  group: site-checks-${{ github.sha }}
+
+permissions:
+  contents: read
+
+jobs:
+  playwright:
+    name: playwright
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          fetch-depth: 2
+
+      # The "before" commit: the base branch for a PR (the checkout is GitHub's
+      # merge commit, so HEAD^1), the previous tip for a push.
+      - name: Find the before commit
+        env:
+          EVENT: ${{ github.event_name }}
+          BEFORE: ${{ github.event.before }}
+        run: |
+          if [ "$EVENT" = push ]; then
+            git fetch --no-tags --depth=1 origin "$BEFORE" 2>/dev/null && base="$BEFORE" || base="HEAD^1"
+          else
+            base="HEAD^1"
+          fi
+          echo "BASE=$(git rev-parse "$base")" >> "$GITHUB_ENV"
+
+      # A changed page is checked directly; a changed data file is checked
+      # through the index.html of the folder it feeds (top3/, market/, ...).
+      - name: Pages this change touches
+        id: pages
+        run: |
+          pages=$(git diff --name-only --diff-filter=AMR "$BASE" HEAD | grep -v '^\.github/' | while read -r f; do
+            case "$f" in
+              *.html) echo "$f" ;;
+              *) d=$(dirname "$f"); [ "$d" != . ] && [ -f "$d/index.html" ] && echo "$d/index.html" ;;
+            esac
+          done | sort -u | tr '\n' ' ')
+          echo "list=$pages" >> "$GITHUB_OUTPUT"
+          echo "Pages: ${pages:-none (homepage smoke test only)}"
+
+      - name: Install Playwright
+        working-directory: .github/checks
+        run: |
+          npm install --no-save --no-package-lock playwright@1.63.0 @axe-core/playwright@4.13.0
+          npx playwright install --with-deps chromium
+
+      # Paths go in through env, not ${{ }} in the script: a file name is
+      # change-controlled text and must never be pasted into shell source.
+      - name: Check pages, before and after
+        env:
+          PAGES: ${{ steps.pages.outputs.list }}
+        run: |
+          git worktree add --detach /tmp/before "$BASE"
+          python3 -m http.server 8080 --bind 127.0.0.1 >/dev/null 2>&1 &
+          python3 -m http.server 8081 --bind 127.0.0.1 --directory /tmp/before >/dev/null 2>&1 &
+          sleep 1
+          node .github/checks/site-check.mjs 8080 8081 $PAGES
+
+  compliance-grep:
+    name: compliance-grep
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          fetch-depth: 2
+      - name: Search what this change adds
+        env:
+          EVENT: ${{ github.event_name }}
+          BEFORE: ${{ github.event.before }}
+        run: |
+          if [ "$EVENT" = push ]; then
+            git fetch --no-tags --depth=1 origin "$BEFORE" 2>/dev/null && base="$BEFORE" || base="HEAD^1"
+          else
+            base="HEAD^1"
+          fi
+          python3 .github/checks/safety_checks.py "$base"
+
+  # On main only: a failed check opens one tracking issue, or comments on it
+  # if it is already open. Deliberately no at-mention anywhere, so it never
+  # starts the Claude workflow.
+  alert:
+    needs: [playwright, compliance-grep]
+    if: failure() && github.event_name == 'push'
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+    steps:
+      - env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+          SHA: ${{ github.sha }}
+          PW: ${{ needs.playwright.result }}
+          CG: ${{ needs.compliance-grep.result }}
+        run: |
+          gh label create site-check --color B60205 --description "Site checks failed on main" 2>/dev/null || true
+          body=$(printf 'Site checks failed on `%s`, which is already live on savingsre.com.\n\n- playwright: %s\n- compliance-grep: %s\n\nDetails: %s\n\nClose this issue once it is fixed.' "${SHA:0:7}" "$PW" "$CG" "$RUN_URL")
+          open=$(gh issue list --label site-check --state open --json number --jq '.[0].number')
+          if [ -n "$open" ]; then
+            gh issue comment "$open" --body "$body"
+          else
+            gh issue create --title "Site checks failed on main" --label site-check --body "$body"
+          fi
