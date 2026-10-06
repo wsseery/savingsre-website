@@ -1,0 +1,222 @@
+{
+ "segment": "high-yield-sfl",
+ "collection": "curated",
+ "template": "curated-generic",
+ "label": "High-Yield Multifamily — 8%+ Cap",
+ "tagline": "Top 10 · Florida statewide · 5-25 units · $1-5M · ranked by cap rate",
+ "search_name": "Crexi (FL pull)",
+ "generated": "2026-10-06",
+ "pdf": "pdf/high-yield-sfl__2026-10-06.pdf",
+ "expires": "2026-11-05",
+ "total_results": 10,
+ "metric_label": "Cap rate",
+ "methodology": "Crexi Florida pull 2026-10-06 via the Crexi asset API (POST /assets/search + 0.01 cap-bucket sweep to recover masked cap rates; per-asset detail endpoint for square footage, class and zoning). 5-25 unit multifamily, $1-5M, cap floor 8% (relaxed to 7% where thin). Hospitality/storage/development excluded; implausible caps and unreliable unit counts dropped. This run: 25 statewide listings met 5-25 units / $1-5M / 7%+ after screens (8 at 8%+); top 10 shown.",
+ "items": [
+  {
+   "id": "high-yield-sfl-2026-10-06-01",
+   "analytics_id": "A-01700",
+   "rank": 1,
+   "submarket": "Daytona Beach",
+   "profile": "18-Unit Multifamily",
+   "price_band": "$1M-$1.5M",
+   "cap_label": "~15.60% cap",
+   "desc": "18-Unit Multifamily in Daytona Beach; ~15.60% cap, 18 units, ~4.0K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 18-Unit Multifamily, Daytona Beach (~15.60% cap)",
+   "highlights": [
+    "Investor: ~40-42% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~4.0K sq ft",
+    "recently listed"
+   ],
+   "inv_line": [
+    "~40-42% est. cash-on-cash (25% down, IO @ ~7%)",
+    "recently listed"
+   ]
+  },
+  {
+   "id": "high-yield-sfl-2026-10-06-02",
+   "analytics_id": "A-01701",
+   "rank": 2,
+   "submarket": "Daytona Beach",
+   "profile": "23-Unit Multifamily",
+   "price_band": "$2M-$2.5M",
+   "cap_label": "~11.45% cap",
+   "desc": "23-Unit Multifamily in Daytona Beach; ~11.45% cap, 23 units, ~7.0K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 23-Unit Multifamily, Daytona Beach (~11.45% cap)",
+   "highlights": [
+    "Investor: ~24-26% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~7.0K sq ft",
+    "value-add / below-market rents",
+    "recently listed"
+   ],
+   "inv_line": [
+    "~24-26% est. cash-on-cash (25% down, IO @ ~7%)",
+    "recently listed"
+   ]
+  },
+  {
+   "id": "high-yield-sfl-2026-10-06-03",
+   "analytics_id": "A-01702",
+   "rank": 3,
+   "submarket": "Miami",
+   "profile": "10-Unit Multifamily",
+   "price_band": "$3M-$4M",
+   "cap_label": "~9.50% cap",
+   "desc": "10-Unit Multifamily in Miami; ~9.50% cap, 10 units, ~5.6K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 10-Unit Multifamily, Miami (~9.50% cap)",
+   "highlights": [
+    "Investor: ~16-18% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~5.6K sq ft",
+    "Class B"
+   ],
+   "inv_line": [
+    "~16-18% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "high-yield-sfl-2026-10-06-04",
+   "analytics_id": "A-01703",
+   "rank": 4,
+   "submarket": "Fort Lauderdale",
+   "profile": "9-Unit Multifamily",
+   "price_band": "$2M-$2.5M",
+   "cap_label": "~9.38% cap",
+   "desc": "9-Unit Multifamily in Fort Lauderdale; ~9.38% cap, 9 units, ~3.8K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 9-Unit Multifamily, Fort Lauderdale (~9.38% cap)",
+   "highlights": [
+    "Investor: ~16-18% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~3.8K sq ft",
+    "Class B",
+    "price reduced",
+    "value-add / below-market rents"
+   ],
+   "inv_line": [
+    "~16-18% est. cash-on-cash (25% down, IO @ ~7%)",
+    "price reduced",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "high-yield-sfl-2026-10-06-05",
+   "analytics_id": "A-01704",
+   "rank": 5,
+   "submarket": "Panama City",
+   "profile": "Multifamily Income Property",
+   "price_band": "$1M-$1.5M",
+   "cap_label": "~9.25% cap",
+   "desc": "Multifamily Income Property in Panama City; ~9.25% cap, ~4.3K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Multifamily Income Property, Panama City (~9.25% cap)",
+   "highlights": [
+    "Investor: ~15-17% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~4.3K sq ft",
+    "Class B",
+    "recently listed"
+   ],
+   "inv_line": [
+    "~15-17% est. cash-on-cash (25% down, IO @ ~7%)",
+    "recently listed"
+   ]
+  },
+  {
+   "id": "high-yield-sfl-2026-10-06-06",
+   "analytics_id": "A-01705",
+   "rank": 6,
+   "submarket": "Hollywood",
+   "profile": "5-Unit Multifamily",
+   "price_band": "$1M-$1.5M",
+   "cap_label": "~8.69% cap",
+   "desc": "5-Unit Multifamily in Hollywood; ~8.69% cap, 5 units, ~2.6K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 5-Unit Multifamily, Hollywood (~8.69% cap)",
+   "highlights": [
+    "Investor: ~13-15% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~2.6K sq ft"
+   ],
+   "inv_line": [
+    "~13-15% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "high-yield-sfl-2026-10-06-07",
+   "analytics_id": "A-01706",
+   "rank": 7,
+   "submarket": "Fort Lauderdale",
+   "profile": "6-Unit Multifamily",
+   "price_band": "$1.5M-$2M",
+   "cap_label": "~8.58% cap",
+   "desc": "6-Unit Multifamily in Fort Lauderdale; ~8.58% cap, 6 units, ~2.8K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 6-Unit Multifamily, Fort Lauderdale (~8.58% cap)",
+   "highlights": [
+    "Investor: ~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~2.8K sq ft",
+    "Class B",
+    "price reduced",
+    "value-add / below-market rents"
+   ],
+   "inv_line": [
+    "~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "price reduced",
+    "90+ days on market"
+   ]
+  },
+  {
+   "id": "high-yield-sfl-2026-10-06-08",
+   "analytics_id": "A-01707",
+   "rank": 8,
+   "submarket": "Gulfport",
+   "profile": "10-Unit Multifamily",
+   "price_band": "$1.5M-$2M",
+   "cap_label": "~8.30% cap",
+   "desc": "10-Unit Multifamily in Gulfport; ~8.30% cap, 10 units. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 10-Unit Multifamily, Gulfport (~8.30% cap)",
+   "highlights": [
+    "Investor: ~11-13% est. cash-on-cash (25% down, IO @ ~7%)",
+    "90+ days on market"
+   ],
+   "inv_line": [
+    "~11-13% est. cash-on-cash (25% down, IO @ ~7%)",
+    "90+ days on market"
+   ]
+  },
+  {
+   "id": "high-yield-sfl-2026-10-06-09",
+   "analytics_id": "A-01708",
+   "rank": 9,
+   "submarket": "Tampa",
+   "profile": "8-Unit Multifamily",
+   "price_band": "$1M-$1.5M",
+   "cap_label": "~7.77% cap",
+   "desc": "8-Unit Multifamily in Tampa; ~7.77% cap, 8 units. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 8-Unit Multifamily, Tampa (~7.77% cap)",
+   "highlights": [
+    "Investor: ~9-11% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Opportunity Zone",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "~9-11% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Opportunity Zone",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "high-yield-sfl-2026-10-06-10",
+   "analytics_id": "A-01709",
+   "rank": 10,
+   "submarket": "Florida City",
+   "profile": "9-Unit Rental Portfolio",
+   "price_band": "$3M-$4M",
+   "cap_label": "~7.34% cap",
+   "desc": "9-Unit Rental Portfolio in Florida City; ~7.34% cap, 9 units, ~16.2K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 9-Unit Rental Portfolio, Florida City (~7.34% cap)",
+   "highlights": [
+    "Investor: ~7-9% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~16.2K sq ft",
+    "Class B",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "~7-9% est. cash-on-cash (25% down, IO @ ~7%)",
+    "180+ days on market"
+   ]
+  }
+ ]
+}

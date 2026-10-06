@@ -1,0 +1,210 @@
+{
+ "segment": "large-statewide",
+ "collection": "curated",
+ "template": "curated-generic",
+ "label": "Larger Investments — 40+ Units",
+ "tagline": "Top 10 · Florida statewide · 40+ unit apartment communities · ranked by scale",
+ "search_name": "Crexi (FL pull)",
+ "generated": "2026-10-06",
+ "pdf": "pdf/large-statewide__2026-10-06.pdf",
+ "expires": "2026-11-05",
+ "total_results": 10,
+ "metric_label": "Unit count",
+ "methodology": "Crexi Florida pull 2026-10-06 via the Crexi asset API (POST /assets/search + 0.01 cap-bucket sweep to recover masked cap rates; per-asset detail endpoint for square footage, class and zoning). Florida statewide apartment communities of 40+ units, ranked by scale. Development sites, entitled land, approved-unit plays, sub-$40K/unit offerings and listings with unreliable unit counts excluded; unpriced offerings shown as Price on request.",
+ "items": [
+  {
+   "id": "large-statewide-2026-10-06-01",
+   "analytics_id": "A-01710",
+   "rank": 1,
+   "submarket": "Miami Gardens",
+   "profile": "491-Unit Apartment Community",
+   "price_band": "Price on request",
+   "cap_label": "491 units",
+   "desc": "491-Unit Apartment Community in Miami Gardens; ~6.00% cap, 491 units, ~336.5K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 491-Unit Apartment Community, Miami Gardens (491 units)",
+   "highlights": [
+    "Investor: ~2-4% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~336.5K sq ft",
+    "Class B",
+    "Opportunity Zone",
+    "value-add / below-market rents"
+   ],
+   "inv_line": [
+    "~2-4% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Opportunity Zone"
+   ]
+  },
+  {
+   "id": "large-statewide-2026-10-06-02",
+   "analytics_id": "A-01711",
+   "rank": 2,
+   "submarket": "Tallahassee",
+   "profile": "200-Unit Apartment Community",
+   "price_band": "$28M-$30M",
+   "cap_label": "200 units",
+   "desc": "200-Unit Apartment Community in Tallahassee; ~7.79% cap, 200 units, ~200.6K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 200-Unit Apartment Community, Tallahassee (200 units)",
+   "highlights": [
+    "Investor: ~9-11% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~200.6K sq ft",
+    "Class B",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "~9-11% est. cash-on-cash (25% down, IO @ ~7%)",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "large-statewide-2026-10-06-03",
+   "analytics_id": "A-01712",
+   "rank": 3,
+   "submarket": "Tallahassee",
+   "profile": "123-Unit Apartment Community",
+   "price_band": "$15M-$16M",
+   "cap_label": "123 units",
+   "desc": "123-Unit Apartment Community in Tallahassee; ~6.93% cap, 123 units, ~137.9K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 123-Unit Apartment Community, Tallahassee (123 units)",
+   "highlights": [
+    "Investor: ~6-8% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~137.9K sq ft",
+    "Class A",
+    "value-add / below-market rents",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "~6-8% est. cash-on-cash (25% down, IO @ ~7%)",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "large-statewide-2026-10-06-04",
+   "analytics_id": "A-01713",
+   "rank": 4,
+   "submarket": "Sunrise",
+   "profile": "113-Unit Apartment Community",
+   "price_band": "$21M-$22M",
+   "cap_label": "113 units",
+   "desc": "113-Unit Apartment Community in Sunrise; ~6.89% cap, 113 units, ~98.7K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 113-Unit Apartment Community, Sunrise (113 units)",
+   "highlights": [
+    "Investor: ~6-8% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~98.7K sq ft"
+   ],
+   "inv_line": [
+    "~6-8% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "large-statewide-2026-10-06-05",
+   "analytics_id": "A-01714",
+   "rank": 5,
+   "submarket": "Brooksville",
+   "profile": "111-Unit Apartment Community",
+   "price_band": "$11M-$12M",
+   "cap_label": "111 units",
+   "desc": "111-Unit Apartment Community in Brooksville; 111 units, ~61.4K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 111-Unit Apartment Community, Brooksville (111 units)",
+   "highlights": [
+    "~61.4K sq ft",
+    "value-add / below-market rents"
+   ],
+   "inv_line": []
+  },
+  {
+   "id": "large-statewide-2026-10-06-06",
+   "analytics_id": "A-01715",
+   "rank": 6,
+   "submarket": "Lake City",
+   "profile": "107-Unit Apartment Community",
+   "price_band": "$10M-$11M",
+   "cap_label": "107 units",
+   "desc": "107-Unit Apartment Community in Lake City; 107 units. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 107-Unit Apartment Community, Lake City (107 units)",
+   "highlights": [
+    "value-add / below-market rents",
+    "90+ days on market"
+   ],
+   "inv_line": [
+    "90+ days on market"
+   ]
+  },
+  {
+   "id": "large-statewide-2026-10-06-07",
+   "analytics_id": "A-01716",
+   "rank": 7,
+   "submarket": "New Port Richey",
+   "profile": "107-Unit Apartment Community",
+   "price_band": "$12M-$13M",
+   "cap_label": "107 units",
+   "desc": "107-Unit Apartment Community in New Port Richey; 107 units. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 107-Unit Apartment Community, New Port Richey (107 units)",
+   "highlights": [
+    "value-add / below-market rents",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "large-statewide-2026-10-06-08",
+   "analytics_id": "A-01717",
+   "rank": 8,
+   "submarket": "Pompano Beach",
+   "profile": "98-Unit Apartment Community",
+   "price_band": "$13M-$14M",
+   "cap_label": "98 units",
+   "desc": "98-Unit Apartment Community in Pompano Beach; ~6.51% cap, 98 units, ~47.0K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 98-Unit Apartment Community, Pompano Beach (98 units)",
+   "highlights": [
+    "Investor: ~4-6% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~47.0K sq ft",
+    "Class C",
+    "Opportunity Zone",
+    "value-add / below-market rents"
+   ],
+   "inv_line": [
+    "~4-6% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Opportunity Zone",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "large-statewide-2026-10-06-09",
+   "analytics_id": "A-01718",
+   "rank": 9,
+   "submarket": "Ocala",
+   "profile": "94-Unit Apartment Community",
+   "price_band": "$9M-$10M",
+   "cap_label": "94 units",
+   "desc": "94-Unit Apartment Community in Ocala; ~7.92% cap, 94 units, ~53.6K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 94-Unit Apartment Community, Ocala (94 units)",
+   "highlights": [
+    "Investor: ~10-12% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~53.6K sq ft",
+    "seller financing available",
+    "value-add / below-market rents"
+   ],
+   "inv_line": [
+    "~10-12% est. cash-on-cash (25% down, IO @ ~7%)",
+    "seller financing available"
+   ]
+  },
+  {
+   "id": "large-statewide-2026-10-06-10",
+   "analytics_id": "A-01719",
+   "rank": 10,
+   "submarket": "Hudson",
+   "profile": "75-Unit Apartment Community",
+   "price_band": "$7M-$8M",
+   "cap_label": "75 units",
+   "desc": "75-Unit Apartment Community in Hudson; 75 units. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 75-Unit Apartment Community, Hudson (75 units)",
+   "highlights": [
+    "value-add / below-market rents"
+   ],
+   "inv_line": []
+  }
+ ]
+}

@@ -1,0 +1,225 @@
+{
+ "segment": "commercial-fl",
+ "collection": "curated",
+ "template": "curated-generic",
+ "label": "Commercial & Office — Florida",
+ "tagline": "Top 10 · Florida statewide · general commercial / office / mixed-use · ranked by cap rate",
+ "search_name": "Crexi (FL pull)",
+ "generated": "2026-10-06",
+ "pdf": "pdf/commercial-fl__2026-10-06.pdf",
+ "expires": "2026-11-05",
+ "total_results": 10,
+ "metric_label": "Cap rate",
+ "methodology": "Crexi Florida pull 2026-10-06 via the Crexi asset API (POST /assets/search + 0.01 cap-bucket sweep to recover masked cap rates; per-asset detail endpoint for square footage, class and zoning). Florida general commercial / office buildings (non-medical), ranked by recovered cap rate; 8% floor relaxed to 7% where thin. Business-only sales, retail centers, warehouses and apartment listings excluded. This run: top 10 by recovered cap rate.",
+ "items": [
+  {
+   "id": "commercial-fl-2026-10-06-01",
+   "analytics_id": "A-01750",
+   "rank": 1,
+   "submarket": "Altamonte Springs",
+   "profile": "Commercial / Office Building",
+   "price_band": "$15M-$16M",
+   "cap_label": "~11.00% cap",
+   "desc": "Commercial / Office Building in Altamonte Springs; ~11.00% cap, ~98.2K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Commercial / Office Building, Altamonte Springs (~11.00% cap)",
+   "highlights": [
+    "Investor: ~22-24% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~98.2K sq ft",
+    "reported fully occupied",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "~22-24% est. cash-on-cash (25% down, IO @ ~7%)",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "commercial-fl-2026-10-06-02",
+   "analytics_id": "A-01751",
+   "rank": 2,
+   "submarket": "Maitland",
+   "profile": "Commercial / Office Building",
+   "price_band": "$5M-$6M",
+   "cap_label": "~10.95% cap",
+   "desc": "Commercial / Office Building in Maitland; ~10.95% cap, ~42.6K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Commercial / Office Building, Maitland (~10.95% cap)",
+   "highlights": [
+    "Investor: ~22-24% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~42.6K sq ft",
+    "Class B",
+    "value-add / below-market rents",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "~22-24% est. cash-on-cash (25% down, IO @ ~7%)",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "commercial-fl-2026-10-06-03",
+   "analytics_id": "A-01752",
+   "rank": 3,
+   "submarket": "Fort Myers",
+   "profile": "Commercial / Office Building",
+   "price_band": "$1.5M-$2M",
+   "cap_label": "~10.22% cap",
+   "desc": "Commercial / Office Building in Fort Myers; ~10.22% cap, ~7.0K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Commercial / Office Building, Fort Myers (~10.22% cap)",
+   "highlights": [
+    "Investor: ~19-21% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~7.0K sq ft",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "~19-21% est. cash-on-cash (25% down, IO @ ~7%)",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "commercial-fl-2026-10-06-04",
+   "analytics_id": "A-01753",
+   "rank": 4,
+   "submarket": "Starke",
+   "profile": "Commercial / Office Building",
+   "price_band": "$1M-$1.5M",
+   "cap_label": "~10.00% cap",
+   "desc": "Commercial / Office Building in Starke; ~10.00% cap, ~17.0K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Commercial / Office Building, Starke (~10.00% cap)",
+   "highlights": [
+    "Investor: ~18-20% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~17.0K sq ft",
+    "Class C",
+    "value-add / below-market rents",
+    "recently listed"
+   ],
+   "inv_line": [
+    "~18-20% est. cash-on-cash (25% down, IO @ ~7%)",
+    "recently listed"
+   ]
+  },
+  {
+   "id": "commercial-fl-2026-10-06-05",
+   "analytics_id": "A-01754",
+   "rank": 5,
+   "submarket": "Palm Coast",
+   "profile": "Commercial / Office Building",
+   "price_band": "$1M-$1.5M",
+   "cap_label": "~9.63% cap",
+   "desc": "Commercial / Office Building in Palm Coast; ~9.63% cap, ~14.8K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Commercial / Office Building, Palm Coast (~9.63% cap)",
+   "highlights": [
+    "Investor: ~17-19% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~14.8K sq ft"
+   ],
+   "inv_line": [
+    "~17-19% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "commercial-fl-2026-10-06-06",
+   "analytics_id": "A-01755",
+   "rank": 6,
+   "submarket": "Orange Park",
+   "profile": "Commercial / Office Building",
+   "price_band": "$500K-$1M",
+   "cap_label": "~9.58% cap",
+   "desc": "Commercial / Office Building in Orange Park; ~9.58% cap, ~3.1K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Commercial / Office Building, Orange Park (~9.58% cap)",
+   "highlights": [
+    "Investor: ~16-18% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~3.1K sq ft",
+    "reported fully occupied",
+    "90+ days on market"
+   ],
+   "inv_line": [
+    "~16-18% est. cash-on-cash (25% down, IO @ ~7%)",
+    "90+ days on market"
+   ]
+  },
+  {
+   "id": "commercial-fl-2026-10-06-07",
+   "analytics_id": "A-01756",
+   "rank": 7,
+   "submarket": "Jacksonville",
+   "profile": "Commercial / Office Building",
+   "price_band": "$1.5M-$2M",
+   "cap_label": "~9.58% cap",
+   "desc": "Commercial / Office Building in Jacksonville; ~9.58% cap, ~29.2K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Commercial / Office Building, Jacksonville (~9.58% cap)",
+   "highlights": [
+    "Investor: ~16-18% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~29.2K sq ft",
+    "value-add / below-market rents",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "~16-18% est. cash-on-cash (25% down, IO @ ~7%)",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "commercial-fl-2026-10-06-08",
+   "analytics_id": "A-01757",
+   "rank": 8,
+   "submarket": "Orlando",
+   "profile": "Commercial / Office Building",
+   "price_band": "$8M-$9M",
+   "cap_label": "~9.00% cap",
+   "desc": "Commercial / Office Building in Orlando; ~9.00% cap, ~33.8K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Commercial / Office Building, Orlando (~9.00% cap)",
+   "highlights": [
+    "Investor: ~14-16% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~33.8K sq ft",
+    "reported fully occupied",
+    "recently listed"
+   ],
+   "inv_line": [
+    "~14-16% est. cash-on-cash (25% down, IO @ ~7%)",
+    "recently listed"
+   ]
+  },
+  {
+   "id": "commercial-fl-2026-10-06-09",
+   "analytics_id": "A-01758",
+   "rank": 9,
+   "submarket": "Orlando",
+   "profile": "Commercial / Office Building",
+   "price_band": "$4M-$5M",
+   "cap_label": "~8.75% cap",
+   "desc": "Commercial / Office Building in Orlando; ~8.75% cap, ~19.6K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Commercial / Office Building, Orlando (~8.75% cap)",
+   "highlights": [
+    "Investor: ~13-15% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~19.6K sq ft",
+    "reported fully occupied",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "~13-15% est. cash-on-cash (25% down, IO @ ~7%)",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "commercial-fl-2026-10-06-10",
+   "analytics_id": "A-01759",
+   "rank": 10,
+   "submarket": "Temple Terrace",
+   "profile": "Commercial / Office Building",
+   "price_band": "$5M-$6M",
+   "cap_label": "~8.50% cap",
+   "desc": "Commercial / Office Building in Temple Terrace; ~8.50% cap, ~17.0K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Commercial / Office Building, Temple Terrace (~8.50% cap)",
+   "highlights": [
+    "Investor: ~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~17.0K sq ft",
+    "Class B",
+    "reported fully occupied",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "180+ days on market"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,221 @@
+{
+ "segment": "nnn-fl",
+ "collection": "curated",
+ "template": "curated-generic",
+ "label": "NNN Net-Lease Retail — Florida",
+ "tagline": "Top 10 · Florida statewide · single & multi-tenant net lease · ranked by cap rate",
+ "search_name": "Crexi (FL pull)",
+ "generated": "2026-10-06",
+ "pdf": "pdf/nnn-fl__2026-10-06.pdf",
+ "expires": "2026-11-05",
+ "total_results": 10,
+ "metric_label": "Cap rate",
+ "methodology": "Crexi Florida pull 2026-10-06 via the Crexi asset API (POST /assets/search + 0.01 cap-bucket sweep to recover masked cap rates; per-asset detail endpoint for square footage, class and zoning). Florida net-leased retail, ranked purely by recovered cap rate (ceiling 13%). Requires net-lease language or a recognised single-tenant credit covenant; owner-user and business-for-sale listings excluded. This run: top 10 by recovered cap rate (8%+ floor met by all ten).",
+ "items": [
+  {
+   "id": "nnn-fl-2026-10-06-01",
+   "analytics_id": "A-01720",
+   "rank": 1,
+   "submarket": "Orlando",
+   "profile": "Net-Leased Retail",
+   "price_band": "$6M-$7M",
+   "cap_label": "~10.00% cap",
+   "desc": "Net-Leased Retail in Orlando; ~10.00% cap, ~14.5K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Net-Leased Retail, Orlando (~10.00% cap)",
+   "highlights": [
+    "Investor: ~18-20% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~14.5K sq ft",
+    "90+ days on market"
+   ],
+   "inv_line": [
+    "~18-20% est. cash-on-cash (25% down, IO @ ~7%)",
+    "90+ days on market"
+   ]
+  },
+  {
+   "id": "nnn-fl-2026-10-06-02",
+   "analytics_id": "A-01721",
+   "rank": 2,
+   "submarket": "Fort Lauderdale",
+   "profile": "Net-Leased Retail",
+   "price_band": "$3M-$4M",
+   "cap_label": "~8.50% cap",
+   "desc": "Net-Leased Retail in Fort Lauderdale; ~8.50% cap, ~15.0K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Net-Leased Retail, Fort Lauderdale (~8.50% cap)",
+   "highlights": [
+    "Investor: ~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~15.0K sq ft",
+    "Opportunity Zone"
+   ],
+   "inv_line": [
+    "~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Opportunity Zone"
+   ]
+  },
+  {
+   "id": "nnn-fl-2026-10-06-03",
+   "analytics_id": "A-01722",
+   "rank": 3,
+   "submarket": "Daytona Beach",
+   "profile": "Net-Leased Retail",
+   "price_band": "$0K-$500K",
+   "cap_label": "~8.42% cap",
+   "desc": "Net-Leased Retail in Daytona Beach; ~8.42% cap, ~2.2K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Net-Leased Retail, Daytona Beach (~8.42% cap)",
+   "highlights": [
+    "Investor: ~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~2.2K sq ft",
+    "Opportunity Zone",
+    "value-add / below-market rents",
+    "reported fully occupied"
+   ],
+   "inv_line": [
+    "~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Opportunity Zone"
+   ]
+  },
+  {
+   "id": "nnn-fl-2026-10-06-04",
+   "analytics_id": "A-01723",
+   "rank": 4,
+   "submarket": "Kissimmee",
+   "profile": "Net-Leased Retail",
+   "price_band": "$1M-$1.5M",
+   "cap_label": "~8.40% cap",
+   "desc": "Net-Leased Retail in Kissimmee; ~8.40% cap, ~2.0K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Net-Leased Retail, Kissimmee (~8.40% cap)",
+   "highlights": [
+    "Investor: ~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~2.0K sq ft",
+    "reported fully occupied",
+    "90+ days on market"
+   ],
+   "inv_line": [
+    "~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "90+ days on market"
+   ]
+  },
+  {
+   "id": "nnn-fl-2026-10-06-05",
+   "analytics_id": "A-01724",
+   "rank": 5,
+   "submarket": "Vero Beach",
+   "profile": "Net-Leased Retail",
+   "price_band": "$1.5M-$2M",
+   "cap_label": "~8.33% cap",
+   "desc": "Net-Leased Retail in Vero Beach; ~8.33% cap, ~2.5K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Net-Leased Retail, Vero Beach (~8.33% cap)",
+   "highlights": [
+    "Investor: ~11-13% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~2.5K sq ft",
+    "90+ days on market"
+   ],
+   "inv_line": [
+    "~11-13% est. cash-on-cash (25% down, IO @ ~7%)",
+    "90+ days on market"
+   ]
+  },
+  {
+   "id": "nnn-fl-2026-10-06-06",
+   "analytics_id": "A-01725",
+   "rank": 6,
+   "submarket": "Cocoa",
+   "profile": "Net-Leased Retail",
+   "price_band": "$2.5M-$3M",
+   "cap_label": "~8.27% cap",
+   "desc": "Net-Leased Retail in Cocoa; ~8.27% cap, ~17.0K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Net-Leased Retail, Cocoa (~8.27% cap)",
+   "highlights": [
+    "Investor: ~11-13% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~17.0K sq ft",
+    "value-add / below-market rents",
+    "reported fully occupied",
+    "90+ days on market"
+   ],
+   "inv_line": [
+    "~11-13% est. cash-on-cash (25% down, IO @ ~7%)",
+    "90+ days on market"
+   ]
+  },
+  {
+   "id": "nnn-fl-2026-10-06-07",
+   "analytics_id": "A-01726",
+   "rank": 7,
+   "submarket": "Ocala",
+   "profile": "Net-Leased Retail",
+   "price_band": "$1.5M-$2M",
+   "cap_label": "~8.26% cap",
+   "desc": "Net-Leased Retail in Ocala; ~8.26% cap, ~8.0K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Net-Leased Retail, Ocala (~8.26% cap)",
+   "highlights": [
+    "Investor: ~11-13% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~8.0K sq ft",
+    "90+ days on market"
+   ],
+   "inv_line": [
+    "~11-13% est. cash-on-cash (25% down, IO @ ~7%)",
+    "90+ days on market"
+   ]
+  },
+  {
+   "id": "nnn-fl-2026-10-06-08",
+   "analytics_id": "A-01727",
+   "rank": 8,
+   "submarket": "Tampa",
+   "profile": "Net-Leased Retail",
+   "price_band": "$5M-$6M",
+   "cap_label": "~8.25% cap",
+   "desc": "Net-Leased Retail in Tampa; ~8.25% cap, ~14.8K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Net-Leased Retail, Tampa (~8.25% cap)",
+   "highlights": [
+    "Investor: ~11-13% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~14.8K sq ft"
+   ],
+   "inv_line": [
+    "~11-13% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "nnn-fl-2026-10-06-09",
+   "analytics_id": "A-01728",
+   "rank": 9,
+   "submarket": "Orlando",
+   "profile": "Net-Leased Retail",
+   "price_band": "$1M-$1.5M",
+   "cap_label": "~8.20% cap",
+   "desc": "Net-Leased Retail in Orlando; ~8.20% cap, ~1.3K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Net-Leased Retail, Orlando (~8.20% cap)",
+   "highlights": [
+    "Investor: ~11-13% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~1.3K sq ft",
+    "Opportunity Zone",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "~11-13% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Opportunity Zone",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "nnn-fl-2026-10-06-10",
+   "analytics_id": "A-01729",
+   "rank": 10,
+   "submarket": "Port St. Lucie",
+   "profile": "Net-Leased Retail",
+   "price_band": "$5M-$6M",
+   "cap_label": "~8.19% cap",
+   "desc": "Net-Leased Retail in Port St. Lucie; ~8.19% cap, ~13.6K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Net-Leased Retail, Port St. Lucie (~8.19% cap)",
+   "highlights": [
+    "Investor: ~11-13% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~13.6K sq ft",
+    "price reduced"
+   ],
+   "inv_line": [
+    "~11-13% est. cash-on-cash (25% down, IO @ ~7%)",
+    "price reduced"
+   ]
+  }
+ ]
+}
