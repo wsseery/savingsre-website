@@ -1,5 +1,45 @@
 [
   {
+    "id": 178,
+    "date": "2026-10-07",
+    "title": "Missouri Developer Pays $32M, $10,460/SF, for Sunset Islands Waterfront Home",
+    "summary": "An entity linked to developer Victor Alston paid $32 million for a 3,060 SF waterfront home at 1601 North View Drive, Sunset Islands, Miami Beach, on a 0.6-acre lot, with a $23 million Fryd Mortgage loan. The 1950-built house last sold for $21 million in 2024. Also Oct. 6: an $11.4 million Homestead lot sale at $200/SF and an $8 million North Miami industrial sale at $377/SF.",
+    "source": "The Real Deal",
+    "sourceUrl": "https://therealdeal.com/data/miami/2026/missouri-developer-vic-alston-buys-miami-beach-home/",
+    "category": "Luxury",
+    "importance": "medium"
+  },
+  {
+    "id": 177,
+    "date": "2026-10-06",
+    "title": "Blackstone's Link Logistics Sells Fort Lauderdale Industrial Park for $57M",
+    "summary": "Link Logistics, Blackstone's industrial arm, sold the 210,000 SF industrial and business park at 2201-2385 Stirling Road, Fort Lauderdale, to BKM Capital Partners and Kayne Anderson Real Estate for $57 million, about $271 per SF. The seven-building, 18-unit property is 97% occupied and is being rebranded Stirling Landing. Cushman & Wakefield's Rick Brugge represented the seller.",
+    "source": "Bisnow",
+    "sourceUrl": "https://www.bisnow.com/news/south-florida/deal-sheet/blackstone-link-logistics-sells-fort-lauderdale-industrial-south-florida-deal-sheet",
+    "category": "Commercial/CRE",
+    "importance": "medium"
+  },
+  {
+    "id": 176,
+    "date": "2026-10-06",
+    "title": "Batmasian Buys Boca Raton Office Complex for $38.2M, About $319/SF",
+    "summary": "James Batmasian's Investments Limited bought two office buildings (119,800 SF, built 1968 and 2004) and a 130,000 SF parking garage on 2.2 acres at 555-595 South Federal Highway, Boca Raton. The seller, a Pinnacle Holdings entity, paid $33.2 million in 2014 and $36.7 million was paid in 2005. Tenants include Morgan Stanley, EverBank and Old Republic Title. He also paid $4.5 million for a 4,000 SF office building nearby.",
+    "source": "The Real Deal",
+    "sourceUrl": "https://therealdeal.com/miami/2026/10/06/james-batmasian-buys-boca-office-complex-for-38-million/",
+    "category": "Commercial/CRE",
+    "importance": "medium"
+  },
+  {
+    "id": 175,
+    "date": "2026-10-05",
+    "title": "Mystery Buyer Assembles $311M, 18.5-Acre Gulf-Front Compound in Naples' Port Royal",
+    "summary": "A secret land trust that paid $225 million last year for three Gordon Drive properties, the largest residential sale in Florida history, bought neighboring 2100 Gordon Drive (3.4 acres) for $86 million in an off-market June deal. Together about 18.5 acres of Gulf frontage are in one hand. 2340 Gordon Drive later traded to a related trust at $84 million, up from $46.9 million. Demolition permits have been sought and new-construction applications are under review.",
+    "source": "The Real Deal",
+    "sourceUrl": "https://therealdeal.com/miami/2026/10/05/mystery-buyer-amasses-311-million-compound-in-naples/",
+    "category": "Luxury",
+    "importance": "high"
+  },
+  {
     "id": 174,
     "date": "2026-10-05",
     "title": "Mandarin Oriental Miami Has Sold $1.7B of Condos Before Groundbreaking",
@@ -117,46 +157,6 @@
     "source": "Mortgage News Daily",
     "sourceUrl": "https://www.mortgagenewsdaily.com/newsletter/n/20260930",
     "category": "Market Data",
-    "importance": "high"
-  },
-  {
-    "id": 162,
-    "date": "2026-09-30",
-    "title": "Publix Pays $83.3M for 205,000 SF Airpark Plaza Near Miami International Airport",
-    "summary": "Publix Super Markets bought the seven-building Airpark Plaza at 5705 NW 7th Street from First Washington Realty for $83.3 million, about $407 per square foot; the center last sold for $32.9 million in 2008. Burlington and Alain's Design Furniture are other anchors. The deal lifts Publix's Florida shopping-center purchases over the past two years to roughly $410 million as the grocer buys the centers its stores anchor, including Fountains of Boynton ($78M) and Aberdeen Square ($24M) this year.",
-    "source": "The Real Deal",
-    "sourceUrl": "https://therealdeal.com/miami/2026/09/30/publix-buys-airpark-plaza-near-miami-international-airport/",
-    "category": "Commercial/CRE",
-    "importance": "medium"
-  },
-  {
-    "id": 161,
-    "date": "2026-09-30",
-    "title": "Ken Griffin Closes $1.1B All-Cash Purchase of Mana Wynwood for a Carnegie Mellon Miami Campus",
-    "summary": "Citadel founder Ken Griffin closed on Moishe Mana's 30-acre Mana Wynwood at 318 NW 23rd Street, including the convention center, Wynwood Marketplace and RC Cola Plant, in an all-cash, no-broker deal roughly three years in the making. About $2 billion of Griffin's record $3 billion gift to Carnegie Mellon will fund a 35-acre Miami campus with industry labs and venture studios, targeting 3,500+ students from 2028. Mana keeps part of his 45-acre Wynwood holdings plus downtown and Allapattah portfolios.",
-    "source": "The Real Deal",
-    "sourceUrl": "https://therealdeal.com/miami/2026/09/30/ken-griffin-buys-mana-wynwood-complex-for-1-billion/",
-    "category": "Commercial/CRE",
-    "importance": "high"
-  },
-  {
-    "id": 160,
-    "date": "2026-09-29",
-    "title": "Palm Beach County Approves $26M Sale-Leaseback for Related Ross's $290M Convention Center Hotel",
-    "summary": "County commissioners voted 6-1 to buy the 1.8-acre Related Ross parking lot at 900 South Rosemary Avenue, plus the future 18-story, 400-key Curio by Hilton to be built on it, for $26 million and lease it back for up to 97 years. Related Ross will pay about $1.1 million a year in rent once the hotel opens (rising 3% annually) plus 6% participation rent above $77 million in revenue; the structure avoids property taxes. The county values the completed hotel at $349 million; completion is targeted for 2029.",
-    "source": "The Real Deal",
-    "sourceUrl": "https://therealdeal.com/miami/2026/09/29/related-ross-hotel-lease-with-west-palm-beach-skirts-taxes/",
-    "category": "Development",
-    "importance": "medium"
-  },
-  {
-    "id": 159,
-    "date": "2026-09-29",
-    "title": "Treo Affiliate Sells New Golden Beach Oceanfront Spec Mansion for $69.5M, 20% Below Original Ask",
-    "summary": "Meridian Coast LLC, a Delaware entity with a hidden buyer, paid $69.5 million all-cash for the newly built 17,500 SF estate at 255 Ocean Boulevard: seven bedrooms, a guest house and 100 feet of ocean frontage on 0.7 acres. The home hit the market in February at $88.5 million and was last asking $79.5 million. The Treo Construction-linked seller paid $10.7 million for the site in 2021. Douglas Elliman's Dina Goldentayer listed it; the Jills Zeder Group represented the buyer.",
-    "source": "The Real Deal",
-    "sourceUrl": "https://therealdeal.com/miami/2026/09/29/ricardo-halfens-treo-sells-miami-area-home-for-70-million/",
-    "category": "Luxury",
     "importance": "high"
   }
 ]

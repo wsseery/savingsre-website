@@ -1,11 +1,55 @@
 {
   "meta": {
     "created": "2026-07-06",
-    "updated": "2026-10-05",
+    "updated": "2026-10-07",
     "note": "Archive of items rotated off the live market/news_data.json 16-item list. Weekly refresh APPENDS dropped items here (newest first) - never delete. Same item schema as news_data.json. Not rendered on the site; kept for content reuse, history, and a future archive/search section.",
-    "count": 152
+    "count": 156
   },
   "items": [
+    {
+      "id": 162,
+      "date": "2026-09-30",
+      "title": "Publix Pays $83.3M for 205,000 SF Airpark Plaza Near Miami International Airport",
+      "summary": "Publix Super Markets bought the seven-building Airpark Plaza at 5705 NW 7th Street from First Washington Realty for $83.3 million, about $407 per square foot; the center last sold for $32.9 million in 2008. Burlington and Alain's Design Furniture are other anchors. The deal lifts Publix's Florida shopping-center purchases over the past two years to roughly $410 million as the grocer buys the centers its stores anchor, including Fountains of Boynton ($78M) and Aberdeen Square ($24M) this year.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/09/30/publix-buys-airpark-plaza-near-miami-international-airport/",
+      "category": "Commercial/CRE",
+      "importance": "medium",
+      "archivedOn": "2026-10-07"
+    },
+    {
+      "id": 161,
+      "date": "2026-09-30",
+      "title": "Ken Griffin Closes $1.1B All-Cash Purchase of Mana Wynwood for a Carnegie Mellon Miami Campus",
+      "summary": "Citadel founder Ken Griffin closed on Moishe Mana's 30-acre Mana Wynwood at 318 NW 23rd Street, including the convention center, Wynwood Marketplace and RC Cola Plant, in an all-cash, no-broker deal roughly three years in the making. About $2 billion of Griffin's record $3 billion gift to Carnegie Mellon will fund a 35-acre Miami campus with industry labs and venture studios, targeting 3,500+ students from 2028. Mana keeps part of his 45-acre Wynwood holdings plus downtown and Allapattah portfolios.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/09/30/ken-griffin-buys-mana-wynwood-complex-for-1-billion/",
+      "category": "Commercial/CRE",
+      "importance": "high",
+      "archivedOn": "2026-10-07"
+    },
+    {
+      "id": 160,
+      "date": "2026-09-29",
+      "title": "Palm Beach County Approves $26M Sale-Leaseback for Related Ross's $290M Convention Center Hotel",
+      "summary": "County commissioners voted 6-1 to buy the 1.8-acre Related Ross parking lot at 900 South Rosemary Avenue, plus the future 18-story, 400-key Curio by Hilton to be built on it, for $26 million and lease it back for up to 97 years. Related Ross will pay about $1.1 million a year in rent once the hotel opens (rising 3% annually) plus 6% participation rent above $77 million in revenue; the structure avoids property taxes. The county values the completed hotel at $349 million; completion is targeted for 2029.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/09/29/related-ross-hotel-lease-with-west-palm-beach-skirts-taxes/",
+      "category": "Development",
+      "importance": "medium",
+      "archivedOn": "2026-10-07"
+    },
+    {
+      "id": 159,
+      "date": "2026-09-29",
+      "title": "Treo Affiliate Sells New Golden Beach Oceanfront Spec Mansion for $69.5M, 20% Below Original Ask",
+      "summary": "Meridian Coast LLC, a Delaware entity with a hidden buyer, paid $69.5 million all-cash for the newly built 17,500 SF estate at 255 Ocean Boulevard: seven bedrooms, a guest house and 100 feet of ocean frontage on 0.7 acres. The home hit the market in February at $88.5 million and was last asking $79.5 million. The Treo Construction-linked seller paid $10.7 million for the site in 2021. Douglas Elliman's Dina Goldentayer listed it; the Jills Zeder Group represented the buyer.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/09/29/ricardo-halfens-treo-sells-miami-area-home-for-70-million/",
+      "category": "Luxury",
+      "importance": "high",
+      "archivedOn": "2026-10-07"
+    },
     {
       "id": 158,
       "date": "2026-09-28",
