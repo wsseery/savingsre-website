@@ -879,7 +879,7 @@ footer {
 }
 .footer-license {
   font-size: 0.68rem;
-  color: #64748b;
+  color: #94a3b8;
   margin-top: 0.3rem;
 }
 .footer-links { display: flex; gap: 1.5rem; flex-wrap: wrap; }
@@ -894,7 +894,7 @@ footer {
 .footer-links a:hover { color: var(--color-primary-light); }
 .footer-legal {
   font-size: 0.68rem;
-  color: #64748b;
+  color: #94a3b8;
   line-height: 1.7;
   max-width: 1200px;
   margin: 0 auto;
