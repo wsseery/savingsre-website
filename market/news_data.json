@@ -1,5 +1,45 @@
 [
   {
+    "id": 182,
+    "date": "2026-10-09",
+    "title": "Chris Rokos Sells 2.8-Acre Manalapan Oceanfront Estate for $83.2M",
+    "summary": "British hedge fund manager Chris Rokos sold his Manalapan estate at 1370 South Ocean Boulevard for $83.2 million to BigOcean 3M LLC, a Delaware entity acting for a land trust. The 2.8-acre property has a 29,500 SF house and 300 feet of ocean frontage. A UK-registered entity paid $40 million in 2017. Bank of America provided the buyer a $58.2 million mortgage.",
+    "source": "The Real Deal",
+    "sourceUrl": "https://therealdeal.com/data/miami/2026/british-billionaire-chris-rokos-sells-manalapan-estate/",
+    "category": "Luxury",
+    "importance": "high"
+  },
+  {
+    "id": 181,
+    "date": "2026-10-08",
+    "title": "Freddie Mac: 30-Year Mortgage Rate Jumps 12 bps to 7.40%",
+    "summary": "Freddie Mac's Primary Mortgage Market Survey put the 30-year fixed-rate average at 7.40% as of October 8, 2026, up from 7.28% the prior week, a 12 basis-point increase. Mortgage News Daily's index showed 7.52% for the 30-year fixed and 7.65% for the jumbo on Oct. 9, which matters for financing on South Florida luxury purchases.",
+    "source": "Freddie Mac",
+    "sourceUrl": "https://www.freddiemac.com/pmms",
+    "category": "Market Data",
+    "importance": "medium"
+  },
+  {
+    "id": 180,
+    "date": "2026-10-08",
+    "title": "Foreclosure Suit Targets Pembroke Lakes Mall Over $260M Loan Default",
+    "summary": "Deutsche Bank sued over the $260 million, 2013-issued loan on the 748,800 SF Pembroke Lakes Mall in Pembroke Pines, which was not repaid at its March maturity and went to special servicing. The mall was appraised at $427 million in 2013 and $112 million as of April. It is 96% occupied; first-half NOI was $8.3 million against $3.9 million of debt service, but the 3.6% loan rate makes refinancing difficult.",
+    "source": "The Real Deal",
+    "sourceUrl": "https://therealdeal.com/miami/2026/10/08/pembroke-lakes-mall-faces-260-million-foreclosure/",
+    "category": "Commercial/CRE",
+    "importance": "high"
+  },
+  {
+    "id": 179,
+    "date": "2026-10-08",
+    "title": "Terra's David Martin, Partners Close $507M Loan for 28-Story South Beach Condo Tower",
+    "summary": "Terra and partners RG Development, GV Development and Lore Development closed a $507 million construction loan from Tyko Capital for a 28-story, 106-unit condo tower at 1250 West Avenue, Miami Beach. The loan came earlier in the development process than is typical in South Florida; sales are expected to launch next year. JDS Development transferred the site to Terra last year, and the approved overlay allows a 330-foot building.",
+    "source": "The Real Deal",
+    "sourceUrl": "https://therealdeal.com/miami/2026/10/08/david-martin-gets-507-million-miami-beach-construction-loan/",
+    "category": "Development",
+    "importance": "high"
+  },
+  {
     "id": 178,
     "date": "2026-10-07",
     "title": "Missouri Developer Pays $32M, $10,460/SF, for Sunset Islands Waterfront Home",
@@ -118,45 +158,5 @@
     "sourceUrl": "https://therealdeal.com/miami/2026/10/02/miami-design-district-office-project-lands-prominent-tenants/",
     "category": "Development",
     "importance": "medium"
-  },
-  {
-    "id": 166,
-    "date": "2026-10-01",
-    "title": "Macquarie Lists Boca Center's 379,000 SF Office Campus, Eyeing About $200M",
-    "summary": "Macquarie Capital hired Newmark to sell the three-building Class A campus at 5100 and 5200 Town Center Circle and 1800 North Military Trail in Boca Raton; $200 million would be about $528 per SF. The complex is 86% leased to tenants including JPMorgan, PwC, EY, UBS and FINRA, and Newmark says in-place rents run about 22% below market. Brokers pitch Boca as value next to pricier Miami and West Palm Beach office.",
-    "source": "The Real Deal",
-    "sourceUrl": "https://therealdeal.com/miami/2026/10/01/boca-center-office-campus-for-sale-at-200-million/",
-    "category": "Commercial/CRE",
-    "importance": "medium"
-  },
-  {
-    "id": 165,
-    "date": "2026-10-01",
-    "title": "Freddie Mac 30-Year Mortgage Rate Jumps to 7.28%, Up 25 bps in a Week",
-    "summary": "Freddie Mac's weekly survey put the 30-year fixed at 7.28% as of October 1, up from 7.03% a week earlier and 6.34% a year ago; the 15-year averaged 6.60%, up from 6.42%. Mortgage News Daily's daily index sits near 7.57% with the 30-year jumbo average at 7.66%, keeping financing costs a headwind for luxury and leveraged commercial buyers.",
-    "source": "Freddie Mac",
-    "sourceUrl": "https://www.freddiemac.com/pmms",
-    "category": "Market Data",
-    "importance": "high"
-  },
-  {
-    "id": 164,
-    "date": "2026-10-01",
-    "title": "Billionaire Chris Rokos Sells Manalapan Oceanfront Estate for $83.2M, Down From $150M Ask",
-    "summary": "Hedge fund founder Chris Rokos sold his 2.8-acre, 29,500 SF estate at 1370 South Ocean Boulevard with 300 feet of ocean frontage for $83.2 million (about $2,800 per SF), more than double the $40 million paid in 2017. It first asked $150 million, later cut to $135 million. William Raveis's Jack Elkins represented the seller and Premier Estate Properties' Rosalind Clarke the undisclosed buyer; the land is prime for a teardown or full renovation.",
-    "source": "The Real Deal",
-    "sourceUrl": "https://therealdeal.com/miami/2026/10/01/billionaire-chris-rokos-sells-manalapan-home-for-83-million/",
-    "category": "Luxury",
-    "importance": "high"
-  },
-  {
-    "id": 163,
-    "date": "2026-09-30",
-    "title": "30-Year Mortgage Rate Hits 7.60%, Highest Since November 2023; Jumbo Average Reaches 7.66%",
-    "summary": "Mortgage News Daily's index of top-tier 30-year fixed rates rose to 7.60% on September 30, up from 7.50% on September 28 and the highest since November 1, 2023, while the 30-year jumbo average climbed to 7.66%. The 10-year Treasury yield is near 5.3% and the 30-year bond hit its highest level since 2002 as markets reprice Fed policy, inflation and Treasury supply. Freddie Mac's weekly PMMS last printed 7.03% (Sept 24); the next survey is out October 1.",
-    "source": "Mortgage News Daily",
-    "sourceUrl": "https://www.mortgagenewsdaily.com/newsletter/n/20260930",
-    "category": "Market Data",
-    "importance": "high"
   }
 ]
