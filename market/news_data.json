@@ -1,5 +1,35 @@
 [
   {
+    "id": 185,
+    "date": "2026-10-09",
+    "title": "Safe Harbor Takes Miami Beach's Tides Hotel, Lands $44M Maxim Loan",
+    "summary": "Safe Harbor Capital Partners secured a $44 million mortgage from Maxim Credit Group on the 45-room Tides Hotel at 1220 Ocean Drive and adjacent Collins Ave properties. It acquired the asset by credit bid at a March foreclosure auction against Chetrit Group, which is appealing a $95.6 million judgment. The renovated hotel is slated to reopen next month; the owner would consider a sale at the right price.",
+    "source": "The Real Deal",
+    "sourceUrl": "https://therealdeal.com/miami/2026/10/09/safe-harbor-to-reopen-renovated-tides-hotel-miami-beach/",
+    "category": "Commercial/CRE",
+    "importance": "medium"
+  },
+  {
+    "id": 184,
+    "date": "2026-10-09",
+    "title": "Baptist Health Buys Coral Gables Office Building for $39M, $321/SF",
+    "summary": "Baptist Health South Florida bought 2855 Le Jeune Road from City National Bank for $39 million, about $321 per square foot, per records and Vizzda. The four-story 2007 building sits on 0.7 acres with a bank branch and 32,300 SF of offices. The bank sold after leasing 145,000 SF for its headquarters nearby. Health systems are competing for South Florida sites.",
+    "source": "The Real Deal",
+    "sourceUrl": "https://therealdeal.com/miami/2026/10/09/baptist-health-buys-coral-gables-offices-amid-growth-spurt/",
+    "category": "Commercial/CRE",
+    "importance": "medium"
+  },
+  {
+    "id": 183,
+    "date": "2026-10-09",
+    "title": "Dutch Corendon Pays $50M-Plus for Two South Beach Art Deco Hotels",
+    "summary": "Corendon Hotels & Resorts made its first US hotel investment, paying over $50 million in one transaction for Aloha Friday's at 944 Collins Ave and the Beach Plaza Hotel at 1401 Collins Ave. The properties hold 97 and 95 rooms and are being rebranded. The seller paid $16.6M in 2024 and $26.5M in 2023. Berkadia's Jennifer Jin represented the seller, extending a trend of European buyers in Miami Beach hotels.",
+    "source": "The Real Deal",
+    "sourceUrl": "https://therealdeal.com/miami/2026/10/09/corendon-hotels-resorts-buys-south-beach-art-deco-hotels/",
+    "category": "Commercial/CRE",
+    "importance": "medium"
+  },
+  {
     "id": 182,
     "date": "2026-10-09",
     "title": "Chris Rokos Sells 2.8-Acre Manalapan Oceanfront Estate for $83.2M",
@@ -128,35 +158,5 @@
     "sourceUrl": "https://therealdeal.com/miami/2026/10/02/larry-ellison-lists-north-palm-beach-estate-for-165-million/",
     "category": "Luxury",
     "importance": "high"
-  },
-  {
-    "id": 169,
-    "date": "2026-10-02",
-    "title": "Orlando Apartments Shake Off Oversupply as Construction Falls 66% From 2023 Peak",
-    "summary": "Orlando's multifamily market is stabilizing after a post-pandemic supply glut that pushed rents negative and forced concessions. Construction activity is down 65.9% from its 2023 peak and 40% year over year, and brokers at Cushman & Wakefield, Berkadia and Marcus & Millichap say demand from population and job growth is absorbing new units. Investors are returning to Central Florida, though selectively.",
-    "source": "The Real Deal",
-    "sourceUrl": "https://therealdeal.com/miami/2026/10/02/orlando-multifamily-market-rebounds-after-oversupply/",
-    "category": "Multifamily",
-    "importance": "medium"
-  },
-  {
-    "id": 168,
-    "date": "2026-10-02",
-    "title": "Chrysler Heir Sells Off-Market Palm Beach Everglades Island Home for $28.8M",
-    "summary": "Jack F. Chrysler III sold his late mother's 5,000 SF waterfront house at 593 Island Drive for $28.8 million (about $5,850 per SF), its first sale in nearly 30 years; she paid $1.9 million in 1997. Bank of America provided the anonymous buyer a $19.5 million loan, and Douglas Elliman brokered both sides. Neighbors at 608 Island Drive ($40M in September), 757 Island Drive ($93.3M in May) and 690 Island Drive ($39.2M in June) point to a firm ultra-luxury island market.",
-    "source": "The Real Deal",
-    "sourceUrl": "https://therealdeal.com/miami/2026/10/02/chrysler-heir-sells-palm-beach-home-for-29-million/",
-    "category": "Luxury",
-    "importance": "medium"
-  },
-  {
-    "id": 167,
-    "date": "2026-10-02",
-    "title": "Apollo Co-Founder Josh Harris's Firm, Atria Health Lease Space at Miami Design District's Sweetbird North",
-    "summary": "Josh Harris's private equity firm and Atria Health and Research Institute (55,000 SF on floors four and five) signed leases at Sweetbird North, the 120,500 SF Snohetta-designed office-retail building at 95 NE 40th Street from Craig Robins' MDDA and Raycliff Capital. The project closed a $125 million Credit Agricole construction loan in August, broke ground this week and targets early-2028 completion, a sign of continued corporate relocation demand for trophy office.",
-    "source": "The Real Deal",
-    "sourceUrl": "https://therealdeal.com/miami/2026/10/02/miami-design-district-office-project-lands-prominent-tenants/",
-    "category": "Development",
-    "importance": "medium"
   }
 ]

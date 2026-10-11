@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated": "2026-10-09",
+    "updated": "2026-10-11",
     "period": "Residential through August 2026; rates as of October 9, 2026",
     "coverage": "SE Florida (Miami-Dade, Broward, Palm Beach, Martin, St. Lucie) + statewide FL",
     "disclaimer": "Figures compiled from public market reports (Florida Realtors, MIAMI Realtors, CBRE, Freddie Mac, FL OIR) and are informational only - not investment, tax, or financial advice. Deemed reliable but not guaranteed.",
@@ -133,12 +133,12 @@
     "cards": [
       {
         "label": "30-Yr Fixed (conforming)",
-        "value": "7.52%",
+        "value": "7.48%",
         "sub": "daily lender avg Oct 9; Freddie Mac PMMS 7.40% for the wk of 10/8 (next print 10/15)"
       },
       {
         "label": "30-Yr Jumbo",
-        "value": "7.65%",
+        "value": "7.63%",
         "sub": "daily jumbo avg Oct 9"
       },
       {
