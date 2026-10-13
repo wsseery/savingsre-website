@@ -1,0 +1,208 @@
+{
+ "segment": "gulf-coast-beach-mf",
+ "collection": "curated",
+ "template": "curated-generic",
+ "label": "Coastal Multifamily — Gulf Beaches",
+ "tagline": "Top 9 · Sarasota-Bradenton · coastal income multifamily · ranked by cap rate where published, else scale",
+ "search_name": "Crexi (FL pull)",
+ "generated": "2026-10-13",
+ "pdf": "pdf/gulf-coast-beach-mf__2026-10-13.pdf",
+ "expires": "2026-11-12",
+ "total_results": 9,
+ "metric_label": "Cap rate",
+ "methodology": "Crexi Florida pull 2026-10-13 via the Crexi asset API (POST /assets/search + 0.01 cap-bucket sweep to recover masked cap rates; per-asset detail endpoint for square footage, class and zoning). Coastal income multifamily in the Sarasota-Bradenton-Venice area, $1-5M preferred, ranked by recovered cap rate where published, else by scale. Senior/assisted-living, single-family and development listings excluded. This run: 32 Sarasota-Bradenton listings screened (21 with a recovered cap).",
+ "items": [
+  {
+   "id": "gulf-coast-beach-mf-2026-10-13-01",
+   "analytics_id": "A-01894",
+   "rank": 1,
+   "submarket": "Venice",
+   "profile": "Multifamily Income Property",
+   "price_band": "$1M-$1.5M",
+   "cap_label": "~9.00% cap",
+   "desc": "Multifamily Income Property in Venice; ~9.00% cap, ~1.6K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Multifamily Income Property, Venice (~9.00% cap)",
+   "highlights": [
+    "Investor: ~14-16% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~1.6K sq ft",
+    "Class B",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "~14-16% est. cash-on-cash (25% down, IO @ ~7%)",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "gulf-coast-beach-mf-2026-10-13-02",
+   "analytics_id": "A-01895",
+   "rank": 2,
+   "submarket": "Sarasota",
+   "profile": "16-Unit Student Housing Community",
+   "price_band": "$2M-$2.5M",
+   "cap_label": "~7.47% cap",
+   "desc": "16-Unit Student Housing Community in Sarasota; ~7.47% cap, 16 units, ~8.2K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 16-Unit Student Housing Community, Sarasota (~7.47% cap)",
+   "highlights": [
+    "Investor: ~8-10% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~8.2K sq ft",
+    "Class C",
+    "price reduced",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "~8-10% est. cash-on-cash (25% down, IO @ ~7%)",
+    "price reduced",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "gulf-coast-beach-mf-2026-10-13-03",
+   "analytics_id": "A-01896",
+   "rank": 3,
+   "submarket": "Sarasota",
+   "profile": "6-Unit Multifamily",
+   "price_band": "$1M-$1.5M",
+   "cap_label": "~7.04% cap",
+   "desc": "6-Unit Multifamily in Sarasota; ~7.04% cap, 6 units, ~5.5K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 6-Unit Multifamily, Sarasota (~7.04% cap)",
+   "highlights": [
+    "Investor: ~6-8% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~5.5K sq ft",
+    "Class C",
+    "value-add / below-market rents",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "~6-8% est. cash-on-cash (25% down, IO @ ~7%)",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "gulf-coast-beach-mf-2026-10-13-04",
+   "analytics_id": "A-01897",
+   "rank": 4,
+   "submarket": "Sarasota",
+   "profile": "8-Unit Multifamily",
+   "price_band": "$1.5M-$2M",
+   "cap_label": "~6.82% cap",
+   "desc": "8-Unit Multifamily in Sarasota; ~6.82% cap, 8 units, ~8.5K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 8-Unit Multifamily, Sarasota (~6.82% cap)",
+   "highlights": [
+    "Investor: ~5-7% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~8.5K sq ft",
+    "Class B",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "~5-7% est. cash-on-cash (25% down, IO @ ~7%)",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "gulf-coast-beach-mf-2026-10-13-05",
+   "analytics_id": "A-01898",
+   "rank": 5,
+   "submarket": "Sarasota",
+   "profile": "4-Unit Multifamily",
+   "price_band": "$1M-$1.5M",
+   "cap_label": "~6.79% cap",
+   "desc": "4-Unit Multifamily in Sarasota; ~6.79% cap, 4 units, ~5.5K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 4-Unit Multifamily, Sarasota (~6.79% cap)",
+   "highlights": [
+    "Investor: ~5-7% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~5.5K sq ft",
+    "Class B",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "~5-7% est. cash-on-cash (25% down, IO @ ~7%)",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "gulf-coast-beach-mf-2026-10-13-06",
+   "analytics_id": "A-01899",
+   "rank": 6,
+   "submarket": "Bradenton",
+   "profile": "20-Unit Multifamily",
+   "price_band": "$3M-$4M",
+   "cap_label": "~6.64% cap",
+   "desc": "20-Unit Multifamily in Bradenton; ~6.64% cap, 20 units, ~15.3K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 20-Unit Multifamily, Bradenton (~6.64% cap)",
+   "highlights": [
+    "Investor: ~5-7% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~15.3K sq ft",
+    "value-add / below-market rents"
+   ],
+   "inv_line": [
+    "~5-7% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "gulf-coast-beach-mf-2026-10-13-07",
+   "analytics_id": "A-01900",
+   "rank": 7,
+   "submarket": "Bradenton",
+   "profile": "8-Unit Rental Portfolio",
+   "price_band": "$2M-$2.5M",
+   "cap_label": "~6.57% cap",
+   "desc": "8-Unit Rental Portfolio in Bradenton; ~6.57% cap, 8 units, ~8.5K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 8-Unit Rental Portfolio, Bradenton (~6.57% cap)",
+   "highlights": [
+    "Investor: ~4-6% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~8.5K sq ft",
+    "Class B",
+    "90+ days on market"
+   ],
+   "inv_line": [
+    "~4-6% est. cash-on-cash (25% down, IO @ ~7%)",
+    "90+ days on market"
+   ]
+  },
+  {
+   "id": "gulf-coast-beach-mf-2026-10-13-08",
+   "analytics_id": "A-01901",
+   "rank": 8,
+   "submarket": "Sarasota",
+   "profile": "10-Unit Multifamily",
+   "price_band": "$2.5M-$3M",
+   "cap_label": "~5.26% cap",
+   "desc": "10-Unit Multifamily in Sarasota; ~5.26% cap, 10 units, ~7.7K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 10-Unit Multifamily, Sarasota (~5.26% cap)",
+   "highlights": [
+    "Investor: Levered spread thin at ~7% debt (rate-sensitive)",
+    "~7.7K sq ft",
+    "Class C",
+    "Opportunity Zone",
+    "value-add / below-market rents"
+   ],
+   "inv_line": [
+    "Levered spread thin at ~7% debt (rate-sensitive)",
+    "Opportunity Zone"
+   ]
+  },
+  {
+   "id": "gulf-coast-beach-mf-2026-10-13-09",
+   "analytics_id": "A-01902",
+   "rank": 9,
+   "submarket": "Sarasota",
+   "profile": "16-Unit Multifamily",
+   "price_band": "$3M-$4M",
+   "cap_label": "~4.64% cap",
+   "desc": "16-Unit Multifamily in Sarasota; ~4.64% cap, 16 units, ~9.9K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 16-Unit Multifamily, Sarasota (~4.64% cap)",
+   "highlights": [
+    "Investor: Levered spread thin at ~7% debt (rate-sensitive)",
+    "~9.9K sq ft",
+    "Class C",
+    "Opportunity Zone",
+    "value-add / below-market rents"
+   ],
+   "inv_line": [
+    "Levered spread thin at ~7% debt (rate-sensitive)",
+    "Opportunity Zone"
+   ]
+  }
+ ]
+}

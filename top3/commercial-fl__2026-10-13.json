@@ -1,0 +1,228 @@
+{
+ "segment": "commercial-fl",
+ "collection": "curated",
+ "template": "curated-generic",
+ "label": "Commercial & Office — Florida",
+ "tagline": "Top 10 · Florida statewide · general commercial / office / mixed-use · ranked by cap rate",
+ "search_name": "Crexi (FL pull)",
+ "generated": "2026-10-13",
+ "pdf": "pdf/commercial-fl__2026-10-13.pdf",
+ "expires": "2026-11-12",
+ "total_results": 10,
+ "metric_label": "Cap rate",
+ "methodology": "Crexi Florida pull 2026-10-13 via the Crexi asset API (POST /assets/search + 0.01 cap-bucket sweep to recover masked cap rates; per-asset detail endpoint for square footage, class and zoning). Florida general commercial / office buildings (non-medical), ranked by recovered cap rate; 8% floor relaxed to 7% where thin. Business-only sales, retail centers, warehouses and apartment listings excluded. This run: 24 qualifying listings; top 10 shown (15 at 8%+).",
+ "items": [
+  {
+   "id": "commercial-fl-2026-10-13-01",
+   "analytics_id": "A-01879",
+   "rank": 1,
+   "submarket": "Altamonte Springs",
+   "profile": "Commercial / Office Building",
+   "price_band": "$15M-$16M",
+   "cap_label": "~11.00% cap",
+   "desc": "Commercial / Office Building in Altamonte Springs; ~11.00% cap, ~98.2K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Commercial / Office Building, Altamonte Springs (~11.00% cap)",
+   "highlights": [
+    "Investor: ~22-24% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~98.2K sq ft",
+    "reported fully occupied",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "~22-24% est. cash-on-cash (25% down, IO @ ~7%)",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "commercial-fl-2026-10-13-02",
+   "analytics_id": "A-01880",
+   "rank": 2,
+   "submarket": "Maitland",
+   "profile": "Commercial / Office Building",
+   "price_band": "$5M-$6M",
+   "cap_label": "~10.95% cap",
+   "desc": "Commercial / Office Building in Maitland; ~10.95% cap, ~42.6K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Commercial / Office Building, Maitland (~10.95% cap)",
+   "highlights": [
+    "Investor: ~22-24% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~42.6K sq ft",
+    "Class B",
+    "value-add / below-market rents",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "~22-24% est. cash-on-cash (25% down, IO @ ~7%)",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "commercial-fl-2026-10-13-03",
+   "analytics_id": "A-01881",
+   "rank": 3,
+   "submarket": "Chiefland",
+   "profile": "Commercial / Office Building",
+   "price_band": "$0K-$500K",
+   "cap_label": "~10.00% cap",
+   "desc": "Commercial / Office Building in Chiefland; ~10.00% cap, ~4.4K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Commercial / Office Building, Chiefland (~10.00% cap)",
+   "highlights": [
+    "Investor: ~18-20% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~4.4K sq ft",
+    "Class C",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "~18-20% est. cash-on-cash (25% down, IO @ ~7%)",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "commercial-fl-2026-10-13-04",
+   "analytics_id": "A-01882",
+   "rank": 4,
+   "submarket": "Jacksonville",
+   "profile": "Commercial / Office Building",
+   "price_band": "$1.5M-$2M",
+   "cap_label": "~9.58% cap",
+   "desc": "Commercial / Office Building in Jacksonville; ~9.58% cap, ~29.2K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Commercial / Office Building, Jacksonville (~9.58% cap)",
+   "highlights": [
+    "Investor: ~16-18% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~29.2K sq ft",
+    "value-add / below-market rents",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "~16-18% est. cash-on-cash (25% down, IO @ ~7%)",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "commercial-fl-2026-10-13-05",
+   "analytics_id": "A-01883",
+   "rank": 5,
+   "submarket": "Orlando",
+   "profile": "Commercial / Office Building",
+   "price_band": "$8M-$9M",
+   "cap_label": "~9.00% cap",
+   "desc": "Commercial / Office Building in Orlando; ~9.00% cap, ~33.8K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Commercial / Office Building, Orlando (~9.00% cap)",
+   "highlights": [
+    "Investor: ~14-16% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~33.8K sq ft",
+    "reported fully occupied"
+   ],
+   "inv_line": [
+    "~14-16% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "commercial-fl-2026-10-13-06",
+   "analytics_id": "A-01884",
+   "rank": 6,
+   "submarket": "Temple Terrace",
+   "profile": "Commercial / Office Building",
+   "price_band": "$5M-$6M",
+   "cap_label": "~8.50% cap",
+   "desc": "Commercial / Office Building in Temple Terrace; ~8.50% cap, ~17.0K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Commercial / Office Building, Temple Terrace (~8.50% cap)",
+   "highlights": [
+    "Investor: ~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~17.0K sq ft",
+    "Class B",
+    "reported fully occupied",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "commercial-fl-2026-10-13-07",
+   "analytics_id": "A-01885",
+   "rank": 7,
+   "submarket": "Punta Gorda",
+   "profile": "Commercial / Office Building",
+   "price_band": "$2.5M-$3M",
+   "cap_label": "~8.41% cap",
+   "desc": "Commercial / Office Building in Punta Gorda; ~8.41% cap, ~14.1K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Commercial / Office Building, Punta Gorda (~8.41% cap)",
+   "highlights": [
+    "Investor: ~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~14.1K sq ft",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "commercial-fl-2026-10-13-08",
+   "analytics_id": "A-01886",
+   "rank": 8,
+   "submarket": "Orlando",
+   "profile": "Commercial / Office Building",
+   "price_band": "$2.5M-$3M",
+   "cap_label": "~8.40% cap",
+   "desc": "Commercial / Office Building in Orlando; ~8.40% cap, ~16.8K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Commercial / Office Building, Orlando (~8.40% cap)",
+   "highlights": [
+    "Investor: ~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~16.8K sq ft",
+    "Opportunity Zone",
+    "price reduced",
+    "reported fully occupied"
+   ],
+   "inv_line": [
+    "~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Opportunity Zone",
+    "price reduced",
+    "90+ days on market"
+   ]
+  },
+  {
+   "id": "commercial-fl-2026-10-13-09",
+   "analytics_id": "A-01887",
+   "rank": 9,
+   "submarket": "Coral Springs",
+   "profile": "Commercial / Office Building",
+   "price_band": "$7M-$8M",
+   "cap_label": "~8.34% cap",
+   "desc": "Commercial / Office Building in Coral Springs; ~8.34% cap, ~53.3K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Commercial / Office Building, Coral Springs (~8.34% cap)",
+   "highlights": [
+    "Investor: ~11-13% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~53.3K sq ft",
+    "Class B",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "~11-13% est. cash-on-cash (25% down, IO @ ~7%)",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "commercial-fl-2026-10-13-10",
+   "analytics_id": "A-01888",
+   "rank": 10,
+   "submarket": "Milton",
+   "profile": "Commercial / Office Building",
+   "price_band": "$3M-$4M",
+   "cap_label": "~8.23% cap",
+   "desc": "Commercial / Office Building in Milton; ~8.23% cap, ~17.5K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Commercial / Office Building, Milton (~8.23% cap)",
+   "highlights": [
+    "Investor: ~11-13% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~17.5K sq ft",
+    "Class A",
+    "90+ days on market"
+   ],
+   "inv_line": [
+    "~11-13% est. cash-on-cash (25% down, IO @ ~7%)",
+    "90+ days on market"
+   ]
+  }
+ ]
+}
