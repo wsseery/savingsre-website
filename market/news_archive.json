@@ -1,11 +1,55 @@
 {
   "meta": {
     "created": "2026-07-06",
-    "updated": "2026-10-11",
+    "updated": "2026-10-13",
     "note": "Archive of items rotated off the live market/news_data.json 16-item list. Weekly refresh APPENDS dropped items here (newest first) - never delete. Same item schema as news_data.json. Not rendered on the site; kept for content reuse, history, and a future archive/search section.",
-    "count": 163
+    "count": 167
   },
   "items": [
+    {
+      "id": 173,
+      "date": "2026-10-05",
+      "title": "SharkNinja Founder Sells Palm Island Mansion for $60.9M, $4,700 Per SF",
+      "summary": "An entity tied to SharkNinja founder Mark Rosenzweig sold the 13,000 SF waterfront house at 73 Palm Avenue for $60.9 million to a trust named for the address; it last traded in 2019 at $24.6 million. Other Oct. 2 deals: a $24.1 million Morningside flip (bought for $16 million last year), a $19.8 million Hibiscus Island home, and a $17 million Fisher Island condo at about $4,000 per SF.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/data/miami/2026/sharkninja-founder-sells-miami-beach-mansion-for-61-million/",
+      "category": "Luxury",
+      "importance": "medium",
+      "archivedOn": "2026-10-13"
+    },
+    {
+      "id": 172,
+      "date": "2026-10-05",
+      "title": "Lenders Deal Out $436M for South Florida Projects, Led by JSB's $238M Doral Refi",
+      "summary": "JSB Capital refinanced the 631-unit Landmark South in Doral with a $238 million floating-rate, interest-only bridge loan from Torchlight Investors, about $377,000 per unit; Walker & Dunlop arranged it. Fuse Group and KREA Developments got a $127 million Madison Realty Capital loan on the 502-unit Arcadian in Fort Lauderdale ($253,000 per unit). Lenders describe a conservative market where mid-market deals are harder to place than large ones.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/10/05/major-south-florida-projects-score-436-million-in-financing/",
+      "category": "Multifamily",
+      "importance": "high",
+      "archivedOn": "2026-10-13"
+    },
+    {
+      "id": 171,
+      "date": "2026-10-02",
+      "title": "Monarch and Tourmaline Seek $400M-Plus for Brickell's 801 Brickell Office Tower",
+      "summary": "The owners hired Eastdil Secured to sell the 28-story, 437,000 SF tower at about $900 per SF, which would be a Brickell office record; they paid Nuveen $250 million in 2023, Florida's priciest office sale that year. In-place rents run about 40% below Brickell asking rates, which averaged $90.25 per SF this summer per Savills, giving a buyer mark-to-market upside.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/10/02/monarch-tourmaline-list-miami-office-for-400-million-plus/",
+      "category": "Commercial/CRE",
+      "importance": "high",
+      "archivedOn": "2026-10-13"
+    },
+    {
+      "id": 170,
+      "date": "2026-10-02",
+      "title": "Larry Ellison Lists North Palm Beach Estate for a Record $165M, Double His 2021 Price",
+      "summary": "The Oracle founder is asking $165 million for his 8.4-acre Seminole Landing compound at 12210 Banyan Road, which he bought for $80 million in 2021 and first listed at $145 million in 2022. The 16,300 SF, seven-bedroom 1991 house has more than 550 feet of water frontage; the ask is a North Palm Beach record at over $10,000 per SF, or $19.6 million per acre. K2 Realty's Paul Kaneb and James Kenny have the listing.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/10/02/larry-ellison-lists-north-palm-beach-estate-for-165-million/",
+      "category": "Luxury",
+      "importance": "high",
+      "archivedOn": "2026-10-13"
+    },
     {
       "id": 169,
       "date": "2026-10-02",
