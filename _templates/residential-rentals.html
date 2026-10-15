@@ -1,0 +1,738 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<!-- TEMPLATE: fill every {{TOKEN}} and publish to the repo root as residential-rentals.html. This _templates copy is not served by GitHub Pages. -->
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-K4HVBNM');</script>
+  <!-- End Google Tag Manager -->
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Residential Rentals | Palm Beach &amp; Broward | SavingsRE</title>
+<meta name="description" content="Active homes, condos and townhomes for rent in Palm Beach and Broward counties, from FlexMLS. Renter representation by Bill Seery, United Realty Group.">
+<link rel="canonical" href="https://savingsre.com/residential-rentals">
+<meta property="og:title" content="Residential Rentals | Palm Beach &amp; Broward | SavingsRE">
+<meta property="og:description" content="Active homes, condos and townhomes for rent in Palm Beach and Broward counties, from FlexMLS. Renter representation by Bill Seery, United Realty Group.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://savingsre.com/residential-rentals">
+<meta property="og:image" content="https://savingsre.com/assets/savingsre-og-default_v01.png">
+<meta property="og:site_name" content="SavingsRE">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Residential Rentals | Palm Beach &amp; Broward | SavingsRE">
+<meta name="twitter:description" content="Active homes, condos and townhomes for rent in Palm Beach and Broward counties, from FlexMLS. Renter representation by Bill Seery, United Realty Group.">
+<meta name="twitter:image" content="https://savingsre.com/assets/savingsre-og-default_v01.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,300&family=Montserrat:wght@300;400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/css/site.css?v=20261015">
+<script defer src="assets/js/site.js?v=20261015"></script>
+<style>
+  :root {
+    --navy: #ffffff;
+    --gold: #2563eb;
+    --gold-light: #1d4ed8;
+    --cream: #1e293b;
+    --white: #1e293b;
+    --gray: #64748b;
+    --charcoal: #e2e8f0;
+    --card-bg: #f8fafc;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    background: var(--navy);
+    color: var(--cream);
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+    overflow-x: hidden;
+  }
+
+
+  /* ── HERO ── */
+  .hero {
+    min-height: 75vh;
+    display: flex; flex-direction: column; justify-content: center;
+    padding: 9rem 3rem 4rem;
+    position: relative;
+    overflow: hidden;
+    background: linear-gradient(180deg, #f5f8fd 0%, #ffffff 100%);
+  }
+  .hero-bg-overlay {
+    position: absolute; inset: 0;
+    background:
+      radial-gradient(ellipse at 75% 40%, rgba(37,99,235,0.07) 0%, transparent 55%),
+      radial-gradient(ellipse at 20% 75%, rgba(37,99,235,0.15) 0%, transparent 60%);
+  }
+  .hero-grid {
+    position: absolute; inset: 0;
+    background-image: linear-gradient(rgba(37,99,235,0.04) 1px, transparent 1px),
+                      linear-gradient(90deg, rgba(37,99,235,0.04) 1px, transparent 1px);
+    background-size: 60px 60px;
+  }
+  .hero-water-line {
+    position: absolute; bottom: 0; left: 0; right: 0; height: 3px;
+    background: linear-gradient(90deg, transparent, rgba(37,99,235,0.4), rgba(100,180,255,0.3), rgba(37,99,235,0.4), transparent);
+  }
+  .hero-content { position: relative; max-width: 760px; }
+  .hero-eyebrow {
+    font-size: 0.7rem; letter-spacing: 0.3em; text-transform: uppercase;
+    color: var(--gold); margin-bottom: 1.5rem;
+    display: flex; align-items: center; gap: 1rem;
+  }
+  .hero-eyebrow::before { content: ''; display: block; width: 40px; height: 1px; background: var(--gold); }
+  h1 {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: clamp(2.8rem, 5.5vw, 5rem);
+    font-weight: 300; line-height: 1.05;
+    color: var(--white); margin-bottom: 1.5rem;
+  }
+  h1 em { font-style: italic; color: var(--gold); }
+  .hero-sub {
+    font-size: 0.95rem; line-height: 1.8; color: var(--gray);
+    max-width: 560px; margin-bottom: 2rem;
+  }
+  .hero-stats {
+    display: flex; gap: 3rem; margin-bottom: 2.5rem;
+    flex-wrap: wrap;
+  }
+  .hero-stat .num {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 2.4rem; font-weight: 300; color: var(--gold);
+    line-height: 1;
+  }
+  .hero-stat .lbl {
+    font-size: 0.65rem; letter-spacing: 0.2em; text-transform: uppercase;
+    color: var(--gray); margin-top: 0.3rem;
+  }
+  .hero-actions { display: flex; gap: 1rem; flex-wrap: wrap; }
+  .btn-gold {
+    background: var(--gold); color: var(--navy);
+    padding: 0.85rem 2rem; font-size: 0.75rem;
+    letter-spacing: 0.15em; text-transform: uppercase; font-weight: 600;
+    text-decoration: none; display: inline-block;
+    transition: background 0.3s, transform 0.2s;
+  }
+  .btn-gold:hover { background: var(--gold-light); transform: translateY(-2px); }
+  .btn-outline {
+    border: 1px solid rgba(37,99,235,0.4); color: var(--cream);
+    padding: 0.85rem 2rem; font-size: 0.75rem;
+    letter-spacing: 0.15em; text-transform: uppercase;
+    text-decoration: none; display: inline-block;
+    transition: border-color 0.3s, transform 0.2s;
+  }
+  .btn-outline:hover { border-color: var(--gold); transform: translateY(-2px); }
+
+  /* ── SECTION FRAMEWORK ── */
+  section { padding: 5rem 3rem; }
+  .section-label {
+    font-size: 0.65rem; letter-spacing: 0.3em; text-transform: uppercase;
+    color: var(--gold); margin-bottom: 1rem;
+    display: flex; align-items: center; gap: 1rem;
+  }
+  .section-label::before { content: ''; display: block; width: 30px; height: 1px; background: var(--gold); }
+  h2 {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: clamp(2rem, 3.5vw, 3rem);
+    font-weight: 300; color: var(--white); line-height: 1.15;
+    margin-bottom: 1rem;
+  }
+  h2 em { font-style: italic; color: var(--gold); }
+  .section-intro { color: var(--gray); font-size: 0.9rem; line-height: 1.8; max-width: 600px; margin-bottom: 3rem; }
+
+  /* ── UPDATE BANNER ── */
+  .update-banner {
+    background: rgba(37,99,235,0.08);
+    border: 1px solid rgba(37,99,235,0.2);
+    border-left: 3px solid var(--gold);
+    padding: 0.9rem 1.5rem;
+    display: flex; align-items: center; gap: 1rem;
+    font-size: 0.78rem; color: #475569;
+    margin-bottom: 3rem;
+  }
+  .update-banner strong { color: var(--gold); }
+  .live-dot {
+    width: 8px; height: 8px; border-radius: 50%;
+    background: #4ade80;
+    box-shadow: 0 0 6px rgba(74,222,128,0.5);
+    animation: pulse 2s infinite;
+    flex-shrink: 0;
+  }
+  @keyframes pulse { 0%,100%{opacity:1;transform:scale(1)} 50%{opacity:0.5;transform:scale(1.3)} }
+
+  /* ── FEATURED LISTING (ALBATROSS) ── */
+  .featured-sale {
+    background: linear-gradient(135deg, #f5f8fd 0%, var(--card-bg) 100%);
+    border: 1px solid rgba(37,99,235,0.35);
+    border-top: 3px solid var(--gold);
+    padding: 0;
+    overflow: hidden;
+    margin-bottom: 4rem;
+    display: grid;
+    grid-template-columns: 1fr 1.1fr;
+  }
+  @media(max-width:800px){ .featured-sale { grid-template-columns: 1fr; } }
+  .featured-sale-photo {
+    position: relative; overflow: hidden;
+    min-height: 380px;
+    background: linear-gradient(135deg, #ffffff 0%, #1a3560 100%);
+    display: flex; align-items: center; justify-content: center;
+  }
+  .featured-sale-photo img {
+    width: 100%; height: 100%; object-fit: cover;
+    opacity: 0.85;
+    transition: opacity 0.4s, transform 0.6s;
+  }
+  .featured-sale-photo:hover img { opacity: 1; transform: scale(1.04); }
+  .photo-badge {
+    position: absolute; top: 1.2rem; left: 1.2rem;
+    background: var(--gold); color: var(--navy);
+    font-size: 0.6rem; letter-spacing: 0.2em; text-transform: uppercase;
+    font-weight: 700; padding: 0.35rem 0.8rem;
+  }
+  .photo-mls {
+    position: absolute; bottom: 1rem; right: 1rem;
+    background: rgba(255,255,255,0.8); color: var(--gray);
+    font-size: 0.6rem; letter-spacing: 0.1em; padding: 0.3rem 0.7rem;
+  }
+  .photo-placeholder-icon {
+    font-size: 3rem; color: rgba(37,99,235,0.2);
+    text-align: center;
+  }
+  .photo-placeholder-icon p {
+    font-size: 0.7rem; color: var(--gray); margin-top: 0.5rem;
+    letter-spacing: 0.1em; text-transform: uppercase;
+  }
+  .featured-sale-info {
+    padding: 2.5rem;
+    display: flex; flex-direction: column; justify-content: space-between;
+  }
+  .featured-tag {
+    font-size: 0.6rem; letter-spacing: 0.25em; text-transform: uppercase;
+    color: var(--gold); margin-bottom: 0.8rem;
+  }
+  .featured-sale-info h3 {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 1.8rem; font-weight: 300; color: var(--white);
+    line-height: 1.2; margin-bottom: 0.5rem;
+  }
+  .featured-address {
+    font-size: 0.78rem; color: var(--gray); margin-bottom: 1.5rem;
+    letter-spacing: 0.05em;
+  }
+  .featured-price {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 2.4rem; font-weight: 300; color: var(--gold);
+    margin-bottom: 0.4rem;
+  }
+  .featured-price-note { font-size: 0.7rem; color: var(--gray); margin-bottom: 1.8rem; }
+  .featured-specs {
+    display: grid; grid-template-columns: repeat(3, 1fr);
+    gap: 1rem; margin-bottom: 1.8rem;
+    border-top: 1px solid rgba(37,99,235,0.12);
+    border-bottom: 1px solid rgba(37,99,235,0.12);
+    padding: 1.2rem 0;
+  }
+  .spec .val { font-family: 'Cormorant Garamond', serif; font-size: 1.4rem; color: var(--white); }
+  .spec .key { font-size: 0.6rem; letter-spacing: 0.15em; text-transform: uppercase; color: var(--gray); margin-top: 0.2rem; }
+  .featured-desc { font-size: 0.82rem; color: var(--gray); line-height: 1.7; margin-bottom: 1.8rem; }
+  .featured-actions { display: flex; gap: 0.75rem; flex-wrap: wrap; }
+
+  /* ── MLS SEARCH EMBED ── */
+  .mls-embed-section {
+    background: var(--card-bg);
+    border: 1px solid rgba(37,99,235,0.12);
+    padding: 2rem;
+    margin-bottom: 3rem;
+  }
+  .mls-embed-header {
+    display: flex; align-items: center; justify-content: space-between;
+    margin-bottom: 1.5rem; flex-wrap: wrap; gap: 1rem;
+  }
+  .mls-embed-title { font-family: 'Cormorant Garamond', serif; font-size: 1.3rem; color: var(--white); }
+  .mls-count-badge {
+    background: rgba(37,99,235,0.1); border: 1px solid rgba(37,99,235,0.3);
+    padding: 0.4rem 1rem; font-size: 0.7rem; letter-spacing: 0.15em;
+    text-transform: uppercase; color: #1d4ed8;
+  }
+  .mls-iframe-wrap {
+    position: relative; width: 100%;
+    height: 600px;
+    border: 1px solid rgba(37,99,235,0.1);
+    background: #f8fafc;
+  }
+  .mls-iframe-wrap iframe {
+    width: 100%; height: 100%; border: none;
+  }
+  .mls-iframe-fallback {
+    display: flex; flex-direction: column; align-items: center; justify-content: center;
+    height: 100%; text-align: center; padding: 2rem;
+  }
+  .mls-iframe-fallback .big-num {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 5rem; font-weight: 300; color: var(--gold);
+    line-height: 1; margin-bottom: 0.5rem;
+  }
+  .mls-iframe-fallback p { color: var(--gray); font-size: 0.85rem; margin-bottom: 1.5rem; }
+  .mls-iframe-fallback .search-params {
+    background: rgba(37,99,235,0.05);
+    border: 1px solid rgba(37,99,235,0.15);
+    padding: 1rem 1.5rem; text-align: left; margin-bottom: 1.5rem;
+    font-size: 0.75rem; color: var(--gray); line-height: 1.9;
+  }
+  .mls-iframe-fallback .search-params strong { color: var(--cream); }
+
+  /* ── LISTING CARDS GRID ── */
+  .listings-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    gap: 1.5rem;
+    margin-bottom: 3rem;
+  }
+  .listing-card {
+    background: var(--card-bg);
+    border: 1px solid rgba(37,99,235,0.1);
+    overflow: hidden;
+    transition: border-color 0.3s, transform 0.3s;
+    cursor: pointer;
+  }
+  .listing-card:hover {
+    border-color: rgba(37,99,235,0.4);
+    transform: translateY(-4px);
+  }
+  .listing-card:hover .card-photo img { transform: scale(1.06); }
+  .card-photo {
+    position: relative; height: 220px; overflow: hidden;
+    background: linear-gradient(135deg, #ffffff 0%, #1a3560 100%);
+  }
+  .card-photo img { width: 100%; height: 100%; object-fit: cover; transition: transform 0.5s; }
+  .card-photo-placeholder {
+    width: 100%; height: 100%;
+    display: flex; flex-direction: column;
+    align-items: center; justify-content: center;
+    gap: 0.5rem;
+  }
+  .card-photo-placeholder svg { width: 48px; height: 48px; opacity: 0.2; }
+  .card-photo-placeholder span { font-size: 0.65rem; letter-spacing: 0.15em; text-transform: uppercase; color: rgba(37,99,235,0.3); }
+  .card-type-badge {
+    position: absolute; top: 0.8rem; left: 0.8rem;
+    background: rgba(255,255,255,0.85);
+    border: 1px solid rgba(37,99,235,0.3);
+    color: var(--gold); font-size: 0.6rem; letter-spacing: 0.2em;
+    text-transform: uppercase; font-weight: 600; padding: 0.3rem 0.7rem;
+  }
+  .card-waterfront-badge {
+    position: absolute; top: 0.8rem; right: 0.8rem;
+    background: rgba(0,80,160,0.75);
+    color: #2563eb; font-size: 0.6rem; letter-spacing: 0.15em;
+    text-transform: uppercase; font-weight: 600; padding: 0.3rem 0.7rem;
+    border: 1px solid rgba(126,200,227,0.3);
+  }
+  .card-body { padding: 1.5rem; }
+  .card-price {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 1.7rem; font-weight: 300; color: var(--gold);
+    margin-bottom: 0.2rem;
+  }
+  .card-price-note { font-size: 0.65rem; color: var(--gray); margin-bottom: 0.8rem; }
+  .card-address {
+    font-size: 0.82rem; color: var(--white); font-weight: 400;
+    margin-bottom: 0.3rem;
+  }
+  .card-city { font-size: 0.75rem; color: var(--gray); margin-bottom: 1rem; }
+  .card-specs {
+    display: flex; gap: 1.2rem;
+    border-top: 1px solid rgba(37,99,235,0.1);
+    padding-top: 0.9rem; margin-top: 0.5rem;
+    font-size: 0.72rem; color: var(--gray);
+  }
+  .card-spec { display: flex; flex-direction: column; gap: 0.1rem; }
+  .card-spec strong { color: var(--cream); font-size: 0.82rem; }
+  .card-mls { font-size: 0.62rem; color: var(--gray); margin-top: 0.8rem; }
+  .card-avail {
+    font-size: 0.65rem; letter-spacing: 0.1em; text-transform: uppercase;
+    color: var(--gold); margin-top: 0.5rem;
+  }
+
+  /* ── PRICE TIER FILTER ── */
+  .filter-bar {
+    display: flex; gap: 0.5rem; flex-wrap: wrap;
+    margin-bottom: 2rem;
+  }
+  .filter-btn {
+    background: transparent;
+    border: 1px solid rgba(37,99,235,0.2);
+    color: var(--gray); font-family: 'Montserrat', sans-serif;
+    font-size: 0.7rem; letter-spacing: 0.15em; text-transform: uppercase;
+    padding: 0.5rem 1.2rem; cursor: pointer;
+    transition: all 0.25s;
+  }
+  .filter-btn:hover, .filter-btn.active {
+    background: var(--gold); color: var(--navy);
+    border-color: var(--gold);
+  }
+
+  /* ── ALPHAGENINSURANCE CTA ── */
+  .alphaGen-cta {
+    background: linear-gradient(135deg, #eef3fc 0%, #ffffff 100%);
+    border: 1px solid rgba(37,99,235,0.2);
+    border-left: 4px solid var(--gold);
+    padding: 2.5rem 3rem;
+    display: grid; grid-template-columns: 1fr auto;
+    gap: 2rem; align-items: center;
+    margin-bottom: 3rem;
+  }
+  @media(max-width:700px){ .alphaGen-cta { grid-template-columns: 1fr; } }
+  .alphaGen-cta h3 {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 1.5rem; font-weight: 300; color: var(--white);
+    margin-bottom: 0.7rem;
+  }
+  .alphaGen-cta p { font-size: 0.83rem; color: var(--gray); line-height: 1.7; }
+  .alphaGen-cta a.btn-gold { white-space: nowrap; }
+
+  /* ── CONTACT / SCHEDULE ── */
+  .agent-cta {
+    background: linear-gradient(135deg, rgba(37,99,235,0.06) 0%, rgba(255,255,255,0) 100%);
+    border: 1px solid rgba(37,99,235,0.2);
+    padding: 3rem;
+    text-align: center;
+  }
+  .agent-cta h2 { margin-bottom: 1rem; }
+  .agent-cta p { color: var(--gray); font-size: 0.85rem; line-height: 1.7; max-width: 500px; margin: 0 auto 2rem; }
+  .agent-info { display: flex; justify-content: center; gap: 3rem; flex-wrap: wrap; margin-bottom: 2rem; }
+  .agent-detail .lbl { font-size: 0.6rem; letter-spacing: 0.2em; text-transform: uppercase; color: var(--gray); }
+  .agent-detail .val { font-size: 0.9rem; color: var(--cream); margin-top: 0.2rem; }
+  .agent-detail .val a { color: var(--gold); text-decoration: none; }
+
+  /* ── HOW IT WORKS ── */
+  .how-grid {
+    display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 1.5rem; margin-bottom: 2rem;
+  }
+  .how-card {
+    background: var(--card-bg);
+    border: 1px solid rgba(37,99,235,0.1);
+    padding: 1.8rem 1.5rem;
+    text-align: center;
+  }
+  .how-num {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 2.5rem; color: var(--gold);
+    line-height: 1; margin-bottom: 0.8rem;
+  }
+  .how-card h4 {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 1.1rem; font-weight: 400; color: var(--white);
+    margin-bottom: 0.6rem;
+  }
+  .how-card p { font-size: 0.75rem; color: var(--gray); line-height: 1.6; }
+
+  /* ── FOOTER ── */
+  footer {
+    border-top: 1px solid rgba(37,99,235,0.1);
+    padding: 2rem 3rem;
+    display: flex; justify-content: space-between; align-items: center;
+    flex-wrap: wrap; gap: 1rem;
+  }
+  .footer-brand { font-family: 'Cormorant Garamond', serif; font-size: 1.1rem; color: #93b4f5; letter-spacing: 0.15em; }
+  .footer-links a { color: #cbd5e1; text-decoration: none; font-size: 0.7rem; letter-spacing: 0.1em; margin-left: 1.5rem; }
+  .footer-links a:hover { color: #93b4f5; }
+  .footer-legal { font-size: 0.65rem; color: #94a3b8; width: 100%; margin-top: 0.5rem; }
+
+  /* ── RESPONSIVE ── */
+  @media(max-width:768px) {
+    section { padding: 3.5rem 1.5rem; }
+    .hero { padding: 7rem 1.5rem 3rem; }
+    .hero-stats { gap: 1.5rem; }
+    footer { padding: 2rem 1.5rem; }
+    .alphaGen-cta { padding: 1.8rem; }
+    .agent-cta { padding: 2rem 1.5rem; }
+  }
+
+  @media (max-width: 768px) {
+    .footer-links { gap: 0.8rem 1.2rem; }
+    .footer-links a { margin-left: 0; }
+  }
+</style>
+</head>
+<body>
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K4HVBNM"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+
+<!-- HEADER -->
+<header id="site-header">
+  <a href="/" class="logo" aria-label="SavingsRE Home">Savings<span>RE</span></a>
+  <nav class="nav-links" id="nav-links" aria-label="Main navigation">
+    <div class="nav-group">
+      <button class="nav-group-btn" type="button" aria-expanded="false">Buy · Sell · Rent<span class="nav-caret" aria-hidden="true">▾</span></button>
+      <div class="nav-menu nav-menu-3">
+        <div class="nav-col"><span class="nav-col-label">Buy</span>
+          <a href="luxury.html">Luxury Homes</a>
+          <a href="move-in-ready.html">Move-In Ready</a>
+          <a href="55-plus.html">55+ Communities</a>
+          <a href="luxury-buyers.html">Buyer Representation</a>
+          <a href="buyersurvey.html">Find Me a Home</a>
+        </div>
+        <div class="nav-col"><span class="nav-col-label">Sell</span>
+          <a href="luxury-listings.html">List Your Luxury Home · 1.5%</a>
+          <a href="https://docs.google.com/forms/d/e/1FAIpQLSeh2FPmzhbkINNoskp72ang1zJO7xa-sxqKiDekxMmQSZz5IA/viewform?utm_source=savingsre&amp;utm_medium=website&amp;utm_campaign=nav&amp;utm_content=home-worth" target="_blank" rel="noopener">What’s My Home Worth?</a>
+        </div>
+        <div class="nav-col"><span class="nav-col-label">Rent</span>
+          <a href="luxury-rentals.html">Luxury Waterfront Rentals</a>
+        </div>
+      </div>
+    </div>
+    <div class="nav-group">
+      <button class="nav-group-btn" type="button" aria-expanded="false">Investors<span class="nav-caret" aria-hidden="true">▾</span></button>
+      <div class="nav-menu nav-menu-2 nav-menu-right">
+        <div class="nav-col"><span class="nav-col-label">Top Investments</span>
+          <a href="top3/top3.html?seg=mf-upto3m-east">Multifamily up to $3M</a>
+          <a href="top3/top3.html?seg=high-yield-sfl">High-Yield Multifamily · 8%+ Cap</a>
+          <a href="top3/top3.html?seg=starter-mf-corridor">Starter Multifamily · $800K–$2M</a>
+          <a href="top3/top3.html?seg=east-coast-beach-mf">Coastal Multifamily · Atlantic</a>
+          <a href="top3/top3.html?seg=large-statewide">Larger Investments · 40+ Units</a>
+          <a href="top3/top3.html?seg=airbnb-str-east">Airbnb / Short-Term Rental</a>
+          <a href="top3/top3.html?seg=nnn-fl">NNN Commercial</a>
+          <a href="top3/" class="nav-all">All Top Investments →</a>
+        </div>
+        <div class="nav-col"><span class="nav-col-label">Commercial</span>
+          <a href="commercial-buyer-search.html">Buy Commercial</a>
+          <a href="https://docs.google.com/forms/d/e/1FAIpQLSeh2FPmzhbkINNoskp72ang1zJO7xa-sxqKiDekxMmQSZz5IA/viewform?utm_source=savingsre&amp;utm_medium=website&amp;utm_campaign=nav&amp;utm_content=sell-commercial" target="_blank" rel="noopener">Sell Commercial</a>
+          <a href="commercial.html">Commercial Properties</a>
+          <a href="coastal-shortlist.html">Coastal Multifamily Shortlist</a>
+          <a href="investor-hub.html" class="nav-all">Investors Page →</a>
+        </div>
+      </div>
+    </div>
+    <a href="market/">Market Intel</a>
+    <a href="blog/">Blog</a>
+    <a href="https://alphageninsurance.com/get-a-quote/" target="_blank" rel="noopener">Insurance &#8599;</a>
+    <a href="tel:+15612200402" class="nav-cta" onclick="trackPhone()">+1 (561) 220-0402</a>
+  </nav>
+  <button class="mobile-toggle" id="mobile-toggle" aria-label="Open menu" aria-expanded="false">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
+      <line x1="3" y1="6" x2="21" y2="6"/>
+      <line x1="3" y1="12" x2="21" y2="12"/>
+      <line x1="3" y1="18" x2="21" y2="18"/>
+    </svg>
+  </button>
+</header>
+
+<!-- HERO -->
+<section class="hero">
+  <div class="hero-bg-overlay"></div>
+  <div class="hero-grid"></div>
+  <div class="hero-water-line"></div>
+  <div class="hero-content">
+    <div class="hero-eyebrow">Palm Beach &amp; Broward · Homes · Condos · Townhomes</div>
+    <h1>Residential<br><em>Rentals</em></h1>
+    <p class="hero-sub">Homes, condos and townhomes for rent across Palm Beach and Broward counties, from FlexMLS. {{COUNT}} active rentals between {{PRICE_RANGE_TEXT}} a month.</p>
+    <div class="hero-stats">
+      <div class="hero-stat">
+        <div class="num">{{COUNT}}</div>
+        <div class="lbl">Active Rentals</div>
+      </div>
+      <div class="hero-stat">
+        <div class="num">{{PRICE_RANGE_SHORT}}</div>
+        <div class="lbl">Monthly Range</div>
+      </div>
+      <div class="hero-stat">
+        <div class="num">PBC + BC</div>
+        <div class="lbl">Palm Beach &amp; Broward</div>
+      </div>
+    </div>
+    <div class="hero-actions">
+      <a href="#listings" class="btn-gold">Browse Listings</a>
+      <a href="https://calendar.app.google/Yv2c22sEEcKZuExq9" class="btn-outline">Schedule a Tour</a>
+    </div>
+  </div>
+</section>
+
+<!-- LIVE LISTINGS (filled weekly by the Tuesday regen from FlexMLS saved search WSS-RES-RENTALS) -->
+<section id="listings">
+  <div class="section-label">FlexMLS · Live Data</div>
+  <h2>Rentals <em>This Week</em></h2>
+  <p class="section-intro">Active residential rentals in Palm Beach and Broward counties, {{PRICE_RANGE_TEXT}} a month. Data sourced from FlexMLS.</p>
+
+  <div class="update-banner">
+    <div class="live-dot"></div>
+    <div>
+      <strong>Last updated: {{UPDATED_DATE_LONG}}</strong> &nbsp;·&nbsp;
+      {{COUNT}} active listings &nbsp;·&nbsp;
+      FlexMLS Search: {{SEARCH_CRITERIA_TEXT}}
+    </div>
+  </div>
+
+  <div class="listings-grid" id="listingsGrid">
+    <!-- CARD TEMPLATE — copy once per listing, fill every field from the FlexMLS listing detail. Never estimate.
+    <div class="listing-card" data-price="{{PRICE_NUMBER}}">
+      <div class="card-photo">
+        <img src="https://placehold.co/600x440/e8eef8/2563eb?text={{BUILDING_URLENCODED}}" alt="{{STREET}}, {{TOWN}} FL">
+        <span class="card-type-badge">{{PROPERTY_TYPE}}</span>
+      </div>
+      <div class="card-body">
+        <div class="card-price">${{PRICE}}<span style="font-size:1rem">/mo</span></div>
+        <div class="card-price-note">{{BUILDING_OR_COMPLEX}}</div>
+        <div class="card-address">{{STREET_AND_UNIT}}</div>
+        <div class="card-city">{{CITY_STATE_ZIP}} · Area {{MLS_AREA}}</div>
+        <div class="card-specs">
+          <div class="card-spec"><strong>{{SPEC1}}</strong><span>Beds</span></div>
+          <div class="card-spec"><strong>{{SPEC2}}</strong><span>Baths</span></div>
+          <div class="card-spec"><strong>{{SPEC3}}</strong><span>Sq Ft</span></div>
+        </div>
+        <div class="card-avail">{{AVAILABILITY}}</div>
+        <div class="card-mls">MLS# {{MLS_NUMBER}} · Listed by: {{LISTING_AGENT}} / {{LISTING_OFFICE}}</div>
+      </div>
+    </div>
+    -->
+{{CARDS}}
+  </div><!-- /listings-grid -->
+
+  <div style="text-align:center; padding: 1rem 0 2rem;">
+    <p style="color:var(--gray); font-size:0.83rem; margin-bottom:1.2rem;">Showing {{CARD_COUNT}} highlighted listings. {{COUNT}} active listings match this search.</p>
+    <a href="#mls-search" class="btn-gold" style="margin-right:0.75rem;">See All {{COUNT}} Listings</a>
+    <a href="https://calendar.app.google/Yv2c22sEEcKZuExq9" class="btn-outline">Schedule a Call</a>
+  </div>
+</section>
+
+<!-- FlexMLS share link for saved search WSS-RES-RENTALS: select ALL results, Share → Selected → Permalink. Refreshed weekly by the Tuesday regen. -->
+<section id="mls-search" style="padding-top:2rem;">
+  <div class="section-label">Live MLS Data · FlexMLS</div>
+  <h2>Search <em>All</em> Rentals</h2>
+  <p class="section-intro">Browse all {{COUNT}} matching listings below. Listing set as of {{UPDATED_DATE_LONG}}.</p>
+
+  <div class="mls-embed-section">
+    <div class="mls-embed-header">
+      <div class="mls-embed-title">FlexMLS Residential Rental Search · Palm Beach &amp; Broward</div>
+      <div class="mls-count-badge">{{COUNT}} Active Listings</div>
+    </div>
+    <div class="mls-iframe-wrap">
+      <!--
+        FlexMLS share link for saved search WSS-LUX-RENTALS (all 25 results selected, 10/14/2026).
+        This is a snapshot of the selected listings, not a live search: to refresh, re-run
+        WSS-LUX-RENTALS in FlexMLS, select all → Share → Selected → Permalink, and replace the src.
+      -->
+      <iframe src="{{SHARE_URL}}" title="FlexMLS Residential Rental Search · Palm Beach and Broward" allow="fullscreen" style="width:100%;height:100%;border:none;"></iframe>
+    </div>
+  </div>
+</section>
+
+<!-- HOW IT WORKS -->
+<section id="how-it-works">
+  <div class="section-label">Process · Simple & Transparent</div>
+  <h2>How <em>It Works</em></h2>
+  <p class="section-intro">From first call to signed lease, with MLS data and local knowledge behind every step.</p>
+  <div class="how-grid">
+    <div class="how-card">
+      <div class="how-num">01</div>
+      <h4>Define Your Criteria</h4>
+      <p>Tell us your preferred area, budget, move-in date and must-haves, from pets to parking.</p>
+    </div>
+    <div class="how-card">
+      <div class="how-num">02</div>
+      <h4>Curated Matches</h4>
+      <p>We pull active rentals from the MLS that fit your criteria and send you a short list.</p>
+    </div>
+    <div class="how-card">
+      <div class="how-num">03</div>
+      <h4>Tours</h4>
+      <p>Schedule in-person or virtual tours. We coordinate with listing agents and property managers.</p>
+    </div>
+    <div class="how-card">
+      <div class="how-num">04</div>
+      <h4>Application &amp; Lease Review</h4>
+      <p>We help with the application and review the lease terms with you before you sign.</p>
+    </div>
+    <div class="how-card">
+      <div class="how-num">05</div>
+      <h4>Move In</h4>
+      <p>Confirm the details, collect your keys and settle in.</p>
+    </div>
+  </div>
+</section>
+
+<!-- ALPHAGENINSURANCE CTA -->
+<section style="padding-top:1rem; padding-bottom:3rem;">
+  <div class="alphaGen-cta">
+    <div>
+      <h3>Renters Insurance — Before You Sign</h3>
+      <p>Many landlords ask for proof of renters insurance at lease signing. AlphaGen Insurance can quote a policy before you sign.</p>
+    </div>
+    <a href="https://alphageninsurance.com/get-a-quote/" target="_blank" class="btn-gold">Get Insurance Quote →</a>
+  </div>
+</section>
+
+<!-- AGENT CTA -->
+<section id="contact" style="padding-top:1rem;">
+  <div class="agent-cta">
+    <h2>Ready to Find Your <em>Next Home</em>?</h2>
+    <p>Work directly with Bill Seery, a licensed Florida real estate agent with United Realty Group. Call, text, or schedule a call below.</p>
+    <div class="agent-info">
+      <div class="agent-detail">
+        <div class="lbl">Agent</div>
+        <div class="val">William Spencer Seery Jr, PA</div>
+      </div>
+      <div class="agent-detail">
+        <div class="lbl">FL License</div>
+        <div class="val">#3333692</div>
+      </div>
+      <div class="agent-detail">
+        <div class="lbl">Phone</div>
+        <div class="val"><a href="tel:+15612200402">(561) 220-0402</a></div>
+      </div>
+      <div class="agent-detail">
+        <div class="lbl">Email</div>
+        <div class="val"><a href="mailto:bill@savingsre.com">bill@savingsre.com</a></div>
+      </div>
+    </div>
+    <a href="https://calendar.app.google/Yv2c22sEEcKZuExq9" class="btn-gold">Schedule a Call</a>
+  </div>
+</section>
+
+<!-- FOOTER -->
+<footer>
+  <div class="footer-brand">SavingsRE · South Florida</div>
+  <div class="footer-links">
+    <a href="investor-hub.html">Investor Hub</a>
+    <a href="https://savingsre.com/weekly">Weekly Listings</a>
+    <a href="https://alphageninsurance.com/get-a-quote/" target="_blank">AlphaGen Insurance</a>
+    <a href="https://calendar.app.google/Yv2c22sEEcKZuExq9">Schedule Call</a>
+  </div>
+  <div class="footer-legal">
+    William Spencer Seery Jr, PA · United Realty Group · FL License #3333692 · 5550 Glades Road, Boca Raton FL 33431 · bill@savingsre.com<br>
+    Listing data sourced from FlexMLS. Information deemed reliable but not guaranteed. All listings subject to prior sale, change, or withdrawal. © 2026 SavingsRE · AlphaGen Insurance &amp; Strategic Relocation Advisory
+  </div>
+</footer>
+
+<script>
+  // Price/type filter
+  function filterCards(type, btn) {
+    document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+
+    const cards = document.querySelectorAll('.listing-card');
+    cards.forEach(card => {
+      const price = parseInt(card.dataset.price);
+      let show = false;
+      if (type === 'all') show = true;
+      else if (type === 'under75') show = price < 7500;
+      else if (type === '75to10') show = price >= 7500 && price <= 10000;
+      card.style.display = show ? '' : 'none';
+    });
+  }
+
+  // Smooth scroll for anchor links
+  document.querySelectorAll('a[href^="#"]').forEach(a => {
+    a.addEventListener('click', e => {
+      const target = document.querySelector(a.getAttribute('href'));
+      if (target) { e.preventDefault(); target.scrollIntoView({ behavior: 'smooth', block: 'start' }); }
+    });
+  });
+</script>
+</body>
+</html>
