@@ -11,7 +11,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>South Florida Investor Hub | SavingsRE</title>
-<link rel="canonical" href="https://savingsre.com/investor-hub">
+<link rel="canonical" href="investor-hub.html">
 <meta name="description" content="South Florida investor hub — curated multifamily, commercial, and value-add opportunities with weekly MLS updates from William Spencer Seery Jr, PA.">
 <meta property="og:title" content="South Florida Investor Hub | SavingsRE">
 <meta property="og:description" content="South Florida investor hub — curated multifamily, commercial, and value-add opportunities with weekly MLS updates from William Spencer Seery Jr, PA.">
@@ -332,6 +332,25 @@
     .agent-section { grid-template-columns: 1fr; }
     .insurance-strip { grid-template-columns: 1fr; margin: 0 1.5rem 2rem; }
   }
+
+  /* ── NAV: phone menu + wrapping footer (2026-10-15) ── */
+  .nav-toggle { display: none; background: none; border: 1px solid rgba(201,168,76,0.4); color: var(--gold); font-size: 1.3rem; line-height: 1; padding: 0.35rem 0.6rem; cursor: pointer; }
+  .footer-links { flex-wrap: wrap; }
+  @media (max-width: 768px) {
+    .nav-toggle { display: block; }
+    header nav#site-nav { display: none; position: absolute; top: 100%; left: 0; right: 0; flex-direction: column; align-items: stretch; background: rgba(10,22,40,0.98); border-top: 1px solid rgba(201,168,76,0.2); padding: 0.5rem 1.5rem 1.2rem; max-height: calc(100vh - 4rem); overflow-y: auto; }
+    header.nav-open nav#site-nav { display: flex; }
+    header nav#site-nav .nav-item, header nav#site-nav .nav-plain, header nav#site-nav .nav-cta { margin-left: 0; }
+    header nav#site-nav .nav-item > a { padding: 0.8rem 0 0.3rem; color: var(--gold); }
+    header nav#site-nav .nav-item > a .caret { display: none; }
+    header nav#site-nav .dropdown { display: block; position: static; border: none; background: none; min-width: 0; padding-left: 0.5rem; backdrop-filter: none; }
+    header nav#site-nav .dropdown a { padding: 0.55rem 0; border-bottom: none; }
+    header nav#site-nav .dropdown .dd-label { padding: 0.6rem 0 0.2rem; }
+    header nav#site-nav .nav-plain { padding: 0.8rem 0; }
+    header nav#site-nav .nav-cta { margin-top: 0.8rem; text-align: center; }
+    .footer-links { gap: 0.8rem 1.2rem; }
+    .footer-links a { margin-left: 0; }
+  }
 </style>
 </head>
 <body>
@@ -343,23 +362,40 @@
 <!-- HEADER -->
 <header>
   <a href="https://savingsre.com" class="logo">Savings<span>RE</span></a>
-  <nav>
-    <!-- BUY / INVEST dropdown -->
+  <button class="nav-toggle" type="button" aria-label="Open menu" aria-expanded="false" aria-controls="site-nav">☰</button>
+  <nav id="site-nav">
     <div class="nav-item">
-      <a href="#">Buy / Invest <span class="caret">▾</span></a>
-      <div class="dropdown">
-        <span class="dd-label">Income &amp; Commercial</span>
-        <a href="#multifamily">Multifamily</a>
-        <a href="#commercial">Commercial &amp; Industrial</a>
-        <a href="https://savingsre.com/investor-hub">Investor Hub</a>
-      </div>
-    </div>
-    <!-- RENT dropdown -->
-    <div class="nav-item">
-      <a href="#">Rent <span class="caret">▾</span></a>
+      <a href="investor-hub.html">Buy / Invest <span class="caret">▾</span></a>
       <div class="dropdown">
         <span class="dd-label">Residential</span>
-        <a href="https://savingsre.com/luxury-rentals">Luxury Waterfront Rentals</a>
+        <a href="luxury.html">Luxury Homes</a>
+        <a href="luxury-listings.html">Luxury Listings</a>
+        <a href="move-in-ready.html">Move-In Ready</a>
+        <a href="55-plus.html">55+ Communities</a>
+        <span class="dd-label">Income &amp; Commercial</span>
+        <a href="investor-hub.html" style="color:var(--gold)">Investor Hub</a>
+        <a href="top3/">Top Investments</a>
+        <a href="investor-hub.html#multifamily">Multifamily</a>
+        <a href="high-yield-multifamily.html">High-Yield Multifamily</a>
+        <a href="value-multifamily.html">Value Multifamily</a>
+        <a href="investor-hub.html#commercial">Commercial &amp; Industrial</a>
+      </div>
+    </div>
+    <div class="nav-item">
+      <a href="luxury-rentals.html">Rent <span class="caret">▾</span></a>
+      <div class="dropdown">
+        <span class="dd-label">Residential</span>
+        <a href="luxury-rentals.html">Luxury Waterfront Rentals</a>
+      </div>
+    </div>
+    <div class="nav-item">
+      <a href="market/">Insights <span class="caret">▾</span></a>
+      <div class="dropdown">
+        <a href="market/">Market Intel</a>
+        <a href="blog/">Blog</a>
+        <span class="dd-label">Buyer Tools</span>
+        <a href="buyersurvey.html">Buyer Survey</a>
+        <a href="commercial-buyer-search.html">Commercial Buyer Search</a>
       </div>
     </div>
     <a href="#agent" class="nav-plain">Contact</a>
@@ -446,7 +482,7 @@
     <h3>Coastal Property Insurance for Investors</h3>
     <p>High-value investment properties in Southeast Florida require specialized wind, flood, and umbrella coverage. AlphaGen Insurance coordinates multi-property and portfolio coverage before closing.</p>
     <div class="gold-divider"></div>
-    <a href="https://alphageninsurance.com/coastal-property-inquiry/" class="btn-gold" target="_blank">Complete the Coastal Property Inquiry →</a>
+    <a href="https://alphageninsurance.com/get-a-quote/" class="btn-gold" target="_blank">Complete the Coastal Property Inquiry →</a>
   </div>
   <div style="text-align:right; color: var(--gold); font-family:'Cormorant Garamond',serif; font-size:3rem; font-weight:300; opacity:0.3;">AlphaGen</div>
 </div>
@@ -529,7 +565,7 @@
           <strong style="color:var(--cream)">AlphaGen Insurance &amp; Strategic Relocation Advisory</strong><br>
           Comprehensive coastal property insurance, flood &amp; wind coverage, umbrella liability, and multi-state investor planning — coordinated with your real estate transaction.
         </p>
-        <a href="https://alphageninsurance.com/coastal-property-inquiry/" target="_blank" class="com-link" style="margin-top:0.8rem; display:inline-flex;">Complete Insurance Inquiry →</a>
+        <a href="https://alphageninsurance.com/get-a-quote/" target="_blank" class="com-link" style="margin-top:0.8rem; display:inline-flex;">Complete Insurance Inquiry →</a>
       </div>
     </div>
   </div>
@@ -546,12 +582,17 @@
   </div>
   <div class="footer-links">
     <a href="https://savingsre.com">Home</a>
-    <a href="https://savingsre.com/luxury-rentals">Rentals</a>
+    <a href="luxury-rentals.html">Rentals</a>
     <a href="mailto:bill@savingsre.com">Contact</a>
-    <a href="https://alphageninsurance.com/coastal-property-inquiry/" target="_blank">Insurance</a>
+    <a href="https://alphageninsurance.com/get-a-quote/" target="_blank">Insurance</a>
     <a href="https://calendar.app.google/Yv2c22sEEcKZuExq9" target="_blank">Schedule</a>
   </div>
 </footer>
 
+<script>
+(function(){var h=document.querySelector('header'),t=document.querySelector('.nav-toggle');if(!h||!t)return;
+t.addEventListener('click',function(){var o=h.classList.toggle('nav-open');t.setAttribute('aria-expanded',o);t.textContent=o?'✕':'☰';});
+document.querySelectorAll('#site-nav a').forEach(function(a){a.addEventListener('click',function(){h.classList.remove('nav-open');t.setAttribute('aria-expanded','false');t.textContent='☰';});});})();
+</script>
 </body>
 </html>

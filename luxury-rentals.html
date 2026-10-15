@@ -491,6 +491,25 @@
     .alphaGen-cta { padding: 1.8rem; }
     .agent-cta { padding: 2rem 1.5rem; }
   }
+
+  /* ── NAV: phone menu + wrapping footer (2026-10-15) ── */
+  .nav-toggle { display: none; background: none; border: 1px solid rgba(201,168,76,0.4); color: var(--gold); font-size: 1.3rem; line-height: 1; padding: 0.35rem 0.6rem; cursor: pointer; }
+  .footer-links { flex-wrap: wrap; }
+  @media (max-width: 768px) {
+    .nav-toggle { display: block; }
+    header nav#site-nav { display: none; position: absolute; top: 100%; left: 0; right: 0; flex-direction: column; align-items: stretch; background: rgba(10,22,40,0.98); border-top: 1px solid rgba(201,168,76,0.2); padding: 0.5rem 1.5rem 1.2rem; max-height: calc(100vh - 4rem); overflow-y: auto; }
+    header.nav-open nav#site-nav { display: flex; }
+    header nav#site-nav .nav-item, header nav#site-nav .nav-plain, header nav#site-nav .nav-cta { margin-left: 0; }
+    header nav#site-nav .nav-item > a { padding: 0.8rem 0 0.3rem; color: var(--gold); }
+    header nav#site-nav .nav-item > a .caret { display: none; }
+    header nav#site-nav .dropdown { display: block; position: static; border: none; background: none; min-width: 0; padding-left: 0.5rem; backdrop-filter: none; }
+    header nav#site-nav .dropdown a { padding: 0.55rem 0; border-bottom: none; }
+    header nav#site-nav .dropdown .dd-label { padding: 0.6rem 0 0.2rem; }
+    header nav#site-nav .nav-plain { padding: 0.8rem 0; }
+    header nav#site-nav .nav-cta { margin-top: 0.8rem; text-align: center; }
+    .footer-links { gap: 0.8rem 1.2rem; }
+    .footer-links a { margin-left: 0; }
+  }
 </style>
 </head>
 <body>
@@ -502,24 +521,43 @@
 <!-- HEADER -->
 <header>
   <a href="https://savingsre.com" class="logo">Savings<span>RE</span></a>
-  <nav>
+  <button class="nav-toggle" type="button" aria-label="Open menu" aria-expanded="false" aria-controls="site-nav">☰</button>
+  <nav id="site-nav">
     <div class="nav-item">
-      <a href="#">Buy / Invest <span class="caret">▾</span></a>
-      <div class="dropdown">
-        <span class="dd-label">Income &amp; Commercial</span>
-        <a href="https://savingsre.com/investor-hub#multifamily">Multifamily</a>
-        <a href="https://savingsre.com/investor-hub#commercial">Commercial &amp; Industrial</a>
-        <a href="https://savingsre.com/investor-hub">Investor Hub</a>
-      </div>
-    </div>
-    <div class="nav-item">
-      <a href="#" style="color:var(--gold)">Rent <span class="caret">▾</span></a>
+      <a href="investor-hub.html">Buy / Invest <span class="caret">▾</span></a>
       <div class="dropdown">
         <span class="dd-label">Residential</span>
-        <a href="https://savingsre.com/luxury-rentals" style="color:var(--gold)">Luxury Waterfront Rentals</a>
+        <a href="luxury.html">Luxury Homes</a>
+        <a href="luxury-listings.html">Luxury Listings</a>
+        <a href="move-in-ready.html">Move-In Ready</a>
+        <a href="55-plus.html">55+ Communities</a>
+        <span class="dd-label">Income &amp; Commercial</span>
+        <a href="investor-hub.html">Investor Hub</a>
+        <a href="top3/">Top Investments</a>
+        <a href="investor-hub.html#multifamily">Multifamily</a>
+        <a href="high-yield-multifamily.html">High-Yield Multifamily</a>
+        <a href="value-multifamily.html">Value Multifamily</a>
+        <a href="investor-hub.html#commercial">Commercial &amp; Industrial</a>
       </div>
     </div>
-    <a href="#agent" class="nav-plain">Contact</a>
+    <div class="nav-item">
+      <a href="luxury-rentals.html">Rent <span class="caret">▾</span></a>
+      <div class="dropdown">
+        <span class="dd-label">Residential</span>
+        <a href="luxury-rentals.html" style="color:var(--gold)">Luxury Waterfront Rentals</a>
+      </div>
+    </div>
+    <div class="nav-item">
+      <a href="market/">Insights <span class="caret">▾</span></a>
+      <div class="dropdown">
+        <a href="market/">Market Intel</a>
+        <a href="blog/">Blog</a>
+        <span class="dd-label">Buyer Tools</span>
+        <a href="buyersurvey.html">Buyer Survey</a>
+        <a href="commercial-buyer-search.html">Commercial Buyer Search</a>
+      </div>
+    </div>
+    <a href="#contact" class="nav-plain">Contact</a>
     <a href="https://calendar.app.google/Yv2c22sEEcKZuExq9" class="nav-cta">Schedule Call</a>
   </nav>
 </header>
@@ -869,7 +907,7 @@
       <h3>Coastal Property Insurance — Before You Sign</h3>
       <p>High-value waterfront rentals and investment properties in Southeast Florida require specialized wind, flood, and umbrella coverage. AlphaGen Insurance coordinates multi-property and portfolio coverage — protecting tenants, owners, and investors before closing or lease execution.</p>
     </div>
-    <a href="https://alphageninsurance.com/coastal-property-inquiry/" target="_blank" class="btn-gold">Get Insurance Quote →</a>
+    <a href="https://alphageninsurance.com/get-a-quote/" target="_blank" class="btn-gold">Get Insurance Quote →</a>
   </div>
 </section>
 
@@ -904,9 +942,9 @@
 <footer>
   <div class="footer-brand">SavingsRE · South Florida</div>
   <div class="footer-links">
-    <a href="https://savingsre.com/investor-hub">Investor Hub</a>
+    <a href="investor-hub.html">Investor Hub</a>
     <a href="https://savingsre.com/weekly">Weekly Listings</a>
-    <a href="https://alphageninsurance.com/coastal-property-inquiry/" target="_blank">AlphaGen Insurance</a>
+    <a href="https://alphageninsurance.com/get-a-quote/" target="_blank">AlphaGen Insurance</a>
     <a href="https://calendar.app.google/Yv2c22sEEcKZuExq9">Schedule Call</a>
   </div>
   <div class="footer-legal">
@@ -939,6 +977,11 @@
       if (target) { e.preventDefault(); target.scrollIntoView({ behavior: 'smooth', block: 'start' }); }
     });
   });
+</script>
+<script>
+(function(){var h=document.querySelector('header'),t=document.querySelector('.nav-toggle');if(!h||!t)return;
+t.addEventListener('click',function(){var o=h.classList.toggle('nav-open');t.setAttribute('aria-expanded',o);t.textContent=o?'✕':'☰';});
+document.querySelectorAll('#site-nav a').forEach(function(a){a.addEventListener('click',function(){h.classList.remove('nav-open');t.setAttribute('aria-expanded','false');t.textContent='☰';});});})();
 </script>
 </body>
 </html>
