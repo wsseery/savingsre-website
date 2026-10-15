@@ -1,6 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-K4HVBNM');</script>
+  <!-- End Google Tag Manager -->
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Coastal Multifamily Buyer Shortlist | SavingsRE</title>
@@ -17,45 +24,110 @@
 <meta name="twitter:title" content="Coastal Multifamily Buyer Shortlist — Palm Beach to Miami-Dade">
 <meta name="twitter:description" content="6 on-market income buildings, 4+ units, up to $3M, within ~1 mile of the Atlantic, caps to 7.0%. SavingsRE / United Realty Group.">
 <meta name="twitter:image" content="https://savingsre.com/assets/savingsre-og-default_v01.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;1,300;1,400;1,500&family=Montserrat:wght@300;400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/css/site.css?v=20261015">
+<script defer src="assets/js/site.js?v=20261015"></script>
 <style>
-  :root{--navy:#0b2545;--navy2:#123a63;--gold:#c9a227;}
-  *{box-sizing:border-box;margin:0;padding:0;}
-  body{font-family:Arial,Helvetica,sans-serif;color:#22303c;background:#eef1f5;line-height:1.55;}
-  .hero{background:linear-gradient(160deg,var(--navy),var(--navy2));color:#fff;padding:48px 22px 40px;text-align:center;}
-  .hero .eyebrow{color:var(--gold);font-size:14px;letter-spacing:2px;text-transform:uppercase;font-weight:bold;}
-  .hero h1{font-size:34px;line-height:1.15;margin:10px auto 8px;max-width:820px;}
-  .hero .geo{color:#cdd8e6;font-size:17px;}
-  .wrap{max-width:820px;margin:-22px auto 0;padding:0 18px 48px;}
-  .card{background:#fff;border:1px solid #dfe4ea;border-radius:12px;padding:26px 26px 30px;box-shadow:0 6px 24px rgba(11,37,69,.08);}
-  .lead{font-size:16px;color:#3a4a58;margin-bottom:18px;}
-  .stats{display:grid;grid-template-columns:repeat(2,1fr);gap:14px;margin:18px 0 24px;}
-  .stat{background:#f4f6f9;border:1px solid #e3e9f0;border-radius:10px;padding:14px 16px;}
-  .stat b{display:block;font-size:26px;color:var(--navy);}
-  .stat span{font-size:13px;color:#5a6b7b;}
-  .cta{display:block;text-align:center;background:var(--gold);color:var(--navy);font-weight:bold;font-size:18px;text-decoration:none;padding:16px;border-radius:8px;margin:6px 0 8px;}
-  .areas{font-size:14px;color:#5a6b7b;margin-top:14px;}
-  .disc{font-size:12px;color:#8593a3;margin-top:20px;border-top:1px solid #e3e9f0;padding-top:14px;}
-  a.textlink{color:#1a5f9c;}
+  /* Coastal shortlist landing page, homepage palette (site.css tokens) */
+  .cs-hero { background: linear-gradient(180deg, #f5f8fd 0%, #ffffff 100%); border-bottom: 1px solid var(--color-border); padding: 8.5rem 22px 3.5rem; text-align: center; }
+  .cs-hero .cs-eyebrow { color: var(--color-primary); font-size: 0.7rem; letter-spacing: 0.25em; text-transform: uppercase; font-weight: 500; }
+  .cs-hero h1 { font-family: var(--font-display); font-weight: 400; font-size: clamp(2.2rem, 5vw, 3.2rem); line-height: 1.1; margin: 12px auto 8px; max-width: 820px; color: var(--color-text); }
+  .cs-hero .cs-geo { color: var(--color-text-muted); font-size: 1rem; }
+  .cs-wrap { max-width: 820px; margin: -22px auto 0; padding: 0 18px 64px; position: relative; }
+  .cs-card { background: #fff; border: 1px solid var(--color-border); padding: 28px 28px 30px; box-shadow: 0 10px 30px rgba(15,23,42,0.06); }
+  .cs-lead { font-size: 0.98rem; color: var(--color-text-muted); margin-bottom: 18px; line-height: 1.8; }
+  .cs-stats { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 14px; margin: 18px 0 24px; }
+  .cs-stat { background: var(--color-surface); border: 1px solid var(--color-border); padding: 16px 18px; }
+  .cs-stat b { display: block; font-family: var(--font-display); font-weight: 500; font-size: 2rem; color: var(--color-primary); line-height: 1.1; }
+  .cs-stat span { font-size: 0.8rem; color: var(--color-text-muted); }
+  .cs-cta { display: block; text-align: center; background: var(--color-primary); color: #fff; font-weight: 600; font-size: 0.78rem; letter-spacing: 0.14em; text-transform: uppercase; text-decoration: none; padding: 18px; margin: 6px 0 8px; transition: background var(--transition-interactive); }
+  .cs-cta:hover { background: var(--color-primary-hover); }
+  .cs-areas { font-size: 0.85rem; color: var(--color-text-muted); margin-top: 14px; }
+  .cs-disc { font-size: 0.72rem; color: var(--color-text-muted); margin-top: 20px; border-top: 1px solid var(--color-border); padding-top: 14px; line-height: 1.7; }
+  a.textlink { color: var(--color-primary); }
+  @media (max-width: 560px) { .cs-stats { grid-template-columns: 1fr; } .cs-card { padding: 22px 18px; } }
 </style>
 </head>
 <body>
-  <div class="hero">
-    <div class="eyebrow">SavingsRE · Buyer Shortlist</div>
-    <h1>Coastal Multifamily Buyer Shortlist</h1>
-    <div class="geo">Palm Beach → Miami-Dade · on-market now</div>
-  </div>
-  <div class="wrap">
-    <div class="card">
-      <p class="lead">A screened shortlist of on-market coastal income multifamily that fits a tight buy box — four units and larger, priced to $3,000,000, within roughly a mile of the Atlantic, and listed within the last six months. Long-term rental focus (short-term-rental buildings excluded), cross-checked Crexi + FlexMLS.</p>
-      <div class="stats">
-        <div class="stat"><b>6</b><span>income buildings, 4+ units each</span></div>
-        <div class="stat"><b>7.0%</b><span>top in-place cap rate</span></div>
-        <div class="stat"><b>≤ $3M</b><span>priced up to</span></div>
-        <div class="stat"><b>~1 mi</b><span>to the Atlantic</span></div>
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K4HVBNM"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+<header id="site-header">
+  <a href="/" class="logo" aria-label="SavingsRE Home">Savings<span>RE</span></a>
+  <nav class="nav-links" id="nav-links" aria-label="Main navigation">
+    <div class="nav-group">
+      <button class="nav-group-btn" type="button" aria-expanded="false">Buy · Sell · Rent<span class="nav-caret" aria-hidden="true">▾</span></button>
+      <div class="nav-menu nav-menu-3">
+        <div class="nav-col"><span class="nav-col-label">Buy</span>
+          <a href="luxury.html">Luxury Homes</a>
+          <a href="move-in-ready.html">Move-In Ready</a>
+          <a href="55-plus.html">55+ Communities</a>
+          <a href="luxury-buyers.html">Buyer Representation</a>
+          <a href="buyersurvey.html">Find Me a Home</a>
+        </div>
+        <div class="nav-col"><span class="nav-col-label">Sell</span>
+          <a href="luxury-listings.html">List Your Luxury Home · 1.5%</a>
+          <a href="https://docs.google.com/forms/d/e/1FAIpQLSeh2FPmzhbkINNoskp72ang1zJO7xa-sxqKiDekxMmQSZz5IA/viewform?utm_source=savingsre&amp;utm_medium=website&amp;utm_campaign=nav&amp;utm_content=home-worth" target="_blank" rel="noopener">What’s My Home Worth?</a>
+        </div>
+        <div class="nav-col"><span class="nav-col-label">Rent</span>
+          <a href="luxury-rentals.html">Luxury Waterfront Rentals</a>
+        </div>
       </div>
-      <a class="cta" href="coastal-shortlist.pdf" target="_blank" rel="noopener">View the full shortlist (PDF) »</a>
-      <div class="areas">Miami Beach · Lake Worth Beach · Pompano Beach · Lauderdale-by-the-Sea</div>
-      <p class="disc">Figures are broker-reported and unverified — confirm against the offering package. Educational market commentary, not investment, tax, or legal advice. Equal Housing Opportunity. SavingsRE · United Realty Group · FL Lic. 3333692. To tour a property or discuss buyer representation, contact William S. Seery Jr, PA.</p>
+    </div>
+    <div class="nav-group">
+      <button class="nav-group-btn" type="button" aria-expanded="false">Investors<span class="nav-caret" aria-hidden="true">▾</span></button>
+      <div class="nav-menu nav-menu-2 nav-menu-right">
+        <div class="nav-col"><span class="nav-col-label">Top Investments</span>
+          <a href="top3/top3.html?seg=mf-upto3m-east">Multifamily up to $3M</a>
+          <a href="top3/top3.html?seg=high-yield-sfl">High-Yield Multifamily · 8%+ Cap</a>
+          <a href="top3/top3.html?seg=starter-mf-corridor">Starter Multifamily · $800K–$2M</a>
+          <a href="top3/top3.html?seg=east-coast-beach-mf">Coastal Multifamily · Atlantic</a>
+          <a href="top3/top3.html?seg=large-statewide">Larger Investments · 40+ Units</a>
+          <a href="top3/top3.html?seg=airbnb-str-east">Airbnb / Short-Term Rental</a>
+          <a href="top3/top3.html?seg=nnn-fl">NNN Commercial</a>
+          <a href="top3/" class="nav-all">All Top Investments →</a>
+        </div>
+        <div class="nav-col"><span class="nav-col-label">Commercial</span>
+          <a href="commercial-buyer-search.html">Buy Commercial</a>
+          <a href="https://docs.google.com/forms/d/e/1FAIpQLSeh2FPmzhbkINNoskp72ang1zJO7xa-sxqKiDekxMmQSZz5IA/viewform?utm_source=savingsre&amp;utm_medium=website&amp;utm_campaign=nav&amp;utm_content=sell-commercial" target="_blank" rel="noopener">Sell Commercial</a>
+          <a href="commercial.html">Commercial Properties</a>
+          <a href="coastal-shortlist.html">Coastal Multifamily Shortlist</a>
+          <a href="investor-hub.html" class="nav-all">Investors Page →</a>
+        </div>
+      </div>
+    </div>
+    <a href="market/">Market Intel</a>
+    <a href="blog/">Blog</a>
+    <a href="https://alphageninsurance.com/get-a-quote/" target="_blank" rel="noopener">Insurance &#8599;</a>
+    <a href="tel:+15612200402" class="nav-cta" onclick="trackPhone()">+1 (561) 220-0402</a>
+  </nav>
+  <button class="mobile-toggle" id="mobile-toggle" aria-label="Open menu" aria-expanded="false">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
+      <line x1="3" y1="6" x2="21" y2="6"/>
+      <line x1="3" y1="12" x2="21" y2="12"/>
+      <line x1="3" y1="18" x2="21" y2="18"/>
+    </svg>
+  </button>
+</header>
+  <div class="cs-hero">
+    <div class="cs-eyebrow">SavingsRE · Buyer Shortlist</div>
+    <h1>Coastal Multifamily Buyer Shortlist</h1>
+    <div class="cs-geo">Palm Beach → Miami-Dade · on-market now</div>
+  </div>
+  <div class="cs-wrap">
+    <div class="cs-card">
+      <p class="cs-lead">A screened shortlist of on-market coastal income multifamily that fits a tight buy box — four units and larger, priced to $3,000,000, within roughly a mile of the Atlantic, and listed within the last six months. Long-term rental focus (short-term-rental buildings excluded), cross-checked Crexi + FlexMLS.</p>
+      <div class="cs-stats">
+        <div class="cs-stat"><b>6</b><span>income buildings, 4+ units each</span></div>
+        <div class="cs-stat"><b>7.0%</b><span>top in-place cap rate</span></div>
+        <div class="cs-stat"><b>≤ $3M</b><span>priced up to</span></div>
+        <div class="cs-stat"><b>~1 mi</b><span>to the Atlantic</span></div>
+      </div>
+      <a class="cs-cta" href="coastal-shortlist.pdf" target="_blank" rel="noopener">View the full shortlist (PDF) »</a>
+      <div class="cs-areas">Miami Beach · Lake Worth Beach · Pompano Beach · Lauderdale-by-the-Sea</div>
+      <p class="cs-disc">Figures are broker-reported and unverified — confirm against the offering package. Educational market commentary, not investment, tax, or legal advice. Equal Housing Opportunity. SavingsRE · United Realty Group · FL Lic. 3333692. To tour a property or discuss buyer representation, contact William S. Seery Jr, PA.</p>
     </div>
   </div>
 </body>
