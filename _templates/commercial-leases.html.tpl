@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<!-- TEMPLATE: fill every {{TOKEN}} and publish to the repo root as commercial-leases.html. This _templates copy is not served by GitHub Pages. -->
+<!-- TEMPLATE: fill every {{TOKEN}} and publish to the repo root as commercial-leases.html. This _templates copy (.html.tpl) is not served by GitHub Pages; save the filled file as .html. -->
   <!-- Google Tag Manager -->
   <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
   new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
