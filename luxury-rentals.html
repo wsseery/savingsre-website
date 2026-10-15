@@ -1,6 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-K4HVBNM');</script>
+  <!-- End Google Tag Manager -->
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Luxury Waterfront Rentals | South Florida | SavingsRE</title>
@@ -39,11 +46,47 @@
   }
   .logo { font-family: 'Cormorant Garamond', serif; font-size: 1.6rem; font-weight: 300; letter-spacing: 0.15em; color: var(--gold); text-decoration: none; }
   .logo span { color: var(--cream); }
-  nav a { color: var(--gray); text-decoration: none; font-size: 0.75rem; letter-spacing: 0.12em; text-transform: uppercase; margin-left: 2rem; transition: color 0.3s; }
-  nav a:hover { color: var(--gold); }
+  /* ── NAV DROPDOWNS ── */
+  nav { display: flex; align-items: center; }
+  .nav-item { position: relative; margin-left: 2rem; }
+  .nav-item > a {
+    color: var(--gray); text-decoration: none; font-size: 0.75rem;
+    letter-spacing: 0.12em; text-transform: uppercase; transition: color 0.3s;
+    display: flex; align-items: center; gap: 0.35rem; cursor: pointer;
+  }
+  .nav-item > a:hover { color: var(--gold); }
+  .nav-item > a .caret { font-size: 0.55rem; opacity: 0.6; transition: transform 0.25s; display: inline-block; }
+  .nav-item:hover > a .caret { transform: rotate(180deg); }
+  .dropdown {
+    display: none; position: absolute; top: calc(100% + 1rem); left: 0;
+    background: rgba(10,22,40,0.97);
+    border: 1px solid rgba(201,168,76,0.2);
+    border-top: 2px solid var(--gold);
+    min-width: 210px; z-index: 200;
+    backdrop-filter: blur(12px);
+  }
+  .nav-item:hover .dropdown { display: block; }
+  .dropdown a {
+    display: block; padding: 0.75rem 1.2rem;
+    color: var(--gray); text-decoration: none;
+    font-size: 0.72rem; letter-spacing: 0.1em; text-transform: uppercase;
+    border-bottom: 1px solid rgba(201,168,76,0.07);
+    transition: background 0.2s, color 0.2s;
+  }
+  .dropdown a:last-child { border-bottom: none; }
+  .dropdown a:hover { background: rgba(201,168,76,0.07); color: var(--gold); }
+  .dropdown .dd-label {
+    display: block; padding: 0.5rem 1.2rem 0.3rem;
+    font-size: 0.58rem; letter-spacing: 0.2em; text-transform: uppercase;
+    color: rgba(201,168,76,0.55);
+  }
+  .nav-plain { color: var(--gray); text-decoration: none; font-size: 0.75rem; letter-spacing: 0.12em; text-transform: uppercase; margin-left: 2rem; transition: color 0.3s; }
+  .nav-plain:hover { color: var(--gold); }
   .nav-cta {
     background: var(--gold); color: var(--navy) !important;
     padding: 0.5rem 1.4rem; font-weight: 600 !important;
+    font-size: 0.75rem; letter-spacing: 0.1em; text-transform: uppercase;
+    text-decoration: none; margin-left: 2rem;
   }
 
   /* ── HERO ── */
@@ -451,14 +494,32 @@
 </style>
 </head>
 <body>
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K4HVBNM"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
 
 <!-- HEADER -->
 <header>
   <a href="https://savingsre.com" class="logo">Savings<span>RE</span></a>
   <nav>
-    <a href="https://savingsre.com/investor-hub">Investor Hub</a>
-    <a href="https://savingsre.com/weekly">Weekly Listings</a>
-    <a href="https://savingsre.com/luxury-rentals" style="color:var(--gold)">Luxury Rentals</a>
+    <div class="nav-item">
+      <a href="#">Buy / Invest <span class="caret">▾</span></a>
+      <div class="dropdown">
+        <span class="dd-label">Income &amp; Commercial</span>
+        <a href="https://savingsre.com/investor-hub#multifamily">Multifamily</a>
+        <a href="https://savingsre.com/investor-hub#commercial">Commercial &amp; Industrial</a>
+        <a href="https://savingsre.com/investor-hub">Investor Hub</a>
+      </div>
+    </div>
+    <div class="nav-item">
+      <a href="#" style="color:var(--gold)">Rent <span class="caret">▾</span></a>
+      <div class="dropdown">
+        <span class="dd-label">Residential</span>
+        <a href="https://savingsre.com/luxury-rentals" style="color:var(--gold)">Luxury Waterfront Rentals</a>
+      </div>
+    </div>
+    <a href="#agent" class="nav-plain">Contact</a>
     <a href="https://calendar.app.google/Yv2c22sEEcKZuExq9" class="nav-cta">Schedule Call</a>
   </nav>
 </header>
@@ -471,7 +532,7 @@
   <div class="hero-content">
     <div class="hero-eyebrow">South Florida · Palm Beach County · Waterfront Living</div>
     <h1>Luxury Waterfront<br><em>Rentals</em></h1>
-    <p class="hero-sub">Ocean view and Intracoastal residences from FlexMLS / Beaches MLS. 25 active waterfront rentals across Palm Beach County between $5,000 and $10,000 a month.</p>
+    <p class="hero-sub">Ocean view and Intracoastal residences from FlexMLS. 25 active waterfront rentals across Palm Beach County between $5,000 and $10,000 a month.</p>
     <div class="hero-stats">
       <div class="hero-stat">
         <div class="num">25</div>
@@ -550,9 +611,9 @@
 
 <!-- LIVE RENTAL LISTINGS -->
 <section id="listings">
-  <div class="section-label">Beaches MLS · Live Data</div>
+  <div class="section-label">FlexMLS · Live Data</div>
   <h2>Waterfront Rentals <em>This Week</em></h2>
-  <p class="section-intro">Active waterfront rentals in Palm Beach County with an ocean or Intracoastal view, $5,000–$10,000 a month. Data sourced from FlexMLS / Beaches MLS.</p>
+  <p class="section-intro">Active waterfront rentals in Palm Beach County with an ocean or Intracoastal view, $5,000–$10,000 a month. Data sourced from FlexMLS.</p>
 
   <div class="update-banner">
     <div class="live-dot"></div>
@@ -747,7 +808,7 @@
 
 <!-- MLS LIVE SEARCH EMBED -->
 <section id="mls-search" style="padding-top:2rem;">
-  <div class="section-label">Live MLS Data · FlexMLS / Beaches MLS</div>
+  <div class="section-label">Live MLS Data · FlexMLS</div>
   <h2>Search <em>All Waterfront</em> Rentals</h2>
   <p class="section-intro">Browse all 25 matching listings below: active waterfront rentals in Palm Beach County with an ocean or Intracoastal view, $5,000–$10,000 a month. Listing set as of October 14, 2026.</p>
 
@@ -849,8 +910,8 @@
     <a href="https://calendar.app.google/Yv2c22sEEcKZuExq9">Schedule Call</a>
   </div>
   <div class="footer-legal">
-    William Spencer Seery Jr, PA · FL License #3333692 · 5550 Glades Road, Boca Raton FL 33431 · bill@savingsre.com<br>
-    Listing data sourced from FlexMLS / Beaches MLS. Information deemed reliable but not guaranteed. All listings subject to prior sale, change, or withdrawal. © 2026 SavingsRE · AlphaGen Insurance &amp; Strategic Relocation Advisory
+    William Spencer Seery Jr, PA · United Realty Group · FL License #3333692 · 5550 Glades Road, Boca Raton FL 33431 · bill@savingsre.com<br>
+    Listing data sourced from FlexMLS. Information deemed reliable but not guaranteed. All listings subject to prior sale, change, or withdrawal. © 2026 SavingsRE · AlphaGen Insurance &amp; Strategic Relocation Advisory
   </div>
 </footer>
 
