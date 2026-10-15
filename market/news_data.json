@@ -1,5 +1,35 @@
 [
   {
+    "id": 192,
+    "date": "2026-10-14",
+    "title": "David Martin's Terra Lands $183.8M Monroe Capital Refi on The Well Bay Harbor Islands Offices",
+    "summary": "Terra refinanced the 96,000-SF office building it completed this summer at The Well Bay Harbor Islands with $183.8M from Monroe Capital's real estate platform (Walker & Dunlop arranged). The office is 90% leased, including Tom Brady's TEB Capital (8,400 SF) and Dwight Capital (23,000 SF). A partial release of the prior $238M Eldridge/Hudson Bay loan was recorded Tuesday. Boutique waterfront office-plus-condo projects are drawing out-of-state financial tenants.",
+    "source": "The Real Deal",
+    "sourceUrl": "https://therealdeal.com/miami/2026/10/14/david-martins-terra-nabs-refi-on-the-well-offices/",
+    "category": "Commercial/CRE",
+    "importance": "medium"
+  },
+  {
+    "id": 191,
+    "date": "2026-10-13",
+    "title": "MRK Partners Lands $67M Berkadia Financing for 164-Unit Fort Lauderdale Affordable Redevelopment",
+    "summary": "MRK Partners secured $67M in construction-to-permanent financing ($50M tax-exempt, $17M taxable, about $408,540 per unit) from Berkadia to replace 88 1950s units with 164 affordable apartments in two five-story buildings on 3.7 acres in Progresso, Fort Lauderdale. The project extends the property's Section 8 HAP contract through 2046 amid a 74,100-unit Broward affordable-housing shortfall.",
+    "source": "The Real Deal",
+    "sourceUrl": "https://therealdeal.com/miami/2026/10/13/mrk-partners-nabs-loan-for-fort-lauderdale-housing-project/",
+    "category": "Multifamily",
+    "importance": "medium"
+  },
+  {
+    "id": 190,
+    "date": "2026-10-13",
+    "title": "Russell Galbut Scraps Three Miami Beach Live Local Act Projects, ~400 Units, After Backlash",
+    "summary": "Crescent Heights/GFO developer Russell Galbut withdrew three Live Local Act proposals in South Beach (1575 Alton Rd, 740 Alton Rd, 880 71st St) after opposition from city and county commissioners; he says he still backs the law and other Beach projects. Miami Beach commissioners were set to weigh possible legal action against the state law, signaling rising local pushback on Live Local density bonuses.",
+    "source": "The Real Deal",
+    "sourceUrl": "https://therealdeal.com/miami/2026/10/13/russell-galbut-nixes-live-local-act-miami-beach-projects/",
+    "category": "Policy/Insurance",
+    "importance": "medium"
+  },
+  {
     "id": 189,
     "date": "2026-10-13",
     "title": "Dania Beach Nursing Home Sells for $16.6M, $800/SF; Miami Beach Mansion Trades at $21.5M",
@@ -127,36 +157,6 @@
     "source": "Bisnow",
     "sourceUrl": "https://www.bisnow.com/news/south-florida/deal-sheet/blackstone-link-logistics-sells-fort-lauderdale-industrial-south-florida-deal-sheet",
     "category": "Commercial/CRE",
-    "importance": "medium"
-  },
-  {
-    "id": 176,
-    "date": "2026-10-06",
-    "title": "Batmasian Buys Boca Raton Office Complex for $38.2M, About $319/SF",
-    "summary": "James Batmasian's Investments Limited bought two office buildings (119,800 SF, built 1968 and 2004) and a 130,000 SF parking garage on 2.2 acres at 555-595 South Federal Highway, Boca Raton. The seller, a Pinnacle Holdings entity, paid $33.2 million in 2014 and $36.7 million was paid in 2005. Tenants include Morgan Stanley, EverBank and Old Republic Title. He also paid $4.5 million for a 4,000 SF office building nearby.",
-    "source": "The Real Deal",
-    "sourceUrl": "https://therealdeal.com/miami/2026/10/06/james-batmasian-buys-boca-office-complex-for-38-million/",
-    "category": "Commercial/CRE",
-    "importance": "medium"
-  },
-  {
-    "id": 175,
-    "date": "2026-10-05",
-    "title": "Mystery Buyer Assembles $311M, 18.5-Acre Gulf-Front Compound in Naples' Port Royal",
-    "summary": "A secret land trust that paid $225 million last year for three Gordon Drive properties, the largest residential sale in Florida history, bought neighboring 2100 Gordon Drive (3.4 acres) for $86 million in an off-market June deal. Together about 18.5 acres of Gulf frontage are in one hand. 2340 Gordon Drive later traded to a related trust at $84 million, up from $46.9 million. Demolition permits have been sought and new-construction applications are under review.",
-    "source": "The Real Deal",
-    "sourceUrl": "https://therealdeal.com/miami/2026/10/05/mystery-buyer-amasses-311-million-compound-in-naples/",
-    "category": "Luxury",
-    "importance": "high"
-  },
-  {
-    "id": 174,
-    "date": "2026-10-05",
-    "title": "Mandarin Oriental Miami Has Sold $1.7B of Condos Before Groundbreaking",
-    "summary": "Swire Properties' Residences at Mandarin Oriental on Brickell Key has booked $1.7 billion in pre-construction sales; its 66-floor south tower of 228 residences is 80% sold and the 33-floor north tower, with a 121-room hotel, is 25% sold. Buyers are 65% domestic and many pay all cash. Prices are up 30% since 2024 sales began; groundbreaking is this month, with completion projected for 2030.",
-    "source": "Insurance Journal",
-    "sourceUrl": "https://www.insurancejournal.com/news/southeast/2026/10/05/887980.htm",
-    "category": "Development",
     "importance": "medium"
   }
 ]

@@ -1,11 +1,44 @@
 {
   "meta": {
     "created": "2026-07-06",
-    "updated": "2026-10-13",
+    "updated": "2026-10-15",
     "note": "Archive of items rotated off the live market/news_data.json 16-item list. Weekly refresh APPENDS dropped items here (newest first) - never delete. Same item schema as news_data.json. Not rendered on the site; kept for content reuse, history, and a future archive/search section.",
-    "count": 167
+    "count": 170
   },
   "items": [
+    {
+      "id": 176,
+      "date": "2026-10-06",
+      "title": "Batmasian Buys Boca Raton Office Complex for $38.2M, About $319/SF",
+      "summary": "James Batmasian's Investments Limited bought two office buildings (119,800 SF, built 1968 and 2004) and a 130,000 SF parking garage on 2.2 acres at 555-595 South Federal Highway, Boca Raton. The seller, a Pinnacle Holdings entity, paid $33.2 million in 2014 and $36.7 million was paid in 2005. Tenants include Morgan Stanley, EverBank and Old Republic Title. He also paid $4.5 million for a 4,000 SF office building nearby.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/10/06/james-batmasian-buys-boca-office-complex-for-38-million/",
+      "category": "Commercial/CRE",
+      "importance": "medium",
+      "archivedOn": "2026-10-15"
+    },
+    {
+      "id": 175,
+      "date": "2026-10-05",
+      "title": "Mystery Buyer Assembles $311M, 18.5-Acre Gulf-Front Compound in Naples' Port Royal",
+      "summary": "A secret land trust that paid $225 million last year for three Gordon Drive properties, the largest residential sale in Florida history, bought neighboring 2100 Gordon Drive (3.4 acres) for $86 million in an off-market June deal. Together about 18.5 acres of Gulf frontage are in one hand. 2340 Gordon Drive later traded to a related trust at $84 million, up from $46.9 million. Demolition permits have been sought and new-construction applications are under review.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/10/05/mystery-buyer-amasses-311-million-compound-in-naples/",
+      "category": "Luxury",
+      "importance": "high",
+      "archivedOn": "2026-10-15"
+    },
+    {
+      "id": 174,
+      "date": "2026-10-05",
+      "title": "Mandarin Oriental Miami Has Sold $1.7B of Condos Before Groundbreaking",
+      "summary": "Swire Properties' Residences at Mandarin Oriental on Brickell Key has booked $1.7 billion in pre-construction sales; its 66-floor south tower of 228 residences is 80% sold and the 33-floor north tower, with a 121-room hotel, is 25% sold. Buyers are 65% domestic and many pay all cash. Prices are up 30% since 2024 sales began; groundbreaking is this month, with completion projected for 2030.",
+      "source": "Insurance Journal",
+      "sourceUrl": "https://www.insurancejournal.com/news/southeast/2026/10/05/887980.htm",
+      "category": "Development",
+      "importance": "medium",
+      "archivedOn": "2026-10-15"
+    },
     {
       "id": 173,
       "date": "2026-10-05",
