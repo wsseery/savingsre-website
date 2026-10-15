@@ -13,3 +13,4 @@ exclude:
   - scripts
   - market/tools
   - "savingsre update files.zip"
+  - _templates

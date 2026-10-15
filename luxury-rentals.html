@@ -25,16 +25,18 @@
 <meta name="twitter:image" content="https://savingsre.com/assets/savingsre-og-default_v01.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,300&family=Montserrat:wght@300;400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/css/site.css?v=20261015">
+<script defer src="assets/js/site.js?v=20261015"></script>
 <style>
   :root {
-    --navy: #0a1628;
-    --gold: #c9a84c;
-    --gold-light: #e8c97a;
-    --cream: #f5f0e8;
-    --white: #ffffff;
-    --gray: #8a8f9a;
-    --charcoal: #2a2f3a;
-    --card-bg: #111827;
+    --navy: #ffffff;
+    --gold: #2563eb;
+    --gold-light: #1d4ed8;
+    --cream: #1e293b;
+    --white: #1e293b;
+    --gray: #64748b;
+    --charcoal: #e2e8f0;
+    --card-bg: #f8fafc;
   }
 
   * { margin: 0; padding: 0; box-sizing: border-box; }
@@ -47,59 +49,6 @@
     overflow-x: hidden;
   }
 
-  /* ── HEADER ── */
-  header {
-    position: fixed; top: 0; width: 100%; z-index: 100;
-    padding: 1.2rem 3rem;
-    display: flex; align-items: center; justify-content: space-between;
-    background: rgba(10,22,40,0.92);
-    backdrop-filter: blur(12px);
-    border-bottom: 1px solid rgba(201,168,76,0.2);
-  }
-  .logo { font-family: 'Cormorant Garamond', serif; font-size: 1.6rem; font-weight: 300; letter-spacing: 0.15em; color: var(--gold); text-decoration: none; }
-  .logo span { color: var(--cream); }
-  /* ── NAV DROPDOWNS ── */
-  nav { display: flex; align-items: center; }
-  .nav-item { position: relative; margin-left: 2rem; }
-  .nav-item > a {
-    color: var(--gray); text-decoration: none; font-size: 0.75rem;
-    letter-spacing: 0.12em; text-transform: uppercase; transition: color 0.3s;
-    display: flex; align-items: center; gap: 0.35rem; cursor: pointer;
-  }
-  .nav-item > a:hover { color: var(--gold); }
-  .nav-item > a .caret { font-size: 0.55rem; opacity: 0.6; transition: transform 0.25s; display: inline-block; }
-  .nav-item:hover > a .caret { transform: rotate(180deg); }
-  .dropdown {
-    display: none; position: absolute; top: calc(100% + 1rem); left: 0;
-    background: rgba(10,22,40,0.97);
-    border: 1px solid rgba(201,168,76,0.2);
-    border-top: 2px solid var(--gold);
-    min-width: 210px; z-index: 200;
-    backdrop-filter: blur(12px);
-  }
-  .nav-item:hover .dropdown { display: block; }
-  .dropdown a {
-    display: block; padding: 0.75rem 1.2rem;
-    color: var(--gray); text-decoration: none;
-    font-size: 0.72rem; letter-spacing: 0.1em; text-transform: uppercase;
-    border-bottom: 1px solid rgba(201,168,76,0.07);
-    transition: background 0.2s, color 0.2s;
-  }
-  .dropdown a:last-child { border-bottom: none; }
-  .dropdown a:hover { background: rgba(201,168,76,0.07); color: var(--gold); }
-  .dropdown .dd-label {
-    display: block; padding: 0.5rem 1.2rem 0.3rem;
-    font-size: 0.58rem; letter-spacing: 0.2em; text-transform: uppercase;
-    color: rgba(201,168,76,0.55);
-  }
-  .nav-plain { color: var(--gray); text-decoration: none; font-size: 0.75rem; letter-spacing: 0.12em; text-transform: uppercase; margin-left: 2rem; transition: color 0.3s; }
-  .nav-plain:hover { color: var(--gold); }
-  .nav-cta {
-    background: var(--gold); color: var(--navy) !important;
-    padding: 0.5rem 1.4rem; font-weight: 600 !important;
-    font-size: 0.75rem; letter-spacing: 0.1em; text-transform: uppercase;
-    text-decoration: none; margin-left: 2rem;
-  }
 
   /* ── HERO ── */
   .hero {
@@ -108,23 +57,23 @@
     padding: 9rem 3rem 4rem;
     position: relative;
     overflow: hidden;
-    background: linear-gradient(160deg, #0a1628 0%, #0d1e38 60%, #0a1628 100%);
+    background: linear-gradient(180deg, #f5f8fd 0%, #ffffff 100%);
   }
   .hero-bg-overlay {
     position: absolute; inset: 0;
     background:
-      radial-gradient(ellipse at 75% 40%, rgba(201,168,76,0.07) 0%, transparent 55%),
-      radial-gradient(ellipse at 20% 75%, rgba(0,60,120,0.15) 0%, transparent 60%);
+      radial-gradient(ellipse at 75% 40%, rgba(37,99,235,0.07) 0%, transparent 55%),
+      radial-gradient(ellipse at 20% 75%, rgba(37,99,235,0.15) 0%, transparent 60%);
   }
   .hero-grid {
     position: absolute; inset: 0;
-    background-image: linear-gradient(rgba(201,168,76,0.04) 1px, transparent 1px),
-                      linear-gradient(90deg, rgba(201,168,76,0.04) 1px, transparent 1px);
+    background-image: linear-gradient(rgba(37,99,235,0.04) 1px, transparent 1px),
+                      linear-gradient(90deg, rgba(37,99,235,0.04) 1px, transparent 1px);
     background-size: 60px 60px;
   }
   .hero-water-line {
     position: absolute; bottom: 0; left: 0; right: 0; height: 3px;
-    background: linear-gradient(90deg, transparent, rgba(201,168,76,0.4), rgba(100,180,255,0.3), rgba(201,168,76,0.4), transparent);
+    background: linear-gradient(90deg, transparent, rgba(37,99,235,0.4), rgba(100,180,255,0.3), rgba(37,99,235,0.4), transparent);
   }
   .hero-content { position: relative; max-width: 760px; }
   .hero-eyebrow {
@@ -167,7 +116,7 @@
   }
   .btn-gold:hover { background: var(--gold-light); transform: translateY(-2px); }
   .btn-outline {
-    border: 1px solid rgba(201,168,76,0.4); color: var(--cream);
+    border: 1px solid rgba(37,99,235,0.4); color: var(--cream);
     padding: 0.85rem 2rem; font-size: 0.75rem;
     letter-spacing: 0.15em; text-transform: uppercase;
     text-decoration: none; display: inline-block;
@@ -194,12 +143,12 @@
 
   /* ── UPDATE BANNER ── */
   .update-banner {
-    background: rgba(201,168,76,0.08);
-    border: 1px solid rgba(201,168,76,0.2);
+    background: rgba(37,99,235,0.08);
+    border: 1px solid rgba(37,99,235,0.2);
     border-left: 3px solid var(--gold);
     padding: 0.9rem 1.5rem;
     display: flex; align-items: center; gap: 1rem;
-    font-size: 0.78rem; color: var(--gray);
+    font-size: 0.78rem; color: #475569;
     margin-bottom: 3rem;
   }
   .update-banner strong { color: var(--gold); }
@@ -214,8 +163,8 @@
 
   /* ── FEATURED LISTING (ALBATROSS) ── */
   .featured-sale {
-    background: linear-gradient(135deg, #0f1e35 0%, var(--card-bg) 100%);
-    border: 1px solid rgba(201,168,76,0.35);
+    background: linear-gradient(135deg, #f5f8fd 0%, var(--card-bg) 100%);
+    border: 1px solid rgba(37,99,235,0.35);
     border-top: 3px solid var(--gold);
     padding: 0;
     overflow: hidden;
@@ -227,7 +176,7 @@
   .featured-sale-photo {
     position: relative; overflow: hidden;
     min-height: 380px;
-    background: linear-gradient(135deg, #0d2040 0%, #1a3560 100%);
+    background: linear-gradient(135deg, #ffffff 0%, #1a3560 100%);
     display: flex; align-items: center; justify-content: center;
   }
   .featured-sale-photo img {
@@ -244,11 +193,11 @@
   }
   .photo-mls {
     position: absolute; bottom: 1rem; right: 1rem;
-    background: rgba(10,22,40,0.8); color: var(--gray);
+    background: rgba(255,255,255,0.8); color: var(--gray);
     font-size: 0.6rem; letter-spacing: 0.1em; padding: 0.3rem 0.7rem;
   }
   .photo-placeholder-icon {
-    font-size: 3rem; color: rgba(201,168,76,0.2);
+    font-size: 3rem; color: rgba(37,99,235,0.2);
     text-align: center;
   }
   .photo-placeholder-icon p {
@@ -281,8 +230,8 @@
   .featured-specs {
     display: grid; grid-template-columns: repeat(3, 1fr);
     gap: 1rem; margin-bottom: 1.8rem;
-    border-top: 1px solid rgba(201,168,76,0.12);
-    border-bottom: 1px solid rgba(201,168,76,0.12);
+    border-top: 1px solid rgba(37,99,235,0.12);
+    border-bottom: 1px solid rgba(37,99,235,0.12);
     padding: 1.2rem 0;
   }
   .spec .val { font-family: 'Cormorant Garamond', serif; font-size: 1.4rem; color: var(--white); }
@@ -293,7 +242,7 @@
   /* ── MLS SEARCH EMBED ── */
   .mls-embed-section {
     background: var(--card-bg);
-    border: 1px solid rgba(201,168,76,0.12);
+    border: 1px solid rgba(37,99,235,0.12);
     padding: 2rem;
     margin-bottom: 3rem;
   }
@@ -303,15 +252,15 @@
   }
   .mls-embed-title { font-family: 'Cormorant Garamond', serif; font-size: 1.3rem; color: var(--white); }
   .mls-count-badge {
-    background: rgba(201,168,76,0.1); border: 1px solid rgba(201,168,76,0.3);
+    background: rgba(37,99,235,0.1); border: 1px solid rgba(37,99,235,0.3);
     padding: 0.4rem 1rem; font-size: 0.7rem; letter-spacing: 0.15em;
-    text-transform: uppercase; color: var(--gold);
+    text-transform: uppercase; color: #1d4ed8;
   }
   .mls-iframe-wrap {
     position: relative; width: 100%;
     height: 600px;
-    border: 1px solid rgba(201,168,76,0.1);
-    background: #060e1a;
+    border: 1px solid rgba(37,99,235,0.1);
+    background: #f8fafc;
   }
   .mls-iframe-wrap iframe {
     width: 100%; height: 100%; border: none;
@@ -327,8 +276,8 @@
   }
   .mls-iframe-fallback p { color: var(--gray); font-size: 0.85rem; margin-bottom: 1.5rem; }
   .mls-iframe-fallback .search-params {
-    background: rgba(201,168,76,0.05);
-    border: 1px solid rgba(201,168,76,0.15);
+    background: rgba(37,99,235,0.05);
+    border: 1px solid rgba(37,99,235,0.15);
     padding: 1rem 1.5rem; text-align: left; margin-bottom: 1.5rem;
     font-size: 0.75rem; color: var(--gray); line-height: 1.9;
   }
@@ -343,19 +292,19 @@
   }
   .listing-card {
     background: var(--card-bg);
-    border: 1px solid rgba(201,168,76,0.1);
+    border: 1px solid rgba(37,99,235,0.1);
     overflow: hidden;
     transition: border-color 0.3s, transform 0.3s;
     cursor: pointer;
   }
   .listing-card:hover {
-    border-color: rgba(201,168,76,0.4);
+    border-color: rgba(37,99,235,0.4);
     transform: translateY(-4px);
   }
   .listing-card:hover .card-photo img { transform: scale(1.06); }
   .card-photo {
     position: relative; height: 220px; overflow: hidden;
-    background: linear-gradient(135deg, #0d2040 0%, #1a3560 100%);
+    background: linear-gradient(135deg, #ffffff 0%, #1a3560 100%);
   }
   .card-photo img { width: 100%; height: 100%; object-fit: cover; transition: transform 0.5s; }
   .card-photo-placeholder {
@@ -365,18 +314,18 @@
     gap: 0.5rem;
   }
   .card-photo-placeholder svg { width: 48px; height: 48px; opacity: 0.2; }
-  .card-photo-placeholder span { font-size: 0.65rem; letter-spacing: 0.15em; text-transform: uppercase; color: rgba(201,168,76,0.3); }
+  .card-photo-placeholder span { font-size: 0.65rem; letter-spacing: 0.15em; text-transform: uppercase; color: rgba(37,99,235,0.3); }
   .card-type-badge {
     position: absolute; top: 0.8rem; left: 0.8rem;
-    background: rgba(10,22,40,0.85);
-    border: 1px solid rgba(201,168,76,0.3);
+    background: rgba(255,255,255,0.85);
+    border: 1px solid rgba(37,99,235,0.3);
     color: var(--gold); font-size: 0.6rem; letter-spacing: 0.2em;
     text-transform: uppercase; font-weight: 600; padding: 0.3rem 0.7rem;
   }
   .card-waterfront-badge {
     position: absolute; top: 0.8rem; right: 0.8rem;
     background: rgba(0,80,160,0.75);
-    color: #7ec8e3; font-size: 0.6rem; letter-spacing: 0.15em;
+    color: #2563eb; font-size: 0.6rem; letter-spacing: 0.15em;
     text-transform: uppercase; font-weight: 600; padding: 0.3rem 0.7rem;
     border: 1px solid rgba(126,200,227,0.3);
   }
@@ -394,13 +343,13 @@
   .card-city { font-size: 0.75rem; color: var(--gray); margin-bottom: 1rem; }
   .card-specs {
     display: flex; gap: 1.2rem;
-    border-top: 1px solid rgba(201,168,76,0.1);
+    border-top: 1px solid rgba(37,99,235,0.1);
     padding-top: 0.9rem; margin-top: 0.5rem;
     font-size: 0.72rem; color: var(--gray);
   }
   .card-spec { display: flex; flex-direction: column; gap: 0.1rem; }
   .card-spec strong { color: var(--cream); font-size: 0.82rem; }
-  .card-mls { font-size: 0.62rem; color: rgba(138,143,154,0.5); margin-top: 0.8rem; }
+  .card-mls { font-size: 0.62rem; color: var(--gray); margin-top: 0.8rem; }
   .card-avail {
     font-size: 0.65rem; letter-spacing: 0.1em; text-transform: uppercase;
     color: var(--gold); margin-top: 0.5rem;
@@ -413,7 +362,7 @@
   }
   .filter-btn {
     background: transparent;
-    border: 1px solid rgba(201,168,76,0.2);
+    border: 1px solid rgba(37,99,235,0.2);
     color: var(--gray); font-family: 'Montserrat', sans-serif;
     font-size: 0.7rem; letter-spacing: 0.15em; text-transform: uppercase;
     padding: 0.5rem 1.2rem; cursor: pointer;
@@ -426,8 +375,8 @@
 
   /* ── ALPHAGENINSURANCE CTA ── */
   .alphaGen-cta {
-    background: linear-gradient(135deg, #0d1e35 0%, #0a1628 100%);
-    border: 1px solid rgba(201,168,76,0.2);
+    background: linear-gradient(135deg, #eef3fc 0%, #ffffff 100%);
+    border: 1px solid rgba(37,99,235,0.2);
     border-left: 4px solid var(--gold);
     padding: 2.5rem 3rem;
     display: grid; grid-template-columns: 1fr auto;
@@ -445,8 +394,8 @@
 
   /* ── CONTACT / SCHEDULE ── */
   .agent-cta {
-    background: linear-gradient(135deg, rgba(201,168,76,0.06) 0%, rgba(10,22,40,0) 100%);
-    border: 1px solid rgba(201,168,76,0.2);
+    background: linear-gradient(135deg, rgba(37,99,235,0.06) 0%, rgba(255,255,255,0) 100%);
+    border: 1px solid rgba(37,99,235,0.2);
     padding: 3rem;
     text-align: center;
   }
@@ -464,13 +413,13 @@
   }
   .how-card {
     background: var(--card-bg);
-    border: 1px solid rgba(201,168,76,0.1);
+    border: 1px solid rgba(37,99,235,0.1);
     padding: 1.8rem 1.5rem;
     text-align: center;
   }
   .how-num {
     font-family: 'Cormorant Garamond', serif;
-    font-size: 2.5rem; color: rgba(201,168,76,0.2);
+    font-size: 2.5rem; color: var(--gold);
     line-height: 1; margin-bottom: 0.8rem;
   }
   .how-card h4 {
@@ -482,20 +431,18 @@
 
   /* ── FOOTER ── */
   footer {
-    border-top: 1px solid rgba(201,168,76,0.1);
+    border-top: 1px solid rgba(37,99,235,0.1);
     padding: 2rem 3rem;
     display: flex; justify-content: space-between; align-items: center;
     flex-wrap: wrap; gap: 1rem;
   }
-  .footer-brand { font-family: 'Cormorant Garamond', serif; font-size: 1.1rem; color: var(--gold); letter-spacing: 0.15em; }
-  .footer-links a { color: var(--gray); text-decoration: none; font-size: 0.7rem; letter-spacing: 0.1em; margin-left: 1.5rem; }
-  .footer-links a:hover { color: var(--gold); }
-  .footer-legal { font-size: 0.65rem; color: rgba(138,143,154,0.5); width: 100%; margin-top: 0.5rem; }
+  .footer-brand { font-family: 'Cormorant Garamond', serif; font-size: 1.1rem; color: #93b4f5; letter-spacing: 0.15em; }
+  .footer-links a { color: #cbd5e1; text-decoration: none; font-size: 0.7rem; letter-spacing: 0.1em; margin-left: 1.5rem; }
+  .footer-links a:hover { color: #93b4f5; }
+  .footer-legal { font-size: 0.65rem; color: #94a3b8; width: 100%; margin-top: 0.5rem; }
 
   /* ── RESPONSIVE ── */
   @media(max-width:768px) {
-    header { padding: 1rem 1.5rem; }
-    nav { display: none; }
     section { padding: 3.5rem 1.5rem; }
     .hero { padding: 7rem 1.5rem 3rem; }
     .hero-stats { gap: 1.5rem; }
@@ -504,21 +451,7 @@
     .agent-cta { padding: 2rem 1.5rem; }
   }
 
-  /* ── NAV: phone menu + wrapping footer (2026-10-15) ── */
-  .nav-toggle { display: none; background: none; border: 1px solid rgba(201,168,76,0.4); color: var(--gold); font-size: 1.3rem; line-height: 1; padding: 0.35rem 0.6rem; cursor: pointer; }
-  .footer-links { flex-wrap: wrap; }
   @media (max-width: 768px) {
-    .nav-toggle { display: block; }
-    header nav#site-nav { display: none; position: absolute; top: 100%; left: 0; right: 0; flex-direction: column; align-items: stretch; background: rgba(10,22,40,0.98); border-top: 1px solid rgba(201,168,76,0.2); padding: 0.5rem 1.5rem 1.2rem; max-height: calc(100vh - 4rem); overflow-y: auto; }
-    header.nav-open nav#site-nav { display: flex; }
-    header nav#site-nav .nav-item, header nav#site-nav .nav-plain, header nav#site-nav .nav-cta { margin-left: 0; }
-    header nav#site-nav .nav-item > a { padding: 0.8rem 0 0.3rem; color: var(--gold); }
-    header nav#site-nav .nav-item > a .caret { display: none; }
-    header nav#site-nav .dropdown { display: block; position: static; border: none; background: none; min-width: 0; padding-left: 0.5rem; backdrop-filter: none; }
-    header nav#site-nav .dropdown a { padding: 0.55rem 0; border-bottom: none; }
-    header nav#site-nav .dropdown .dd-label { padding: 0.6rem 0 0.2rem; }
-    header nav#site-nav .nav-plain { padding: 0.8rem 0; }
-    header nav#site-nav .nav-cta { margin-top: 0.8rem; text-align: center; }
     .footer-links { gap: 0.8rem 1.2rem; }
     .footer-links a { margin-left: 0; }
   }
@@ -531,47 +464,62 @@
   <!-- End Google Tag Manager (noscript) -->
 
 <!-- HEADER -->
-<header>
-  <a href="https://savingsre.com" class="logo">Savings<span>RE</span></a>
-  <button class="nav-toggle" type="button" aria-label="Open menu" aria-expanded="false" aria-controls="site-nav">☰</button>
-  <nav id="site-nav">
-    <div class="nav-item">
-      <a href="investor-hub.html">Buy / Invest <span class="caret">▾</span></a>
-      <div class="dropdown">
-        <span class="dd-label">Residential</span>
-        <a href="luxury.html">Luxury Homes</a>
-        <a href="luxury-listings.html">Luxury Listings</a>
-        <a href="move-in-ready.html">Move-In Ready</a>
-        <a href="55-plus.html">55+ Communities</a>
-        <span class="dd-label">Income &amp; Commercial</span>
-        <a href="investor-hub.html">Investor Hub</a>
-        <a href="top3/">Top Investments</a>
-        <a href="investor-hub.html#multifamily">Multifamily</a>
-        <a href="high-yield-multifamily.html">High-Yield Multifamily</a>
-        <a href="value-multifamily.html">Value Multifamily</a>
-        <a href="investor-hub.html#commercial">Commercial &amp; Industrial</a>
+<header id="site-header">
+  <a href="/" class="logo" aria-label="SavingsRE Home">Savings<span>RE</span></a>
+  <nav class="nav-links" id="nav-links" aria-label="Main navigation">
+    <div class="nav-group">
+      <button class="nav-group-btn" type="button" aria-expanded="false">Buy · Sell · Rent<span class="nav-caret" aria-hidden="true">▾</span></button>
+      <div class="nav-menu nav-menu-3">
+        <div class="nav-col"><span class="nav-col-label">Buy</span>
+          <a href="luxury.html">Luxury Homes</a>
+          <a href="move-in-ready.html">Move-In Ready</a>
+          <a href="55-plus.html">55+ Communities</a>
+          <a href="luxury-buyers.html">Buyer Representation</a>
+          <a href="buyersurvey.html">Find Me a Home</a>
+        </div>
+        <div class="nav-col"><span class="nav-col-label">Sell</span>
+          <a href="luxury-listings.html">List Your Luxury Home · 1.5%</a>
+          <a href="https://docs.google.com/forms/d/e/1FAIpQLSeh2FPmzhbkINNoskp72ang1zJO7xa-sxqKiDekxMmQSZz5IA/viewform?utm_source=savingsre&amp;utm_medium=website&amp;utm_campaign=nav&amp;utm_content=home-worth" target="_blank" rel="noopener">What’s My Home Worth?</a>
+        </div>
+        <div class="nav-col"><span class="nav-col-label">Rent</span>
+          <a href="luxury-rentals.html">Luxury Waterfront Rentals</a>
+        </div>
       </div>
     </div>
-    <div class="nav-item">
-      <a href="luxury-rentals.html">Rent <span class="caret">▾</span></a>
-      <div class="dropdown">
-        <span class="dd-label">Residential</span>
-        <a href="luxury-rentals.html" style="color:var(--gold)">Luxury Waterfront Rentals</a>
+    <div class="nav-group">
+      <button class="nav-group-btn" type="button" aria-expanded="false">Investors<span class="nav-caret" aria-hidden="true">▾</span></button>
+      <div class="nav-menu nav-menu-2 nav-menu-right">
+        <div class="nav-col"><span class="nav-col-label">Top Investments</span>
+          <a href="top3/top3.html?seg=mf-upto3m-east">Multifamily up to $3M</a>
+          <a href="top3/top3.html?seg=high-yield-sfl">High-Yield Multifamily · 8%+ Cap</a>
+          <a href="top3/top3.html?seg=starter-mf-corridor">Starter Multifamily · $800K–$2M</a>
+          <a href="top3/top3.html?seg=east-coast-beach-mf">Coastal Multifamily · Atlantic</a>
+          <a href="top3/top3.html?seg=large-statewide">Larger Investments · 40+ Units</a>
+          <a href="top3/top3.html?seg=airbnb-str-east">Airbnb / Short-Term Rental</a>
+          <a href="top3/top3.html?seg=nnn-fl">NNN Commercial</a>
+          <a href="top3/" class="nav-all">All Top Investments →</a>
+        </div>
+        <div class="nav-col"><span class="nav-col-label">Commercial</span>
+          <a href="commercial-buyer-search.html">Buy Commercial</a>
+          <a href="https://docs.google.com/forms/d/e/1FAIpQLSeh2FPmzhbkINNoskp72ang1zJO7xa-sxqKiDekxMmQSZz5IA/viewform?utm_source=savingsre&amp;utm_medium=website&amp;utm_campaign=nav&amp;utm_content=sell-commercial" target="_blank" rel="noopener">Sell Commercial</a>
+          <a href="commercial.html">Commercial Properties</a>
+          <a href="coastal-shortlist.html">Coastal Multifamily Shortlist</a>
+          <a href="investor-hub.html" class="nav-all">Investors Page →</a>
+        </div>
       </div>
     </div>
-    <div class="nav-item">
-      <a href="market/">Insights <span class="caret">▾</span></a>
-      <div class="dropdown">
-        <a href="market/">Market Intel</a>
-        <a href="blog/">Blog</a>
-        <span class="dd-label">Buyer Tools</span>
-        <a href="buyersurvey.html">Buyer Survey</a>
-        <a href="commercial-buyer-search.html">Commercial Buyer Search</a>
-      </div>
-    </div>
-    <a href="#contact" class="nav-plain">Contact</a>
-    <a href="https://calendar.app.google/Yv2c22sEEcKZuExq9" class="nav-cta">Schedule Call</a>
+    <a href="market/">Market Intel</a>
+    <a href="blog/">Blog</a>
+    <a href="https://alphageninsurance.com/get-a-quote/" target="_blank" rel="noopener">Insurance &#8599;</a>
+    <a href="tel:+15612200402" class="nav-cta" onclick="trackPhone()">+1 (561) 220-0402</a>
   </nav>
+  <button class="mobile-toggle" id="mobile-toggle" aria-label="Open menu" aria-expanded="false">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
+      <line x1="3" y1="6" x2="21" y2="6"/>
+      <line x1="3" y1="12" x2="21" y2="12"/>
+      <line x1="3" y1="18" x2="21" y2="18"/>
+    </svg>
+  </button>
 </header>
 
 <!-- HERO -->
@@ -617,12 +565,12 @@
         In FlexMLS: Listings → MLS# R26086211 → Photos tab → right-click → Copy image URL
       -->
       <img
-        src="https://placehold.co/900x600/0d2040/c9a84c?text=3125+Albatross+Rd%0ADelray+Beach"
+        src="https://placehold.co/900x600/e8eef8/2563eb?text=3125+Albatross+Rd%0ADelray+Beach"
         alt="3125 Albatross Rd, Delray Beach, FL — Duplex"
         onerror="this.style.display='none'; this.parentElement.querySelector('.photo-placeholder-icon').style.display='flex';"
       >
       <div class="photo-placeholder-icon" style="display:none; flex-direction:column; align-items:center; justify-content:center; height:100%; padding:2rem;">
-        <div style="font-size:3rem; color:rgba(201,168,76,0.25);">🏠</div>
+        <div style="font-size:3rem; color:rgba(37,99,235,0.25);">🏠</div>
         <p style="font-size:0.7rem; color:var(--gray); margin-top:0.5rem; text-align:center;">3125 Albatross Rd<br>Delray Beach, FL</p>
       </div>
       <span class="photo-badge">For Sale · Exclusive</span>
@@ -689,9 +637,9 @@
       <div class="card-photo">
         <!-- Photo source: FlexMLS MLS# B26042905 → Photos tab -->
         <img
-          src="https://placehold.co/600x440/0d2040/e8c97a?text=Hamilton+House+Condo%0ADelray+Beach%2C+FL"
+          src="https://placehold.co/600x440/e8eef8/2563eb?text=Hamilton+House+Condo%0ADelray+Beach%2C+FL"
           alt="1213 S Ocean Boulevard, Unit 2-E, Delray Beach FL"
-          onerror="this.parentElement.innerHTML='<div class=card-photo-placeholder><svg viewBox=\'0 0 24 24\' fill=\'none\' stroke=\'rgba(201,168,76,0.25)\' stroke-width=\'1\'><path d=\'M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z\'/><polyline points=\'9,22 9,12 15,12 15,22\'/></svg><span>B26042905</span></div>'"
+          onerror="this.parentElement.innerHTML='<div class=card-photo-placeholder><svg viewBox=\'0 0 24 24\' fill=\'none\' stroke=\'rgba(37,99,235,0.25)\' stroke-width=\'1\'><path d=\'M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z\'/><polyline points=\'9,22 9,12 15,12 15,22\'/></svg><span>B26042905</span></div>'"
         >
         <span class="card-type-badge">Condo</span>
         <span class="card-waterfront-badge">🌊 Waterfront</span>
@@ -716,9 +664,9 @@
       <div class="card-photo">
         <!-- Photo source: FlexMLS MLS# B26053126 → Photos tab -->
         <img
-          src="https://placehold.co/600x440/0d2040/e8c97a?text=Harbour+Pointe+of+Delray+Condo%0ADelray+Beach%2C+FL"
+          src="https://placehold.co/600x440/e8eef8/2563eb?text=Harbour+Pointe+of+Delray+Condo%0ADelray+Beach%2C+FL"
           alt="1704 Del Haven Drive, Unit 38-B, Delray Beach FL"
-          onerror="this.parentElement.innerHTML='<div class=card-photo-placeholder><svg viewBox=\'0 0 24 24\' fill=\'none\' stroke=\'rgba(201,168,76,0.25)\' stroke-width=\'1\'><path d=\'M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z\'/><polyline points=\'9,22 9,12 15,12 15,22\'/></svg><span>B26053126</span></div>'"
+          onerror="this.parentElement.innerHTML='<div class=card-photo-placeholder><svg viewBox=\'0 0 24 24\' fill=\'none\' stroke=\'rgba(37,99,235,0.25)\' stroke-width=\'1\'><path d=\'M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z\'/><polyline points=\'9,22 9,12 15,12 15,22\'/></svg><span>B26053126</span></div>'"
         >
         <span class="card-type-badge">Condo</span>
         <span class="card-waterfront-badge">🌊 Waterfront</span>
@@ -743,9 +691,9 @@
       <div class="card-photo">
         <!-- Photo source: FlexMLS MLS# B26040438 → Photos tab -->
         <img
-          src="https://placehold.co/600x440/0d2040/e8c97a?text=45+Ocean+Condo%0AHighland+Beach%2C+FL"
+          src="https://placehold.co/600x440/e8eef8/2563eb?text=45+Ocean+Condo%0AHighland+Beach%2C+FL"
           alt="4505 S Ocean Boulevard, Unit 307, Highland Beach FL"
-          onerror="this.parentElement.innerHTML='<div class=card-photo-placeholder><svg viewBox=\'0 0 24 24\' fill=\'none\' stroke=\'rgba(201,168,76,0.25)\' stroke-width=\'1\'><path d=\'M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z\'/><polyline points=\'9,22 9,12 15,12 15,22\'/></svg><span>B26040438</span></div>'"
+          onerror="this.parentElement.innerHTML='<div class=card-photo-placeholder><svg viewBox=\'0 0 24 24\' fill=\'none\' stroke=\'rgba(37,99,235,0.25)\' stroke-width=\'1\'><path d=\'M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z\'/><polyline points=\'9,22 9,12 15,12 15,22\'/></svg><span>B26040438</span></div>'"
         >
         <span class="card-type-badge">Condo</span>
         <span class="card-waterfront-badge">🌊 Waterfront</span>
@@ -770,9 +718,9 @@
       <div class="card-photo">
         <!-- Photo source: FlexMLS MLS# B26014271 → Photos tab -->
         <img
-          src="https://placehold.co/600x440/0d2040/e8c97a?text=Wiltshire+House%0AHighland+Beach%2C+FL"
+          src="https://placehold.co/600x440/e8eef8/2563eb?text=Wiltshire+House%0AHighland+Beach%2C+FL"
           alt="2909 S Ocean Boulevard, Unit 6A3, Highland Beach FL"
-          onerror="this.parentElement.innerHTML='<div class=card-photo-placeholder><svg viewBox=\'0 0 24 24\' fill=\'none\' stroke=\'rgba(201,168,76,0.25)\' stroke-width=\'1\'><path d=\'M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z\'/><polyline points=\'9,22 9,12 15,12 15,22\'/></svg><span>B26014271</span></div>'"
+          onerror="this.parentElement.innerHTML='<div class=card-photo-placeholder><svg viewBox=\'0 0 24 24\' fill=\'none\' stroke=\'rgba(37,99,235,0.25)\' stroke-width=\'1\'><path d=\'M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z\'/><polyline points=\'9,22 9,12 15,12 15,22\'/></svg><span>B26014271</span></div>'"
         >
         <span class="card-type-badge">Condo</span>
         <span class="card-waterfront-badge">🌊 Waterfront</span>
@@ -797,9 +745,9 @@
       <div class="card-photo">
         <!-- Photo source: FlexMLS MLS# B26073574 → Photos tab -->
         <img
-          src="https://placehold.co/600x440/0d2040/e8c97a?text=Townhouses+of+Highland+Beach+Condo%0AHighland+Beach%2C+FL"
+          src="https://placehold.co/600x440/e8eef8/2563eb?text=Townhouses+of+Highland+Beach+Condo%0AHighland+Beach%2C+FL"
           alt="2575 S Ocean Boulevard, Unit 107S, Highland Beach FL"
-          onerror="this.parentElement.innerHTML='<div class=card-photo-placeholder><svg viewBox=\'0 0 24 24\' fill=\'none\' stroke=\'rgba(201,168,76,0.25)\' stroke-width=\'1\'><path d=\'M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z\'/><polyline points=\'9,22 9,12 15,12 15,22\'/></svg><span>B26073574</span></div>'"
+          onerror="this.parentElement.innerHTML='<div class=card-photo-placeholder><svg viewBox=\'0 0 24 24\' fill=\'none\' stroke=\'rgba(37,99,235,0.25)\' stroke-width=\'1\'><path d=\'M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z\'/><polyline points=\'9,22 9,12 15,12 15,22\'/></svg><span>B26073574</span></div>'"
         >
         <span class="card-type-badge">Condo</span>
         <span class="card-waterfront-badge">🌊 Waterfront</span>
@@ -824,9 +772,9 @@
       <div class="card-photo">
         <!-- Photo source: FlexMLS MLS# B26087371 → Photos tab -->
         <img
-          src="https://placehold.co/600x440/0d2040/e8c97a?text=Sea+Ranch+Club+of+Boca%0ABoca+Raton%2C+FL"
+          src="https://placehold.co/600x440/e8eef8/2563eb?text=Sea+Ranch+Club+of+Boca%0ABoca+Raton%2C+FL"
           alt="4001 N Ocean Boulevard, Unit 1606, Boca Raton FL"
-          onerror="this.parentElement.innerHTML='<div class=card-photo-placeholder><svg viewBox=\'0 0 24 24\' fill=\'none\' stroke=\'rgba(201,168,76,0.25)\' stroke-width=\'1\'><path d=\'M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z\'/><polyline points=\'9,22 9,12 15,12 15,22\'/></svg><span>B26087371</span></div>'"
+          onerror="this.parentElement.innerHTML='<div class=card-photo-placeholder><svg viewBox=\'0 0 24 24\' fill=\'none\' stroke=\'rgba(37,99,235,0.25)\' stroke-width=\'1\'><path d=\'M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z\'/><polyline points=\'9,22 9,12 15,12 15,22\'/></svg><span>B26087371</span></div>'"
         >
         <span class="card-type-badge">Condo</span>
         <span class="card-waterfront-badge">🌊 Waterfront</span>
@@ -989,11 +937,6 @@
       if (target) { e.preventDefault(); target.scrollIntoView({ behavior: 'smooth', block: 'start' }); }
     });
   });
-</script>
-<script>
-(function(){var h=document.querySelector('header'),t=document.querySelector('.nav-toggle');if(!h||!t)return;
-t.addEventListener('click',function(){var o=h.classList.toggle('nav-open');t.setAttribute('aria-expanded',o);t.textContent=o?'✕':'☰';});
-document.querySelectorAll('#site-nav a').forEach(function(a){a.addEventListener('click',function(){h.classList.remove('nav-open');t.setAttribute('aria-expanded','false');t.textContent='☰';});});})();
 </script>
 </body>
 </html>

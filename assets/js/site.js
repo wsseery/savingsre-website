@@ -49,6 +49,41 @@
 
     // Mobile menu â also bind the standard slide-down panel pattern
     // (.mobile-toggle / .hamburger) â (#mobile-nav / #mobileNav / .mobile-nav)
+    // Dropdown groups (Buy · Sell · Rent / Investors): hover opens on desktop,
+    // click/tap toggles everywhere, Escape and outside clicks close.
+    var groups = Array.prototype.slice.call(document.querySelectorAll('.nav-group'));
+    function setOpen(g, open) {
+      g.classList.toggle('open', open);
+      var b = g.querySelector('.nav-group-btn');
+      if (b) b.setAttribute('aria-expanded', open ? 'true' : 'false');
+    }
+    var canHover = window.matchMedia && window.matchMedia('(hover: hover) and (min-width: 901px)');
+    groups.forEach(function (g) {
+      var btn = g.querySelector('.nav-group-btn');
+      if (!btn) return;
+      btn.addEventListener('click', function (e) {
+        e.stopPropagation();
+        var desktop = canHover && canHover.matches;
+        var next = desktop ? true : !g.classList.contains('open');
+        groups.forEach(function (o) { if (o !== g) setOpen(o, false); });
+        setOpen(g, next);
+      });
+      g.addEventListener('mouseenter', function () { if (canHover && canHover.matches) { groups.forEach(function (o) { if (o !== g) setOpen(o, false); }); setOpen(g, true); } });
+      g.addEventListener('mouseleave', function () { if (canHover && canHover.matches) setOpen(g, false); });
+      // mark the group holding the current page
+      var here = location.pathname.replace(/index\.html$/, '');
+      g.querySelectorAll('a').forEach(function (a) {
+        var path = a.pathname ? a.pathname.replace(/index\.html$/, '') : '';
+        if (a.host === location.host && path === here && !a.search) { a.classList.add('active'); g.classList.add('active'); }
+      });
+    });
+    document.addEventListener('click', function (e) {
+      if (!e.target.closest || !e.target.closest('.nav-group')) groups.forEach(function (o) { setOpen(o, false); });
+    });
+    document.addEventListener('keydown', function (e) {
+      if (e.key === 'Escape') groups.forEach(function (o) { setOpen(o, false); });
+    });
+
     var altToggle = document.querySelector('.mobile-toggle, .hamburger');
     var altPanel = document.getElementById('mobile-nav') || document.getElementById('mobileNav') || document.querySelector('.mobile-nav');
     if (altToggle && altPanel && altPanel !== modernNav) {
