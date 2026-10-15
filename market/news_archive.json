@@ -3,9 +3,42 @@
     "created": "2026-07-06",
     "updated": "2026-10-15",
     "note": "Archive of items rotated off the live market/news_data.json 16-item list. Weekly refresh APPENDS dropped items here (newest first) - never delete. Same item schema as news_data.json. Not rendered on the site; kept for content reuse, history, and a future archive/search section.",
-    "count": 170
+    "count": 173
   },
   "items": [
+    {
+      "id": 179,
+      "date": "2026-10-08",
+      "title": "Terra's David Martin, Partners Close $507M Loan for 28-Story South Beach Condo Tower",
+      "summary": "Terra and partners RG Development, GV Development and Lore Development closed a $507 million construction loan from Tyko Capital for a 28-story, 106-unit condo tower at 1250 West Avenue, Miami Beach. The loan came earlier in the development process than is typical in South Florida; sales are expected to launch next year. JDS Development transferred the site to Terra last year, and the approved overlay allows a 330-foot building.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/10/08/david-martin-gets-507-million-miami-beach-construction-loan/",
+      "category": "Development",
+      "importance": "high",
+      "archivedOn": "2026-10-15"
+    },
+    {
+      "id": 178,
+      "date": "2026-10-07",
+      "title": "Missouri Developer Pays $32M, $10,460/SF, for Sunset Islands Waterfront Home",
+      "summary": "An entity linked to developer Victor Alston paid $32 million for a 3,060 SF waterfront home at 1601 North View Drive, Sunset Islands, Miami Beach, on a 0.6-acre lot, with a $23 million Fryd Mortgage loan. The 1950-built house last sold for $21 million in 2024. Also Oct. 6: an $11.4 million Homestead lot sale at $200/SF and an $8 million North Miami industrial sale at $377/SF.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/data/miami/2026/missouri-developer-vic-alston-buys-miami-beach-home/",
+      "category": "Luxury",
+      "importance": "medium",
+      "archivedOn": "2026-10-15"
+    },
+    {
+      "id": 177,
+      "date": "2026-10-06",
+      "title": "Blackstone's Link Logistics Sells Fort Lauderdale Industrial Park for $57M",
+      "summary": "Link Logistics, Blackstone's industrial arm, sold the 210,000 SF industrial and business park at 2201-2385 Stirling Road, Fort Lauderdale, to BKM Capital Partners and Kayne Anderson Real Estate for $57 million, about $271 per SF. The seven-building, 18-unit property is 97% occupied and is being rebranded Stirling Landing. Cushman & Wakefield's Rick Brugge represented the seller.",
+      "source": "Bisnow",
+      "sourceUrl": "https://www.bisnow.com/news/south-florida/deal-sheet/blackstone-link-logistics-sells-fort-lauderdale-industrial-south-florida-deal-sheet",
+      "category": "Commercial/CRE",
+      "importance": "medium",
+      "archivedOn": "2026-10-15"
+    },
     {
       "id": 176,
       "date": "2026-10-06",
