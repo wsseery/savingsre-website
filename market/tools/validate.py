@@ -68,10 +68,14 @@ else:
 upd = datetime.date.fromisoformat(market["meta"]["updated"])
 if ("Updated " + upd.strftime("%B ") + str(upd.day) + upd.strftime(", %Y")) not in html: bad("hero 'Updated' line does not match meta.updated")
 
+m = re.search(r'rates:\{date:("(?:[^"\\]|\\.)*")', html)
+if m and ('<span id="ratesDate">' + json.loads(m.group(1)) + '</span>') not in html: bad("Mortgage Rates 'as of' fallback does not match MARKET.rates.date")
+
 # markup unchanged outside data
 if a.base_index and os.path.exists(a.base_index):
     def strip(h):
         h = re.sub(r"  var MARKET = \{.*?\n  \];", "", h, flags=re.S)
+        h = re.sub(r'<span id="ratesDate">[^<]*</span>', "", h)
         return re.sub(r'<span id="updatedLine">[^<]*</span>', "", h)
     if strip(open(a.base_index, encoding="utf-8").read()) != strip(html): bad("index.html changed OUTSIDE the data blocks")
 

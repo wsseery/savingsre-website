@@ -162,6 +162,10 @@ def main():
     if c != 1: die("could not locate NEWS block in index.html")
     html, c = re.subn(r'(    meta:\{updated:")\d{4}-\d\d-\d\d', lambda m: m.group(1) + today, html, count=1)
     if c != 1: die("could not locate MARKET.meta.updated in index.html")
+    # keep the no-JS "as of" fallback in the Mortgage Rates header in step with MARKET.rates.date
+    m = re.search(r'rates:\{date:("(?:[^"\\]|\\.)*")', html)
+    if m:
+        html = re.sub(r'(<span id="ratesDate">)[^<]*(</span>)', lambda x: x.group(1) + json.loads(m.group(1)) + x.group(2), html, count=1)
     html = re.sub(r'(<span id="updatedLine">Updated )[^<]*(</span>)', lambda m: m.group(1) + long_date(today) + m.group(2), html, count=1)
 
     dump(fn["news_data.json"], live, nl["news_data.json"])
