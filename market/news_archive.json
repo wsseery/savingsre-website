@@ -1,11 +1,44 @@
 {
   "meta": {
     "created": "2026-07-06",
-    "updated": "2026-10-15",
+    "updated": "2026-10-17",
     "note": "Archive of items rotated off the live market/news_data.json 16-item list. Weekly refresh APPENDS dropped items here (newest first) - never delete. Same item schema as news_data.json. Not rendered on the site; kept for content reuse, history, and a future archive/search section.",
-    "count": 173
+    "count": 176
   },
   "items": [
+    {
+      "id": 182,
+      "date": "2026-10-09",
+      "title": "Chris Rokos Sells 2.8-Acre Manalapan Oceanfront Estate for $83.2M",
+      "summary": "British hedge fund manager Chris Rokos sold his Manalapan estate at 1370 South Ocean Boulevard for $83.2 million to BigOcean 3M LLC, a Delaware entity acting for a land trust. The 2.8-acre property has a 29,500 SF house and 300 feet of ocean frontage. A UK-registered entity paid $40 million in 2017. Bank of America provided the buyer a $58.2 million mortgage.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/data/miami/2026/british-billionaire-chris-rokos-sells-manalapan-estate/",
+      "category": "Luxury",
+      "importance": "high",
+      "archivedOn": "2026-10-17"
+    },
+    {
+      "id": 181,
+      "date": "2026-10-08",
+      "title": "Freddie Mac: 30-Year Mortgage Rate Jumps 12 bps to 7.40%",
+      "summary": "Freddie Mac's Primary Mortgage Market Survey put the 30-year fixed-rate average at 7.40% as of October 8, 2026, up from 7.28% the prior week, a 12 basis-point increase. Mortgage News Daily's index showed 7.52% for the 30-year fixed and 7.65% for the jumbo on Oct. 9, which matters for financing on South Florida luxury purchases.",
+      "source": "Freddie Mac",
+      "sourceUrl": "https://www.freddiemac.com/pmms",
+      "category": "Market Data",
+      "importance": "medium",
+      "archivedOn": "2026-10-17"
+    },
+    {
+      "id": 180,
+      "date": "2026-10-08",
+      "title": "Foreclosure Suit Targets Pembroke Lakes Mall Over $260M Loan Default",
+      "summary": "Deutsche Bank sued over the $260 million, 2013-issued loan on the 748,800 SF Pembroke Lakes Mall in Pembroke Pines, which was not repaid at its March maturity and went to special servicing. The mall was appraised at $427 million in 2013 and $112 million as of April. It is 96% occupied; first-half NOI was $8.3 million against $3.9 million of debt service, but the 3.6% loan rate makes refinancing difficult.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/10/08/pembroke-lakes-mall-faces-260-million-foreclosure/",
+      "category": "Commercial/CRE",
+      "importance": "high",
+      "archivedOn": "2026-10-17"
+    },
     {
       "id": 179,
       "date": "2026-10-08",

@@ -1,5 +1,35 @@
 [
   {
+    "id": 198,
+    "date": "2026-10-16",
+    "title": "TriCap asks $100M for 800 Lincoln Road retail building in Miami Beach",
+    "summary": "Newmark is marketing the 32,100-SF, three-story 800 Lincoln Road, home to Lululemon and Mila, at a $100M ask, or $3,111 per SF. TriCap paid $88.2M ($2,744 per SF) in 2015 and redeveloped the building. Nearby, 930 Lincoln Road sold for $22M last week and 318-334 Lincoln Road for $18.4M last month.",
+    "source": "The Real Deal",
+    "sourceUrl": "https://therealdeal.com/miami/2026/10/16/tricap-lists-miami-beach-retail-building-for-100-million/",
+    "category": "Commercial/CRE",
+    "importance": "medium"
+  },
+  {
+    "id": 197,
+    "date": "2026-10-16",
+    "title": "AHPC buys 1,086-bed FIU-area student housing from Toll Brothers for $168.5M",
+    "summary": "Nonprofit Affordable Housing Preservation Corp. bought the 21-story, 293-unit Lapis in Sweetwater for $168.5M, or $575,085 per unit, financed with about $193.9M of Public Finance Authority bonds. AHPC will operate it as student, faculty and staff housing and transfer it to FIU once the bonds are repaid. Toll Brothers completed the building in 2023.",
+    "source": "The Real Deal",
+    "sourceUrl": "https://therealdeal.com/miami/2026/10/16/toll-brothers-sells-fiu-student-housing-to-ahpc-in-bond-deal/",
+    "category": "Multifamily",
+    "importance": "high"
+  },
+  {
+    "id": 196,
+    "date": "2026-10-16",
+    "title": "Billionaire VC Hemant Taneja linked to record $48.5M Venetian Islands mansion",
+    "summary": "Hemant Taneja, CEO of General Catalyst, is the buyer of a 10,700-SF waterfront estate on North Venetian Way, San Marco Island, per The Real Deal. The $48.5M sale topped the $47.5M ask and set a record for the Venetian Islands and San Marco. The seven-bedroom house sits on 0.3 acre with 103 feet of water frontage; sellers paid $6M in 2021. Furniture was included.",
+    "source": "The Real Deal",
+    "sourceUrl": "https://therealdeal.com/miami/2026/10/16/billionaire-hemant-taneja-pays-48-5-million-for-miami-home/",
+    "category": "Luxury",
+    "importance": "high"
+  },
+  {
     "id": 195,
     "date": "2026-10-15",
     "title": "Top deals: 100-year-old Palm Island mansion sells for $29M; West Palm warehouse $27.5M",
@@ -128,35 +158,5 @@
     "sourceUrl": "https://therealdeal.com/miami/2026/10/09/corendon-hotels-resorts-buys-south-beach-art-deco-hotels/",
     "category": "Commercial/CRE",
     "importance": "medium"
-  },
-  {
-    "id": 182,
-    "date": "2026-10-09",
-    "title": "Chris Rokos Sells 2.8-Acre Manalapan Oceanfront Estate for $83.2M",
-    "summary": "British hedge fund manager Chris Rokos sold his Manalapan estate at 1370 South Ocean Boulevard for $83.2 million to BigOcean 3M LLC, a Delaware entity acting for a land trust. The 2.8-acre property has a 29,500 SF house and 300 feet of ocean frontage. A UK-registered entity paid $40 million in 2017. Bank of America provided the buyer a $58.2 million mortgage.",
-    "source": "The Real Deal",
-    "sourceUrl": "https://therealdeal.com/data/miami/2026/british-billionaire-chris-rokos-sells-manalapan-estate/",
-    "category": "Luxury",
-    "importance": "high"
-  },
-  {
-    "id": 181,
-    "date": "2026-10-08",
-    "title": "Freddie Mac: 30-Year Mortgage Rate Jumps 12 bps to 7.40%",
-    "summary": "Freddie Mac's Primary Mortgage Market Survey put the 30-year fixed-rate average at 7.40% as of October 8, 2026, up from 7.28% the prior week, a 12 basis-point increase. Mortgage News Daily's index showed 7.52% for the 30-year fixed and 7.65% for the jumbo on Oct. 9, which matters for financing on South Florida luxury purchases.",
-    "source": "Freddie Mac",
-    "sourceUrl": "https://www.freddiemac.com/pmms",
-    "category": "Market Data",
-    "importance": "medium"
-  },
-  {
-    "id": 180,
-    "date": "2026-10-08",
-    "title": "Foreclosure Suit Targets Pembroke Lakes Mall Over $260M Loan Default",
-    "summary": "Deutsche Bank sued over the $260 million, 2013-issued loan on the 748,800 SF Pembroke Lakes Mall in Pembroke Pines, which was not repaid at its March maturity and went to special servicing. The mall was appraised at $427 million in 2013 and $112 million as of April. It is 96% occupied; first-half NOI was $8.3 million against $3.9 million of debt service, but the 3.6% loan rate makes refinancing difficult.",
-    "source": "The Real Deal",
-    "sourceUrl": "https://therealdeal.com/miami/2026/10/08/pembroke-lakes-mall-faces-260-million-foreclosure/",
-    "category": "Commercial/CRE",
-    "importance": "high"
   }
 ]
