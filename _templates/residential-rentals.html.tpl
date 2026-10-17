@@ -456,6 +456,24 @@
     .footer-links { gap: 0.8rem 1.2rem; }
     .footer-links a { margin-left: 0; }
   }
+
+  /* Lead form (full list + weekly opt-in) */
+  .lf-wrap{max-width:760px;margin:0 auto;background:#fff;border:1px solid #e3e8f0;border-top:4px solid #2563eb;border-radius:14px;padding:2rem 1.5rem}
+  .lf-row{display:grid;grid-template-columns:1fr 1fr;gap:1rem}
+  @media (max-width:640px){.lf-row{grid-template-columns:1fr}}
+  .lf-group{display:flex;flex-direction:column;gap:.35rem;margin-bottom:1rem}
+  .lf-group label{font-size:.72rem;font-weight:600;letter-spacing:.08em;text-transform:uppercase;color:#334155}
+  .lf-group input,.lf-group select,.lf-group textarea{font:inherit;font-size:.95rem;padding:.7rem .8rem;border:1px solid #cbd5e1;border-radius:8px;background:#fff;color:#0f172a;min-height:44px}
+  .lf-group textarea{min-height:90px;resize:vertical}
+  .lf-check{display:flex;gap:.6rem;align-items:flex-start;font-size:.9rem;color:#1f2937;margin:.25rem 0 1rem}
+  .lf-check input{margin-top:.25rem;width:18px;height:18px;flex:0 0 auto}
+  .lf-sub{background:#eef4ff;border:1px solid #c7d7fb;border-radius:10px;padding:.9rem 1rem}
+  .lf-hp{position:absolute;left:-9999px;width:1px;height:1px;overflow:hidden}
+  .lf-error{display:none;color:#b91c1c;font-size:.9rem;margin-bottom:.75rem}
+  .lf-submit{width:100%;border:0;cursor:pointer;font:inherit;font-weight:600;font-size:1rem;padding:1rem;border-radius:999px;background:#2563eb;color:#fff}
+  .lf-fine{font-size:.75rem;color:#64748b;margin-top:.75rem;text-align:center}
+  .lf-success{text-align:center;padding:1rem 0}
+  .lf-success h3{font-family:'Cormorant Garamond',serif;font-size:1.8rem;color:#0f172a;margin-bottom:.5rem}
 </style>
 </head>
 <body>
@@ -548,7 +566,7 @@
     </div>
     <div class="hero-actions">
       <a href="#listings" class="btn-gold">Browse Listings</a>
-      <a href="https://calendar.app.google/Yv2c22sEEcKZuExq9" class="btn-outline">Schedule a Tour</a>
+      <a href="#get-list" class="btn-outline">Get the Full List</a>
     </div>
   </div>
 </section>
@@ -595,32 +613,130 @@
 
   <div style="text-align:center; padding: 1rem 0 2rem;">
     <p style="color:var(--gray); font-size:0.83rem; margin-bottom:1.2rem;">Showing {{CARD_COUNT}} highlighted listings. {{COUNT}} active listings match this search.</p>
-    <a href="#mls-search" class="btn-gold" style="margin-right:0.75rem;">See All {{COUNT}} Listings</a>
+    <a href="#get-list" class="btn-gold" style="margin-right:0.75rem;">Get the Full List</a>
     <a href="https://calendar.app.google/Yv2c22sEEcKZuExq9" class="btn-outline">Schedule a Call</a>
   </div>
 </section>
 
-<!-- FlexMLS share link for saved search WSS-RES-RENTALS: select ALL results, Share → Selected → Permalink. Refreshed weekly by the Tuesday regen. -->
-<section id="mls-search" style="padding-top:2rem;">
-  <div class="section-label">Live MLS Data · FlexMLS</div>
-  <h2>Search <em>All</em> Rentals</h2>
-  <p class="section-intro">Browse all {{COUNT}} matching listings below. Listing set as of {{UPDATED_DATE_LONG}}.</p>
+<!-- LEAD FORM: full list + optional weekly email of matching listings (FlexMLS saved search WSS-RES-RENTALS).
+     Posts to the Google Form "Real Estate Search Survey" (same form as buyersurvey.html / luxury-buyers.html).
+     Page, size/budget and the weekly opt-in are written into the notes field as tags so leads can be routed:
+     [PAGE: residential-rentals] [WEEKLY: YES|NO] [SEARCH: WSS-RES-RENTALS].
+     The share link below is revealed after submit. Tuesday regen replaces {{SHARE_URL}} with a fresh
+     Share → Selected → Permalink for ALL results of WSS-RES-RENTALS. -->
+<section id="get-list" style="padding-top:2rem;">
+  <div class="section-label">Free · Full List</div>
+  <h2>Get the <em>Full List</em></h2>
+  <p class="section-intro">All {{COUNT}} active rentals that match this search, plus an optional weekly email of new listings like these.</p>
 
-  <div class="mls-embed-section">
-    <div class="mls-embed-header">
-      <div class="mls-embed-title">FlexMLS Residential Rental Search · Palm Beach &amp; Broward</div>
-      <div class="mls-count-badge">{{COUNT}} Active Listings</div>
-    </div>
-    <div class="mls-iframe-wrap">
-      <!--
-        FlexMLS share link for saved search WSS-LUX-RENTALS (all 25 results selected, 10/14/2026).
-        This is a snapshot of the selected listings, not a live search: to refresh, re-run
-        WSS-LUX-RENTALS in FlexMLS, select all → Share → Selected → Permalink, and replace the src.
-      -->
-      <iframe src="{{SHARE_URL}}" title="FlexMLS Residential Rental Search · Palm Beach and Broward" allow="fullscreen" style="width:100%;height:100%;border:none;"></iframe>
-    </div>
+  <div class="lf-wrap">
+    <form id="lead-form" action="https://docs.google.com/forms/d/e/1FAIpQLSc_4iijBIY5rGh6rN4-hVVMkafqbgTgKDFd6f75A9aBMXmngw/formResponse" method="POST" target="lf_iframe" onsubmit="return savingsreLeadSubmit(this)" novalidate>
+      <div class="lf-row">
+        <div class="lf-group"><label for="lf_first">First name</label><input id="lf_first" type="text" name="entry.1278692118" autocomplete="given-name" required></div>
+        <div class="lf-group"><label for="lf_last">Last name</label><input id="lf_last" type="text" name="entry.1953954792" autocomplete="family-name"></div>
+      </div>
+      <div class="lf-row">
+        <div class="lf-group"><label for="lf_email">Email</label><input id="lf_email" type="email" name="emailAddress" autocomplete="email" required></div>
+        <div class="lf-group"><label for="lf_phone">Phone</label><input id="lf_phone" type="tel" name="entry.951643722" autocomplete="tel"></div>
+      </div>
+      <div class="lf-row">
+        <div class="lf-group"><label for="lf_where">Where are you looking?</label><input id="lf_where" type="text" name="entry.856250213" placeholder="e.g. Boca Raton, Delray Beach, Fort Lauderdale"></div>
+        <div class="lf-group">
+          <label for="lf_type">Property type</label>
+          <select id="lf_type" name="entry.700768458">
+            <option value="">Any</option>
+            <option>Single Family</option>
+            <option>Condo</option>
+            <option>Townhouse</option>
+            <option>Various - all above</option>
+          </select>
+        </div>
+      </div>
+      <div class="lf-row">
+        <div class="lf-group">
+          <label for="lf_budget">Monthly rent budget</label>
+          <select id="lf_budget">
+            <option value="">Not sure yet</option>
+            <option>Under $2,000</option>
+            <option>$2,000–$3,000</option>
+            <option>$3,000–$4,000</option>
+            <option>$4,000–$5,000</option>
+          </select>
+        </div>
+        <div class="lf-group">
+          <label for="lf_when">When do you need it?</label>
+          <select id="lf_when" name="entry.1232145576">
+            <option value="">Not sure yet</option>
+            <option>Right away</option><option>Next couple months</option><option>Longer term</option><option>Just looking for now</option>
+          </select>
+        </div>
+      </div>
+        <div class="lf-group">
+          <label for="lf_beds">Bedrooms</label>
+          <select id="lf_beds" name="entry.2086355335">
+            <option value="">Any</option><option>1</option><option>2</option><option>3</option><option>4</option>
+          </select>
+        </div>
+      <div class="lf-group"><label for="lf_extra">Anything else? (optional)</label><textarea id="lf_extra" placeholder="Move-in date, pets, parking, must-haves"></textarea></div>
+      <textarea name="entry.75457957" id="lf_notes" hidden></textarea>
+
+      <label class="lf-check lf-sub"><input type="checkbox" id="lf_weekly"> <span><strong>Yes, email me new listings like these each week.</strong> Unsubscribe any time.</span></label>
+
+      <div class="lf-hp" aria-hidden="true"><label>Leave blank<input type="text" id="lf_hp" autocomplete="off" tabindex="-1"></label></div>
+      <input type="hidden" name="entry.1001481582" value="web-ok">
+      <input type="hidden" name="entry.1475019219" id="lf_spam" value="">
+
+      <div class="lf-row">
+        <div class="lf-group"><label for="lf_human">Quick check: what is <span id="lf_a">3</span> + <span id="lf_b">4</span>?</label><input id="lf_human" type="text" inputmode="numeric" placeholder="Type the number"></div>
+      </div>
+      <label class="lf-check"><input type="checkbox" id="lf_consent"> <span>I agree to be contacted by Bill Seery, United Realty Group, about my search by email, phone or text.</span></label>
+
+      <div class="lf-error" id="lf_error" role="alert"></div>
+      <button type="submit" class="lf-submit">Send Me the Full List &rarr;</button>
+      <p class="lf-fine">Message and data rates may apply to texts.</p>
+
+      <div class="lf-success" id="lf_success" hidden>
+        <h3>Thanks, here&rsquo;s your list.</h3>
+        <p style="color:var(--gray);margin-bottom:1.2rem;">All {{COUNT}} listings are below. Bill will follow up shortly.</p>
+        <a href="{{SHARE_URL}}" class="btn-gold" target="_blank" rel="noopener">Open All {{COUNT}} Listings &#8599;</a>
+      </div>
+    </form>
+    <iframe name="lf_iframe" title="Form submission" style="display:none" aria-hidden="true" tabindex="-1"></iframe>
   </div>
 </section>
+<script>
+(function(){
+  var a=Math.floor(Math.random()*6)+2,b=Math.floor(Math.random()*6)+2;
+  document.getElementById('lf_a').textContent=a;document.getElementById('lf_b').textContent=b;
+  window.__lfAns=a+b;window.__lfLoad=Date.now();
+})();
+function savingsreLeadSubmit(form){
+  var err=document.getElementById('lf_error');err.style.display='none';
+  function fail(m){err.textContent=m;err.style.display='block';return false;}
+  if(document.getElementById('lf_hp').value) return false;
+  if(Date.now()-window.__lfLoad<4000) return fail('Please take a moment to complete the form.');
+  if(!document.getElementById('lf_first').value.trim()) return fail('Please enter your first name.');
+  if(!/^[^@\s]+@[^@\s]+\.[^@\s]+$/.test(document.getElementById('lf_email').value.trim())) return fail('Please enter a valid email.');
+  if(parseInt(document.getElementById('lf_human').value,10)!==window.__lfAns) return fail('Quick check answer is incorrect. Please try again.');
+  if(!document.getElementById('lf_consent').checked) return fail('Please tick the box to agree to be contacted.');
+  /* the Google Form's required spam-check question expects 7; only sent once the on-page check passes */
+  document.getElementById('lf_spam').value='7';
+  var tags=['[WEBVERIFIED via savingsre.com]','[PAGE: residential-rentals]','[WEEKLY: '+(document.getElementById('lf_weekly').checked?'YES':'NO')+']','[SEARCH: WSS-RES-RENTALS]'];
+  
+  var bud=document.getElementById('lf_budget').value; if(bud) tags.push('Monthly rent budget: '+bud);
+  var ex=document.getElementById('lf_extra').value.trim(); if(ex) tags.push('Notes: '+ex);
+  document.getElementById('lf_notes').value=tags.join(' ');
+  setTimeout(function(){
+    for(var i=0;i<form.elements.length;i++){ if(form.elements[i].type!=='submit') form.elements[i].disabled=true; }
+    form.querySelector('.lf-submit').style.display='none';
+    form.querySelector('.lf-fine').style.display='none';
+    document.getElementById('lf_success').hidden=false;
+    window.dataLayer=window.dataLayer||[];
+    window.dataLayer.push({event:'generate_lead',form_name:'residential-rentals',weekly_opt_in:document.getElementById('lf_weekly').checked});
+  },600);
+  return true;
+}
+</script>
 
 <!-- HOW IT WORKS -->
 <section id="how-it-works">
