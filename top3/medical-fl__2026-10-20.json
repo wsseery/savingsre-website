@@ -1,0 +1,225 @@
+{
+ "segment": "medical-fl",
+ "collection": "curated",
+ "template": "curated-generic",
+ "label": "Medical & Healthcare Office — Florida",
+ "tagline": "Top 10 · Florida statewide · medical / dental / healthcare office · ranked by cap rate",
+ "search_name": "Crexi (FL pull)",
+ "generated": "2026-10-20",
+ "pdf": "pdf/medical-fl__2026-10-20.pdf",
+ "expires": "2026-11-19",
+ "total_results": 10,
+ "metric_label": "Cap rate",
+ "methodology": "Crexi Florida pull 2026-10-20 via the Crexi asset API (POST /assets/search + 0.01 cap-bucket sweep to recover masked cap rates; per-asset detail endpoint for square footage, class and zoning). Florida office listings with medical, dental or healthcare use, ranked by recovered cap rate. Business-only, dispensary, veterinary and warehouse listings excluded. This run: 68 qualifying listings at 7%+ (20 at 8%+); top 10 shown.",
+ "items": [
+  {
+   "id": "medical-fl-2026-10-20-01",
+   "analytics_id": "A-01998",
+   "rank": 1,
+   "submarket": "Orlando",
+   "profile": "Medical / Healthcare Office",
+   "price_band": "$1.5M-$2M",
+   "cap_label": "~10.12% cap",
+   "desc": "Medical / Healthcare Office in Orlando; ~10.12% cap, ~6.6K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Medical / Healthcare Office, Orlando (~10.12% cap)",
+   "highlights": [
+    "Investor: ~18-20% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~6.6K sq ft",
+    "Class A",
+    "reported fully occupied"
+   ],
+   "inv_line": [
+    "~18-20% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "medical-fl-2026-10-20-02",
+   "analytics_id": "A-01999",
+   "rank": 2,
+   "submarket": "Orlando",
+   "profile": "Medical / Healthcare Office",
+   "price_band": "$3M-$4M",
+   "cap_label": "~9.64% cap",
+   "desc": "Medical / Healthcare Office in Orlando; ~9.64% cap, ~5.2K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Medical / Healthcare Office, Orlando (~9.64% cap)",
+   "highlights": [
+    "Investor: ~17-19% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~5.2K sq ft",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "~17-19% est. cash-on-cash (25% down, IO @ ~7%)",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "medical-fl-2026-10-20-03",
+   "analytics_id": "A-02000",
+   "rank": 3,
+   "submarket": "Palm Coast",
+   "profile": "Medical / Healthcare Office",
+   "price_band": "$1M-$1.5M",
+   "cap_label": "~9.63% cap",
+   "desc": "Medical / Healthcare Office in Palm Coast; ~9.63% cap, ~14.8K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Medical / Healthcare Office, Palm Coast (~9.63% cap)",
+   "highlights": [
+    "Investor: ~17-19% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~14.8K sq ft"
+   ],
+   "inv_line": [
+    "~17-19% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "medical-fl-2026-10-20-04",
+   "analytics_id": "A-02001",
+   "rank": 4,
+   "submarket": "Orange Park",
+   "profile": "Medical / Healthcare Office",
+   "price_band": "$500K-$1M",
+   "cap_label": "~9.58% cap",
+   "desc": "Medical / Healthcare Office in Orange Park; ~9.58% cap, ~3.1K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Medical / Healthcare Office, Orange Park (~9.58% cap)",
+   "highlights": [
+    "Investor: ~16-18% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~3.1K sq ft",
+    "reported fully occupied",
+    "90+ days on market"
+   ],
+   "inv_line": [
+    "~16-18% est. cash-on-cash (25% down, IO @ ~7%)",
+    "90+ days on market"
+   ]
+  },
+  {
+   "id": "medical-fl-2026-10-20-05",
+   "analytics_id": "A-02002",
+   "rank": 5,
+   "submarket": "Tampa",
+   "profile": "Medical / Healthcare Office",
+   "price_band": "$2M-$2.5M",
+   "cap_label": "~9.40% cap",
+   "desc": "Medical / Healthcare Office in Tampa; ~9.40% cap, ~13.5K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Medical / Healthcare Office, Tampa (~9.40% cap)",
+   "highlights": [
+    "Investor: ~16-18% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~13.5K sq ft",
+    "Class B",
+    "reported fully occupied",
+    "90+ days on market"
+   ],
+   "inv_line": [
+    "~16-18% est. cash-on-cash (25% down, IO @ ~7%)",
+    "90+ days on market"
+   ]
+  },
+  {
+   "id": "medical-fl-2026-10-20-06",
+   "analytics_id": "A-02003",
+   "rank": 6,
+   "submarket": "Jacksonville",
+   "profile": "Medical / Healthcare Office",
+   "price_band": "$1M-$1.5M",
+   "cap_label": "~8.60% cap",
+   "desc": "Medical / Healthcare Office in Jacksonville; ~8.60% cap, ~9.1K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Medical / Healthcare Office, Jacksonville (~8.60% cap)",
+   "highlights": [
+    "Investor: ~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~9.1K sq ft",
+    "Class B",
+    "reported fully occupied",
+    "recently listed"
+   ],
+   "inv_line": [
+    "~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "recently listed"
+   ]
+  },
+  {
+   "id": "medical-fl-2026-10-20-07",
+   "analytics_id": "A-02004",
+   "rank": 7,
+   "submarket": "Pensacola",
+   "profile": "Medical / Healthcare Office",
+   "price_band": "$0K-$500K",
+   "cap_label": "~8.55% cap",
+   "desc": "Medical / Healthcare Office in Pensacola; ~8.55% cap, ~3.4K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Medical / Healthcare Office, Pensacola (~8.55% cap)",
+   "highlights": [
+    "Investor: ~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~3.4K sq ft",
+    "Class C",
+    "price reduced",
+    "reported fully occupied",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "price reduced",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "medical-fl-2026-10-20-08",
+   "analytics_id": "A-02005",
+   "rank": 8,
+   "submarket": "Jacksonville",
+   "profile": "Medical / Healthcare Office",
+   "price_band": "$0K-$500K",
+   "cap_label": "~8.54% cap",
+   "desc": "Medical / Healthcare Office in Jacksonville; ~8.54% cap, ~2.7K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Medical / Healthcare Office, Jacksonville (~8.54% cap)",
+   "highlights": [
+    "Investor: ~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~2.7K sq ft",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "medical-fl-2026-10-20-09",
+   "analytics_id": "A-02006",
+   "rank": 9,
+   "submarket": "Englewood",
+   "profile": "Medical / Healthcare Office",
+   "price_band": "$500K-$1M",
+   "cap_label": "~8.50% cap",
+   "desc": "Medical / Healthcare Office in Englewood; ~8.50% cap, ~3.9K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Medical / Healthcare Office, Englewood (~8.50% cap)",
+   "highlights": [
+    "Investor: ~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~3.9K sq ft",
+    "Class A",
+    "reported fully occupied",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "medical-fl-2026-10-20-10",
+   "analytics_id": "A-02007",
+   "rank": 10,
+   "submarket": "Jupiter",
+   "profile": "Medical / Healthcare Office",
+   "price_band": "$11M-$12M",
+   "cap_label": "~8.50% cap",
+   "desc": "Medical / Healthcare Office in Jupiter; ~8.50% cap, ~44.9K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Medical / Healthcare Office, Jupiter (~8.50% cap)",
+   "highlights": [
+    "Investor: ~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~44.9K sq ft",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "180+ days on market"
+   ]
+  }
+ ]
+}

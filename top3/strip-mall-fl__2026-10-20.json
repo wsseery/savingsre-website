@@ -1,0 +1,233 @@
+{
+ "segment": "strip-mall-fl",
+ "collection": "curated",
+ "template": "curated-generic",
+ "label": "Strip & Neighborhood Retail Centers — Florida",
+ "tagline": "Top 10 · Florida statewide · multi-tenant strip / neighborhood centers · ranked by cap rate",
+ "search_name": "Crexi (FL pull)",
+ "generated": "2026-10-20",
+ "pdf": "pdf/strip-mall-fl__2026-10-20.pdf",
+ "expires": "2026-11-19",
+ "total_results": 10,
+ "metric_label": "Cap rate",
+ "methodology": "Crexi Florida pull 2026-10-20 via the Crexi asset API (POST /assets/search + 0.01 cap-bucket sweep to recover masked cap rates; per-asset detail endpoint for square footage, class and zoning). Florida multi-tenant strip and neighborhood shopping centers only (6,000+ sq ft; no single-tenant, retail condos, mixed-use or business-plus-building sales), ranked by recovered cap rate; 8% floor relaxed to 7% where thin. This run: 24 qualifying centers at 7%+ (10 at 8%+); top 10 shown.",
+ "items": [
+  {
+   "id": "strip-mall-fl-2026-10-20-01",
+   "analytics_id": "A-01988",
+   "rank": 1,
+   "submarket": "Bunnell",
+   "profile": "Multi-Tenant Retail Center",
+   "price_band": "$1.5M-$2M",
+   "cap_label": "~10.77% cap",
+   "desc": "Multi-Tenant Retail Center in Bunnell; ~10.77% cap, ~10.7K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Multi-Tenant Retail Center, Bunnell (~10.77% cap)",
+   "highlights": [
+    "Investor: ~21-23% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~10.7K sq ft",
+    "Class A",
+    "value-add / below-market rents",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "~21-23% est. cash-on-cash (25% down, IO @ ~7%)",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "strip-mall-fl-2026-10-20-02",
+   "analytics_id": "A-01989",
+   "rank": 2,
+   "submarket": "Ocoee",
+   "profile": "Multi-Tenant Retail Center",
+   "price_band": "$7M-$8M",
+   "cap_label": "~9.27% cap",
+   "desc": "Multi-Tenant Retail Center in Ocoee; ~9.27% cap, ~61.1K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Multi-Tenant Retail Center, Ocoee (~9.27% cap)",
+   "highlights": [
+    "Investor: ~15-17% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~61.1K sq ft",
+    "value-add / below-market rents",
+    "reported fully occupied",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "~15-17% est. cash-on-cash (25% down, IO @ ~7%)",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "strip-mall-fl-2026-10-20-03",
+   "analytics_id": "A-01990",
+   "rank": 3,
+   "submarket": "Ocala",
+   "profile": "Multi-Tenant Retail Center",
+   "price_band": "$7M-$8M",
+   "cap_label": "~9.00% cap",
+   "desc": "Multi-Tenant Retail Center in Ocala; ~9.00% cap, ~86.0K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Multi-Tenant Retail Center, Ocala (~9.00% cap)",
+   "highlights": [
+    "Investor: ~14-16% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~86.0K sq ft",
+    "Class B",
+    "value-add / below-market rents",
+    "90+ days on market"
+   ],
+   "inv_line": [
+    "~14-16% est. cash-on-cash (25% down, IO @ ~7%)",
+    "90+ days on market"
+   ]
+  },
+  {
+   "id": "strip-mall-fl-2026-10-20-04",
+   "analytics_id": "A-01991",
+   "rank": 4,
+   "submarket": "Lake Wales",
+   "profile": "Multi-Tenant Retail Center",
+   "price_band": "$11M-$12M",
+   "cap_label": "~9.00% cap",
+   "desc": "Multi-Tenant Retail Center in Lake Wales; ~9.00% cap, ~100.8K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Multi-Tenant Retail Center, Lake Wales (~9.00% cap)",
+   "highlights": [
+    "Investor: ~14-16% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~100.8K sq ft",
+    "Class B",
+    "value-add / below-market rents",
+    "90+ days on market"
+   ],
+   "inv_line": [
+    "~14-16% est. cash-on-cash (25% down, IO @ ~7%)",
+    "90+ days on market"
+   ]
+  },
+  {
+   "id": "strip-mall-fl-2026-10-20-05",
+   "analytics_id": "A-01992",
+   "rank": 5,
+   "submarket": "Fort Myers",
+   "profile": "Multi-Tenant Retail Center",
+   "price_band": "$4M-$5M",
+   "cap_label": "~8.61% cap",
+   "desc": "Multi-Tenant Retail Center in Fort Myers; ~8.61% cap, ~31.6K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Multi-Tenant Retail Center, Fort Myers (~8.61% cap)",
+   "highlights": [
+    "Investor: ~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~31.6K sq ft",
+    "Class B",
+    "value-add / below-market rents",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "strip-mall-fl-2026-10-20-06",
+   "analytics_id": "A-01993",
+   "rank": 6,
+   "submarket": "Kissimmee",
+   "profile": "Multi-Tenant Retail Center",
+   "price_band": "$2.5M-$3M",
+   "cap_label": "~8.38% cap",
+   "desc": "Multi-Tenant Retail Center in Kissimmee; ~8.38% cap, ~15.0K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Multi-Tenant Retail Center, Kissimmee (~8.38% cap)",
+   "highlights": [
+    "Investor: ~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~15.0K sq ft",
+    "value-add / below-market rents",
+    "reported fully occupied"
+   ],
+   "inv_line": [
+    "~12-14% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "strip-mall-fl-2026-10-20-07",
+   "analytics_id": "A-01994",
+   "rank": 7,
+   "submarket": "Jacksonville",
+   "profile": "Multi-Tenant Retail Center",
+   "price_band": "$2.5M-$3M",
+   "cap_label": "~8.15% cap",
+   "desc": "Multi-Tenant Retail Center in Jacksonville; ~8.15% cap, ~19.2K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Multi-Tenant Retail Center, Jacksonville (~8.15% cap)",
+   "highlights": [
+    "Investor: ~11-13% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~19.2K sq ft",
+    "value-add / below-market rents",
+    "90+ days on market"
+   ],
+   "inv_line": [
+    "~11-13% est. cash-on-cash (25% down, IO @ ~7%)",
+    "90+ days on market"
+   ]
+  },
+  {
+   "id": "strip-mall-fl-2026-10-20-08",
+   "analytics_id": "A-01995",
+   "rank": 8,
+   "submarket": "Longwood",
+   "profile": "Multi-Tenant Retail Center",
+   "price_band": "$2M-$2.5M",
+   "cap_label": "~8.00% cap",
+   "desc": "Multi-Tenant Retail Center in Longwood; ~8.00% cap, ~9.0K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Multi-Tenant Retail Center, Longwood (~8.00% cap)",
+   "highlights": [
+    "Investor: ~10-12% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~9.0K sq ft",
+    "seller financing available",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "~10-12% est. cash-on-cash (25% down, IO @ ~7%)",
+    "seller financing available",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "strip-mall-fl-2026-10-20-09",
+   "analytics_id": "A-01996",
+   "rank": 9,
+   "submarket": "Palatka",
+   "profile": "Multi-Tenant Retail Center",
+   "price_band": "$10M-$11M",
+   "cap_label": "~8.00% cap",
+   "desc": "Multi-Tenant Retail Center in Palatka; ~8.00% cap, ~209.4K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Multi-Tenant Retail Center, Palatka (~8.00% cap)",
+   "highlights": [
+    "Investor: ~10-12% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~209.4K sq ft",
+    "value-add / below-market rents",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "~10-12% est. cash-on-cash (25% down, IO @ ~7%)",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "strip-mall-fl-2026-10-20-10",
+   "analytics_id": "A-01997",
+   "rank": 10,
+   "submarket": "Jacksonville",
+   "profile": "Multi-Tenant Retail Center",
+   "price_band": "$12M-$13M",
+   "cap_label": "~8.00% cap",
+   "desc": "Multi-Tenant Retail Center in Jacksonville; ~8.00% cap, ~98.2K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Multi-Tenant Retail Center, Jacksonville (~8.00% cap)",
+   "highlights": [
+    "Investor: ~10-12% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~98.2K sq ft",
+    "Class B",
+    "value-add / below-market rents",
+    "reported fully occupied",
+    "recently listed"
+   ],
+   "inv_line": [
+    "~10-12% est. cash-on-cash (25% down, IO @ ~7%)",
+    "recently listed"
+   ]
+  }
+ ]
+}

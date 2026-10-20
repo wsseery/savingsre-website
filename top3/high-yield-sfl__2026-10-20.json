@@ -1,0 +1,231 @@
+{
+ "segment": "high-yield-sfl",
+ "collection": "curated",
+ "template": "curated-generic",
+ "label": "High-Yield Multifamily — 8%+ Cap",
+ "tagline": "Top 10 · Florida statewide · 5-25 units · $1-5M · ranked by cap rate",
+ "search_name": "Crexi (FL pull)",
+ "generated": "2026-10-20",
+ "pdf": "pdf/high-yield-sfl__2026-10-20.pdf",
+ "expires": "2026-11-19",
+ "total_results": 10,
+ "metric_label": "Cap rate",
+ "methodology": "Crexi Florida pull 2026-10-20 via the Crexi asset API (POST /assets/search + 0.01 cap-bucket sweep to recover masked cap rates; per-asset detail endpoint for square footage, class and zoning). 5-25 unit multifamily, $1-5M, cap floor 8% (relaxed to 7% where thin). Hospitality/storage/development, RV/mobile-home mixes and 'subject-to' structured listings excluded; implausible caps and unreliable unit counts dropped. This run: 22 statewide listings met 5-25 units / $1-5M / 7%+ after screens (9 at 8%+); top 10 shown.",
+ "items": [
+  {
+   "id": "high-yield-sfl-2026-10-20-01",
+   "analytics_id": "A-01958",
+   "rank": 1,
+   "submarket": "Daytona Beach",
+   "profile": "23-Unit Multifamily",
+   "price_band": "$2M-$2.5M",
+   "cap_label": "~11.45% cap",
+   "desc": "23-Unit Multifamily in Daytona Beach; ~11.45% cap, 23 units, ~7.0K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 23-Unit Multifamily, Daytona Beach (~11.45% cap)",
+   "highlights": [
+    "Investor: ~24-26% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~7.0K sq ft",
+    "value-add / below-market rents"
+   ],
+   "inv_line": [
+    "~24-26% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "high-yield-sfl-2026-10-20-02",
+   "analytics_id": "A-01959",
+   "rank": 2,
+   "submarket": "Miami",
+   "profile": "10-Unit Multifamily",
+   "price_band": "$3M-$4M",
+   "cap_label": "~9.50% cap",
+   "desc": "10-Unit Multifamily in Miami; ~9.50% cap, 10 units, ~5.6K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 10-Unit Multifamily, Miami (~9.50% cap)",
+   "highlights": [
+    "Investor: ~16-18% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~5.6K sq ft",
+    "Class B"
+   ],
+   "inv_line": [
+    "~16-18% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "high-yield-sfl-2026-10-20-03",
+   "analytics_id": "A-01960",
+   "rank": 3,
+   "submarket": "Fort Lauderdale",
+   "profile": "9-Unit Multifamily",
+   "price_band": "$2M-$2.5M",
+   "cap_label": "~9.38% cap",
+   "desc": "9-Unit Multifamily in Fort Lauderdale; ~9.38% cap, 9 units, ~3.8K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 9-Unit Multifamily, Fort Lauderdale (~9.38% cap)",
+   "highlights": [
+    "Investor: ~16-18% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~3.8K sq ft",
+    "Class B",
+    "price reduced",
+    "value-add / below-market rents",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "~16-18% est. cash-on-cash (25% down, IO @ ~7%)",
+    "price reduced",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "high-yield-sfl-2026-10-20-04",
+   "analytics_id": "A-01961",
+   "rank": 4,
+   "submarket": "Panama City",
+   "profile": "14-Unit Multifamily",
+   "price_band": "$1M-$1.5M",
+   "cap_label": "~9.25% cap",
+   "desc": "14-Unit Multifamily in Panama City; ~9.25% cap, 14 units, ~4.3K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 14-Unit Multifamily, Panama City (~9.25% cap)",
+   "highlights": [
+    "Investor: ~15-17% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~4.3K sq ft",
+    "Class B"
+   ],
+   "inv_line": [
+    "~15-17% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "high-yield-sfl-2026-10-20-05",
+   "analytics_id": "A-01962",
+   "rank": 5,
+   "submarket": "Hollywood",
+   "profile": "5-Unit Multifamily",
+   "price_band": "$1M-$1.5M",
+   "cap_label": "~8.69% cap",
+   "desc": "5-Unit Multifamily in Hollywood; ~8.69% cap, 5 units, ~2.6K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 5-Unit Multifamily, Hollywood (~8.69% cap)",
+   "highlights": [
+    "Investor: ~13-15% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~2.6K sq ft",
+    "90+ days on market"
+   ],
+   "inv_line": [
+    "~13-15% est. cash-on-cash (25% down, IO @ ~7%)",
+    "90+ days on market"
+   ]
+  },
+  {
+   "id": "high-yield-sfl-2026-10-20-06",
+   "analytics_id": "A-01963",
+   "rank": 6,
+   "submarket": "Fort Lauderdale",
+   "profile": "6-Unit Multifamily",
+   "price_band": "$1.5M-$2M",
+   "cap_label": "~8.58% cap",
+   "desc": "6-Unit Multifamily in Fort Lauderdale; ~8.58% cap, 6 units, ~2.8K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 6-Unit Multifamily, Fort Lauderdale (~8.58% cap)",
+   "highlights": [
+    "Investor: ~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~2.8K sq ft",
+    "Class B",
+    "price reduced",
+    "value-add / below-market rents",
+    "90+ days on market"
+   ],
+   "inv_line": [
+    "~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "price reduced",
+    "90+ days on market"
+   ]
+  },
+  {
+   "id": "high-yield-sfl-2026-10-20-07",
+   "analytics_id": "A-01964",
+   "rank": 7,
+   "submarket": "Lehigh Acres",
+   "profile": "10-Unit Rental Portfolio",
+   "price_band": "$2M-$2.5M",
+   "cap_label": "~8.48% cap",
+   "desc": "10-Unit Rental Portfolio in Lehigh Acres; ~8.48% cap, 10 units, ~14.0K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 10-Unit Rental Portfolio, Lehigh Acres (~8.48% cap)",
+   "highlights": [
+    "Investor: ~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~14.0K sq ft",
+    "Class A",
+    "Opportunity Zone",
+    "value-add / below-market rents",
+    "reported fully occupied"
+   ],
+   "inv_line": [
+    "~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Opportunity Zone",
+    "90+ days on market"
+   ]
+  },
+  {
+   "id": "high-yield-sfl-2026-10-20-08",
+   "analytics_id": "A-01965",
+   "rank": 8,
+   "submarket": "St. Petersburg",
+   "profile": "24-Unit Multifamily",
+   "price_band": "$3M-$4M",
+   "cap_label": "~8.44% cap",
+   "desc": "24-Unit Multifamily in St. Petersburg; ~8.44% cap, 24 units, ~18.9K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 24-Unit Multifamily, St. Petersburg (~8.44% cap)",
+   "highlights": [
+    "Investor: ~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~18.9K sq ft",
+    "Class A",
+    "seller financing available",
+    "value-add / below-market rents",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "seller financing available",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "high-yield-sfl-2026-10-20-09",
+   "analytics_id": "A-01966",
+   "rank": 9,
+   "submarket": "Marianna",
+   "profile": "17-Unit Multifamily",
+   "price_band": "$1M-$1.5M",
+   "cap_label": "~8.09% cap",
+   "desc": "17-Unit Multifamily in Marianna; ~8.09% cap, 17 units. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 17-Unit Multifamily, Marianna (~8.09% cap)",
+   "highlights": [
+    "Investor: ~10-12% est. cash-on-cash (25% down, IO @ ~7%)",
+    "reported fully occupied",
+    "recently listed"
+   ],
+   "inv_line": [
+    "~10-12% est. cash-on-cash (25% down, IO @ ~7%)",
+    "recently listed"
+   ]
+  },
+  {
+   "id": "high-yield-sfl-2026-10-20-10",
+   "analytics_id": "A-01967",
+   "rank": 10,
+   "submarket": "Green Cove Springs",
+   "profile": "17-Unit Multifamily",
+   "price_band": "$2.5M-$3M",
+   "cap_label": "~7.80% cap",
+   "desc": "17-Unit Multifamily in Green Cove Springs; ~7.80% cap, 17 units, ~18.4K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 17-Unit Multifamily, Green Cove Springs (~7.80% cap)",
+   "highlights": [
+    "Investor: ~9-11% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~18.4K sq ft",
+    "Class B",
+    "value-add / below-market rents",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "~9-11% est. cash-on-cash (25% down, IO @ ~7%)",
+    "180+ days on market"
+   ]
+  }
+ ]
+}

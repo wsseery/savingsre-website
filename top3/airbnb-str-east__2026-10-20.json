@@ -1,0 +1,169 @@
+{
+ "segment": "airbnb-str-east",
+ "collection": "weekly",
+ "template": "str-airbnb",
+ "label": "Top Airbnb / STR — East Coast",
+ "tagline": "Delray · Deerfield · Ft. Lauderdale · Pompano · Hollywood · Lake Worth Beach · LBTS · ranked by est. net STR yield",
+ "search_name": "WSS-STR-airbnb-east",
+ "generated": "2026-10-20",
+ "pdf": "pdf/airbnb-str-east__2026-10-20.pdf",
+ "expires": "2026-11-19",
+ "total_results": 8,
+ "metric_label": "Est. net STR yield",
+ "methodology": "Live Beaches MLS pull 2026-10-20 (WSS-STR-airbnb-east), 25 results; 8 in the seven target cities, all shown. Estimated NET STR yield = (city ADR x 65% occupancy x 365 x units / list price) x 60% to allow for operating costs (cleaning, platform fees, utilities, management, insurance, taxes). This is a model estimate, NOT actual or broker-reported income. Verify STR permitting before relying on it.",
+ "items": [
+  {
+   "id": "airbnb-str-east-2026-10-20-01",
+   "analytics_id": "A-01950",
+   "rank": 1,
+   "submarket": "Hollywood",
+   "profile": "3-Unit Triplex",
+   "price_band": "$500K-$1M",
+   "cap_label": "~11% est. net STR yield",
+   "desc": "3-Unit Triplex in Hollywood; ~11% est. net STR yield (model estimate, not actual). Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 3-Unit Triplex, Hollywood (~11% est. net STR yield)",
+   "highlights": [
+    "Investor: Yield shown is an ESTIMATED NET STR yield (model gross × 60%) · ~65% occ model · not actual income; verify STR permitting",
+    "~$175 ADR model · 3 units",
+    "Built 1950s"
+   ],
+   "inv_line": [
+    "Yield shown is an ESTIMATED NET STR yield (model gross × 60%) · ~65% occ model · not actual income; verify STR permitting"
+   ]
+  },
+  {
+   "id": "airbnb-str-east-2026-10-20-02",
+   "analytics_id": "A-01951",
+   "rank": 2,
+   "submarket": "Fort Lauderdale",
+   "profile": "3-Unit Triplex",
+   "price_band": "$500K-$1M",
+   "cap_label": "~11% est. net STR yield",
+   "desc": "3-Unit Triplex in Fort Lauderdale; ~11% est. net STR yield (model estimate, not actual). Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 3-Unit Triplex, Fort Lauderdale (~11% est. net STR yield)",
+   "highlights": [
+    "Investor: Yield shown is an ESTIMATED NET STR yield (model gross × 60%) · ~65% occ model · not actual income; verify STR permitting",
+    "~$190 ADR model · 3 units",
+    "Built 1950s"
+   ],
+   "inv_line": [
+    "Yield shown is an ESTIMATED NET STR yield (model gross × 60%) · ~65% occ model · not actual income; verify STR permitting"
+   ]
+  },
+  {
+   "id": "airbnb-str-east-2026-10-20-03",
+   "analytics_id": "A-01952",
+   "rank": 3,
+   "submarket": "Fort Lauderdale",
+   "profile": "4-Unit Fourplex",
+   "price_band": "$1M-$1.5M",
+   "cap_label": "~9% est. net STR yield",
+   "desc": "4-Unit Fourplex in Fort Lauderdale; ~9% est. net STR yield (model estimate, not actual). Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 4-Unit Fourplex, Fort Lauderdale (~9% est. net STR yield)",
+   "highlights": [
+    "Investor: Yield shown is an ESTIMATED NET STR yield (model gross × 60%) · ~65% occ model · not actual income; verify STR permitting",
+    "~$190 ADR model · 4 units",
+    "Built 1960s"
+   ],
+   "inv_line": [
+    "Yield shown is an ESTIMATED NET STR yield (model gross × 60%) · ~65% occ model · not actual income; verify STR permitting"
+   ]
+  },
+  {
+   "id": "airbnb-str-east-2026-10-20-04",
+   "analytics_id": "A-01953",
+   "rank": 4,
+   "submarket": "Fort Lauderdale",
+   "profile": "4-Unit Multifamily (duplexes)",
+   "price_band": "$1M-$1.5M",
+   "cap_label": "~8% est. net STR yield",
+   "desc": "4-Unit Multifamily (duplexes) in Fort Lauderdale; ~8% est. net STR yield (model estimate, not actual). Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 4-Unit Multifamily (duplexes), Fort Lauderdale (~8% est. net STR yield)",
+   "highlights": [
+    "Investor: Yield shown is an ESTIMATED NET STR yield (model gross × 60%) · ~65% occ model · not actual income; verify STR permitting",
+    "~$190 ADR model · 4 units",
+    "Built 1960s"
+   ],
+   "inv_line": [
+    "Yield shown is an ESTIMATED NET STR yield (model gross × 60%) · ~65% occ model · not actual income; verify STR permitting"
+   ]
+  },
+  {
+   "id": "airbnb-str-east-2026-10-20-05",
+   "analytics_id": "A-01954",
+   "rank": 5,
+   "submarket": "Fort Lauderdale",
+   "profile": "4-Unit Fourplex",
+   "price_band": "$1M-$1.5M",
+   "cap_label": "~8% est. net STR yield",
+   "desc": "4-Unit Fourplex in Fort Lauderdale; ~8% est. net STR yield (model estimate, not actual). Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 4-Unit Fourplex, Fort Lauderdale (~8% est. net STR yield)",
+   "highlights": [
+    "Investor: Yield shown is an ESTIMATED NET STR yield (model gross × 60%) · ~65% occ model · not actual income; verify STR permitting",
+    "~$190 ADR model · 4 units",
+    "Built 1950s"
+   ],
+   "inv_line": [
+    "Yield shown is an ESTIMATED NET STR yield (model gross × 60%) · ~65% occ model · not actual income; verify STR permitting"
+   ]
+  },
+  {
+   "id": "airbnb-str-east-2026-10-20-06",
+   "analytics_id": "A-01955",
+   "rank": 6,
+   "submarket": "Fort Lauderdale",
+   "profile": "3-Unit Triplex",
+   "price_band": "$1M-$1.5M",
+   "cap_label": "~6% est. net STR yield",
+   "desc": "3-Unit Triplex in Fort Lauderdale; ~6% est. net STR yield (model estimate, not actual). Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 3-Unit Triplex, Fort Lauderdale (~6% est. net STR yield)",
+   "highlights": [
+    "Investor: Yield shown is an ESTIMATED NET STR yield (model gross × 60%) · ~65% occ model · not actual income; verify STR permitting",
+    "~$190 ADR model · 3 units",
+    "Built 1960s"
+   ],
+   "inv_line": [
+    "Yield shown is an ESTIMATED NET STR yield (model gross × 60%) · ~65% occ model · not actual income; verify STR permitting"
+   ]
+  },
+  {
+   "id": "airbnb-str-east-2026-10-20-07",
+   "analytics_id": "A-01956",
+   "rank": 7,
+   "submarket": "Fort Lauderdale",
+   "profile": "2-Unit Duplex",
+   "price_band": "$1M-$1.5M",
+   "cap_label": "~5% est. net STR yield",
+   "desc": "2-Unit Duplex in Fort Lauderdale; ~5% est. net STR yield (model estimate, not actual). Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 2-Unit Duplex, Fort Lauderdale (~5% est. net STR yield)",
+   "highlights": [
+    "Investor: Yield shown is an ESTIMATED NET STR yield (model gross × 60%) · ~65% occ model · not actual income; verify STR permitting",
+    "~$190 ADR model · 2 units",
+    "Built 1960s",
+    "new listing"
+   ],
+   "inv_line": [
+    "Yield shown is an ESTIMATED NET STR yield (model gross × 60%) · ~65% occ model · not actual income; verify STR permitting"
+   ]
+  },
+  {
+   "id": "airbnb-str-east-2026-10-20-08",
+   "analytics_id": "A-01957",
+   "rank": 8,
+   "submarket": "Fort Lauderdale",
+   "profile": "2-Unit Duplex",
+   "price_band": "$1M-$1.5M",
+   "cap_label": "~4% est. net STR yield",
+   "desc": "2-Unit Duplex in Fort Lauderdale; ~4% est. net STR yield (model estimate, not actual). Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 2-Unit Duplex, Fort Lauderdale (~4% est. net STR yield)",
+   "highlights": [
+    "Investor: Yield shown is an ESTIMATED NET STR yield (model gross × 60%) · ~65% occ model · not actual income; verify STR permitting",
+    "~$190 ADR model · 2 units",
+    "Built 1960s"
+   ],
+   "inv_line": [
+    "Yield shown is an ESTIMATED NET STR yield (model gross × 60%) · ~65% occ model · not actual income; verify STR permitting"
+   ]
+  }
+ ]
+}

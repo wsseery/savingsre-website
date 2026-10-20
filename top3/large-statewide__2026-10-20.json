@@ -1,0 +1,218 @@
+{
+ "segment": "large-statewide",
+ "collection": "curated",
+ "template": "curated-generic",
+ "label": "Larger Investments — 40+ Units",
+ "tagline": "Top 10 · Florida statewide · 40+ unit apartment communities · ranked by scale",
+ "search_name": "Crexi (FL pull)",
+ "generated": "2026-10-20",
+ "pdf": "pdf/large-statewide__2026-10-20.pdf",
+ "expires": "2026-11-19",
+ "total_results": 10,
+ "metric_label": "Unit count",
+ "methodology": "Crexi Florida pull 2026-10-20 via the Crexi asset API (POST /assets/search + 0.01 cap-bucket sweep to recover masked cap rates; per-asset detail endpoint for square footage, class and zoning). Florida statewide apartment communities of 40+ units, ranked by scale. Development sites, entitled land, approved-unit plays, single-family rental portfolios, office/redevelopment plays, sub-$40K/unit offerings and listings with unreliable unit counts excluded; unpriced offerings shown as Price on request. This run: 33 qualifying listings.",
+ "items": [
+  {
+   "id": "large-statewide-2026-10-20-01",
+   "analytics_id": "A-01968",
+   "rank": 1,
+   "submarket": "Miami Gardens",
+   "profile": "491-Unit Apartment Community",
+   "price_band": "Price on request",
+   "cap_label": "491 units",
+   "desc": "491-Unit Apartment Community in Miami Gardens; ~6.00% cap, 491 units, ~336.5K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 491-Unit Apartment Community, Miami Gardens (491 units)",
+   "highlights": [
+    "Investor: ~2-4% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~336.5K sq ft",
+    "Class B",
+    "Opportunity Zone",
+    "value-add / below-market rents"
+   ],
+   "inv_line": [
+    "~2-4% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Opportunity Zone"
+   ]
+  },
+  {
+   "id": "large-statewide-2026-10-20-02",
+   "analytics_id": "A-01969",
+   "rank": 2,
+   "submarket": "Jacksonville",
+   "profile": "360-Unit Apartment Community",
+   "price_band": "Price on request",
+   "cap_label": "360 units",
+   "desc": "360-Unit Apartment Community in Jacksonville; 360 units, ~306.1K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 360-Unit Apartment Community, Jacksonville (360 units)",
+   "highlights": [
+    "~306.1K sq ft"
+   ],
+   "inv_line": []
+  },
+  {
+   "id": "large-statewide-2026-10-20-03",
+   "analytics_id": "A-01970",
+   "rank": 3,
+   "submarket": "Pine Hills",
+   "profile": "330-Unit Apartment Community",
+   "price_band": "$54M-$56M",
+   "cap_label": "330 units",
+   "desc": "330-Unit Apartment Community in Pine Hills; ~6.57% cap, 330 units, ~256.7K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 330-Unit Apartment Community, Pine Hills (330 units)",
+   "highlights": [
+    "Investor: ~4-6% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~256.7K sq ft",
+    "Class C",
+    "value-add / below-market rents"
+   ],
+   "inv_line": [
+    "~4-6% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "large-statewide-2026-10-20-04",
+   "analytics_id": "A-01971",
+   "rank": 4,
+   "submarket": "Ocala",
+   "profile": "240-Unit Apartment Community",
+   "price_band": "Price on request",
+   "cap_label": "240 units",
+   "desc": "240-Unit Apartment Community in Ocala; 240 units, ~600.0K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 240-Unit Apartment Community, Ocala (240 units)",
+   "highlights": [
+    "~600.0K sq ft",
+    "Class A",
+    "recently listed"
+   ],
+   "inv_line": [
+    "recently listed"
+   ]
+  },
+  {
+   "id": "large-statewide-2026-10-20-05",
+   "analytics_id": "A-01972",
+   "rank": 5,
+   "submarket": "Tallahassee",
+   "profile": "200-Unit Apartment Community",
+   "price_band": "$28M-$30M",
+   "cap_label": "200 units",
+   "desc": "200-Unit Apartment Community in Tallahassee; ~7.79% cap, 200 units, ~200.6K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 200-Unit Apartment Community, Tallahassee (200 units)",
+   "highlights": [
+    "Investor: ~9-11% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~200.6K sq ft",
+    "Class B",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "~9-11% est. cash-on-cash (25% down, IO @ ~7%)",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "large-statewide-2026-10-20-06",
+   "analytics_id": "A-01973",
+   "rank": 6,
+   "submarket": "Lauderhill",
+   "profile": "192-Unit Apartment Community",
+   "price_band": "$44M-$46M",
+   "cap_label": "192 units",
+   "desc": "192-Unit Apartment Community in Lauderhill; ~5.85% cap, 192 units, ~179.2K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 192-Unit Apartment Community, Lauderhill (192 units)",
+   "highlights": [
+    "Investor: ~1-3% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~179.2K sq ft",
+    "Class B",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "~1-3% est. cash-on-cash (25% down, IO @ ~7%)",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "large-statewide-2026-10-20-07",
+   "analytics_id": "A-01974",
+   "rank": 7,
+   "submarket": "Naples",
+   "profile": "188-Unit Apartment Community",
+   "price_band": "Price on request",
+   "cap_label": "188 units",
+   "desc": "188-Unit Apartment Community in Naples; 188 units. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 188-Unit Apartment Community, Naples (188 units)",
+   "highlights": [
+    "value-add / below-market rents",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "large-statewide-2026-10-20-08",
+   "analytics_id": "A-01975",
+   "rank": 8,
+   "submarket": "Orlando",
+   "profile": "165-Unit Apartment Community",
+   "price_band": "$20M-$21M",
+   "cap_label": "165 units",
+   "desc": "165-Unit Apartment Community in Orlando; 165 units, ~92.6K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 165-Unit Apartment Community, Orlando (165 units)",
+   "highlights": [
+    "~92.6K sq ft",
+    "Class C",
+    "Opportunity Zone",
+    "assumable financing",
+    "value-add / below-market rents",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "Opportunity Zone",
+    "assumable financing",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "large-statewide-2026-10-20-09",
+   "analytics_id": "A-01976",
+   "rank": 9,
+   "submarket": "Bradenton",
+   "profile": "152-Unit Apartment Community",
+   "price_band": "$28M-$30M",
+   "cap_label": "152 units",
+   "desc": "152-Unit Apartment Community in Bradenton; 152 units, ~151.2K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 152-Unit Apartment Community, Bradenton (152 units)",
+   "highlights": [
+    "~151.2K sq ft",
+    "Class B",
+    "assumable financing",
+    "value-add / below-market rents",
+    "90+ days on market"
+   ],
+   "inv_line": [
+    "assumable financing",
+    "90+ days on market"
+   ]
+  },
+  {
+   "id": "large-statewide-2026-10-20-10",
+   "analytics_id": "A-01977",
+   "rank": 10,
+   "submarket": "Hialeah",
+   "profile": "151-Unit Apartment Community",
+   "price_band": "Price on request",
+   "cap_label": "151 units",
+   "desc": "151-Unit Apartment Community in Hialeah; 151 units, ~90.0K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 151-Unit Apartment Community, Hialeah (151 units)",
+   "highlights": [
+    "~90.0K sq ft",
+    "Class A",
+    "value-add / below-market rents",
+    "90+ days on market"
+   ],
+   "inv_line": [
+    "90+ days on market"
+   ]
+  }
+ ]
+}
