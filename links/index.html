@@ -19,6 +19,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <meta property="og:url" content="https://savingsre.com/links/">
 <meta property="og:image" content="https://savingsre.com/assets/savingsre-og-default_v01.png">
 <meta name="twitter:card" content="summary_large_image">
+<meta name="robots" content="noindex, follow">
 <link rel="canonical" href="https://savingsre.com/links/">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -315,7 +316,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
   <!-- Brand Header -->
   <div class="brand">
-    <a href="https://savingsre.com/?utm_source=instagram&utm_medium=bio&utm_campaign=links" class="brand-logo">Savings<span>RE</span></a>
+    <a href="https://savingsre.com/" class="brand-logo">Savings<span>RE</span></a>
     <div class="brand-tagline">SE Florida Real Estate</div>
     <div class="brand-sub">William Spencer Seery Jr, PA &middot; Palm Beach &bull; Broward &bull; Miami-Dade</div>
   </div>
@@ -329,7 +330,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
   <!-- Schedule -->
   <div class="link-list" style="margin-bottom: 10px;">
-    <a href="https://savingsre.com/buyersurvey.html?utm_source=instagram&utm_medium=bio&utm_campaign=links&utm_content=schedule" class="link-card featured" onclick="if(window.dataLayer){dataLayer.push({event:'bio_click',link_id:'schedule'})}">
+    <a href="https://savingsre.com/buyersurvey.html" class="link-card featured" onclick="if(window.dataLayer){dataLayer.push({event:'bio_click',link_id:'schedule'})}">
       <span class="link-icon">📅</span>
       <div class="link-text">
         <div class="link-title">Find Me a Home</div>
@@ -339,10 +340,24 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     </a>
   </div>
 
+  <!-- Latest Market Notes: filled from /blog/ on load (newest 3), so the bio link never has to change.
+       The static card is the fallback if that fetch fails. -->
+  <div class="section-label">Latest Market Notes</div>
+  <div class="link-list" id="latest">
+    <a href="https://savingsre.com/blog/luxury-waterfront-rentals-october-2026.html" class="link-card featured">
+      <span class="link-icon">📰</span>
+      <div class="link-text">
+        <div class="link-title">Luxury Waterfront Rentals in Palm Beach County: the Q4 Window</div>
+        <div class="link-desc">Rentals &middot; October 15, 2026</div>
+      </div>
+      <span class="link-arrow">›</span>
+    </a>
+  </div>
+
   <!-- Buy / Invest section -->
   <div class="section-label">Buy &amp; Invest</div>
   <div class="link-list">
-    <a href="https://savingsre.com/investor-hub.html?utm_source=instagram&utm_medium=bio&utm_campaign=links&utm_content=investor-hub" class="link-card" onclick="if(window.dataLayer){dataLayer.push({event:'bio_click',link_id:'investor-hub'})}">
+    <a href="https://savingsre.com/investor-hub.html" class="link-card" onclick="if(window.dataLayer){dataLayer.push({event:'bio_click',link_id:'investor-hub'})}">
       <span class="link-icon">🏢</span>
       <div class="link-text">
         <div class="link-title">Investor Hub</div>
@@ -350,15 +365,15 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       </div>
       <span class="link-arrow">›</span>
     </a>
-    <a href="https://savingsre.com/coastal-shortlist.html?utm_source=instagram&utm_medium=bio&utm_campaign=links&utm_content=coastal-shortlist" class="link-card" onclick="if(window.dataLayer){dataLayer.push({event:'bio_click',link_id:'coastal-shortlist'})}">
+    <a href="https://savingsre.com/coastal-shortlist.html" class="link-card" onclick="if(window.dataLayer){dataLayer.push({event:'bio_click',link_id:'coastal-shortlist'})}">
       <span class="link-icon">🌊</span>
       <div class="link-text">
         <div class="link-title">Coastal MF Shortlist</div>
-        <div class="link-desc">Curated Atlantic Coast multifamily — updated weekly</div>
+        <div class="link-desc">Curated Atlantic Coast multifamily</div>
       </div>
       <span class="link-arrow">›</span>
     </a>
-    <a href="https://savingsre.com/luxury.html?utm_source=instagram&utm_medium=bio&utm_campaign=links&utm_content=luxury-homes" class="link-card" onclick="if(window.dataLayer){dataLayer.push({event:'bio_click',link_id:'luxury-homes'})}">
+    <a href="https://savingsre.com/luxury.html" class="link-card" onclick="if(window.dataLayer){dataLayer.push({event:'bio_click',link_id:'luxury-homes'})}">
       <span class="link-icon">🏡</span>
       <div class="link-text">
         <div class="link-title">Luxury Homes</div>
@@ -371,15 +386,15 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <!-- Rent section -->
   <div class="section-label">Rent</div>
   <div class="link-list">
-    <a href="https://savingsre.com/luxury-rentals.html?utm_source=instagram&utm_medium=bio&utm_campaign=links&utm_content=luxury-rentals" class="link-card" onclick="if(window.dataLayer){dataLayer.push({event:'bio_click',link_id:'luxury-rentals'})}">
+    <a href="https://savingsre.com/luxury-rentals.html" class="link-card" onclick="if(window.dataLayer){dataLayer.push({event:'bio_click',link_id:'luxury-rentals'})}">
       <span class="link-icon">🌴</span>
       <div class="link-text">
         <div class="link-title">Luxury Waterfront Rentals</div>
-        <div class="link-desc">SE Florida prestige rentals — landlord pays agent fee</div>
+        <div class="link-desc">In most rentals the landlord pays the agent fee — we&rsquo;ll confirm before you sign</div>
       </div>
       <span class="link-arrow">›</span>
     </a>
-    <a href="https://savingsre.com/commercial.html?utm_source=instagram&utm_medium=bio&utm_campaign=links&utm_content=commercial" class="link-card" onclick="if(window.dataLayer){dataLayer.push({event:'bio_click',link_id:'commercial'})}">
+    <a href="https://savingsre.com/commercial.html" class="link-card" onclick="if(window.dataLayer){dataLayer.push({event:'bio_click',link_id:'commercial'})}">
       <span class="link-icon">🏬</span>
       <div class="link-text">
         <div class="link-title">Commercial Properties</div>
@@ -392,7 +407,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <!-- Data section -->
   <div class="section-label">Market &amp; Data</div>
   <div class="link-list">
-    <a href="https://savingsre.com/market/?utm_source=instagram&utm_medium=bio&utm_campaign=links&utm_content=market-intel" class="link-card" onclick="if(window.dataLayer){dataLayer.push({event:'bio_click',link_id:'market-intel'})}">
+    <a href="https://savingsre.com/market/" class="link-card" onclick="if(window.dataLayer){dataLayer.push({event:'bio_click',link_id:'market-intel'})}">
       <span class="link-icon">📊</span>
       <div class="link-text">
         <div class="link-title">Market Intel</div>
@@ -400,7 +415,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       </div>
       <span class="link-arrow">›</span>
     </a>
-    <a href="https://savingsre.com/blog/?utm_source=instagram&utm_medium=bio&utm_campaign=links&utm_content=blog" class="link-card" onclick="if(window.dataLayer){dataLayer.push({event:'bio_click',link_id:'blog'})}">
+    <a href="https://savingsre.com/blog/" class="link-card" onclick="if(window.dataLayer){dataLayer.push({event:'bio_click',link_id:'blog'})}">
       <span class="link-icon">✍️</span>
       <div class="link-text">
         <div class="link-title">Blog</div>
@@ -413,7 +428,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <!-- Sell section -->
   <div class="section-label">Sell</div>
   <div class="link-list" style="margin-bottom: 24px;">
-    <a href="https://savingsre.com/luxury-listings.html?utm_source=instagram&utm_medium=bio&utm_campaign=links&utm_content=list-home" class="link-card" onclick="if(window.dataLayer){dataLayer.push({event:'bio_click',link_id:'list-home'})}">
+    <a href="https://savingsre.com/luxury-listings.html" class="link-card" onclick="if(window.dataLayer){dataLayer.push({event:'bio_click',link_id:'list-home'})}">
       <span class="link-icon">🏷️</span>
       <div class="link-text">
         <div class="link-title">List Your Home · 1.5%</div>
@@ -421,7 +436,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       </div>
       <span class="link-arrow">›</span>
     </a>
-    <a href="https://docs.google.com/forms/d/e/1FAIpQLSeh2FPmzhbkINNoskp72ang1zJO7xa-sxqKiDekxMmQSZz5IA/viewform?utm_source=instagram&utm_medium=bio&utm_campaign=links&utm_content=home-worth" target="_blank" rel="noopener" class="link-card" onclick="if(window.dataLayer){dataLayer.push({event:'bio_click',link_id:'home-worth'})}">
+    <a href="https://docs.google.com/forms/d/e/1FAIpQLSeh2FPmzhbkINNoskp72ang1zJO7xa-sxqKiDekxMmQSZz5IA/viewform" target="_blank" rel="noopener" class="link-card" onclick="if(window.dataLayer){dataLayer.push({event:'bio_click',link_id:'home-worth'})}">
       <span class="link-icon">💰</span>
       <div class="link-text">
         <div class="link-title">What's My Home Worth?</div>
@@ -433,13 +448,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
   <!-- Social row -->
   <div class="social-row">
-    <a href="https://www.instagram.com/savingsre/?utm_source=instagram&utm_medium=bio&utm_campaign=links&utm_content=ig-follow" target="_blank" rel="noopener" class="social-btn">
+    <a href="https://www.instagram.com/savingsre/" target="_blank" rel="noopener" class="social-btn">
       📸 Instagram
     </a>
-    <a href="https://www.facebook.com/SavingsRE/?utm_source=instagram&utm_medium=bio&utm_campaign=links&utm_content=fb" target="_blank" rel="noopener" class="social-btn">
+    <a href="https://www.facebook.com/SavingsRE/" target="_blank" rel="noopener" class="social-btn">
       👥 Facebook
     </a>
-    <a href="https://x.com/SavingsRE?utm_source=instagram&utm_medium=bio&utm_campaign=links&utm_content=x" target="_blank" rel="noopener" class="social-btn">
+    <a href="https://x.com/SavingsRE" target="_blank" rel="noopener" class="social-btn">
       𝕏 Twitter
     </a>
   </div>
@@ -447,21 +462,36 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <!-- Legal footer -->
   <div class="footer-legal">
     William Spencer Seery Jr, PA &middot; United Realty Group &middot; FL #3333692<br>
-    <a href="https://savingsre.com/?utm_source=instagram&utm_medium=bio&utm_campaign=links&utm_content=homepage">savingsre.com</a> &middot; Equal Housing Opportunity
+    Market commentary is general information, not legal, tax, or investment advice.<br>
+    <a href="https://savingsre.com/">savingsre.com</a> &middot; Equal Housing Opportunity
   </div>
 
 </div>
 
 <script>
-// Track all bio_click events already fired via onclick; fallback click handler for missed ones
-document.querySelectorAll('.link-card, .phone-cta, .social-btn').forEach(function(el){
-  el.addEventListener('click', function(){
-    var id = el.getAttribute('data-link-id') || el.href || '';
-    if(window.dataLayer && !el.getAttribute('data-tracked')){
-      dataLayer.push({event:'bio_click', link_url: el.href});
-    }
-  });
-});
+(function () {
+  fetch('/blog/', { cache: 'no-cache' })
+    .then(function (r) { return r.ok ? r.text() : Promise.reject(); })
+    .then(function (html) {
+      var doc = new DOMParser().parseFromString(html, 'text/html');
+      var cards = Array.prototype.slice.call(doc.querySelectorAll('a.bcard'), 0, 3);
+      if (!cards.length) return;
+      var box = document.getElementById('latest');
+      box.innerHTML = '';
+      cards.forEach(function (c, i) {
+        var t = function (sel) { var e = c.querySelector(sel); return e ? e.textContent.trim() : ''; };
+        var a = document.createElement('a');
+        a.className = 'link-card' + (i === 0 ? ' featured' : '');
+        a.href = '/blog/' + c.getAttribute('href');
+        a.innerHTML = '<span class="link-icon">📰</span><div class="link-text"><div class="link-title"></div><div class="link-desc"></div></div><span class="link-arrow">›</span>';
+        a.querySelector('.link-title').textContent = t('h3');
+        a.querySelector('.link-desc').textContent = [t('.post-cat'), t('.source-note')].filter(Boolean).join(' · ');
+        a.addEventListener('click', function () { if (window.dataLayer) dataLayer.push({ event: 'bio_click', link_id: 'latest-' + (i + 1) }); });
+        box.appendChild(a);
+      });
+    })
+    .catch(function () {});
+})();
 </script>
 </body>
 </html>
