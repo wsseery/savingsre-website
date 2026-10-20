@@ -71,6 +71,89 @@ table.ti-tbl tbody tr:nth-child(even){background:#f8fafc;}
 .hl b{color:#0f2b4c;font-weight:600;}
 @media(max-width:720px){ .ti h1{font-size:30px;} }
 </style>
+<script type="application/ld+json" id="itemlist-ld">
+{
+ "@context": "https://schema.org",
+ "@type": "ItemList",
+ "name": "Top Investments",
+ "url": "https://savingsre.com/top3/",
+ "numberOfItems": 12,
+ "itemListElement": [
+  {
+   "@type": "ListItem",
+   "position": 1,
+   "name": "High-Yield Multifamily — 8%+ Cap",
+   "url": "https://savingsre.com/top3/?seg=high-yield-sfl"
+  },
+  {
+   "@type": "ListItem",
+   "position": 2,
+   "name": "Coastal Multifamily — Gulf Beaches",
+   "url": "https://savingsre.com/top3/?seg=gulf-coast-beach-mf"
+  },
+  {
+   "@type": "ListItem",
+   "position": 3,
+   "name": "Coastal Multifamily — Atlantic Beaches",
+   "url": "https://savingsre.com/top3/?seg=east-coast-beach-mf"
+  },
+  {
+   "@type": "ListItem",
+   "position": 4,
+   "name": "Coastal Multifamily — Delray Beach",
+   "url": "https://savingsre.com/top3/?seg=delray-beach-mf"
+  },
+  {
+   "@type": "ListItem",
+   "position": 5,
+   "name": "Starter Multifamily — $800K to $2M",
+   "url": "https://savingsre.com/top3/?seg=starter-mf-corridor"
+  },
+  {
+   "@type": "ListItem",
+   "position": 6,
+   "name": "Larger Investments — 40+ Units",
+   "url": "https://savingsre.com/top3/?seg=large-statewide"
+  },
+  {
+   "@type": "ListItem",
+   "position": 7,
+   "name": "NNN Commercial — Florida",
+   "url": "https://savingsre.com/top3/?seg=nnn-fl"
+  },
+  {
+   "@type": "ListItem",
+   "position": 8,
+   "name": "Strip Malls & Retail Centers — Florida",
+   "url": "https://savingsre.com/top3/?seg=strip-mall-fl"
+  },
+  {
+   "@type": "ListItem",
+   "position": 9,
+   "name": "Medical Office — Florida",
+   "url": "https://savingsre.com/top3/?seg=medical-fl"
+  },
+  {
+   "@type": "ListItem",
+   "position": 10,
+   "name": "Commercial & Office — Florida",
+   "url": "https://savingsre.com/top3/?seg=commercial-fl"
+  },
+  {
+   "@type": "ListItem",
+   "position": 11,
+   "name": "Multifamily — Up to $3M",
+   "url": "https://savingsre.com/top3/?seg=mf-upto3m-east"
+  },
+  {
+   "@type": "ListItem",
+   "position": 12,
+   "name": "Airbnb / Short-Term Rental",
+   "url": "https://savingsre.com/top3/?seg=airbnb-str-east"
+  }
+ ]
+}
+</script>
 </head>
 <body>
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K4HVBNM" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -257,6 +340,8 @@ await loadSnapshot(key, useDate);
 try{ catalog=await getJSON('catalog.json'); }
 catch(e){ document.getElementById('seg-rows').innerHTML='<tr><td colspan="5" class="ti-empty">Could not load lists.</td></tr>'; return; }
 const order=catalog.order||Object.keys(catalog.lists||{});
+// Keep the ItemList JSON-LD in step with catalog.json (same source as the list table).
+try{const ld=document.getElementById('itemlist-ld');if(ld){const ks=order.filter(k=>catalog.lists[k]);const u='https://savingsre.com/top3/';ld.textContent=JSON.stringify({'@context':'https://schema.org','@type':'ItemList',name:"Top Investments",url:u,numberOfItems:ks.length,itemListElement:ks.map((k,i)=>({'@type':'ListItem',position:i+1,name:catalog.lists[k].label,url:u+'?seg='+encodeURIComponent(k)}))});}}catch(e){}
 const rows=[]; let firstWithData=null;
 for(const key of order){
 const m=catalog.lists[key]; if(!m)continue;
