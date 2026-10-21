@@ -71,6 +71,35 @@ table.ti-tbl tbody tr:nth-child(even){background:#f8fafc;}
 .hl b{color:#0f2b4c;font-weight:600;}
 @media(max-width:720px){ .ti h1{font-size:30px;} }
 </style>
+<script type="application/ld+json" id="itemlist-ld">
+{
+ "@context": "https://schema.org",
+ "@type": "ItemList",
+ "name": "Luxury — Best Value by $/sqft",
+ "url": "https://savingsre.com/luxury/",
+ "numberOfItems": 3,
+ "itemListElement": [
+  {
+   "@type": "ListItem",
+   "position": 1,
+   "name": "Oceanfront — Best Value by $/sqft",
+   "url": "https://savingsre.com/luxury/?seg=oceanfront-value"
+  },
+  {
+   "@type": "ListItem",
+   "position": 2,
+   "name": "Intracoastal — Best Value by $/sqft",
+   "url": "https://savingsre.com/luxury/?seg=intracoastal-value"
+  },
+  {
+   "@type": "ListItem",
+   "position": 3,
+   "name": "Country Club — Best Value by $/sqft",
+   "url": "https://savingsre.com/luxury/?seg=countryclub-value"
+  }
+ ]
+}
+</script>
 </head>
 <body>
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K4HVBNM" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -257,6 +286,8 @@ await loadSnapshot(key, useDate);
 try{ catalog=await getJSON('catalog.json'); }
 catch(e){ document.getElementById('seg-rows').innerHTML='<tr><td colspan="5" class="ti-empty">Could not load lists.</td></tr>'; return; }
 const order=catalog.order||Object.keys(catalog.lists||{});
+// Keep the ItemList JSON-LD in step with catalog.json (same source as the list table).
+try{const ld=document.getElementById('itemlist-ld');if(ld){const ks=order.filter(k=>catalog.lists[k]);const u='https://savingsre.com/luxury/';ld.textContent=JSON.stringify({'@context':'https://schema.org','@type':'ItemList',name:"Luxury — Best Value by $/sqft",url:u,numberOfItems:ks.length,itemListElement:ks.map((k,i)=>({'@type':'ListItem',position:i+1,name:catalog.lists[k].label,url:u+'?seg='+encodeURIComponent(k)}))});}}catch(e){}
 const rows=[]; let firstWithData=null;
 for(const key of order){
 const m=catalog.lists[key]; if(!m)continue;
