@@ -221,8 +221,29 @@
       </div>
       <div class="form-group">
         <label>Specific Requirements (Optional)</label>
-        <textarea name="entry.75457957" placeholder="Communities of interest, must-haves, deal breakers, etc."></textarea>
+        <textarea name="entry.75457957" id="lb_notes" placeholder="Communities of interest, must-haves, deal breakers, etc."></textarea>
       </div>
+
+      <!-- Honeypot: off-screen; humans won't fill it, many bots will. No name = not submitted. -->
+      <div aria-hidden="true" style="position:absolute;left:-9999px;top:-9999px;height:0;overflow:hidden;" tabindex="-1">
+        <label>Company website</label>
+        <input type="text" id="lb_hp" autocomplete="off" tabindex="-1">
+      </div>
+      <!-- The Google Form REQUIRES entry.1001481582 and its spam-check question entry.1475019219 (3 + 4);
+           a POST missing either is rejected by Google. The spam-check answer is set only after the human check passes. -->
+      <input type="hidden" name="entry.1001481582" value="web-ok">
+      <input type="hidden" name="entry.1475019219" id="lb_spam" value="">
+
+      <!-- Lightweight human check (no name attribute = not sent to Google) -->
+      <div class="form-group" style="margin-top:0.25rem;">
+        <label>Quick check: what is <span id="lb_a">3</span> + <span id="lb_b">4</span>?</label>
+        <input type="text" id="lb_human" inputmode="numeric" placeholder="Type the number" required style="max-width:160px;">
+      </div>
+      <label style="font-weight:400;text-transform:none;letter-spacing:0;color:var(--color-text);font-size:0.85rem;display:flex;gap:0.5rem;align-items:flex-start;margin-bottom:1rem;">
+        <input type="checkbox" id="lb_consent" style="width:auto;min-height:0;margin-top:3px;"> I agree to be contacted by Bill Seery, United Realty Group, about my search by email, phone or text.
+      </label>
+      <p id="lb-error" style="display:none;color:#b91c1c;font-size:0.85rem;margin-bottom:0.5rem;"></p>
+
       <button type="submit" class="form-submit">Send My Custom Search →</button>
       <p class="form-trust">100% confidential. No obligation. We'll respond within 48 hours.</p>
       <div id="buyer-form-success" class="form-success" hidden>
@@ -232,7 +253,23 @@
     </form>
     <iframe name="hidden_iframe_buyer" id="hidden_iframe_buyer" style="display:none;" aria-hidden="true" tabindex="-1"></iframe>
     <script>
+      (function(){
+        var a = Math.floor(Math.random()*6)+2, b = Math.floor(Math.random()*6)+2;
+        document.getElementById('lb_a').textContent = a;
+        document.getElementById('lb_b').textContent = b;
+        window.__lbAns = a + b;
+        window.__lbLoad = Date.now();
+      })();
       function savingsreSubmitBuyer(form) {
+        var err = document.getElementById('lb-error');
+        err.style.display = 'none';
+        if (document.getElementById('lb_hp').value) { return false; }
+        if (Date.now() - window.__lbLoad < 4000) { err.textContent = 'Please take a moment to complete the form.'; err.style.display = 'block'; return false; }
+        if (parseInt(document.getElementById('lb_human').value, 10) !== window.__lbAns) { err.textContent = 'Quick check answer is incorrect — please try again.'; err.style.display = 'block'; return false; }
+        if (!document.getElementById('lb_consent').checked) { err.textContent = 'Please tick the box to agree to be contacted.'; err.style.display = 'block'; return false; }
+        document.getElementById('lb_spam').value = '7';
+        var notes = document.getElementById('lb_notes');
+        if (notes.value.indexOf('[WEBVERIFIED') === -1) { notes.value = '[WEBVERIFIED via savingsre.com] [PAGE: luxury-buyers] ' + notes.value; }
         // Let the browser POST to the hidden iframe; show inline success after a beat.
         setTimeout(function() {
           var btn = form.querySelector('.form-submit');
@@ -242,7 +279,7 @@
           if (btn) btn.style.display = 'none';
           if (trust) trust.style.display = 'none';
           if (success) success.hidden = false;
-          if (window.gtag) window.dataLayer = window.dataLayer || [];
+          window.dataLayer = window.dataLayer || [];
       window.dataLayer.push({
         event: 'form_submit_luxury_buyer_intake',
         form_id: 'buyer-form',
