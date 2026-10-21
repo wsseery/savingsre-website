@@ -270,6 +270,8 @@
       <!-- Required server-side verification token: the Google Form REQUIRES entry.1001481582,
            so any POST that omits it (e.g. bots replaying old submissions) is rejected by Google. -->
       <input type="hidden" name="entry.1001481582" value="web-ok">
+      <!-- The Google Form also REQUIRES its spam-check question (3 + 4). Filled by the script only after the human check passes. -->
+      <input type="hidden" name="entry.1475019219" id="bs_spam" value="">
 
 
       <!-- Lightweight human check (no name attribute = not sent to Google) -->
@@ -308,6 +310,7 @@
         // 3) human check
         if (parseInt(document.getElementById('bs_human').value,10) !== window.__bsAns) { err.textContent='Quick check answer is incorrect — please try again.'; err.style.display='block'; return false; }
         if (!document.getElementById('bs_consent').checked) { err.textContent='Please confirm you are a real buyer.'; err.style.display='block'; return false; }
+        document.getElementById('bs_spam').value = '7';
         // tag genuine web submissions so they are distinguishable from endpoint spam
         var notes = document.getElementById('bs_notes');
         if (notes && notes.value.indexOf('[WEBVERIFIED]')===-1) { notes.value = '[WEBVERIFIED via savingsre.com] ' + notes.value; }
