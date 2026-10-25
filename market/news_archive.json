@@ -1,11 +1,66 @@
 {
   "meta": {
     "created": "2026-07-06",
-    "updated": "2026-10-17",
+    "updated": "2026-10-25",
     "note": "Archive of items rotated off the live market/news_data.json 16-item list. Weekly refresh APPENDS dropped items here (newest first) - never delete. Same item schema as news_data.json. Not rendered on the site; kept for content reuse, history, and a future archive/search section.",
-    "count": 176
+    "count": 181
   },
   "items": [
+    {
+      "id": 187,
+      "date": "2026-10-12",
+      "title": "Trinity Southern Lands $19.5M S3 Capital Loan for 29 Indian Creek Condos in Miami Beach",
+      "summary": "S3 Capital provided a $19.5M construction loan, arranged by CBRE, for the 16-unit 29 Indian Creek at 2901 Indian Creek Drive near the Faena District. Presales exceed 70%, with prices from $1.5M to over $8M and completion expected in 2027. The seller transferred the 15,000-SF site for $8M the day the loan closed. Developers face higher borrowing costs after the Fed's latest rate hike.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/10/12/trinity-southern-nabs-19-5-million-loan-for-29-indian-creek/",
+      "category": "Development",
+      "importance": "medium",
+      "archivedOn": "2026-10-25"
+    },
+    {
+      "id": 186,
+      "date": "2026-10-12",
+      "title": "Vanderbilt Raises $400M of $520M Goal for 8-Acre West Palm Beach Campus",
+      "summary": "Vanderbilt University has raised $400M toward a $520M goal for its West Palm Beach graduate campus, per TRD citing the Palm Beach Post. The 300,000-SF campus on 8 acres is slated to start construction next year and open in 2029 with about 1,000 students. Jeff Greene donated 1.3 acres valued near $80M, and Steve Ross pledged $50M.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/10/12/vanderbilt-snags-400m-for-west-palm-beach-campus/",
+      "category": "Development",
+      "importance": "medium",
+      "archivedOn": "2026-10-25"
+    },
+    {
+      "id": 185,
+      "date": "2026-10-09",
+      "title": "Safe Harbor Takes Miami Beach's Tides Hotel, Lands $44M Maxim Loan",
+      "summary": "Safe Harbor Capital Partners secured a $44 million mortgage from Maxim Credit Group on the 45-room Tides Hotel at 1220 Ocean Drive and adjacent Collins Ave properties. It acquired the asset by credit bid at a March foreclosure auction against Chetrit Group, which is appealing a $95.6 million judgment. The renovated hotel is slated to reopen next month; the owner would consider a sale at the right price.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/10/09/safe-harbor-to-reopen-renovated-tides-hotel-miami-beach/",
+      "category": "Commercial/CRE",
+      "importance": "medium",
+      "archivedOn": "2026-10-25"
+    },
+    {
+      "id": 184,
+      "date": "2026-10-09",
+      "title": "Baptist Health Buys Coral Gables Office Building for $39M, $321/SF",
+      "summary": "Baptist Health South Florida bought 2855 Le Jeune Road from City National Bank for $39 million, about $321 per square foot, per records and Vizzda. The four-story 2007 building sits on 0.7 acres with a bank branch and 32,300 SF of offices. The bank sold after leasing 145,000 SF for its headquarters nearby. Health systems are competing for South Florida sites.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/10/09/baptist-health-buys-coral-gables-offices-amid-growth-spurt/",
+      "category": "Commercial/CRE",
+      "importance": "medium",
+      "archivedOn": "2026-10-25"
+    },
+    {
+      "id": 183,
+      "date": "2026-10-09",
+      "title": "Dutch Corendon Pays $50M-Plus for Two South Beach Art Deco Hotels",
+      "summary": "Corendon Hotels & Resorts made its first US hotel investment, paying over $50 million in one transaction for Aloha Friday's at 944 Collins Ave and the Beach Plaza Hotel at 1401 Collins Ave. The properties hold 97 and 95 rooms and are being rebranded. The seller paid $16.6M in 2024 and $26.5M in 2023. Berkadia's Jennifer Jin represented the seller, extending a trend of European buyers in Miami Beach hotels.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/10/09/corendon-hotels-resorts-buys-south-beach-art-deco-hotels/",
+      "category": "Commercial/CRE",
+      "importance": "medium",
+      "archivedOn": "2026-10-25"
+    },
     {
       "id": 182,
       "date": "2026-10-09",
