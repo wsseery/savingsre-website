@@ -1,11 +1,44 @@
 {
   "meta": {
     "created": "2026-07-06",
-    "updated": "2026-10-25",
+    "updated": "2026-10-27",
     "note": "Archive of items rotated off the live market/news_data.json 16-item list. Weekly refresh APPENDS dropped items here (newest first) - never delete. Same item schema as news_data.json. Not rendered on the site; kept for content reuse, history, and a future archive/search section.",
-    "count": 181
+    "count": 184
   },
   "items": [
+    {
+      "id": 190,
+      "date": "2026-10-13",
+      "title": "Russell Galbut Scraps Three Miami Beach Live Local Act Projects, ~400 Units, After Backlash",
+      "summary": "Crescent Heights/GFO developer Russell Galbut withdrew three Live Local Act proposals in South Beach (1575 Alton Rd, 740 Alton Rd, 880 71st St) after opposition from city and county commissioners; he says he still backs the law and other Beach projects. Miami Beach commissioners were set to weigh possible legal action against the state law, signaling rising local pushback on Live Local density bonuses.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/10/13/russell-galbut-nixes-live-local-act-miami-beach-projects/",
+      "category": "Policy/Insurance",
+      "importance": "medium",
+      "archivedOn": "2026-10-27"
+    },
+    {
+      "id": 189,
+      "date": "2026-10-13",
+      "title": "Dania Beach Nursing Home Sells for $16.6M, $800/SF; Miami Beach Mansion Trades at $21.5M",
+      "summary": "Tordjman Equities-tied buyer acquired the 88-bed, 20,758-SF Westlake Nursing and Rehab Center at 440 Phippen-Waiters Road for $16.6M, or $800/SF, per TRD; the deed price may exclude business assets. Separately, a six-bedroom, 3,464-SF waterfront home at 6500 Allison Road in Miami Beach sold off-market for $21.5M, or $995/SF, with 100 feet of ocean frontage on a half-acre lot.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/data/miami/2026/south-florida-top-real-estate-deals-oct-12-2026/",
+      "category": "Commercial/CRE",
+      "importance": "medium",
+      "archivedOn": "2026-10-27"
+    },
+    {
+      "id": 188,
+      "date": "2026-10-12",
+      "title": "Rock Soffer Sells Wynwood Site at 127-135 NW 24th St for $6.5M, With $4M Seller Financing",
+      "summary": "An entity tied to David Ederhy bought the 14,500-SF site for $6.5M, with the seller providing $4M in financing maturing September 2028. It expands the buyer's Wynwood assemblage to 0.7 acres, with a combined cost of $14.7M. Soffer paid $13.1M in late 2022 for a planned mixed-use hotel that did not pencil out on the smaller site.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/10/12/turnberrys-rock-soffer-sells-wynwood-assemblage/",
+      "category": "Commercial/CRE",
+      "importance": "low",
+      "archivedOn": "2026-10-27"
+    },
     {
       "id": 187,
       "date": "2026-10-12",

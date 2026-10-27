@@ -1,5 +1,35 @@
 [
   {
+    "id": 206,
+    "date": "2026-10-26",
+    "title": "Driftwood, Merrimac, MV score $145M Centennial Bank loan for Miami Riverside Wharf",
+    "summary": "The developers of the $350M Riverside Wharf at 114 SW North River Drive secured $145M in construction financing from Centennial Bank. The 200,000 SF, nine-story, two-tower project will include a 167-room Dream Hotel, a 30,000 SF nightclub, a 12,000 SF event hall and 16,000 SF of restaurant space. Completion is targeted for fall 2028.",
+    "source": "The Real Deal",
+    "sourceUrl": "https://therealdeal.com/miami/2026/10/26/developers-secure-145-million-for-miami-riverside-wharf/",
+    "category": "Commercial/CRE",
+    "importance": "medium"
+  },
+  {
+    "id": 205,
+    "date": "2026-10-26",
+    "title": "Glaser, Edelstein under contract at $160M for Palm Beach teardown estate",
+    "summary": "Developers Todd Glaser and TriCap's David Edelstein are under contract to pay $160M for 911 North Ocean Boulevard, per the Wall Street Journal. That is just under the island's $170M record set in 2023. The 2.2-acre site has 250 feet of ocean frontage and about 17,600 SF of 1970s buildings, or roughly $9,100 per SF. The family listed it at $185M last year; the buyers plan to split it into two lots.",
+    "source": "The Real Deal",
+    "sourceUrl": "https://therealdeal.com/miami/2026/10/26/todd-glaser-david-edelstein-buying-160-million-teardown/",
+    "category": "Luxury",
+    "importance": "high"
+  },
+  {
+    "id": 204,
+    "date": "2026-10-26",
+    "title": "Fortune, Château land $463M Madison Realty loan for St. Regis Sunny Isles",
+    "summary": "Madison Realty Capital is providing a $463M loan package for the two-tower St. Regis Residences at 18801 Collins Avenue, one of the largest loans to close in Sunny Isles Beach. It refinances existing debt, including Bank OZK loans from 2020. The project is 80% presold; the south tower (150 units) is under vertical construction and the north tower (170 units) is next. Remaining units start at $5.1M.",
+    "source": "The Real Deal",
+    "sourceUrl": "https://therealdeal.com/miami/2026/10/26/fortune-chateau-score-463-million-loan-for-st-regis/",
+    "category": "Development",
+    "importance": "high"
+  },
+  {
     "id": 203,
     "date": "2026-10-23",
     "title": "LeCesse pays $18M for Deerfield Beach site entitled for 237 apartments",
@@ -128,35 +158,5 @@
     "sourceUrl": "https://therealdeal.com/miami/2026/10/13/mrk-partners-nabs-loan-for-fort-lauderdale-housing-project/",
     "category": "Multifamily",
     "importance": "medium"
-  },
-  {
-    "id": 190,
-    "date": "2026-10-13",
-    "title": "Russell Galbut Scraps Three Miami Beach Live Local Act Projects, ~400 Units, After Backlash",
-    "summary": "Crescent Heights/GFO developer Russell Galbut withdrew three Live Local Act proposals in South Beach (1575 Alton Rd, 740 Alton Rd, 880 71st St) after opposition from city and county commissioners; he says he still backs the law and other Beach projects. Miami Beach commissioners were set to weigh possible legal action against the state law, signaling rising local pushback on Live Local density bonuses.",
-    "source": "The Real Deal",
-    "sourceUrl": "https://therealdeal.com/miami/2026/10/13/russell-galbut-nixes-live-local-act-miami-beach-projects/",
-    "category": "Policy/Insurance",
-    "importance": "medium"
-  },
-  {
-    "id": 189,
-    "date": "2026-10-13",
-    "title": "Dania Beach Nursing Home Sells for $16.6M, $800/SF; Miami Beach Mansion Trades at $21.5M",
-    "summary": "Tordjman Equities-tied buyer acquired the 88-bed, 20,758-SF Westlake Nursing and Rehab Center at 440 Phippen-Waiters Road for $16.6M, or $800/SF, per TRD; the deed price may exclude business assets. Separately, a six-bedroom, 3,464-SF waterfront home at 6500 Allison Road in Miami Beach sold off-market for $21.5M, or $995/SF, with 100 feet of ocean frontage on a half-acre lot.",
-    "source": "The Real Deal",
-    "sourceUrl": "https://therealdeal.com/data/miami/2026/south-florida-top-real-estate-deals-oct-12-2026/",
-    "category": "Commercial/CRE",
-    "importance": "medium"
-  },
-  {
-    "id": 188,
-    "date": "2026-10-12",
-    "title": "Rock Soffer Sells Wynwood Site at 127-135 NW 24th St for $6.5M, With $4M Seller Financing",
-    "summary": "An entity tied to David Ederhy bought the 14,500-SF site for $6.5M, with the seller providing $4M in financing maturing September 2028. It expands the buyer's Wynwood assemblage to 0.7 acres, with a combined cost of $14.7M. Soffer paid $13.1M in late 2022 for a planned mixed-use hotel that did not pencil out on the smaller site.",
-    "source": "The Real Deal",
-    "sourceUrl": "https://therealdeal.com/miami/2026/10/12/turnberrys-rock-soffer-sells-wynwood-assemblage/",
-    "category": "Commercial/CRE",
-    "importance": "low"
   }
 ]
