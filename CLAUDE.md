@@ -53,3 +53,21 @@ Do not reimplement them here.
 Draft, do not ship. Nothing goes public without Bill's explicit "ship it". Commits and pushes are
 Bill's from GitHub Desktop or an approved Claude Code run — never through the Cowork device
 bridge, which leaves a `.git/index.lock` GitHub Desktop cannot clear.
+
+## Content auto-merge (GLOBAL §8a)
+
+Who may merge is set by GLOBAL_INSTRUCTIONS §8a: a content-only PR merges itself once its
+required checks pass; every other PR needs Bill. Never merge by hand, never use `--admin`.
+The gate is `.github/workflows/content-automerge.yml` (classification and the auto-merge
+switch), `site-checks.yml` (`playwright`, `compliance-grep`) and `content-rules.yml`, with the
+logic in `.github/checks/`. `python .github/checks/classify.py --git main HEAD` shows how a
+branch would be classified. It stays off until `main` requires all four checks.
+
+What keeps a post a content PR, learned from the classifier:
+- **No `BlogPosting` or other new JSON-LD.** Only a pure FAQPage block is content; every other
+  schema block is code under §8a. Copy the post `<style>` block byte-for-byte from an existing post.
+- New pages need exactly one `btn`/`btn-*` CTA, the Real estate block from
+  `00_Global/LEGAL_DISCLAIMERS.md` verbatim, and a `## Sourced figures` table in the PR body
+  (`# | Figure | Source | Link`) listing every number on the page.
+- Edits to existing pages stay out of `<head>`, `<header>`, `<nav>` and `<footer>`. Anything under
+  `data/`, `market/`, `top3/`, `mf-top3/`, `luxury/`, `weekly/` or `links/` is code.

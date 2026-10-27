@@ -1,11 +1,15 @@
-# Site safety checks: report-only, never blocking.
+# Site safety checks.
 #
 # Most changes to this repo are committed straight to main by the weekly
 # Cowork runs (Top-3, Luxury, Market Intel), not opened as PRs. So these checks
-# run on every push to main as well as on PRs, and nothing here gates a merge:
-# there is no branch protection behind them. When a check fails on main, the
+# run on every push to main as well as on PRs. When a check fails on main, the
 # alert job opens (or comments on) one "site-check" issue so the failure is
 # seen without anyone watching the Actions tab.
+#
+# On PRs, playwright and compliance-grep are two of the four checks that
+# content auto-merge waits on (GLOBAL_INSTRUCTIONS.md §8a; content-automerge.yml).
+# They only block a merge once main is protected and requires them; until then
+# they report. Keep the job names: protection matches them by name.
 #
 #   playwright       pages the change touches, plus the homepage, before and
 #                    after the change; fails only on problems it INTRODUCES.
