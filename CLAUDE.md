@@ -64,10 +64,16 @@ logic in `.github/checks/`. `python .github/checks/classify.py --git main HEAD` 
 branch would be classified. It stays off until `main` requires all four checks.
 
 What keeps a post a content PR, learned from the classifier:
+- **Start every new post from `_templates/blog-post.html.tpl`.** Its header comment lists the rules.
+  (`_config.yml` excludes `_templates/` from the site; Python on Windows needs `PYTHONUTF8=1` to
+  run the checks locally.)
 - **No `BlogPosting` or other new JSON-LD.** Only a pure FAQPage block is content; every other
-  schema block is code under §8a. Copy the post `<style>` block byte-for-byte from an existing post.
-- New pages need exactly one `btn`/`btn-*` CTA, the Real estate block from
-  `00_Global/LEGAL_DISCLAIMERS.md` verbatim, and a `## Sourced figures` table in the PR body
-  (`# | Figure | Source | Link`) listing every number on the page.
+  schema block is code under §8a. Existing posts keep their BlogPosting blocks; don't touch them.
+- **No per-post `<style>` or `<script>`.** Post styles live in `assets/css/site.css` under
+  `.market-note` (the template's `<main>` class). The GTM snippets and the `site.css`/`site.js`
+  lines are site-wide and stay byte-for-byte.
+- New pages need exactly one CTA, marked `data-cta` (the template's `.cta-box` link), the Real
+  estate block from `00_Global/LEGAL_DISCLAIMERS.md` verbatim, and a `## Sourced figures` table in
+  the PR body (`# | Figure | Source | Link`) listing every number on the page.
 - Edits to existing pages stay out of `<head>`, `<header>`, `<nav>` and `<footer>`. Anything under
   `data/`, `market/`, `top3/`, `mf-top3/`, `luxury/`, `weekly/` or `links/` is code.
