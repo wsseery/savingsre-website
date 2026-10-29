@@ -82,8 +82,18 @@ jobs:
             assets/2026-07-02_savingsre_img_market-intel-newsfeed_v01.png
           if-no-files-found: ignore
 
+      # main's ruleset requires the four content-gate checks, which a direct
+      # push never has. Its bypass list holds deploy keys, so this push uses the
+      # MAIN_PUSH_DEPLOY_KEY secret (the private half of the repo's only write
+      # deploy key). The key is written to disk here and nowhere else: never in
+      # actions/checkout, because the Claude step above reads web pages and
+      # could be steered into reading a key it can reach. Without the secret
+      # the push falls back to the workflow token, which main rejects once the
+      # ruleset is on.
       - name: Commit and push
         if: ${{ !inputs.dry_run }}
+        env:
+          MAIN_PUSH_KEY: ${{ secrets.MAIN_PUSH_DEPLOY_KEY }}
         run: |
           FILES="market/index.html market/news_data.json market/market_data.json market/news_archive.json assets/2026-07-02_savingsre_img_market-intel-newsfeed_v01.png"
           if git diff --quiet -- $FILES; then echo "No changes - nothing to commit."; exit 0; fi
@@ -91,7 +101,18 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add $FILES
           git commit -m "Market Intel refresh ${TODAY} (scheduled)"
-          git push
+          if [ -n "$MAIN_PUSH_KEY" ]; then
+            key="$RUNNER_TEMP/main_push_key"
+            trap 'rm -f "$key"' EXIT
+            (umask 077; printf '%s\n' "$MAIN_PUSH_KEY" > "$key")
+            # GitHub's published host key (docs: "GitHub's SSH key fingerprints").
+            echo "github.com ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIOMqqnkVzrm0SdG6UOoqKLsabgH5C9okWi0dh2l9GKJl" > "$RUNNER_TEMP/known_hosts"
+            export GIT_SSH_COMMAND="ssh -i $key -o IdentitiesOnly=yes -o UserKnownHostsFile=$RUNNER_TEMP/known_hosts -o StrictHostKeyChecking=yes"
+            git remote set-url --push origin "git@github.com:${GITHUB_REPOSITORY}.git"
+          else
+            echo "::warning::MAIN_PUSH_DEPLOY_KEY is not set; pushing with the workflow token."
+          fi
+          git push origin HEAD:main
           echo "PUSHED=1" >> "$GITHUB_ENV"
 
       - name: Request Pages build
