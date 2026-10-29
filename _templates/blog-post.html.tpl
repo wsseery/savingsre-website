@@ -14,8 +14,9 @@
   - Exactly ONE call to action in <main>: the data-cta link in .cta-box. No
     other btn / btn-* link and no form inside <main>.
   - Keep the Real estate disclaimer below verbatim (00_Global/LEGAL_DISCLAIMERS.md).
-  - Every number in the copy must appear in the PR body's "## Sourced figures"
-    table (# | Figure | Source | Link). Years don't count.
+  - Every number in <main> must appear in the PR body's "## Sourced figures"
+    table (# | Figure | Source | Link). Only years are exempt: the day in the
+    post date ("October 29") and terms like "30-year" count, so list them too.
   - Header and footer are copies of the live site's; if the site nav changes,
     update them here as well.
   The same PR may add a card to blog/index.html (inside the card grid only),
