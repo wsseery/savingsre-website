@@ -1,11 +1,55 @@
 {
   "meta": {
     "created": "2026-07-06",
-    "updated": "2026-10-27",
+    "updated": "2026-10-29",
     "note": "Archive of items rotated off the live market/news_data.json 16-item list. Weekly refresh APPENDS dropped items here (newest first) - never delete. Same item schema as news_data.json. Not rendered on the site; kept for content reuse, history, and a future archive/search section.",
-    "count": 184
+    "count": 188
   },
   "items": [
+    {
+      "id": 194,
+      "date": "2026-10-15",
+      "title": "BKM Capital spends $174M on three Florida industrial deals in three weeks",
+      "summary": "California-based BKM Capital Partners paid $14M ($230/SF) for the 61,100-SF Palm Crossing South in Fort Lauderdale and $57M ($270/SF) with Kayne Anderson for the 210,000-SF Lakeview Center, plus $103M ($190/SF) for a 543,000-SF Orlando portfolio. JLL says Broward industrial rents reached $17.10/SF NNN, up 4.1% YoY, with 158,500 SF absorbed in Q3 despite slower leasing and investment activity.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/10/15/bkm-capital-partners-bets-174-million-on-florida-industrial/",
+      "category": "Commercial/CRE",
+      "importance": "medium",
+      "archivedOn": "2026-10-29"
+    },
+    {
+      "id": 193,
+      "date": "2026-10-14",
+      "title": "Boca Raton spec mansion at 1520 Royal Palm Way finds buyer at ~$31.8M ask",
+      "summary": "SRD Building's nearly 8,600-SF waterfront estate in Royal Palm Yacht & Country Club, asking about $31.8M ($3,710/SF), was the priciest Palm Beach County contract of Oct. 5-11. Per Douglas Elliman's Eklund Gomes team, buyers signed 12 contracts of $3M+ totaling about $112.3M in asking volume, versus 12 contracts and $96M the prior week.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/10/14/dingle-brothers-boca-raton-spec-mansion-finds-buyer/",
+      "category": "Luxury",
+      "importance": "medium",
+      "archivedOn": "2026-10-29"
+    },
+    {
+      "id": 192,
+      "date": "2026-10-14",
+      "title": "David Martin's Terra Lands $183.8M Monroe Capital Refi on The Well Bay Harbor Islands Offices",
+      "summary": "Terra refinanced the 96,000-SF office building it completed this summer at The Well Bay Harbor Islands with $183.8M from Monroe Capital's real estate platform (Walker & Dunlop arranged). The office is 90% leased, including Tom Brady's TEB Capital (8,400 SF) and Dwight Capital (23,000 SF). A partial release of the prior $238M Eldridge/Hudson Bay loan was recorded Tuesday. Boutique waterfront office-plus-condo projects are drawing out-of-state financial tenants.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/10/14/david-martins-terra-nabs-refi-on-the-well-offices/",
+      "category": "Commercial/CRE",
+      "importance": "medium",
+      "archivedOn": "2026-10-29"
+    },
+    {
+      "id": 191,
+      "date": "2026-10-13",
+      "title": "MRK Partners Lands $67M Berkadia Financing for 164-Unit Fort Lauderdale Affordable Redevelopment",
+      "summary": "MRK Partners secured $67M in construction-to-permanent financing ($50M tax-exempt, $17M taxable, about $408,540 per unit) from Berkadia to replace 88 1950s units with 164 affordable apartments in two five-story buildings on 3.7 acres in Progresso, Fort Lauderdale. The project extends the property's Section 8 HAP contract through 2046 amid a 74,100-unit Broward affordable-housing shortfall.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/10/13/mrk-partners-nabs-loan-for-fort-lauderdale-housing-project/",
+      "category": "Multifamily",
+      "importance": "medium",
+      "archivedOn": "2026-10-29"
+    },
     {
       "id": 190,
       "date": "2026-10-13",
