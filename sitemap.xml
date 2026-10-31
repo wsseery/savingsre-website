@@ -35,4 +35,9 @@
 <url><loc>https://savingsre.com/blog/palm-island-40m-luxury-market.html</loc><lastmod>2026-07-09</lastmod><priority>0.7</priority></url>
 <url><loc>https://savingsre.com/blog/south-florida-development-pipeline-freedom-park.html</loc><lastmod>2026-07-08</lastmod><priority>0.7</priority></url>
 <url><loc>https://savingsre.com/blog/branded-condo-boom-reaching-its-limit.html</loc><lastmod>2026-06-30</lastmod><priority>0.7</priority></url>
+  <!-- LANDING:START -->
+  <url><loc>https://savingsre.com/listings/</loc><lastmod>2026-10-31</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://savingsre.com/privacy/</loc><changefreq>yearly</changefreq><priority>0.2</priority></url>
+  <url><loc>https://savingsre.com/terms/</loc><changefreq>yearly</changefreq><priority>0.2</priority></url>
+  <!-- LANDING:END -->
 </urlset>

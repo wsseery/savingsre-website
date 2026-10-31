@@ -1,0 +1,1421 @@
+{
+  "_note": "Source of truth for /listings/. Copy and criteria are edited here; the weekly refresh only updates each segment's 'weekly' and 'history'. Build with: python3 scripts/build_landing_pages.py",
+  "segments": [
+    {
+      "slug": "retail-space-for-lease",
+      "search_name": "WSS-LSE-Retail",
+      "category": "commercial-lease",
+      "short": "Retail Space for Lease",
+      "h1": "Retail Space for Lease in South Florida",
+      "title": "Retail Space for Lease: Palm Beach, Broward, Miami-Dade",
+      "description": "Storefront, strip-center and restaurant space for lease in Palm Beach, Broward and Miami-Dade. Active listings refreshed weekly with tenant-side commentary.",
+      "subhead": "Storefronts, strip-center bays, restaurant and free-standing retail space, updated every week.",
+      "intro": [
+        "This search tracks retail space listed for lease across Palm Beach, Broward and Miami-Dade counties: in-line shop space in neighborhood and grocery-anchored centers, end caps, second-generation restaurant space, and free-standing pad sites.",
+        "Retail availability in South Florida is tight, so well-located space often leases quickly. Bill works on the tenant side: shortlisting spaces that fit your trade area and frontage needs, comparing asking rents and total occupancy costs (base rent plus taxes, insurance and common-area charges), and negotiating terms such as free rent, tenant-improvement allowances and renewal options.",
+        "Each week the search is re-run and the page shows how many spaces are available, what changed, and a link to every active listing with photos and full details."
+      ],
+      "criteria": [
+        [
+          "Area",
+          "Palm Beach · Broward · Miami-Dade"
+        ],
+        [
+          "Property type",
+          "Retail / restaurant / free-standing"
+        ],
+        [
+          "Listing type",
+          "For lease"
+        ],
+        [
+          "Status",
+          "Active only"
+        ]
+      ],
+      "faqs": [
+        [
+          "Who pays the broker when I lease retail space?",
+          "In most commercial leases the landlord pays the leasing commissions, including the tenant's broker. Bill confirms how the commission is handled on each space before you sign anything."
+        ],
+        [
+          "What does NNN mean on a retail lease?",
+          "On a triple-net (NNN) lease the tenant pays base rent plus a share of the property's taxes, insurance and common-area maintenance. Ask for the current NNN estimate on every space so you can compare total occupancy cost, not just base rent."
+        ],
+        [
+          "Can I lease a second-generation restaurant space?",
+          "Yes. Spaces that already have a hood, grease trap and plumbing can save significant build-out cost and time. Tell Bill your kitchen needs and he will flag the spaces that fit."
+        ]
+      ],
+      "related": [
+        "office-space-for-lease",
+        "medical-office-for-lease",
+        "retail-strip-centers-for-sale",
+        "nnn-net-lease-properties-for-sale"
+      ],
+      "agile_tag": "seg-lease-retail",
+      "form_placeholder": "e.g. 1,500–2,500 sq ft, Boca Raton or Delray, restaurant use, open by spring",
+      "new_search": true,
+      "criteria_verified": false,
+      "weekly": {},
+      "history": []
+    },
+    {
+      "slug": "office-space-for-lease",
+      "search_name": "WSS-LSE-Office",
+      "category": "commercial-lease",
+      "short": "Office Space for Lease",
+      "h1": "Office Space for Lease in South Florida",
+      "title": "Office Space for Lease: Palm Beach, Broward, Miami-Dade",
+      "description": "Office suites and full floors for lease in Palm Beach, Broward and Miami-Dade, from small executive suites to headquarters space. Refreshed weekly.",
+      "subhead": "Executive suites, professional offices and full floors, updated every week.",
+      "intro": [
+        "This search tracks office space listed for lease across Palm Beach, Broward and Miami-Dade: Class A towers, suburban office parks, and smaller professional buildings with suites for law, accounting, financial and creative firms.",
+        "The office market here is split. The newest, best-located buildings lease up fast, while older buildings often offer meaningful concessions. Bill helps tenants compare full-service and net quotes on an equal basis, weigh parking and commute, and negotiate concessions such as free rent and improvement allowances.",
+        "The page is refreshed weekly with the number of available spaces, a short note on what changed, and a link to every active listing."
+      ],
+      "criteria": [
+        [
+          "Area",
+          "Palm Beach · Broward · Miami-Dade"
+        ],
+        [
+          "Property type",
+          "Office"
+        ],
+        [
+          "Listing type",
+          "For lease"
+        ],
+        [
+          "Status",
+          "Active only"
+        ]
+      ],
+      "faqs": [
+        [
+          "What is the difference between a full-service and a net office lease?",
+          "A full-service (gross) rent includes most operating costs such as taxes, insurance, maintenance and often utilities and janitorial. A net rent adds some or all of those on top. Comparing spaces fairly means converting every quote to the same basis."
+        ],
+        [
+          "How long are typical office lease terms?",
+          "Terms of three to five years are common for small and mid-size suites, with longer terms usually earning larger concessions. Short-term and executive-suite options exist for flexibility."
+        ],
+        [
+          "Who pays my tenant-representation broker?",
+          "In most office leases the landlord pays the leasing commissions, including the tenant's broker. Bill confirms the arrangement on each space before you commit."
+        ]
+      ],
+      "related": [
+        "medical-office-for-lease",
+        "retail-space-for-lease",
+        "office-buildings-for-sale",
+        "owner-user-office-flex-for-sale"
+      ],
+      "agile_tag": "seg-lease-office",
+      "form_placeholder": "e.g. 2,000 sq ft, 6 private offices, near I-95 in Boca or Fort Lauderdale",
+      "new_search": true,
+      "criteria_verified": false,
+      "weekly": {},
+      "history": []
+    },
+    {
+      "slug": "industrial-warehouse-for-lease",
+      "search_name": "WSS-LSE-Industrial",
+      "category": "commercial-lease",
+      "short": "Industrial & Warehouse for Lease",
+      "h1": "Industrial & Warehouse Space for Lease in South Florida",
+      "title": "Warehouse & Industrial Space for Lease: South Florida",
+      "description": "Warehouse, flex and light-industrial space for lease in Palm Beach, Broward and Miami-Dade, from small bays to distribution buildings. Updated weekly.",
+      "subhead": "Small-bay flex, warehouse and distribution space, updated every week.",
+      "intro": [
+        "This search tracks industrial space listed for lease across Palm Beach, Broward and Miami-Dade: small-bay flex units with office frontage, mid-size warehouses with dock or grade-level loading, and larger distribution buildings.",
+        "With more industrial space available than a year ago, tenants have more choice and more room to negotiate. Bill helps compare clear height, loading, power, yard and zoning against your operation, and works through rent, concessions and term.",
+        "Each week the search is refreshed with the current number of spaces and a link to every active listing."
+      ],
+      "criteria": [
+        [
+          "Area",
+          "Palm Beach · Broward · Miami-Dade"
+        ],
+        [
+          "Property type",
+          "Industrial / warehouse / flex"
+        ],
+        [
+          "Listing type",
+          "For lease"
+        ],
+        [
+          "Status",
+          "Active only"
+        ]
+      ],
+      "faqs": [
+        [
+          "What should I check before leasing a warehouse?",
+          "Confirm zoning allows your use, then compare clear height, loading (dock-high vs. grade-level doors), power, truck court and parking, and office build-out. Insurance and hurricane ratings also matter in South Florida."
+        ],
+        [
+          "What is flex space?",
+          "Flex space combines a front office with a warehouse or workshop area behind it. It suits contractors, light assembly, showrooms and e-commerce operators who need both."
+        ],
+        [
+          "Who pays the broker on an industrial lease?",
+          "Usually the landlord pays the leasing commissions, including the tenant's broker. Bill confirms the arrangement for each space."
+        ]
+      ],
+      "related": [
+        "industrial-warehouse-for-sale",
+        "owner-user-office-flex-for-sale",
+        "retail-space-for-lease",
+        "office-space-for-lease"
+      ],
+      "agile_tag": "seg-lease-industrial",
+      "form_placeholder": "e.g. 5,000 sq ft, one dock door, 20 ft clear, Broward or south Palm Beach",
+      "new_search": true,
+      "criteria_verified": false,
+      "weekly": {},
+      "history": []
+    },
+    {
+      "slug": "medical-office-for-lease",
+      "search_name": "WSS-LSE-Medical",
+      "category": "commercial-lease",
+      "short": "Medical Office for Lease",
+      "h1": "Medical Office Space for Lease in South Florida",
+      "title": "Medical Office Space for Lease: Palm Beach, Broward, Dade",
+      "description": "Medical and dental office space for lease in Palm Beach, Broward and Miami-Dade, including build-outs near hospitals. Active listings updated weekly.",
+      "subhead": "Medical, dental and wellness suites near South Florida's hospitals, updated every week.",
+      "intro": [
+        "This search tracks medical office space listed for lease across Palm Beach, Broward and Miami-Dade: suites in medical office buildings near the major hospital campuses, second-generation exam-room build-outs, and retail-front locations suited to dental, physical therapy and wellness practices.",
+        "Medical space has specific needs such as plumbing in exam rooms, ADA access, parking ratios and patient-friendly locations, so existing build-outs can save months. Bill helps practices compare spaces on those terms and negotiate rent, improvements and renewal rights.",
+        "The search is re-run weekly, with the current count, a short market note and a link to every active listing."
+      ],
+      "criteria": [
+        [
+          "Area",
+          "Palm Beach · Broward · Miami-Dade"
+        ],
+        [
+          "Property type",
+          "Medical / dental office"
+        ],
+        [
+          "Listing type",
+          "For lease"
+        ],
+        [
+          "Status",
+          "Active only"
+        ]
+      ],
+      "faqs": [
+        [
+          "Why look for a second-generation medical space?",
+          "A suite that already has exam rooms, sinks and medical-grade plumbing can cut build-out cost and opening time substantially compared with converting standard office space."
+        ],
+        [
+          "What should a medical practice check before signing?",
+          "Zoning for medical use, parking ratio, ADA compliance, after-hours HVAC, signage, and any exclusive-use or restricted-use clauses in the building."
+        ],
+        [
+          "Does the landlord pay my broker?",
+          "In most medical office leases the landlord pays the leasing commissions, including the tenant's broker. Bill confirms this on each space before you commit."
+        ]
+      ],
+      "related": [
+        "medical-office-for-sale",
+        "office-space-for-lease",
+        "retail-space-for-lease",
+        "owner-user-office-flex-for-sale"
+      ],
+      "agile_tag": "seg-lease-medical",
+      "form_placeholder": "e.g. 4 exam rooms, near Boca Regional or Broward Health, 2,500 sq ft",
+      "new_search": true,
+      "criteria_verified": false,
+      "weekly": {},
+      "history": []
+    },
+    {
+      "slug": "retail-strip-centers-for-sale",
+      "search_name": "WSS-COM-Retail",
+      "category": "commercial-sale",
+      "short": "Retail & Strip Centers for Sale",
+      "h1": "Retail Buildings & Strip Centers for Sale in South Florida",
+      "title": "Retail & Strip Centers for Sale: Palm Beach, Broward, Dade",
+      "description": "Strip centers, retail buildings and free-standing retail for sale in Palm Beach, Broward and Miami-Dade, from $750K. Refreshed weekly with commentary.",
+      "subhead": "Strip centers, retail buildings and free-standing retail from $750K, updated every week.",
+      "intro": [
+        "This search tracks retail investment property for sale across South Florida: neighborhood strip centers, multi-tenant retail buildings, and free-standing retail, priced from $750,000.",
+        "Retail has been one of the region's strongest property types, with grocery-anchored and service tenants leading demand. Bill helps investors review rent rolls, lease terms and tenant quality, and compare pricing across listings.",
+        "Each week the search is re-run, and this page shows the count, what changed, and a link to every active listing."
+      ],
+      "criteria": [
+        [
+          "Area",
+          "Palm Beach · Broward · Miami-Dade"
+        ],
+        [
+          "Property type",
+          "Retail / strip / free-standing"
+        ],
+        [
+          "Price",
+          "$750K and up"
+        ],
+        [
+          "Status",
+          "Active only"
+        ]
+      ],
+      "faqs": [
+        [
+          "What makes a strip center a stronger investment?",
+          "Look at tenant mix and credit, remaining lease terms, how expenses are recovered from tenants, traffic and visibility, and whether an anchor such as a grocer drives daily visits."
+        ],
+        [
+          "What is a cap rate?",
+          "The capitalization rate is the property's net operating income divided by its price. It lets you compare the income return of properties at different prices, but it should always be checked against a verified rent roll and expenses."
+        ],
+        [
+          "Can I use a 1031 exchange to buy retail property?",
+          "Investment real estate can often be acquired through a 1031 exchange. The rules and deadlines are strict, so work with a qualified intermediary and your tax adviser; Bill can coordinate the property side."
+        ]
+      ],
+      "related": [
+        "nnn-net-lease-properties-for-sale",
+        "mixed-use-properties-for-sale",
+        "retail-space-for-lease",
+        "commercial-land-for-sale"
+      ],
+      "agile_tag": "seg-com-retail",
+      "form_placeholder": "e.g. strip center under $5M, 6%+ cap, Palm Beach or Broward",
+      "new_search": false,
+      "criteria_verified": false,
+      "weekly": {},
+      "history": []
+    },
+    {
+      "slug": "industrial-warehouse-for-sale",
+      "search_name": "WSS-COM-Industrial",
+      "category": "commercial-sale",
+      "short": "Industrial & Warehouse for Sale",
+      "h1": "Industrial & Warehouse Property for Sale in South Florida",
+      "title": "Industrial & Warehouse for Sale: Palm Beach, Broward, Dade",
+      "description": "Warehouses, flex buildings and industrial property for sale in Palm Beach, Broward and Miami-Dade, from $750K. Active listings refreshed weekly.",
+      "subhead": "Warehouse, flex, distribution and light-manufacturing property from $750K, updated every week.",
+      "intro": [
+        "This search tracks industrial property for sale across South Florida: small-bay flex buildings, warehouses, distribution facilities and light-manufacturing sites, priced from $750,000.",
+        "Industrial is attractive both to investors and to business owners who would rather own than lease. Bill helps compare buildings on clear height, loading, power, zoning and condition, and on price per square foot and income where tenants are in place.",
+        "The search is refreshed weekly with the current count and a link to every active listing."
+      ],
+      "criteria": [
+        [
+          "Area",
+          "Palm Beach · Broward · Miami-Dade"
+        ],
+        [
+          "Property type",
+          "Industrial / warehouse / flex"
+        ],
+        [
+          "Price",
+          "$750K and up"
+        ],
+        [
+          "Status",
+          "Active only"
+        ]
+      ],
+      "faqs": [
+        [
+          "Should my business buy or lease its warehouse?",
+          "Owning builds equity and fixes your occupancy cost, while leasing keeps capital free and adds flexibility. Many owner-users buy through a separate entity and lease the building to their operating company."
+        ],
+        [
+          "What due diligence matters most on industrial property?",
+          "Zoning and permitted uses, environmental history (a Phase I report), roof and structure condition, loading and clear height, and flood zone."
+        ],
+        [
+          "Is SBA financing available for owner-occupied industrial?",
+          "Owner-occupied commercial property can often qualify for SBA 504 or 7(a) financing. A lender can confirm eligibility; Bill can introduce you to lenders who do these loans."
+        ]
+      ],
+      "related": [
+        "industrial-warehouse-for-lease",
+        "owner-user-office-flex-for-sale",
+        "commercial-land-for-sale",
+        "mixed-use-properties-for-sale"
+      ],
+      "agile_tag": "seg-com-industrial",
+      "form_placeholder": "e.g. 10,000–20,000 sq ft warehouse to own, dock loading, Broward",
+      "new_search": false,
+      "criteria_verified": false,
+      "weekly": {},
+      "history": []
+    },
+    {
+      "slug": "office-buildings-for-sale",
+      "search_name": "WSS-COM-Office",
+      "category": "commercial-sale",
+      "short": "Office Buildings for Sale",
+      "h1": "Office Buildings for Sale in South Florida",
+      "title": "Office Buildings for Sale: Palm Beach, Broward, Miami-Dade",
+      "description": "Office buildings and office investment property for sale in Palm Beach, Broward and Miami-Dade, from $750K. Updated weekly with market notes.",
+      "subhead": "Single- and multi-tenant office buildings from $750K, updated every week.",
+      "intro": [
+        "This search tracks office property for sale across South Florida: single-tenant buildings suited to owner-users, multi-tenant professional buildings, and larger investment offices, priced from $750,000.",
+        "Office performance varies widely by building quality and location: the best buildings are well occupied, while older ones may offer value-add or conversion opportunities at a lower basis. Bill helps buyers separate the two and review leases, expenses and capital needs.",
+        "Each week the search is re-run, with the current count and a link to every active listing."
+      ],
+      "criteria": [
+        [
+          "Area",
+          "Palm Beach · Broward · Miami-Dade"
+        ],
+        [
+          "Property type",
+          "Office"
+        ],
+        [
+          "Price",
+          "$750K and up"
+        ],
+        [
+          "Status",
+          "Active only"
+        ]
+      ],
+      "faqs": [
+        [
+          "Is buying an office building a good fit for my practice or firm?",
+          "Owner-users can lock in their occupancy cost and build equity, and can lease out unused space. Compare the total cost of ownership with a long-term lease before deciding."
+        ],
+        [
+          "What should I review in a multi-tenant office building?",
+          "The rent roll and lease expirations, tenant credit, how operating expenses are recovered, deferred maintenance, parking, and the building's competitive position against newer space."
+        ],
+        [
+          "Can older office buildings be converted?",
+          "Some can be repositioned to medical, residential or mixed use, depending on zoning, layout and cost. Treat conversion as a separate feasibility question before relying on it in the price."
+        ]
+      ],
+      "related": [
+        "medical-office-for-sale",
+        "owner-user-office-flex-for-sale",
+        "office-space-for-lease",
+        "mixed-use-properties-for-sale"
+      ],
+      "agile_tag": "seg-com-office",
+      "form_placeholder": "e.g. 5,000–10,000 sq ft building for my firm to occupy, Palm Beach County",
+      "new_search": false,
+      "criteria_verified": false,
+      "weekly": {},
+      "history": []
+    },
+    {
+      "slug": "medical-office-for-sale",
+      "search_name": "WSS-COM-Medical",
+      "category": "commercial-sale",
+      "short": "Medical Office for Sale",
+      "h1": "Medical Office Buildings & Condos for Sale in South Florida",
+      "title": "Medical Office for Sale: Palm Beach, Broward, Miami-Dade",
+      "description": "Medical office buildings and condos for sale in Palm Beach, Broward and Miami-Dade, for practice owners and investors. Active listings updated weekly.",
+      "subhead": "Medical office buildings and condos for practice owners and investors, updated every week.",
+      "intro": [
+        "This search tracks medical office property for sale across South Florida: medical office condominiums, single-tenant clinic buildings, and multi-tenant medical buildings near hospital campuses.",
+        "Medical office has held up better than general office, because patients need in-person care and practices invest heavily in their space. For physicians and dentists, owning the building can also turn rent into equity. Bill helps owner-users and investors compare locations, build-outs and income.",
+        "The search is refreshed every week with the current count, a short note and a link to every active listing."
+      ],
+      "criteria": [
+        [
+          "Area",
+          "Palm Beach · Broward · Miami-Dade"
+        ],
+        [
+          "Property type",
+          "Medical office"
+        ],
+        [
+          "Listing type",
+          "For sale"
+        ],
+        [
+          "Status",
+          "Active only"
+        ]
+      ],
+      "faqs": [
+        [
+          "Should my practice buy its own office?",
+          "Owning gives control over the space and turns rent into equity, and many practices hold the property in a separate entity that leases to the practice. Compare it with a long-term lease, and involve your accountant."
+        ],
+        [
+          "What is a medical office condo?",
+          "It is an individually owned unit within a medical building, with shared common areas managed by an association. It lets smaller practices own without buying a whole building."
+        ],
+        [
+          "What makes medical office different from regular office?",
+          "Plumbing in exam rooms, higher parking needs, ADA requirements, zoning for medical use and proximity to hospitals and referral sources all affect value and usability."
+        ]
+      ],
+      "related": [
+        "medical-office-for-lease",
+        "office-buildings-for-sale",
+        "owner-user-office-flex-for-sale",
+        "retail-strip-centers-for-sale"
+      ],
+      "agile_tag": "seg-com-medical",
+      "form_placeholder": "e.g. 2,000–4,000 sq ft medical condo to own, near a hospital in Broward",
+      "new_search": true,
+      "criteria_verified": false,
+      "weekly": {},
+      "history": []
+    },
+    {
+      "slug": "owner-user-office-flex-for-sale",
+      "search_name": "WSS-COM-OwnerUser",
+      "category": "commercial-sale",
+      "short": "Owner-User Office & Flex Under $2M",
+      "h1": "Owner-User Office & Flex Condos for Sale Under $2M",
+      "title": "Owner-User Office & Flex Condos Under $2M: South Florida",
+      "description": "Office condos, flex units and small commercial buildings under $2M for business owners in Palm Beach, Broward and Miami-Dade. Refreshed weekly.",
+      "subhead": "Office condos, flex units and small buildings under $2M for business owners, updated every week.",
+      "intro": [
+        "This search is built for business owners who want to stop paying rent: office condominiums, flex and warehouse condo units, and small free-standing commercial buildings priced under $2 million across South Florida.",
+        "Buying the space your business uses can fix your occupancy cost and build equity, and owner-occupied property often qualifies for SBA financing with a lower down payment than a typical investment loan. Bill helps compare units on location, layout, association rules and total monthly cost against your current lease.",
+        "Each week the search is re-run, and this page shows the count and a link to every active listing."
+      ],
+      "criteria": [
+        [
+          "Area",
+          "Palm Beach · Broward · Miami-Dade"
+        ],
+        [
+          "Property type",
+          "Office / flex condo, small commercial"
+        ],
+        [
+          "Price",
+          "Under $2M"
+        ],
+        [
+          "Status",
+          "Active only"
+        ]
+      ],
+      "faqs": [
+        [
+          "Can I buy commercial property with a small down payment?",
+          "Owner-occupied commercial property can often be financed with SBA 504 or 7(a) loans, which may require less down than conventional investment loans. A lender confirms eligibility and terms."
+        ],
+        [
+          "What should I check in a commercial condo association?",
+          "Monthly dues and what they cover, reserves, any special assessments, use restrictions, signage rules and parking allocation."
+        ],
+        [
+          "How do I compare buying with my current lease?",
+          "Compare the full monthly cost of owning (mortgage, dues, taxes, insurance, maintenance) with your rent and expected increases, and factor in equity built and your down payment's opportunity cost."
+        ]
+      ],
+      "related": [
+        "office-buildings-for-sale",
+        "medical-office-for-sale",
+        "industrial-warehouse-for-sale",
+        "office-space-for-lease"
+      ],
+      "agile_tag": "seg-com-owneruser",
+      "form_placeholder": "e.g. 1,500 sq ft office condo to own, under $700K, Boca or Deerfield",
+      "new_search": true,
+      "criteria_verified": false,
+      "weekly": {},
+      "history": []
+    },
+    {
+      "slug": "mixed-use-properties-for-sale",
+      "search_name": "WSS-COM-MixedUse",
+      "category": "commercial-sale",
+      "short": "Mixed-Use Property for Sale",
+      "h1": "Mixed-Use Property for Sale in South Florida",
+      "title": "Mixed-Use Property for Sale: Palm Beach, Broward, Miami-Dade",
+      "description": "Mixed-use buildings with retail, office and residential income for sale in Palm Beach, Broward and Miami-Dade. Active listings refreshed weekly.",
+      "subhead": "Buildings combining retail or office with apartments, updated every week.",
+      "intro": [
+        "This search tracks mixed-use property for sale across South Florida: main-street buildings with shops below and apartments above, and larger properties combining retail, office and residential income.",
+        "Mixed use spreads risk across tenant types and often sits in walkable downtowns with steady demand. It also adds complexity in leasing, insurance and financing. Bill helps investors sort through each income stream and compare listings on a like-for-like basis.",
+        "The search is refreshed weekly with the current count and a link to every active listing."
+      ],
+      "criteria": [
+        [
+          "Area",
+          "Palm Beach · Broward · Miami-Dade"
+        ],
+        [
+          "Property type",
+          "Mixed use"
+        ],
+        [
+          "Listing type",
+          "For sale"
+        ],
+        [
+          "Status",
+          "Active only"
+        ]
+      ],
+      "faqs": [
+        [
+          "How is mixed-use property financed?",
+          "Lenders look at the share of residential versus commercial income. Properties that are mostly residential may qualify for multifamily-style loans; others need commercial financing."
+        ],
+        [
+          "What are the advantages of mixed-use property?",
+          "Diversified income from different tenant types, often in walkable, high-demand locations, and sometimes favorable zoning for redevelopment."
+        ],
+        [
+          "What risks should I watch for?",
+          "Different lease structures for each use, higher insurance complexity, and the effect of a commercial vacancy on total income."
+        ]
+      ],
+      "related": [
+        "retail-strip-centers-for-sale",
+        "office-buildings-for-sale",
+        "apartment-buildings-5-plus-units",
+        "commercial-land-for-sale"
+      ],
+      "agile_tag": "seg-com-mixeduse",
+      "form_placeholder": "e.g. downtown Delray or Lake Worth, retail + apartments, under $4M",
+      "new_search": false,
+      "criteria_verified": false,
+      "weekly": {},
+      "history": []
+    },
+    {
+      "slug": "commercial-land-for-sale",
+      "search_name": "WSS-COM-Land",
+      "category": "commercial-sale",
+      "short": "Commercial Land for Sale",
+      "h1": "Commercial Land & Development Sites for Sale in South Florida",
+      "title": "Commercial Land for Sale: Palm Beach, Broward, Miami-Dade",
+      "description": "Commercial land and development sites for sale in Palm Beach, Broward and Miami-Dade, from $750K. Active listings updated weekly with commentary.",
+      "subhead": "Zoned parcels and development sites from $750K, updated every week.",
+      "intro": [
+        "This search tracks commercial land for sale across South Florida: zoned parcels for retail, industrial, office and multifamily development, outparcels, and land suited to ground leases, priced from $750,000.",
+        "Land value depends on what can be built: zoning, density, access, utilities and approvals. Bill helps developers and investors shortlist sites and line up the due diligence that answers those questions before you commit.",
+        "Each week the search is re-run, and this page shows the count and a link to every active listing."
+      ],
+      "criteria": [
+        [
+          "Area",
+          "Palm Beach · Broward · Miami-Dade"
+        ],
+        [
+          "Property type",
+          "Commercial land"
+        ],
+        [
+          "Price",
+          "$750K and up"
+        ],
+        [
+          "Status",
+          "Active only"
+        ]
+      ],
+      "faqs": [
+        [
+          "What due diligence is needed before buying commercial land?",
+          "Zoning and land-use designation, survey and title, environmental review, utility availability, access and traffic requirements, flood zone, and the local approval process for your intended use."
+        ],
+        [
+          "What is a ground lease?",
+          "The landowner leases the land to a tenant who builds and operates on it, often for decades. It produces long-term income without selling the land."
+        ],
+        [
+          "Can I buy land subject to approvals?",
+          "Many land contracts include a feasibility period and contingencies for rezoning or site-plan approval. The terms are negotiated case by case."
+        ]
+      ],
+      "related": [
+        "mixed-use-properties-for-sale",
+        "industrial-warehouse-for-sale",
+        "retail-strip-centers-for-sale",
+        "apartment-complexes-20-plus-units"
+      ],
+      "agile_tag": "seg-com-land",
+      "form_placeholder": "e.g. 1–3 acre commercial parcel for a medical building, Palm Beach County",
+      "new_search": false,
+      "criteria_verified": false,
+      "weekly": {},
+      "history": []
+    },
+    {
+      "slug": "nnn-net-lease-properties-for-sale",
+      "search_name": "WSS-COM-NNN",
+      "category": "commercial-sale",
+      "short": "NNN Net-Lease Properties",
+      "h1": "NNN Net-Lease Investment Properties for Sale in Florida",
+      "title": "NNN Net-Lease Properties for Sale: South Florida Investors",
+      "description": "Triple-net (NNN) leased investment properties for sale, with tenants paying taxes, insurance and maintenance. Active listings refreshed weekly.",
+      "subhead": "Single-tenant properties where the tenant pays taxes, insurance and maintenance, updated every week.",
+      "intro": [
+        "This search tracks triple-net (NNN) leased investment property for sale: single-tenant retail, restaurant, medical and service buildings where the tenant pays the property's taxes, insurance and maintenance in addition to rent.",
+        "NNN property is popular with investors who want predictable income and light management, including buyers completing 1031 exchanges. Value depends on tenant credit, remaining lease term, rent increases and the real estate underneath. Bill helps buyers compare those factors across listings.",
+        "The search is refreshed weekly with the current count and a link to every active listing."
+      ],
+      "criteria": [
+        [
+          "Area",
+          "Palm Beach · Broward · Miami-Dade"
+        ],
+        [
+          "Property type",
+          "Single-tenant net lease"
+        ],
+        [
+          "Lease",
+          "NNN"
+        ],
+        [
+          "Status",
+          "Active only"
+        ]
+      ],
+      "faqs": [
+        [
+          "What does triple-net (NNN) mean?",
+          "The tenant pays the property's real estate taxes, insurance and maintenance on top of base rent, so the owner's income is closer to the rent itself. Some leases leave roof or structure with the landlord, so read each lease."
+        ],
+        [
+          "What should I look at first on a NNN listing?",
+          "Tenant credit and guarantor, years remaining on the lease, rent increases, renewal options, and whether the location would re-lease well if the tenant left."
+        ],
+        [
+          "Are NNN properties good for a 1031 exchange?",
+          "They are a common choice because they are easy to identify and manage. Exchange rules and deadlines are strict, so use a qualified intermediary and your tax adviser."
+        ]
+      ],
+      "related": [
+        "retail-strip-centers-for-sale",
+        "medical-office-for-sale",
+        "industrial-warehouse-for-sale",
+        "retail-space-for-lease"
+      ],
+      "agile_tag": "seg-com-nnn",
+      "form_placeholder": "e.g. NNN under $3M, 10+ years left on the lease, for a 1031 exchange",
+      "new_search": false,
+      "criteria_verified": false,
+      "weekly": {},
+      "history": []
+    },
+    {
+      "slug": "duplex-triplex-fourplex-under-1m",
+      "search_name": "WSS-MF-2plus-Under1M",
+      "category": "multifamily",
+      "short": "Duplexes to Fourplexes Under $1M",
+      "h1": "Duplexes, Triplexes & Fourplexes for Sale Under $1M",
+      "title": "Duplexes, Triplexes & Fourplexes Under $1M: South Florida",
+      "description": "Duplexes, triplexes and fourplexes for sale under $1M in South Florida, for first-time investors and house hackers. Active listings refreshed weekly.",
+      "subhead": "Two- to four-unit properties under $1M for first-time investors and owner-occupants, updated every week.",
+      "intro": [
+        "This search tracks two- to four-unit residential income property priced under $1 million: duplexes, triplexes and fourplexes that suit first-time investors, and buyers who want to live in one unit and rent the others.",
+        "Small multifamily can be financed with residential loans, including owner-occupied options, which makes it one of the most accessible ways to start investing. Bill helps buyers check rents, expenses, insurance and condition so the numbers hold up after closing.",
+        "Each week the search is re-run, and this page shows the count and a link to every active listing."
+      ],
+      "criteria": [
+        [
+          "Area",
+          "Palm Beach · Broward · Miami-Dade"
+        ],
+        [
+          "Units",
+          "2–4"
+        ],
+        [
+          "Price",
+          "Under $1M"
+        ],
+        [
+          "Status",
+          "Active only"
+        ]
+      ],
+      "faqs": [
+        [
+          "Can I live in one unit and rent the others?",
+          "Yes. Owner-occupied two- to four-unit properties can qualify for residential financing, sometimes with a lower down payment than an investment loan. A lender confirms the options."
+        ],
+        [
+          "What expenses should I budget for?",
+          "Property taxes, insurance (including wind and flood where required), repairs and reserves, utilities you pay, and vacancy. Insurance is a major line item in South Florida, so get a quote early."
+        ],
+        [
+          "How do I estimate rental income?",
+          "Start with current leases, then compare with rents for similar nearby units. Bill can pull rental comparables before you make an offer."
+        ]
+      ],
+      "related": [
+        "small-multifamily-1m-to-3m",
+        "apartment-buildings-5-plus-units",
+        "short-term-rental-investment-properties",
+        "homes-for-rent"
+      ],
+      "agile_tag": "seg-mf-small-under1m",
+      "form_placeholder": "e.g. duplex under $700K, east of I-95, live in one side",
+      "new_search": false,
+      "criteria_verified": false,
+      "weekly": {},
+      "history": []
+    },
+    {
+      "slug": "small-multifamily-1m-to-3m",
+      "search_name": "WSS-MF-2plus-1Mto3M",
+      "category": "multifamily",
+      "short": "Small Multifamily $1M–$3M",
+      "h1": "Small Multifamily for Sale: $1M to $3M",
+      "title": "Small Multifamily for Sale $1M–$3M: Palm Beach, Broward, Dade",
+      "description": "Duplexes to small apartment buildings priced $1M to $3M in Palm Beach, Broward and Miami-Dade. Active listings refreshed weekly with commentary.",
+      "subhead": "Premium small multifamily from $1M to $3M, updated every week.",
+      "intro": [
+        "This search tracks multifamily property priced from $1 million to $3 million: higher-end duplexes and fourplexes in coastal neighborhoods, and small apartment buildings with room to add value.",
+        "This range sits between first-time investor property and institutional deals, and many listings here are near the beach or downtowns where rents are strongest. Bill helps investors compare income, condition and upside across listings, and works through financing and insurance.",
+        "The search is refreshed weekly with the current count and a link to every active listing."
+      ],
+      "criteria": [
+        [
+          "Area",
+          "Palm Beach · Broward · Miami-Dade"
+        ],
+        [
+          "Units",
+          "2 and up"
+        ],
+        [
+          "Price",
+          "$1M–$3M"
+        ],
+        [
+          "Status",
+          "Active only"
+        ]
+      ],
+      "faqs": [
+        [
+          "What financing is available in this price range?",
+          "Two- to four-unit property can use residential loans; five units and up generally need commercial or agency multifamily financing based on the property's income."
+        ],
+        [
+          "How do I judge value-add potential?",
+          "Compare current rents with market rents, look at unit condition and deferred maintenance, and price the renovation needed to close the gap."
+        ],
+        [
+          "Why does insurance matter so much here?",
+          "Wind and flood coverage can be one of the largest operating costs for South Florida rentals. A quote before you make an offer protects your numbers."
+        ]
+      ],
+      "related": [
+        "duplex-triplex-fourplex-under-1m",
+        "apartment-buildings-5-plus-units",
+        "short-term-rental-investment-properties",
+        "mixed-use-properties-for-sale"
+      ],
+      "agile_tag": "seg-mf-small-1to3m",
+      "form_placeholder": "e.g. 4–8 units, $1.5M–$2.5M, near the beach in Broward",
+      "new_search": false,
+      "criteria_verified": false,
+      "weekly": {},
+      "history": []
+    },
+    {
+      "slug": "apartment-buildings-5-plus-units",
+      "search_name": "WSS-MF-5plus-All",
+      "category": "multifamily",
+      "short": "Apartment Buildings, 5+ Units",
+      "h1": "Apartment Buildings for Sale: 5+ Units in South Florida",
+      "title": "Apartment Buildings for Sale, 5+ Units: South Florida",
+      "description": "Apartment buildings with five or more units for sale in Palm Beach, Broward and Miami-Dade, at every price. Active listings refreshed weekly.",
+      "subhead": "Small and mid-size apartment buildings with five or more units, updated every week.",
+      "intro": [
+        "This search tracks apartment buildings with five or more units at every price: garden-style buildings, small walk-ups and mid-size communities across South Florida.",
+        "At five units and up, value is driven by income, and the property usually needs commercial or agency financing. Bill helps investors verify rent rolls and expenses, assess management and capital needs, and compare listings on price per unit and income.",
+        "Each week the search is re-run, and this page shows the count and a link to every active listing."
+      ],
+      "criteria": [
+        [
+          "Area",
+          "Palm Beach · Broward · Miami-Dade"
+        ],
+        [
+          "Units",
+          "5 and up"
+        ],
+        [
+          "Price",
+          "Any"
+        ],
+        [
+          "Status",
+          "Active only"
+        ]
+      ],
+      "faqs": [
+        [
+          "How are apartment buildings valued?",
+          "Mainly on net operating income: rents less operating expenses, divided by a market cap rate. Price per unit and comparable sales are useful cross-checks."
+        ],
+        [
+          "What documents should I ask for?",
+          "A current rent roll, trailing 12-month income and expense statement, leases, utility bills, insurance and tax bills, and any recent inspection or recertification reports."
+        ],
+        [
+          "Do buildings in Florida have special inspection rules?",
+          "Florida has milestone inspection and reserve requirements for certain condominium and cooperative buildings, and local recertification rules for older buildings. Confirm what applies to the building you are buying."
+        ]
+      ],
+      "related": [
+        "apartment-complexes-20-plus-units",
+        "small-multifamily-1m-to-3m",
+        "mixed-use-properties-for-sale",
+        "duplex-triplex-fourplex-under-1m"
+      ],
+      "agile_tag": "seg-mf-mid-5plus",
+      "form_placeholder": "e.g. 8–16 units, value-add, under $4M, Palm Beach or Broward",
+      "new_search": false,
+      "criteria_verified": false,
+      "weekly": {},
+      "history": []
+    },
+    {
+      "slug": "apartment-complexes-20-plus-units",
+      "search_name": "WSS-MF-20plus-All",
+      "category": "multifamily",
+      "short": "Apartment Complexes, 20+ Units",
+      "h1": "Apartment Complexes for Sale: 20+ Units in South Florida",
+      "title": "Apartment Complexes for Sale, 20+ Units: South Florida",
+      "description": "Larger apartment complexes with 20+ units for sale in South Florida, for syndicators and institutional buyers. Active listings refreshed weekly.",
+      "subhead": "Larger apartment communities for experienced operators and investor groups, updated every week.",
+      "intro": [
+        "This search tracks larger apartment communities with 20 or more units across South Florida, suited to experienced operators, syndicators and family offices.",
+        "South Florida's multifamily vacancy has stayed below the national average thanks to steady population growth and high barriers to new building, which keeps investor interest strong. Bill helps buyer groups source listings, coordinate underwriting and due diligence, and work through financing and insurance.",
+        "The search is refreshed weekly with the current count and a link to every active listing."
+      ],
+      "criteria": [
+        [
+          "Area",
+          "Palm Beach · Broward · Miami-Dade"
+        ],
+        [
+          "Units",
+          "20 and up"
+        ],
+        [
+          "Price",
+          "Any"
+        ],
+        [
+          "Status",
+          "Active only"
+        ]
+      ],
+      "faqs": [
+        [
+          "How are larger apartment deals usually financed?",
+          "With agency (Fannie Mae or Freddie Mac), bank or bridge loans sized on the property's income. Loan terms depend on occupancy, condition and the sponsor's experience."
+        ],
+        [
+          "What is the most important part of due diligence?",
+          "Verifying income and expenses against bank statements and leases, a physical inspection of every unit and system, and a realistic budget for insurance and capital repairs."
+        ],
+        [
+          "Are there off-market opportunities?",
+          "Some larger owners sell privately. Tell Bill your criteria and he will share suitable opportunities as they come up, alongside the listings in this search."
+        ]
+      ],
+      "related": [
+        "apartment-buildings-5-plus-units",
+        "commercial-land-for-sale",
+        "mixed-use-properties-for-sale",
+        "small-multifamily-1m-to-3m"
+      ],
+      "agile_tag": "seg-mf-large-20plus",
+      "form_placeholder": "e.g. 40–100 units, Class B value-add, Broward or Miami-Dade",
+      "new_search": false,
+      "criteria_verified": false,
+      "weekly": {},
+      "history": []
+    },
+    {
+      "slug": "short-term-rental-investment-properties",
+      "search_name": "WSS-STR-airbnb-east",
+      "category": "multifamily",
+      "short": "Short-Term Rental Investments",
+      "h1": "Short-Term Rental Investment Properties for Sale",
+      "title": "Short-Term Rental (Airbnb) Properties for Sale: South Florida",
+      "description": "Homes and small multifamily east of I-95 suited to short-term rental investing in South Florida. Active listings refreshed weekly with notes.",
+      "subhead": "Coastal homes and small multifamily suited to vacation-rental investing, updated every week.",
+      "intro": [
+        "This search tracks homes and small multifamily east of I-95, close to the beach and downtowns, that suit short-term or vacation-rental investing.",
+        "Short-term rental rules vary city by city in South Florida, from registration and inspections to minimum-stay limits, and condo and homeowner associations often add their own restrictions. Bill helps investors confirm the rules for each property before they rely on nightly-rental income.",
+        "Each week the search is re-run, and this page shows the count and a link to every active listing."
+      ],
+      "criteria": [
+        [
+          "Area",
+          "Palm Beach · Broward · Miami-Dade"
+        ],
+        [
+          "Location",
+          "East of I-95"
+        ],
+        [
+          "Use",
+          "Short-term rental potential"
+        ],
+        [
+          "Status",
+          "Active only"
+        ]
+      ],
+      "faqs": [
+        [
+          "Are short-term rentals allowed everywhere in South Florida?",
+          "No. Many cities require registration, inspections and local contacts, some set minimum stays, and associations may ban them. Always verify the city ordinance and any association rules for the specific property."
+        ],
+        [
+          "What extra costs come with short-term rentals?",
+          "Furnishing, cleaning, platform fees, management, utilities, and Florida and county tourist-development taxes on stays of six months or less."
+        ],
+        [
+          "How should I estimate income?",
+          "Use data on comparable nearby rentals across a full year, including the slower summer season, and compare it with a long-term rental scenario as a fallback."
+        ]
+      ],
+      "related": [
+        "duplex-triplex-fourplex-under-1m",
+        "seasonal-furnished-rentals",
+        "small-multifamily-1m-to-3m",
+        "oceanfront-homes-for-sale"
+      ],
+      "agile_tag": "seg-str-east",
+      "form_placeholder": "e.g. 3-bed home or duplex near the beach that allows short-term rentals",
+      "new_search": false,
+      "criteria_verified": false,
+      "weekly": {},
+      "history": []
+    },
+    {
+      "slug": "luxury-homes-for-sale",
+      "search_name": "WSS-RES-LuxSFR2M",
+      "category": "residential-sale",
+      "short": "Luxury Homes $2M+",
+      "h1": "Luxury Homes for Sale in South Florida: $2M and Up",
+      "title": "Luxury Homes for Sale $2M+: Palm Beach, Broward, Miami-Dade",
+      "description": "Luxury single-family homes from $2M in Palm Beach, Broward and Miami-Dade, from estates to waterfront residences. Active listings refreshed weekly.",
+      "subhead": "Single-family homes from $2M across South Florida, updated every week.",
+      "intro": [
+        "This search tracks single-family homes priced from $2 million across Palm Beach, Broward and Miami-Dade: estate homes, new construction, and residences in sought-after neighborhoods and gated communities.",
+        "Bill represents luxury buyers through the whole process: shortlisting homes, arranging private showings, reviewing inspections, insurance and association rules, and negotiating terms.",
+        "Each week the search is re-run, and this page shows the count, a short market note and a link to every active listing."
+      ],
+      "criteria": [
+        [
+          "Area",
+          "Palm Beach · Broward · Miami-Dade"
+        ],
+        [
+          "Property type",
+          "Single-family home"
+        ],
+        [
+          "Price",
+          "$2M and up"
+        ],
+        [
+          "Status",
+          "Active only"
+        ]
+      ],
+      "faqs": [
+        [
+          "What should I check before buying a luxury home in South Florida?",
+          "Flood zone and elevation, wind mitigation and roof age (both drive insurance cost), any association rules and fees, and permits for past renovations."
+        ],
+        [
+          "Do I need a buyer's agent for a luxury purchase?",
+          "A buyer's agent represents your interests in pricing, inspections and negotiation. Agent compensation is agreed in writing with you before touring; Bill explains the options up front."
+        ],
+        [
+          "Can I see homes that aren't on this list?",
+          "Yes. Tell Bill your criteria and he will also share new listings and private opportunities as they come up."
+        ]
+      ],
+      "related": [
+        "oceanfront-homes-for-sale",
+        "intracoastal-homes-for-sale",
+        "country-club-homes-for-sale",
+        "condos-for-sale-price-reduced"
+      ],
+      "agile_tag": "seg-res-lux-sfr",
+      "form_placeholder": "e.g. 4+ bedrooms, pool, east Boca or Fort Lauderdale, $2.5M–$4M",
+      "new_search": true,
+      "criteria_verified": false,
+      "weekly": {},
+      "history": []
+    },
+    {
+      "slug": "oceanfront-homes-for-sale",
+      "search_name": "WSS-LUX-Oceanfront",
+      "category": "residential-sale",
+      "short": "Oceanfront Homes & Condos",
+      "h1": "Oceanfront Homes & Condos for Sale in South Florida",
+      "title": "Oceanfront Homes & Condos for Sale: Palm Beach to Miami",
+      "description": "Oceanfront homes and condos for sale in Palm Beach, Broward and Miami-Dade, with direct Atlantic frontage. Active listings refreshed weekly.",
+      "subhead": "Residences with direct Atlantic Ocean frontage, updated every week.",
+      "intro": [
+        "This search tracks residences with direct ocean frontage on South Florida's Atlantic coast, from beachfront condominiums to single-family homes on the sand.",
+        "Oceanfront ownership comes with specific questions: building age and recertification, condo association reserves and assessments, wind and flood insurance, and coastal construction rules. Bill helps buyers work through each one before making an offer.",
+        "Each week the search is re-run, and this page shows the count and a link to every active listing."
+      ],
+      "criteria": [
+        [
+          "Area",
+          "Palm Beach · Broward · Miami-Dade"
+        ],
+        [
+          "Frontage",
+          "Direct ocean"
+        ],
+        [
+          "Property type",
+          "Homes & condos"
+        ],
+        [
+          "Status",
+          "Active only"
+        ]
+      ],
+      "faqs": [
+        [
+          "What should I ask about an oceanfront condo building?",
+          "Ask for the milestone inspection and structural reports, reserve study and funding level, any current or planned special assessments, and the building's insurance cost."
+        ],
+        [
+          "How does insurance work for oceanfront homes?",
+          "Expect separate wind and flood coverage, with cost driven by elevation, construction and mitigation features. Get quotes during your inspection period."
+        ],
+        [
+          "Can I build or renovate on an oceanfront lot?",
+          "Work seaward of Florida's Coastal Construction Control Line needs a state permit in addition to local permits, so plan for extra review time."
+        ]
+      ],
+      "related": [
+        "intracoastal-homes-for-sale",
+        "luxury-homes-for-sale",
+        "country-club-homes-for-sale",
+        "condos-for-sale-price-reduced"
+      ],
+      "agile_tag": "seg-lux-oceanfront",
+      "form_placeholder": "e.g. oceanfront condo, 2–3 bedrooms, Highland Beach to Fort Lauderdale",
+      "new_search": false,
+      "criteria_verified": false,
+      "weekly": {},
+      "history": []
+    },
+    {
+      "slug": "intracoastal-homes-for-sale",
+      "search_name": "WSS-LUX-Intracoastal",
+      "category": "residential-sale",
+      "short": "Intracoastal Homes",
+      "h1": "Intracoastal Waterfront Homes for Sale in South Florida",
+      "title": "Intracoastal Waterfront Homes for Sale: South Florida",
+      "description": "Intracoastal waterfront homes and condos for sale in Palm Beach, Broward and Miami-Dade, many with private docks. Active listings refreshed weekly.",
+      "subhead": "Waterfront residences on the Intracoastal Waterway, many with docks, updated every week.",
+      "intro": [
+        "This search tracks residences on or overlooking the Intracoastal Waterway, from homes with private docks and ocean access to condominiums with water views.",
+        "For boaters, the details that matter are water depth, bridge clearances to the inlet, dock size and seawall condition. Bill helps buyers check each one, along with flood zone, insurance and any association rules.",
+        "The search is refreshed weekly with the current count and a link to every active listing."
+      ],
+      "criteria": [
+        [
+          "Area",
+          "Palm Beach · Broward · Miami-Dade"
+        ],
+        [
+          "Waterfront",
+          "Intracoastal"
+        ],
+        [
+          "Property type",
+          "Homes & condos"
+        ],
+        [
+          "Status",
+          "Active only"
+        ]
+      ],
+      "faqs": [
+        [
+          "What should boat owners check before buying?",
+          "Water depth at the dock at low tide, fixed-bridge clearances on the route to the nearest inlet, dock and lift capacity, and seawall condition."
+        ],
+        [
+          "Who is responsible for the seawall?",
+          "On a single-family lot it is usually the owner. Ask for its age and any inspection, since replacement is a major expense."
+        ],
+        [
+          "How do flood zones affect waterfront homes?",
+          "They drive flood insurance requirements and cost, and they set elevation rules for major renovations or rebuilds. Check the zone and elevation certificate early."
+        ]
+      ],
+      "related": [
+        "oceanfront-homes-for-sale",
+        "luxury-homes-for-sale",
+        "country-club-homes-for-sale",
+        "seasonal-furnished-rentals"
+      ],
+      "agile_tag": "seg-lux-intracoastal",
+      "form_placeholder": "e.g. Intracoastal home with a 50 ft dock, no fixed bridges, Boca to Pompano",
+      "new_search": false,
+      "criteria_verified": false,
+      "weekly": {},
+      "history": []
+    },
+    {
+      "slug": "country-club-homes-for-sale",
+      "search_name": "WSS-LUX-CountryClub",
+      "category": "residential-sale",
+      "short": "Country Club Homes",
+      "h1": "Country Club & Golf Community Homes for Sale in South Florida",
+      "title": "Country Club & Golf Homes for Sale: South Florida",
+      "description": "Homes in South Florida's country club and golf communities, from Boca Raton to Miami-Dade. Active listings refreshed weekly with commentary.",
+      "subhead": "Homes in gated golf and country club communities, updated every week.",
+      "intro": [
+        "This search tracks homes in South Florida's country club and golf communities, from established clubs to newer gated developments.",
+        "Club communities differ widely in membership structure, equity or initiation fees, annual dues and amenities. Bill helps buyers compare the full cost of each community, not just the home's price, and arranges club tours alongside home showings.",
+        "Each week the search is re-run, and this page shows the count and a link to every active listing."
+      ],
+      "criteria": [
+        [
+          "Area",
+          "Palm Beach · Broward · Miami-Dade"
+        ],
+        [
+          "Community",
+          "Country club / golf"
+        ],
+        [
+          "Property type",
+          "Homes"
+        ],
+        [
+          "Status",
+          "Active only"
+        ]
+      ],
+      "faqs": [
+        [
+          "What is a mandatory membership community?",
+          "In some communities every homeowner must join the club and pay its initiation and dues. Others make membership optional. Confirm which applies before you buy."
+        ],
+        [
+          "What costs should I compare between clubs?",
+          "Initiation or equity fee, annual dues, food minimums, capital assessments, and the homeowner association fee, alongside the home price."
+        ],
+        [
+          "Can I tour the club before buying?",
+          "Yes. Most clubs offer tours or trial visits for serious buyers. Bill can arrange them with your home showings."
+        ]
+      ],
+      "related": [
+        "luxury-homes-for-sale",
+        "intracoastal-homes-for-sale",
+        "oceanfront-homes-for-sale",
+        "condos-for-sale-price-reduced"
+      ],
+      "agile_tag": "seg-lux-countryclub",
+      "form_placeholder": "e.g. golf community, non-mandatory membership, 3–4 bedrooms, Boca or Delray",
+      "new_search": false,
+      "criteria_verified": false,
+      "weekly": {},
+      "history": []
+    },
+    {
+      "slug": "condos-for-sale-price-reduced",
+      "search_name": "WSS-RES-CondoValue",
+      "category": "residential-sale",
+      "short": "Condo Price Reductions",
+      "h1": "Condos for Sale with Recent Price Reductions in South Florida",
+      "title": "Price-Reduced Condos for Sale: Palm Beach, Broward, Dade",
+      "description": "Condos for sale with recent price reductions in Palm Beach, Broward and Miami-Dade. Find value as condo inventory grows. Updated weekly.",
+      "subhead": "Condominiums whose sellers have recently cut the price, updated every week.",
+      "intro": [
+        "This search tracks condominiums across Palm Beach, Broward and Miami-Dade whose asking price has recently been reduced.",
+        "Condo inventory has been rising in South Florida, which gives buyers more choice and more negotiating room. A lower price is only a good deal if the building is sound, so Bill helps buyers review each association's reserves, inspection reports and any assessments before making an offer.",
+        "The search is refreshed weekly with the current count and a link to every active listing."
+      ],
+      "criteria": [
+        [
+          "Area",
+          "Palm Beach · Broward · Miami-Dade"
+        ],
+        [
+          "Property type",
+          "Condominium"
+        ],
+        [
+          "Price",
+          "Recently reduced"
+        ],
+        [
+          "Status",
+          "Active only"
+        ]
+      ],
+      "faqs": [
+        [
+          "Why are some condo prices falling?",
+          "Rising inventory, higher association fees and assessments in some older buildings, and insurance costs have all affected condo pricing. Conditions vary building by building."
+        ],
+        [
+          "What should I review before buying a condo?",
+          "The association's budget and reserve study, milestone or structural inspection reports, any current or approved special assessments, insurance, and rules on rentals and pets."
+        ],
+        [
+          "Can I negotiate below the reduced price?",
+          "Often yes. Days on market, the building's financial health and recent sales in the same building all shape how much room there is."
+        ]
+      ],
+      "related": [
+        "oceanfront-homes-for-sale",
+        "luxury-homes-for-sale",
+        "homes-for-rent",
+        "seasonal-furnished-rentals"
+      ],
+      "agile_tag": "seg-res-condo-value",
+      "form_placeholder": "e.g. 2-bed condo under $450K, low assessments, pets allowed",
+      "new_search": true,
+      "criteria_verified": false,
+      "weekly": {},
+      "history": []
+    },
+    {
+      "slug": "homes-for-rent",
+      "search_name": "WSS-RES-RENTALS",
+      "category": "residential-lease",
+      "short": "Homes & Condos for Rent",
+      "h1": "Homes & Condos for Rent: $2,500 to $5,000 a Month",
+      "title": "Homes & Condos for Rent $2,500–$5,000: South Florida",
+      "description": "Annual-lease homes, townhomes and condos for rent from $2,500 to $5,000 a month in Palm Beach, Broward and Miami-Dade. Updated weekly.",
+      "subhead": "Annual-lease homes, townhomes and condos from $2,500 to $5,000 a month, updated every week.",
+      "intro": [
+        "This search tracks homes, townhomes and condominiums available on an annual lease from $2,500 to $5,000 a month across Palm Beach, Broward and Miami-Dade.",
+        "Good rentals move fast, so it helps to have your documents ready and someone tracking new listings. Bill helps renters shortlist homes, arrange showings and handle applications, including association approvals where a condo or community requires one.",
+        "Each week the search is re-run, and this page shows the count and a link to every active listing."
+      ],
+      "criteria": [
+        [
+          "Area",
+          "Palm Beach · Broward · Miami-Dade"
+        ],
+        [
+          "Lease",
+          "Annual"
+        ],
+        [
+          "Rent",
+          "$2,500–$5,000 / month"
+        ],
+        [
+          "Status",
+          "Active only"
+        ]
+      ],
+      "faqs": [
+        [
+          "What do I need to apply for a rental?",
+          "Typically a photo ID, proof of income, and consent to credit and background checks. Many condos and communities also require an association application and approval, which can take extra time."
+        ],
+        [
+          "Who pays the agent fee on a rental?",
+          "In most rentals the landlord pays the agent fee — we'll confirm before you sign."
+        ],
+        [
+          "How much move-in money should I plan for?",
+          "Commonly first month's rent, a security deposit, and sometimes last month's rent, plus any association application fee. Confirm the exact amounts for each listing."
+        ]
+      ],
+      "related": [
+        "seasonal-furnished-rentals",
+        "condos-for-sale-price-reduced",
+        "duplex-triplex-fourplex-under-1m",
+        "luxury-homes-for-sale"
+      ],
+      "agile_tag": "seg-rent-annual",
+      "form_placeholder": "e.g. 3-bed home, annual lease, under $4,000, pets OK, Boca or Coral Springs",
+      "new_search": true,
+      "criteria_verified": false,
+      "weekly": {},
+      "history": []
+    },
+    {
+      "slug": "seasonal-furnished-rentals",
+      "search_name": "WSS-RES-Seasonal",
+      "category": "residential-lease",
+      "short": "Seasonal Furnished Rentals",
+      "h1": "Seasonal & Furnished Rentals in South Florida",
+      "title": "Seasonal Furnished Rentals: Palm Beach, Broward, Miami-Dade",
+      "description": "Furnished seasonal rentals in Palm Beach, Broward and Miami-Dade for winter visitors, monthly and multi-month stays. Active listings refreshed weekly.",
+      "subhead": "Furnished homes and condos for the winter season and other short stays, updated every week.",
+      "intro": [
+        "This search tracks furnished homes and condominiums offered for seasonal and short-term leases across Palm Beach, Broward and Miami-Dade, the stays most winter visitors book for a month or more between November and April.",
+        "The best seasonal rentals are often reserved months ahead, and condo associations may set minimum stays or limit how many times a unit can be leased each year. Bill helps visitors find furnished homes that fit their dates and checks the association rules before they commit.",
+        "Each week the search is re-run, and this page shows the count and a link to every active listing."
+      ],
+      "criteria": [
+        [
+          "Area",
+          "Palm Beach · Broward · Miami-Dade"
+        ],
+        [
+          "Lease",
+          "Seasonal / short-term"
+        ],
+        [
+          "Furnished",
+          "Yes"
+        ],
+        [
+          "Status",
+          "Active only"
+        ]
+      ],
+      "faqs": [
+        [
+          "When should I book a winter rental?",
+          "As early as you can. Popular furnished homes for January through March are often reserved well ahead of the season."
+        ],
+        [
+          "Are there extra taxes on seasonal rentals?",
+          "Florida sales tax and county tourist-development tax generally apply to rentals of six months or less, and are usually added to the rent. Confirm the total with each listing."
+        ],
+        [
+          "Do condo associations restrict seasonal rentals?",
+          "Many do, with minimum lease lengths, a cap on leases per year, or an approval process. Bill checks the rules for each property before you book."
+        ]
+      ],
+      "related": [
+        "homes-for-rent",
+        "intracoastal-homes-for-sale",
+        "oceanfront-homes-for-sale",
+        "short-term-rental-investment-properties"
+      ],
+      "agile_tag": "seg-rent-seasonal",
+      "form_placeholder": "e.g. furnished 2-bed condo near the beach, January–March, Delray or Boca",
+      "new_search": true,
+      "criteria_verified": false,
+      "weekly": {},
+      "history": []
+    }
+  ]
+}
