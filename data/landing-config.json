@@ -11,7 +11,9 @@
     "segment_field": "segment",
     "message_field": "note",
     "form_id": "6520129726382080",
-    "_note": "Agile web-form tracking key: public by design (Agile embeds it in every website form). Form 'Website Listings Inquiry' created 2026-10-31."
+    "_note": "Agile web-form tracking key: public by design (Agile embeds it in every website form). Form 'Website Listings Inquiry' created 2026-10-31.",
+    "campaign_tag": "re-web-inquiry",
+    "_campaign_note": "campaign_tag is added to every inquiry; an Agile TAG_IS_ADDED trigger on it enrolls the contact in the 'Website Inquiry Welcome' campaign (welcome email + SMS, follow-up, then the monthly loop)."
   },
   "agent_jsonld": {
     "@type": "RealEstateAgent",

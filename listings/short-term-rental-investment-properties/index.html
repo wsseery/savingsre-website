@@ -288,7 +288,7 @@
         <input type="hidden" name="_agile_redirect_url" value="https://savingsre.com/listings/short-term-rental-investment-properties/?inquiry=sent#inquiry">
         <input type="hidden" name="_agile_document_url" value="https://savingsre.com/listings/short-term-rental-investment-properties/">
         <input type="hidden" name="_agile_confirmation_msg" value="Thanks. Bill will be in touch shortly.">
-        <input type="hidden" name="tags" value="website-inquiry,landing-page,seg-str-east">
+        <input type="hidden" name="tags" value="website-inquiry,landing-page,seg-str-east,re-web-inquiry">
         <input type="hidden" name="segment" value="Short-Term Rental Investment Properties for Sale">
         <div class="form-row">
           <div class="form-group"><label for="f-first">First name</label><input id="f-first" name="first_name" autocomplete="given-name" required></div>
@@ -326,9 +326,20 @@
     var ok = document.getElementById('inquiry-sent'); if (ok) ok.hidden = false;
   }
   if (!f) return;
-  f.addEventListener('submit', function () {
+  f.addEventListener('submit', function (ev) {
     window.dataLayer = window.dataLayer || [];
     window.dataLayer.push({ event: 'generate_lead', form_name: 'landing_inquiry', segment: f.getAttribute('data-segment') });
+    // Send in the background and confirm on this page, so visitors are not left on
+    // Agile's unbranded thank-you page. Without fetch, the normal GET submit still works.
+    if (!window.fetch || !window.URLSearchParams || !window.FormData) return;
+    ev.preventDefault();
+    var btn = f.querySelector('[type=submit]'); if (btn) btn.disabled = true;
+    var url = f.action + '?' + new URLSearchParams(new FormData(f)).toString();
+    fetch(url, { method: 'GET', mode: 'no-cors', credentials: 'omit' }).then(function () {
+      var ok = document.getElementById('inquiry-sent');
+      Array.prototype.forEach.call(f.children, function (c) { if (c !== ok) c.hidden = true; });
+      if (ok) { ok.hidden = false; ok.setAttribute('tabindex', '-1'); ok.focus(); }
+    }).catch(function () { f.submit(); });
   });
 })();
 </script>
