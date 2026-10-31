@@ -3,7 +3,7 @@
   "segments": [
     {
       "slug": "retail-space-for-lease",
-      "search_name": "WSS-LSE-Retail",
+      "search_name": "WSS-LP-LSE-Retail",
       "category": "commercial-lease",
       "short": "Retail Space for Lease",
       "h1": "Retail Space for Lease in South Florida",
@@ -22,15 +22,11 @@
         ],
         [
           "Property type",
-          "Retail / restaurant / free-standing"
-        ],
-        [
-          "Listing type",
-          "For lease"
+          "Commercial lease · Retail"
         ],
         [
           "Status",
-          "Active only"
+          "Active"
         ]
       ],
       "faqs": [
@@ -56,13 +52,52 @@
       "agile_tag": "seg-lease-retail",
       "form_placeholder": "e.g. 1,500–2,500 sq ft, Boca Raton or Delray, restaurant use, open by spring",
       "new_search": true,
-      "criteria_verified": false,
-      "weekly": {},
-      "history": []
+      "criteria_verified": true,
+      "weekly": {
+        "date": "2026-10-31",
+        "result_count": 533,
+        "prior_count": null,
+        "mls_url": "https://www.flexmls.com/link.html?1ze7tnq1n41m,15,1&utm_source=savingsre&utm_medium=website&utm_campaign=landing_page&utm_content=retail-space-for-lease",
+        "link_generated": "2026-10-31",
+        "link_expires": "2026-11-30",
+        "commentary": [
+          "This week the search shows 533 active listings across Palm Beach, Broward and Miami-Dade. The median space has been on the market 138 days, and 122 listings have changed their asking rent since they were listed, which can point to landlords with room to negotiate.",
+          "Region-wide, retail vacancy across Miami-Dade, Broward and Palm Beach was 3.4% in the second quarter of 2026, according to Lee & Associates."
+        ],
+        "figures": [
+          {
+            "label": "Active listings",
+            "value": "533",
+            "source": "FlexMLS saved search WSS-LP-LSE-Retail, run Oct 31, 2026"
+          },
+          {
+            "label": "Median days on market",
+            "value": "138",
+            "source": "FlexMLS saved search WSS-LP-LSE-Retail, run Oct 31, 2026"
+          },
+          {
+            "label": "Listings with a price change since listing",
+            "value": "122",
+            "source": "FlexMLS saved search WSS-LP-LSE-Retail, run Oct 31, 2026"
+          },
+          {
+            "label": "Tri-county retail vacancy, Q2 2026",
+            "value": "3.4%",
+            "source": "Lee & Associates South Florida Q2 2026 report (lee-associates.com/southflorida/2026/07/29/...)"
+          }
+        ]
+      },
+      "history": [
+        {
+          "date": "2026-10-31",
+          "result_count": 533
+        }
+      ],
+      "source_search": "new"
     },
     {
       "slug": "office-space-for-lease",
-      "search_name": "WSS-LSE-Office",
+      "search_name": "WSS-LP-LSE-Office",
       "category": "commercial-lease",
       "short": "Office Space for Lease",
       "h1": "Office Space for Lease in South Florida",
@@ -81,15 +116,11 @@
         ],
         [
           "Property type",
-          "Office"
-        ],
-        [
-          "Listing type",
-          "For lease"
+          "Commercial lease · Office"
         ],
         [
           "Status",
-          "Active only"
+          "Active"
         ]
       ],
       "faqs": [
@@ -115,13 +146,57 @@
       "agile_tag": "seg-lease-office",
       "form_placeholder": "e.g. 2,000 sq ft, 6 private offices, near I-95 in Boca or Fort Lauderdale",
       "new_search": true,
-      "criteria_verified": false,
-      "weekly": {},
-      "history": []
+      "criteria_verified": true,
+      "weekly": {
+        "date": "2026-10-31",
+        "result_count": 946,
+        "prior_count": null,
+        "mls_url": "https://www.flexmls.com/link.html?1ze7tnruskf3,15,1&utm_source=savingsre&utm_medium=website&utm_campaign=landing_page&utm_content=office-space-for-lease",
+        "link_generated": "2026-10-31",
+        "link_expires": "2026-11-30",
+        "commentary": [
+          "This week the search shows 946 active listings across Palm Beach, Broward and Miami-Dade. The median space has been on the market 121 days, and 231 listings have changed their asking rent since they were listed, which can point to landlords with room to negotiate.",
+          "Region-wide, office vacancy was 8.3% in the second quarter of 2026, and 7.5% in Palm Beach County, according to Lee & Associates."
+        ],
+        "figures": [
+          {
+            "label": "Active listings",
+            "value": "946",
+            "source": "FlexMLS saved search WSS-LP-LSE-Office, run Oct 31, 2026"
+          },
+          {
+            "label": "Median days on market",
+            "value": "121",
+            "source": "FlexMLS saved search WSS-LP-LSE-Office, run Oct 31, 2026"
+          },
+          {
+            "label": "Listings with a price change since listing",
+            "value": "231",
+            "source": "FlexMLS saved search WSS-LP-LSE-Office, run Oct 31, 2026"
+          },
+          {
+            "label": "Tri-county office vacancy, Q2 2026",
+            "value": "8.3%",
+            "source": "Lee & Associates South Florida Q2 2026 report (lee-associates.com/southflorida/2026/07/29/...)"
+          },
+          {
+            "label": "Palm Beach County office vacancy, Q2 2026",
+            "value": "7.5%",
+            "source": "Lee & Associates South Florida Q2 2026 report (lee-associates.com/southflorida/2026/07/29/...)"
+          }
+        ]
+      },
+      "history": [
+        {
+          "date": "2026-10-31",
+          "result_count": 946
+        }
+      ],
+      "source_search": "new"
     },
     {
       "slug": "industrial-warehouse-for-lease",
-      "search_name": "WSS-LSE-Industrial",
+      "search_name": "WSS-LP-LSE-Industrial",
       "category": "commercial-lease",
       "short": "Industrial & Warehouse for Lease",
       "h1": "Industrial & Warehouse Space for Lease in South Florida",
@@ -140,15 +215,11 @@
         ],
         [
           "Property type",
-          "Industrial / warehouse / flex"
-        ],
-        [
-          "Listing type",
-          "For lease"
+          "Commercial lease · Industrial"
         ],
         [
           "Status",
-          "Active only"
+          "Active"
         ]
       ],
       "faqs": [
@@ -174,13 +245,57 @@
       "agile_tag": "seg-lease-industrial",
       "form_placeholder": "e.g. 5,000 sq ft, one dock door, 20 ft clear, Broward or south Palm Beach",
       "new_search": true,
-      "criteria_verified": false,
-      "weekly": {},
-      "history": []
+      "criteria_verified": true,
+      "weekly": {
+        "date": "2026-10-31",
+        "result_count": 406,
+        "prior_count": null,
+        "mls_url": "https://www.flexmls.com/link.html?1ze7tntk58e7,15,1&utm_source=savingsre&utm_medium=website&utm_campaign=landing_page&utm_content=industrial-warehouse-for-lease",
+        "link_generated": "2026-10-31",
+        "link_expires": "2026-11-30",
+        "commentary": [
+          "This week the search shows 406 active listings across Palm Beach, Broward and Miami-Dade. The median space has been on the market 111.5 days, and 118 listings have changed their asking rent since they were listed, which can point to landlords with room to negotiate.",
+          "Region-wide, industrial vacancy rose to 6.7% in the second quarter of 2026 from 5.6% a year earlier, according to Lee & Associates."
+        ],
+        "figures": [
+          {
+            "label": "Active listings",
+            "value": "406",
+            "source": "FlexMLS saved search WSS-LP-LSE-Industrial, run Oct 31, 2026"
+          },
+          {
+            "label": "Median days on market",
+            "value": "111.5",
+            "source": "FlexMLS saved search WSS-LP-LSE-Industrial, run Oct 31, 2026"
+          },
+          {
+            "label": "Listings with a price change since listing",
+            "value": "118",
+            "source": "FlexMLS saved search WSS-LP-LSE-Industrial, run Oct 31, 2026"
+          },
+          {
+            "label": "Tri-county industrial vacancy, Q2 2026",
+            "value": "6.7%",
+            "source": "Lee & Associates South Florida Q2 2026 report (lee-associates.com/southflorida/2026/07/29/...)"
+          },
+          {
+            "label": "Tri-county industrial vacancy, Q2 2025",
+            "value": "5.6%",
+            "source": "Lee & Associates South Florida Q2 2026 report (lee-associates.com/southflorida/2026/07/29/...)"
+          }
+        ]
+      },
+      "history": [
+        {
+          "date": "2026-10-31",
+          "result_count": 406
+        }
+      ],
+      "source_search": "new"
     },
     {
       "slug": "medical-office-for-lease",
-      "search_name": "WSS-LSE-Medical",
+      "search_name": "WSS-LP-LSE-Medical",
       "category": "commercial-lease",
       "short": "Medical Office for Lease",
       "h1": "Medical Office Space for Lease in South Florida",
@@ -188,7 +303,7 @@
       "description": "Medical and dental office space for lease in Palm Beach, Broward and Miami-Dade, including build-outs near hospitals. Active listings updated weekly.",
       "subhead": "Medical, dental and wellness suites near South Florida's hospitals, updated every week.",
       "intro": [
-        "This search tracks medical office space listed for lease across Palm Beach, Broward and Miami-Dade: suites in medical office buildings near the major hospital campuses, second-generation exam-room build-outs, and retail-front locations suited to dental, physical therapy and wellness practices.",
+        "This search tracks office space for lease across Palm Beach, Broward and Miami-Dade whose listings mention medical use: suites in medical office buildings, second-generation exam-room build-outs, and space suited to dental, therapy and wellness practices.",
         "Medical space has specific needs such as plumbing in exam rooms, ADA access, parking ratios and patient-friendly locations, so existing build-outs can save months. Bill helps practices compare spaces on those terms and negotiate rent, improvements and renewal rights.",
         "The search is re-run weekly, with the current count, a short market note and a link to every active listing."
       ],
@@ -199,15 +314,15 @@
         ],
         [
           "Property type",
-          "Medical / dental office"
+          "Commercial lease · Office"
         ],
         [
-          "Listing type",
-          "For lease"
+          "Listing mentions",
+          "Medical"
         ],
         [
           "Status",
-          "Active only"
+          "Active"
         ]
       ],
       "faqs": [
@@ -233,13 +348,57 @@
       "agile_tag": "seg-lease-medical",
       "form_placeholder": "e.g. 4 exam rooms, near Boca Regional or Broward Health, 2,500 sq ft",
       "new_search": true,
-      "criteria_verified": false,
-      "weekly": {},
-      "history": []
+      "criteria_verified": true,
+      "weekly": {
+        "date": "2026-10-31",
+        "result_count": 265,
+        "prior_count": null,
+        "mls_url": "https://www.flexmls.com/link.html?1ze7tnwtnee5,15,1&utm_source=savingsre&utm_medium=website&utm_campaign=landing_page&utm_content=medical-office-for-lease",
+        "link_generated": "2026-10-31",
+        "link_expires": "2026-11-30",
+        "commentary": [
+          "This week the search shows 265 active listings across Palm Beach, Broward and Miami-Dade. The median space has been on the market 130 days, and 57 listings have changed their asking rent since they were listed, which can point to landlords with room to negotiate.",
+          "Region-wide, office vacancy was 8.3% in the second quarter of 2026, and 7.5% in Palm Beach County, according to Lee & Associates."
+        ],
+        "figures": [
+          {
+            "label": "Active listings",
+            "value": "265",
+            "source": "FlexMLS saved search WSS-LP-LSE-Medical, run Oct 31, 2026"
+          },
+          {
+            "label": "Median days on market",
+            "value": "130",
+            "source": "FlexMLS saved search WSS-LP-LSE-Medical, run Oct 31, 2026"
+          },
+          {
+            "label": "Listings with a price change since listing",
+            "value": "57",
+            "source": "FlexMLS saved search WSS-LP-LSE-Medical, run Oct 31, 2026"
+          },
+          {
+            "label": "Tri-county office vacancy, Q2 2026",
+            "value": "8.3%",
+            "source": "Lee & Associates South Florida Q2 2026 report (lee-associates.com/southflorida/2026/07/29/...)"
+          },
+          {
+            "label": "Palm Beach County office vacancy, Q2 2026",
+            "value": "7.5%",
+            "source": "Lee & Associates South Florida Q2 2026 report (lee-associates.com/southflorida/2026/07/29/...)"
+          }
+        ]
+      },
+      "history": [
+        {
+          "date": "2026-10-31",
+          "result_count": 265
+        }
+      ],
+      "source_search": "new"
     },
     {
       "slug": "retail-strip-centers-for-sale",
-      "search_name": "WSS-COM-Retail",
+      "search_name": "WSS-LP-COM-Retail",
       "category": "commercial-sale",
       "short": "Retail & Strip Centers for Sale",
       "h1": "Retail Buildings & Strip Centers for Sale in South Florida",
@@ -258,7 +417,7 @@
         ],
         [
           "Property type",
-          "Retail / strip / free-standing"
+          "Retail"
         ],
         [
           "Price",
@@ -266,7 +425,7 @@
         ],
         [
           "Status",
-          "Active only"
+          "Active"
         ]
       ],
       "faqs": [
@@ -287,18 +446,67 @@
         "nnn-net-lease-properties-for-sale",
         "mixed-use-properties-for-sale",
         "retail-space-for-lease",
-        "commercial-land-for-sale"
+        "land-development-sites-for-sale"
       ],
       "agile_tag": "seg-com-retail",
       "form_placeholder": "e.g. strip center under $5M, 6%+ cap, Palm Beach or Broward",
       "new_search": false,
-      "criteria_verified": false,
-      "weekly": {},
-      "history": []
+      "criteria_verified": true,
+      "weekly": {
+        "date": "2026-10-31",
+        "result_count": 148,
+        "prior_count": null,
+        "mls_url": "https://www.flexmls.com/link.html?1ze7tkd9cj2p,15,1&utm_source=savingsre&utm_medium=website&utm_campaign=landing_page&utm_content=retail-strip-centers-for-sale",
+        "link_generated": "2026-10-31",
+        "link_expires": "2026-11-30",
+        "commentary": [
+          "This week the search shows 148 active listings across Palm Beach, Broward and Miami-Dade, with a median asking price of $2,375,000. The median listing has been on the market 175 days, and 53 listings (36%) have changed price since they were listed.",
+          "Region-wide, retail vacancy across Miami-Dade, Broward and Palm Beach was 3.4% in the second quarter of 2026, according to Lee & Associates."
+        ],
+        "figures": [
+          {
+            "label": "Active listings",
+            "value": "148",
+            "source": "FlexMLS saved search WSS-LP-COM-Retail, run Oct 31, 2026"
+          },
+          {
+            "label": "Median list price",
+            "value": "$2,375,000",
+            "source": "FlexMLS saved search WSS-LP-COM-Retail, run Oct 31, 2026"
+          },
+          {
+            "label": "Median days on market",
+            "value": "175",
+            "source": "FlexMLS saved search WSS-LP-COM-Retail, run Oct 31, 2026"
+          },
+          {
+            "label": "Listings with a price change since listing",
+            "value": "53",
+            "source": "FlexMLS saved search WSS-LP-COM-Retail, run Oct 31, 2026"
+          },
+          {
+            "label": "Share of listings with a price change",
+            "value": "36%",
+            "source": "53 of 148, FlexMLS saved search WSS-LP-COM-Retail, run Oct 31, 2026"
+          },
+          {
+            "label": "Tri-county retail vacancy, Q2 2026",
+            "value": "3.4%",
+            "source": "Lee & Associates South Florida Q2 2026 report (lee-associates.com/southflorida/2026/07/29/...)"
+          }
+        ]
+      },
+      "history": [
+        {
+          "date": "2026-10-31",
+          "result_count": 148
+        }
+      ],
+      "source_search": "WSS-COM-Retail"
     },
     {
       "slug": "industrial-warehouse-for-sale",
-      "search_name": "WSS-COM-Industrial",
+      "search_name": "WSS-LP-COM-Industrial",
       "category": "commercial-sale",
       "short": "Industrial & Warehouse for Sale",
       "h1": "Industrial & Warehouse Property for Sale in South Florida",
@@ -317,7 +525,7 @@
         ],
         [
           "Property type",
-          "Industrial / warehouse / flex"
+          "Industrial"
         ],
         [
           "Price",
@@ -325,7 +533,7 @@
         ],
         [
           "Status",
-          "Active only"
+          "Active"
         ]
       ],
       "faqs": [
@@ -345,19 +553,73 @@
       "related": [
         "industrial-warehouse-for-lease",
         "owner-user-office-flex-for-sale",
-        "commercial-land-for-sale",
+        "land-development-sites-for-sale",
         "mixed-use-properties-for-sale"
       ],
       "agile_tag": "seg-com-industrial",
       "form_placeholder": "e.g. 10,000–20,000 sq ft warehouse to own, dock loading, Broward",
       "new_search": false,
-      "criteria_verified": false,
-      "weekly": {},
-      "history": []
+      "criteria_verified": true,
+      "weekly": {
+        "date": "2026-10-31",
+        "result_count": 174,
+        "prior_count": null,
+        "mls_url": "https://www.flexmls.com/link.html?1ze7tkk2vuez,15,1&utm_source=savingsre&utm_medium=website&utm_campaign=landing_page&utm_content=industrial-warehouse-for-sale",
+        "link_generated": "2026-10-31",
+        "link_expires": "2026-11-30",
+        "commentary": [
+          "This week the search shows 174 active listings across Palm Beach, Broward and Miami-Dade, with a median asking price of $2,425,000. The median listing has been on the market 107.5 days, and 54 listings (31%) have changed price since they were listed.",
+          "Region-wide, industrial vacancy rose to 6.7% in the second quarter of 2026 from 5.6% a year earlier, according to Lee & Associates."
+        ],
+        "figures": [
+          {
+            "label": "Active listings",
+            "value": "174",
+            "source": "FlexMLS saved search WSS-LP-COM-Industrial, run Oct 31, 2026"
+          },
+          {
+            "label": "Median list price",
+            "value": "$2,425,000",
+            "source": "FlexMLS saved search WSS-LP-COM-Industrial, run Oct 31, 2026"
+          },
+          {
+            "label": "Median days on market",
+            "value": "107.5",
+            "source": "FlexMLS saved search WSS-LP-COM-Industrial, run Oct 31, 2026"
+          },
+          {
+            "label": "Listings with a price change since listing",
+            "value": "54",
+            "source": "FlexMLS saved search WSS-LP-COM-Industrial, run Oct 31, 2026"
+          },
+          {
+            "label": "Share of listings with a price change",
+            "value": "31%",
+            "source": "54 of 174, FlexMLS saved search WSS-LP-COM-Industrial, run Oct 31, 2026"
+          },
+          {
+            "label": "Tri-county industrial vacancy, Q2 2026",
+            "value": "6.7%",
+            "source": "Lee & Associates South Florida Q2 2026 report (lee-associates.com/southflorida/2026/07/29/...)"
+          },
+          {
+            "label": "Tri-county industrial vacancy, Q2 2025",
+            "value": "5.6%",
+            "source": "Lee & Associates South Florida Q2 2026 report (lee-associates.com/southflorida/2026/07/29/...)"
+          }
+        ]
+      },
+      "history": [
+        {
+          "date": "2026-10-31",
+          "result_count": 174
+        }
+      ],
+      "source_search": "WSS-COM-Industrial"
     },
     {
       "slug": "office-buildings-for-sale",
-      "search_name": "WSS-COM-Office",
+      "search_name": "WSS-LP-COM-Office",
       "category": "commercial-sale",
       "short": "Office Buildings for Sale",
       "h1": "Office Buildings for Sale in South Florida",
@@ -384,7 +646,7 @@
         ],
         [
           "Status",
-          "Active only"
+          "Active"
         ]
       ],
       "faqs": [
@@ -410,13 +672,67 @@
       "agile_tag": "seg-com-office",
       "form_placeholder": "e.g. 5,000–10,000 sq ft building for my firm to occupy, Palm Beach County",
       "new_search": false,
-      "criteria_verified": false,
-      "weekly": {},
-      "history": []
+      "criteria_verified": true,
+      "weekly": {
+        "date": "2026-10-31",
+        "result_count": 184,
+        "prior_count": null,
+        "mls_url": "https://www.flexmls.com/link.html?1ze7tknwuh6t,15,1&utm_source=savingsre&utm_medium=website&utm_campaign=landing_page&utm_content=office-buildings-for-sale",
+        "link_generated": "2026-10-31",
+        "link_expires": "2026-11-30",
+        "commentary": [
+          "This week the search shows 184 active listings across Palm Beach, Broward and Miami-Dade, with a median asking price of $1,750,000. The median listing has been on the market 137 days, and 59 listings (32%) have changed price since they were listed.",
+          "Region-wide, office vacancy was 8.3% in the second quarter of 2026, and 7.5% in Palm Beach County, according to Lee & Associates."
+        ],
+        "figures": [
+          {
+            "label": "Active listings",
+            "value": "184",
+            "source": "FlexMLS saved search WSS-LP-COM-Office, run Oct 31, 2026"
+          },
+          {
+            "label": "Median list price",
+            "value": "$1,750,000",
+            "source": "FlexMLS saved search WSS-LP-COM-Office, run Oct 31, 2026"
+          },
+          {
+            "label": "Median days on market",
+            "value": "137",
+            "source": "FlexMLS saved search WSS-LP-COM-Office, run Oct 31, 2026"
+          },
+          {
+            "label": "Listings with a price change since listing",
+            "value": "59",
+            "source": "FlexMLS saved search WSS-LP-COM-Office, run Oct 31, 2026"
+          },
+          {
+            "label": "Share of listings with a price change",
+            "value": "32%",
+            "source": "59 of 184, FlexMLS saved search WSS-LP-COM-Office, run Oct 31, 2026"
+          },
+          {
+            "label": "Tri-county office vacancy, Q2 2026",
+            "value": "8.3%",
+            "source": "Lee & Associates South Florida Q2 2026 report (lee-associates.com/southflorida/2026/07/29/...)"
+          },
+          {
+            "label": "Palm Beach County office vacancy, Q2 2026",
+            "value": "7.5%",
+            "source": "Lee & Associates South Florida Q2 2026 report (lee-associates.com/southflorida/2026/07/29/...)"
+          }
+        ]
+      },
+      "history": [
+        {
+          "date": "2026-10-31",
+          "result_count": 184
+        }
+      ],
+      "source_search": "WSS-COM-Office"
     },
     {
       "slug": "medical-office-for-sale",
-      "search_name": "WSS-COM-Medical",
+      "search_name": "WSS-LP-COM-Medical",
       "category": "commercial-sale",
       "short": "Medical Office for Sale",
       "h1": "Medical Office Buildings & Condos for Sale in South Florida",
@@ -424,7 +740,7 @@
       "description": "Medical office buildings and condos for sale in Palm Beach, Broward and Miami-Dade, for practice owners and investors. Active listings updated weekly.",
       "subhead": "Medical office buildings and condos for practice owners and investors, updated every week.",
       "intro": [
-        "This search tracks medical office property for sale across South Florida: medical office condominiums, single-tenant clinic buildings, and multi-tenant medical buildings near hospital campuses.",
+        "This search tracks office property for sale from $750,000 across Palm Beach, Broward and Miami-Dade whose listings mention medical use: medical office condominiums, clinic buildings and multi-tenant medical buildings.",
         "Medical office has held up better than general office, because patients need in-person care and practices invest heavily in their space. For physicians and dentists, owning the building can also turn rent into equity. Bill helps owner-users and investors compare locations, build-outs and income.",
         "The search is refreshed every week with the current count, a short note and a link to every active listing."
       ],
@@ -435,15 +751,15 @@
         ],
         [
           "Property type",
-          "Medical office"
+          "Office"
         ],
         [
-          "Listing type",
-          "For sale"
+          "Listing mentions",
+          "Medical"
         ],
         [
-          "Status",
-          "Active only"
+          "Price",
+          "$750K and up"
         ]
       ],
       "faqs": [
@@ -469,21 +785,75 @@
       "agile_tag": "seg-com-medical",
       "form_placeholder": "e.g. 2,000–4,000 sq ft medical condo to own, near a hospital in Broward",
       "new_search": true,
-      "criteria_verified": false,
-      "weekly": {},
-      "history": []
+      "criteria_verified": true,
+      "weekly": {
+        "date": "2026-10-31",
+        "result_count": 84,
+        "prior_count": null,
+        "mls_url": "https://www.flexmls.com/link.html?1ze7to08gcvj,15,1&utm_source=savingsre&utm_medium=website&utm_campaign=landing_page&utm_content=medical-office-for-sale",
+        "link_generated": "2026-10-31",
+        "link_expires": "2026-11-30",
+        "commentary": [
+          "This week the search shows 84 active listings across Palm Beach, Broward and Miami-Dade, with a median asking price of $1,750,000. The median listing has been on the market 111 days, and 23 listings (27%) have changed price since they were listed.",
+          "Region-wide, office vacancy was 8.3% in the second quarter of 2026, and 7.5% in Palm Beach County, according to Lee & Associates."
+        ],
+        "figures": [
+          {
+            "label": "Active listings",
+            "value": "84",
+            "source": "FlexMLS saved search WSS-LP-COM-Medical, run Oct 31, 2026"
+          },
+          {
+            "label": "Median list price",
+            "value": "$1,750,000",
+            "source": "FlexMLS saved search WSS-LP-COM-Medical, run Oct 31, 2026"
+          },
+          {
+            "label": "Median days on market",
+            "value": "111",
+            "source": "FlexMLS saved search WSS-LP-COM-Medical, run Oct 31, 2026"
+          },
+          {
+            "label": "Listings with a price change since listing",
+            "value": "23",
+            "source": "FlexMLS saved search WSS-LP-COM-Medical, run Oct 31, 2026"
+          },
+          {
+            "label": "Share of listings with a price change",
+            "value": "27%",
+            "source": "23 of 84, FlexMLS saved search WSS-LP-COM-Medical, run Oct 31, 2026"
+          },
+          {
+            "label": "Tri-county office vacancy, Q2 2026",
+            "value": "8.3%",
+            "source": "Lee & Associates South Florida Q2 2026 report (lee-associates.com/southflorida/2026/07/29/...)"
+          },
+          {
+            "label": "Palm Beach County office vacancy, Q2 2026",
+            "value": "7.5%",
+            "source": "Lee & Associates South Florida Q2 2026 report (lee-associates.com/southflorida/2026/07/29/...)"
+          }
+        ]
+      },
+      "history": [
+        {
+          "date": "2026-10-31",
+          "result_count": 84
+        }
+      ],
+      "source_search": "new"
     },
     {
       "slug": "owner-user-office-flex-for-sale",
-      "search_name": "WSS-COM-OwnerUser",
+      "search_name": "WSS-LP-COM-OwnerUser",
       "category": "commercial-sale",
-      "short": "Owner-User Office & Flex Under $2M",
+      "short": "Owner-User Office & Flex $250K–$2M",
       "h1": "Owner-User Office & Flex Condos for Sale Under $2M",
       "title": "Owner-User Office & Flex Condos Under $2M: South Florida",
-      "description": "Office condos, flex units and small commercial buildings under $2M for business owners in Palm Beach, Broward and Miami-Dade. Refreshed weekly.",
+      "description": "Office, flex and industrial property from $250K to $2M for business owners in Palm Beach, Broward and Miami-Dade. Refreshed weekly.",
       "subhead": "Office condos, flex units and small buildings under $2M for business owners, updated every week.",
       "intro": [
-        "This search is built for business owners who want to stop paying rent: office condominiums, flex and warehouse condo units, and small free-standing commercial buildings priced under $2 million across South Florida.",
+        "This search is built for business owners who want to stop paying rent: office and industrial property priced from $250,000 to $2 million across Palm Beach, Broward and Miami-Dade, including office condos, flex units and small free-standing buildings.",
         "Buying the space your business uses can fix your occupancy cost and build equity, and owner-occupied property often qualifies for SBA financing with a lower down payment than a typical investment loan. Bill helps compare units on location, layout, association rules and total monthly cost against your current lease.",
         "Each week the search is re-run, and this page shows the count and a link to every active listing."
       ],
@@ -494,15 +864,15 @@
         ],
         [
           "Property type",
-          "Office / flex condo, small commercial"
+          "Office · Industrial"
         ],
         [
           "Price",
-          "Under $2M"
+          "$250K–$2M"
         ],
         [
           "Status",
-          "Active only"
+          "Active"
         ]
       ],
       "faqs": [
@@ -528,13 +898,67 @@
       "agile_tag": "seg-com-owneruser",
       "form_placeholder": "e.g. 1,500 sq ft office condo to own, under $700K, Boca or Deerfield",
       "new_search": true,
-      "criteria_verified": false,
-      "weekly": {},
-      "history": []
+      "criteria_verified": true,
+      "weekly": {
+        "date": "2026-10-31",
+        "result_count": 371,
+        "prior_count": null,
+        "mls_url": "https://www.flexmls.com/link.html?1ze7to3up7ql,15,1&utm_source=savingsre&utm_medium=website&utm_campaign=landing_page&utm_content=owner-user-office-flex-for-sale",
+        "link_generated": "2026-10-31",
+        "link_expires": "2026-11-30",
+        "commentary": [
+          "This week the search shows 371 active listings across Palm Beach, Broward and Miami-Dade, with a median asking price of $749,000. The median listing has been on the market 114 days, and 120 listings (32%) have changed price since they were listed.",
+          "Region-wide, office vacancy was 8.3% in the second quarter of 2026, and 7.5% in Palm Beach County, according to Lee & Associates."
+        ],
+        "figures": [
+          {
+            "label": "Active listings",
+            "value": "371",
+            "source": "FlexMLS saved search WSS-LP-COM-OwnerUser, run Oct 31, 2026"
+          },
+          {
+            "label": "Median list price",
+            "value": "$749,000",
+            "source": "FlexMLS saved search WSS-LP-COM-OwnerUser, run Oct 31, 2026"
+          },
+          {
+            "label": "Median days on market",
+            "value": "114",
+            "source": "FlexMLS saved search WSS-LP-COM-OwnerUser, run Oct 31, 2026"
+          },
+          {
+            "label": "Listings with a price change since listing",
+            "value": "120",
+            "source": "FlexMLS saved search WSS-LP-COM-OwnerUser, run Oct 31, 2026"
+          },
+          {
+            "label": "Share of listings with a price change",
+            "value": "32%",
+            "source": "120 of 371, FlexMLS saved search WSS-LP-COM-OwnerUser, run Oct 31, 2026"
+          },
+          {
+            "label": "Tri-county office vacancy, Q2 2026",
+            "value": "8.3%",
+            "source": "Lee & Associates South Florida Q2 2026 report (lee-associates.com/southflorida/2026/07/29/...)"
+          },
+          {
+            "label": "Palm Beach County office vacancy, Q2 2026",
+            "value": "7.5%",
+            "source": "Lee & Associates South Florida Q2 2026 report (lee-associates.com/southflorida/2026/07/29/...)"
+          }
+        ]
+      },
+      "history": [
+        {
+          "date": "2026-10-31",
+          "result_count": 371
+        }
+      ],
+      "source_search": "new"
     },
     {
       "slug": "mixed-use-properties-for-sale",
-      "search_name": "WSS-COM-MixedUse",
+      "search_name": "WSS-LP-COM-MixedUse",
       "category": "commercial-sale",
       "short": "Mixed-Use Property for Sale",
       "h1": "Mixed-Use Property for Sale in South Florida",
@@ -556,12 +980,12 @@
           "Mixed use"
         ],
         [
-          "Listing type",
-          "For sale"
+          "Price",
+          "$750K and up"
         ],
         [
           "Status",
-          "Active only"
+          "Active"
         ]
       ],
       "faqs": [
@@ -582,27 +1006,70 @@
         "retail-strip-centers-for-sale",
         "office-buildings-for-sale",
         "apartment-buildings-5-plus-units",
-        "commercial-land-for-sale"
+        "land-development-sites-for-sale"
       ],
       "agile_tag": "seg-com-mixeduse",
       "form_placeholder": "e.g. downtown Delray or Lake Worth, retail + apartments, under $4M",
       "new_search": false,
-      "criteria_verified": false,
-      "weekly": {},
-      "history": []
+      "criteria_verified": true,
+      "weekly": {
+        "date": "2026-10-31",
+        "result_count": 203,
+        "prior_count": null,
+        "mls_url": "https://www.flexmls.com/link.html?1ze7tkqw9scc,15,1&utm_source=savingsre&utm_medium=website&utm_campaign=landing_page&utm_content=mixed-use-properties-for-sale",
+        "link_generated": "2026-10-31",
+        "link_expires": "2026-11-30",
+        "commentary": [
+          "This week the search shows 203 active listings across Palm Beach, Broward and Miami-Dade, with a median asking price of $2,499,000. The median listing has been on the market 145 days, and 80 listings (39%) have changed price since they were listed."
+        ],
+        "figures": [
+          {
+            "label": "Active listings",
+            "value": "203",
+            "source": "FlexMLS saved search WSS-LP-COM-MixedUse, run Oct 31, 2026"
+          },
+          {
+            "label": "Median list price",
+            "value": "$2,499,000",
+            "source": "FlexMLS saved search WSS-LP-COM-MixedUse, run Oct 31, 2026"
+          },
+          {
+            "label": "Median days on market",
+            "value": "145",
+            "source": "FlexMLS saved search WSS-LP-COM-MixedUse, run Oct 31, 2026"
+          },
+          {
+            "label": "Listings with a price change since listing",
+            "value": "80",
+            "source": "FlexMLS saved search WSS-LP-COM-MixedUse, run Oct 31, 2026"
+          },
+          {
+            "label": "Share of listings with a price change",
+            "value": "39%",
+            "source": "80 of 203, FlexMLS saved search WSS-LP-COM-MixedUse, run Oct 31, 2026"
+          }
+        ]
+      },
+      "history": [
+        {
+          "date": "2026-10-31",
+          "result_count": 203
+        }
+      ],
+      "source_search": "WSS-COM-MixedUse"
     },
     {
-      "slug": "commercial-land-for-sale",
-      "search_name": "WSS-COM-Land",
+      "slug": "land-development-sites-for-sale",
+      "search_name": "WSS-LP-Land",
       "category": "commercial-sale",
-      "short": "Commercial Land for Sale",
-      "h1": "Commercial Land & Development Sites for Sale in South Florida",
-      "title": "Commercial Land for Sale: Palm Beach, Broward, Miami-Dade",
-      "description": "Commercial land and development sites for sale in Palm Beach, Broward and Miami-Dade, from $750K. Active listings updated weekly with commentary.",
-      "subhead": "Zoned parcels and development sites from $750K, updated every week.",
+      "short": "Land & Development Sites",
+      "h1": "Land & Development Sites for Sale in South Florida",
+      "title": "Land & Development Sites for Sale: South Florida",
+      "description": "Land and development sites for sale from $400K in Palm Beach, Broward and Miami-Dade, from infill lots to larger parcels. Refreshed weekly.",
+      "subhead": "Infill lots, larger parcels and development sites from $400K, updated every week.",
       "intro": [
-        "This search tracks commercial land for sale across South Florida: zoned parcels for retail, industrial, office and multifamily development, outparcels, and land suited to ground leases, priced from $750,000.",
-        "Land value depends on what can be built: zoning, density, access, utilities and approvals. Bill helps developers and investors shortlist sites and line up the due diligence that answers those questions before you commit.",
+        "This search tracks land listed for sale at $400,000 and up across Palm Beach, Broward and Miami-Dade: infill and waterfront lots, larger unimproved parcels, and sites suited to commercial, residential or mixed-use development.",
+        "Land value depends on what can be built: zoning, density, access, utilities and approvals. Bill helps developers, builders and investors shortlist sites and line up the due diligence that answers those questions before they commit.",
         "Each week the search is re-run, and this page shows the count and a link to every active listing."
       ],
       "criteria": [
@@ -612,15 +1079,15 @@
         ],
         [
           "Property type",
-          "Commercial land"
+          "Land"
         ],
         [
           "Price",
-          "$750K and up"
+          "$400K and up"
         ],
         [
           "Status",
-          "Active only"
+          "Active"
         ]
       ],
       "faqs": [
@@ -644,15 +1111,58 @@
         "apartment-complexes-20-plus-units"
       ],
       "agile_tag": "seg-com-land",
-      "form_placeholder": "e.g. 1–3 acre commercial parcel for a medical building, Palm Beach County",
+      "form_placeholder": "e.g. 1–3 acre site zoned for a medical building, Palm Beach County",
       "new_search": false,
-      "criteria_verified": false,
-      "weekly": {},
-      "history": []
+      "criteria_verified": true,
+      "weekly": {
+        "date": "2026-10-31",
+        "result_count": 1432,
+        "prior_count": null,
+        "mls_url": "https://www.flexmls.com/link.html?1ze7tkw2egei,15,1&utm_source=savingsre&utm_medium=website&utm_campaign=landing_page&utm_content=land-development-sites-for-sale",
+        "link_generated": "2026-10-31",
+        "link_expires": "2026-11-30",
+        "commentary": [
+          "This week the search shows 1,432 active listings across Palm Beach, Broward and Miami-Dade, with a median asking price of $1,600,000. The median listing has been on the market 141 days, and 485 listings (34%) have changed price since they were listed."
+        ],
+        "figures": [
+          {
+            "label": "Active listings",
+            "value": "1,432",
+            "source": "FlexMLS saved search WSS-LP-Land, run Oct 31, 2026"
+          },
+          {
+            "label": "Median list price",
+            "value": "$1,600,000",
+            "source": "FlexMLS saved search WSS-LP-Land, run Oct 31, 2026"
+          },
+          {
+            "label": "Median days on market",
+            "value": "141",
+            "source": "FlexMLS saved search WSS-LP-Land, run Oct 31, 2026"
+          },
+          {
+            "label": "Listings with a price change since listing",
+            "value": "485",
+            "source": "FlexMLS saved search WSS-LP-Land, run Oct 31, 2026"
+          },
+          {
+            "label": "Share of listings with a price change",
+            "value": "34%",
+            "source": "485 of 1,432, FlexMLS saved search WSS-LP-Land, run Oct 31, 2026"
+          }
+        ]
+      },
+      "history": [
+        {
+          "date": "2026-10-31",
+          "result_count": 1432
+        }
+      ],
+      "source_search": "WSS-COM-Land"
     },
     {
       "slug": "nnn-net-lease-properties-for-sale",
-      "search_name": "WSS-COM-NNN",
+      "search_name": "WSS-LP-COM-NNN",
       "category": "commercial-sale",
       "short": "NNN Net-Lease Properties",
       "h1": "NNN Net-Lease Investment Properties for Sale in Florida",
@@ -671,15 +1181,15 @@
         ],
         [
           "Property type",
-          "Single-tenant net lease"
+          "Retail · Office · Industrial · Mixed use"
         ],
         [
           "Lease",
-          "NNN"
+          "Net lease"
         ],
         [
-          "Status",
-          "Active only"
+          "Price",
+          "$750K and up"
         ]
       ],
       "faqs": [
@@ -705,23 +1215,72 @@
       "agile_tag": "seg-com-nnn",
       "form_placeholder": "e.g. NNN under $3M, 10+ years left on the lease, for a 1031 exchange",
       "new_search": false,
-      "criteria_verified": false,
-      "weekly": {},
-      "history": []
+      "criteria_verified": true,
+      "weekly": {
+        "date": "2026-10-31",
+        "result_count": 20,
+        "prior_count": null,
+        "mls_url": "https://www.flexmls.com/link.html?1ze7tkz18e6p,15,1&utm_source=savingsre&utm_medium=website&utm_campaign=landing_page&utm_content=nnn-net-lease-properties-for-sale",
+        "link_generated": "2026-10-31",
+        "link_expires": "2026-11-30",
+        "commentary": [
+          "This week the search shows 20 active listings across Palm Beach, Broward and Miami-Dade, with a median asking price of $3,000,000. The median listing has been on the market 143.5 days, and 5 listings (25%) have changed price since they were listed.",
+          "Region-wide, retail vacancy across Miami-Dade, Broward and Palm Beach was 3.4% in the second quarter of 2026, according to Lee & Associates."
+        ],
+        "figures": [
+          {
+            "label": "Active listings",
+            "value": "20",
+            "source": "FlexMLS saved search WSS-LP-COM-NNN, run Oct 31, 2026"
+          },
+          {
+            "label": "Median list price",
+            "value": "$3,000,000",
+            "source": "FlexMLS saved search WSS-LP-COM-NNN, run Oct 31, 2026"
+          },
+          {
+            "label": "Median days on market",
+            "value": "143.5",
+            "source": "FlexMLS saved search WSS-LP-COM-NNN, run Oct 31, 2026"
+          },
+          {
+            "label": "Listings with a price change since listing",
+            "value": "5",
+            "source": "FlexMLS saved search WSS-LP-COM-NNN, run Oct 31, 2026"
+          },
+          {
+            "label": "Share of listings with a price change",
+            "value": "25%",
+            "source": "5 of 20, FlexMLS saved search WSS-LP-COM-NNN, run Oct 31, 2026"
+          },
+          {
+            "label": "Tri-county retail vacancy, Q2 2026",
+            "value": "3.4%",
+            "source": "Lee & Associates South Florida Q2 2026 report (lee-associates.com/southflorida/2026/07/29/...)"
+          }
+        ]
+      },
+      "history": [
+        {
+          "date": "2026-10-31",
+          "result_count": 20
+        }
+      ],
+      "source_search": "WSS-COM-NNN"
     },
     {
-      "slug": "duplex-triplex-fourplex-under-1m",
-      "search_name": "WSS-MF-2plus-Under1M",
+      "slug": "multifamily-under-1m",
+      "search_name": "WSS-LP-MF-3plus-Under1M",
       "category": "multifamily",
-      "short": "Duplexes to Fourplexes Under $1M",
-      "h1": "Duplexes, Triplexes & Fourplexes for Sale Under $1M",
-      "title": "Duplexes, Triplexes & Fourplexes Under $1M: South Florida",
-      "description": "Duplexes, triplexes and fourplexes for sale under $1M in South Florida, for first-time investors and house hackers. Active listings refreshed weekly.",
-      "subhead": "Two- to four-unit properties under $1M for first-time investors and owner-occupants, updated every week.",
+      "short": "Multifamily Under $1M",
+      "h1": "Multifamily Properties for Sale Under $1M",
+      "title": "Multifamily for Sale Under $1M: Palm Beach, Broward, Dade",
+      "description": "Triplexes, fourplexes and small apartment buildings for sale under $1M in Palm Beach, Broward and Miami-Dade. Active listings refreshed weekly.",
+      "subhead": "Three-unit and larger income properties priced under $1M, updated every week.",
       "intro": [
-        "This search tracks two- to four-unit residential income property priced under $1 million: duplexes, triplexes and fourplexes that suit first-time investors, and buyers who want to live in one unit and rent the others.",
-        "Small multifamily can be financed with residential loans, including owner-occupied options, which makes it one of the most accessible ways to start investing. Bill helps buyers check rents, expenses, insurance and condition so the numbers hold up after closing.",
-        "Each week the search is re-run, and this page shows the count and a link to every active listing."
+        "This search tracks residential income property with three or more units priced under $1 million across Palm Beach, Broward and Miami-Dade: triplexes, fourplexes and small apartment buildings that suit first-time and growing investors.",
+        "Properties with up to four units can often be financed with residential loans, including owner-occupied options, which makes this one of the most accessible ways to start investing. Bill helps buyers check rents, expenses, insurance and condition so the numbers hold up after closing.",
+        "Each week the search is re-run, and this page shows the count, what changed, and a link to every active listing."
       ],
       "criteria": [
         [
@@ -730,7 +1289,7 @@
         ],
         [
           "Units",
-          "2–4"
+          "3 and up"
         ],
         [
           "Price",
@@ -738,13 +1297,13 @@
         ],
         [
           "Status",
-          "Active only"
+          "Active"
         ]
       ],
       "faqs": [
         [
           "Can I live in one unit and rent the others?",
-          "Yes. Owner-occupied two- to four-unit properties can qualify for residential financing, sometimes with a lower down payment than an investment loan. A lender confirms the options."
+          "Yes. Owner-occupied properties with up to four units can qualify for residential financing, sometimes with a lower down payment than an investment loan. A lender confirms the options."
         ],
         [
           "What expenses should I budget for?",
@@ -761,16 +1320,70 @@
         "short-term-rental-investment-properties",
         "homes-for-rent"
       ],
-      "agile_tag": "seg-mf-small-under1m",
-      "form_placeholder": "e.g. duplex under $700K, east of I-95, live in one side",
+      "agile_tag": "seg-mf-under1m",
+      "form_placeholder": "e.g. triplex or fourplex under $900K, east of I-95, live in one unit",
       "new_search": false,
-      "criteria_verified": false,
-      "weekly": {},
-      "history": []
+      "criteria_verified": true,
+      "weekly": {
+        "date": "2026-10-31",
+        "result_count": 218,
+        "prior_count": null,
+        "mls_url": "https://www.flexmls.com/link.html?1ze7tl226nv0,15,1&utm_source=savingsre&utm_medium=website&utm_campaign=landing_page&utm_content=multifamily-under-1m",
+        "link_generated": "2026-10-31",
+        "link_expires": "2026-11-30",
+        "commentary": [
+          "This week the search shows 218 active listings across Palm Beach, Broward and Miami-Dade, with a median asking price of $769,500. The median listing has been on the market 82 days, and 92 listings (42%) have changed price since they were listed.",
+          "Region-wide, multifamily vacancy was 6.4% in the second quarter of 2026, with an average asking rent of $2,313 per unit, according to Lee & Associates."
+        ],
+        "figures": [
+          {
+            "label": "Active listings",
+            "value": "218",
+            "source": "FlexMLS saved search WSS-LP-MF-3plus-Under1M, run Oct 31, 2026"
+          },
+          {
+            "label": "Median list price",
+            "value": "$769,500",
+            "source": "FlexMLS saved search WSS-LP-MF-3plus-Under1M, run Oct 31, 2026"
+          },
+          {
+            "label": "Median days on market",
+            "value": "82",
+            "source": "FlexMLS saved search WSS-LP-MF-3plus-Under1M, run Oct 31, 2026"
+          },
+          {
+            "label": "Listings with a price change since listing",
+            "value": "92",
+            "source": "FlexMLS saved search WSS-LP-MF-3plus-Under1M, run Oct 31, 2026"
+          },
+          {
+            "label": "Share of listings with a price change",
+            "value": "42%",
+            "source": "92 of 218, FlexMLS saved search WSS-LP-MF-3plus-Under1M, run Oct 31, 2026"
+          },
+          {
+            "label": "Tri-county multifamily vacancy, Q2 2026",
+            "value": "6.4%",
+            "source": "Lee & Associates South Florida Q2 2026 report (lee-associates.com/southflorida/2026/07/29/...)"
+          },
+          {
+            "label": "Average asking rent per unit, Q2 2026",
+            "value": "$2,313",
+            "source": "Lee & Associates South Florida Q2 2026 report (lee-associates.com/southflorida/2026/07/29/...)"
+          }
+        ]
+      },
+      "history": [
+        {
+          "date": "2026-10-31",
+          "result_count": 218
+        }
+      ],
+      "source_search": "WSS-MF-2plus-Under1M"
     },
     {
       "slug": "small-multifamily-1m-to-3m",
-      "search_name": "WSS-MF-2plus-1Mto3M",
+      "search_name": "WSS-LP-MF-1Mto3M",
       "category": "multifamily",
       "short": "Small Multifamily $1M–$3M",
       "h1": "Small Multifamily for Sale: $1M to $3M",
@@ -789,7 +1402,7 @@
         ],
         [
           "Units",
-          "2 and up"
+          "3 and up"
         ],
         [
           "Price",
@@ -797,7 +1410,7 @@
         ],
         [
           "Status",
-          "Active only"
+          "Active"
         ]
       ],
       "faqs": [
@@ -815,7 +1428,7 @@
         ]
       ],
       "related": [
-        "duplex-triplex-fourplex-under-1m",
+        "multifamily-under-1m",
         "apartment-buildings-5-plus-units",
         "short-term-rental-investment-properties",
         "mixed-use-properties-for-sale"
@@ -823,13 +1436,67 @@
       "agile_tag": "seg-mf-small-1to3m",
       "form_placeholder": "e.g. 4–8 units, $1.5M–$2.5M, near the beach in Broward",
       "new_search": false,
-      "criteria_verified": false,
-      "weekly": {},
-      "history": []
+      "criteria_verified": true,
+      "weekly": {
+        "date": "2026-10-31",
+        "result_count": 247,
+        "prior_count": null,
+        "mls_url": "https://www.flexmls.com/link.html?1ze7tl76suxn,15,1&utm_source=savingsre&utm_medium=website&utm_campaign=landing_page&utm_content=small-multifamily-1m-to-3m",
+        "link_generated": "2026-10-31",
+        "link_expires": "2026-11-30",
+        "commentary": [
+          "This week the search shows 247 active listings across Palm Beach, Broward and Miami-Dade, with a median asking price of $1,389,900. The median listing has been on the market 107 days, and 108 listings (44%) have changed price since they were listed.",
+          "Region-wide, multifamily vacancy was 6.4% in the second quarter of 2026, with an average asking rent of $2,313 per unit, according to Lee & Associates."
+        ],
+        "figures": [
+          {
+            "label": "Active listings",
+            "value": "247",
+            "source": "FlexMLS saved search WSS-LP-MF-1Mto3M, run Oct 31, 2026"
+          },
+          {
+            "label": "Median list price",
+            "value": "$1,389,900",
+            "source": "FlexMLS saved search WSS-LP-MF-1Mto3M, run Oct 31, 2026"
+          },
+          {
+            "label": "Median days on market",
+            "value": "107",
+            "source": "FlexMLS saved search WSS-LP-MF-1Mto3M, run Oct 31, 2026"
+          },
+          {
+            "label": "Listings with a price change since listing",
+            "value": "108",
+            "source": "FlexMLS saved search WSS-LP-MF-1Mto3M, run Oct 31, 2026"
+          },
+          {
+            "label": "Share of listings with a price change",
+            "value": "44%",
+            "source": "108 of 247, FlexMLS saved search WSS-LP-MF-1Mto3M, run Oct 31, 2026"
+          },
+          {
+            "label": "Tri-county multifamily vacancy, Q2 2026",
+            "value": "6.4%",
+            "source": "Lee & Associates South Florida Q2 2026 report (lee-associates.com/southflorida/2026/07/29/...)"
+          },
+          {
+            "label": "Average asking rent per unit, Q2 2026",
+            "value": "$2,313",
+            "source": "Lee & Associates South Florida Q2 2026 report (lee-associates.com/southflorida/2026/07/29/...)"
+          }
+        ]
+      },
+      "history": [
+        {
+          "date": "2026-10-31",
+          "result_count": 247
+        }
+      ],
+      "source_search": "WSS-MF-2plus-1Mto3M"
     },
     {
       "slug": "apartment-buildings-5-plus-units",
-      "search_name": "WSS-MF-5plus-All",
+      "search_name": "WSS-LP-MF-5plus",
       "category": "multifamily",
       "short": "Apartment Buildings, 5+ Units",
       "h1": "Apartment Buildings for Sale: 5+ Units in South Florida",
@@ -837,7 +1504,7 @@
       "description": "Apartment buildings with five or more units for sale in Palm Beach, Broward and Miami-Dade, at every price. Active listings refreshed weekly.",
       "subhead": "Small and mid-size apartment buildings with five or more units, updated every week.",
       "intro": [
-        "This search tracks apartment buildings with five or more units at every price: garden-style buildings, small walk-ups and mid-size communities across South Florida.",
+        "This search tracks apartment buildings with five or more units listed for sale as commercial multifamily at $750,000 and up across Palm Beach, Broward and Miami-Dade.",
         "At five units and up, value is driven by income, and the property usually needs commercial or agency financing. Bill helps investors verify rent rolls and expenses, assess management and capital needs, and compare listings on price per unit and income.",
         "Each week the search is re-run, and this page shows the count and a link to every active listing."
       ],
@@ -852,11 +1519,11 @@
         ],
         [
           "Price",
-          "Any"
+          "$750K and up"
         ],
         [
           "Status",
-          "Active only"
+          "Active"
         ]
       ],
       "faqs": [
@@ -877,18 +1544,72 @@
         "apartment-complexes-20-plus-units",
         "small-multifamily-1m-to-3m",
         "mixed-use-properties-for-sale",
-        "duplex-triplex-fourplex-under-1m"
+        "multifamily-under-1m"
       ],
       "agile_tag": "seg-mf-mid-5plus",
       "form_placeholder": "e.g. 8–16 units, value-add, under $4M, Palm Beach or Broward",
       "new_search": false,
-      "criteria_verified": false,
-      "weekly": {},
-      "history": []
+      "criteria_verified": true,
+      "weekly": {
+        "date": "2026-10-31",
+        "result_count": 65,
+        "prior_count": null,
+        "mls_url": "https://www.flexmls.com/link.html?1ze7tlcopz9u,15,1&utm_source=savingsre&utm_medium=website&utm_campaign=landing_page&utm_content=apartment-buildings-5-plus-units",
+        "link_generated": "2026-10-31",
+        "link_expires": "2026-11-30",
+        "commentary": [
+          "This week the search shows 65 active listings across Palm Beach, Broward and Miami-Dade, with a median asking price of $1,850,000. The median listing has been on the market 105 days, and 21 listings (32%) have changed price since they were listed.",
+          "Region-wide, multifamily vacancy was 6.4% in the second quarter of 2026, with an average asking rent of $2,313 per unit, according to Lee & Associates."
+        ],
+        "figures": [
+          {
+            "label": "Active listings",
+            "value": "65",
+            "source": "FlexMLS saved search WSS-LP-MF-5plus, run Oct 31, 2026"
+          },
+          {
+            "label": "Median list price",
+            "value": "$1,850,000",
+            "source": "FlexMLS saved search WSS-LP-MF-5plus, run Oct 31, 2026"
+          },
+          {
+            "label": "Median days on market",
+            "value": "105",
+            "source": "FlexMLS saved search WSS-LP-MF-5plus, run Oct 31, 2026"
+          },
+          {
+            "label": "Listings with a price change since listing",
+            "value": "21",
+            "source": "FlexMLS saved search WSS-LP-MF-5plus, run Oct 31, 2026"
+          },
+          {
+            "label": "Share of listings with a price change",
+            "value": "32%",
+            "source": "21 of 65, FlexMLS saved search WSS-LP-MF-5plus, run Oct 31, 2026"
+          },
+          {
+            "label": "Tri-county multifamily vacancy, Q2 2026",
+            "value": "6.4%",
+            "source": "Lee & Associates South Florida Q2 2026 report (lee-associates.com/southflorida/2026/07/29/...)"
+          },
+          {
+            "label": "Average asking rent per unit, Q2 2026",
+            "value": "$2,313",
+            "source": "Lee & Associates South Florida Q2 2026 report (lee-associates.com/southflorida/2026/07/29/...)"
+          }
+        ]
+      },
+      "history": [
+        {
+          "date": "2026-10-31",
+          "result_count": 65
+        }
+      ],
+      "source_search": "new (WSS-MF-5plus-All returned 1 in-county listing; residential-income type)"
     },
     {
       "slug": "apartment-complexes-20-plus-units",
-      "search_name": "WSS-MF-20plus-All",
+      "search_name": "WSS-LP-MF-20plus",
       "category": "multifamily",
       "short": "Apartment Complexes, 20+ Units",
       "h1": "Apartment Complexes for Sale: 20+ Units in South Florida",
@@ -911,11 +1632,11 @@
         ],
         [
           "Price",
-          "Any"
+          "$750K and up"
         ],
         [
           "Status",
-          "Active only"
+          "Active"
         ]
       ],
       "faqs": [
@@ -934,28 +1655,82 @@
       ],
       "related": [
         "apartment-buildings-5-plus-units",
-        "commercial-land-for-sale",
+        "land-development-sites-for-sale",
         "mixed-use-properties-for-sale",
         "small-multifamily-1m-to-3m"
       ],
       "agile_tag": "seg-mf-large-20plus",
       "form_placeholder": "e.g. 40–100 units, Class B value-add, Broward or Miami-Dade",
       "new_search": false,
-      "criteria_verified": false,
-      "weekly": {},
-      "history": []
+      "criteria_verified": true,
+      "weekly": {
+        "date": "2026-10-31",
+        "result_count": 4,
+        "prior_count": null,
+        "mls_url": "https://www.flexmls.com/link.html?1ze7tlfjxxut,15,1&utm_source=savingsre&utm_medium=website&utm_campaign=landing_page&utm_content=apartment-complexes-20-plus-units",
+        "link_generated": "2026-10-31",
+        "link_expires": "2026-11-30",
+        "commentary": [
+          "This week the search shows 4 active listings across Palm Beach, Broward and Miami-Dade, with a median asking price of $6,562,500. The median listing has been on the market 77.5 days, and 1 listings (25%) have changed price since they were listed.",
+          "Region-wide, multifamily vacancy was 6.4% in the second quarter of 2026, with an average asking rent of $2,313 per unit, according to Lee & Associates."
+        ],
+        "figures": [
+          {
+            "label": "Active listings",
+            "value": "4",
+            "source": "FlexMLS saved search WSS-LP-MF-20plus, run Oct 31, 2026"
+          },
+          {
+            "label": "Median list price",
+            "value": "$6,562,500",
+            "source": "FlexMLS saved search WSS-LP-MF-20plus, run Oct 31, 2026"
+          },
+          {
+            "label": "Median days on market",
+            "value": "77.5",
+            "source": "FlexMLS saved search WSS-LP-MF-20plus, run Oct 31, 2026"
+          },
+          {
+            "label": "Listings with a price change since listing",
+            "value": "1",
+            "source": "FlexMLS saved search WSS-LP-MF-20plus, run Oct 31, 2026"
+          },
+          {
+            "label": "Share of listings with a price change",
+            "value": "25%",
+            "source": "1 of 4, FlexMLS saved search WSS-LP-MF-20plus, run Oct 31, 2026"
+          },
+          {
+            "label": "Tri-county multifamily vacancy, Q2 2026",
+            "value": "6.4%",
+            "source": "Lee & Associates South Florida Q2 2026 report (lee-associates.com/southflorida/2026/07/29/...)"
+          },
+          {
+            "label": "Average asking rent per unit, Q2 2026",
+            "value": "$2,313",
+            "source": "Lee & Associates South Florida Q2 2026 report (lee-associates.com/southflorida/2026/07/29/...)"
+          }
+        ]
+      },
+      "history": [
+        {
+          "date": "2026-10-31",
+          "result_count": 4
+        }
+      ],
+      "source_search": "new (commercial Multi Family)"
     },
     {
       "slug": "short-term-rental-investment-properties",
-      "search_name": "WSS-STR-airbnb-east",
+      "search_name": "WSS-LP-STR",
       "category": "multifamily",
       "short": "Short-Term Rental Investments",
       "h1": "Short-Term Rental Investment Properties for Sale",
       "title": "Short-Term Rental (Airbnb) Properties for Sale: South Florida",
-      "description": "Homes and small multifamily east of I-95 suited to short-term rental investing in South Florida. Active listings refreshed weekly with notes.",
-      "subhead": "Coastal homes and small multifamily suited to vacation-rental investing, updated every week.",
+      "description": "Income properties in Palm Beach, Broward and Miami-Dade marketed for short-term rental use. Active listings refreshed weekly with notes.",
+      "subhead": "Income properties whose listings mention short-term rental use, updated every week.",
       "intro": [
-        "This search tracks homes and small multifamily east of I-95, close to the beach and downtowns, that suit short-term or vacation-rental investing.",
+        "This search tracks residential income properties across Palm Beach, Broward and Miami-Dade whose listing descriptions mention short-term rental use.",
         "Short-term rental rules vary city by city in South Florida, from registration and inspections to minimum-stay limits, and condo and homeowner associations often add their own restrictions. Bill helps investors confirm the rules for each property before they rely on nightly-rental income.",
         "Each week the search is re-run, and this page shows the count and a link to every active listing."
       ],
@@ -965,16 +1740,16 @@
           "Palm Beach · Broward · Miami-Dade"
         ],
         [
-          "Location",
-          "East of I-95"
+          "Property type",
+          "Residential income"
         ],
         [
-          "Use",
-          "Short-term rental potential"
+          "Listing mentions",
+          "Short-term rental"
         ],
         [
           "Status",
-          "Active only"
+          "Active"
         ]
       ],
       "faqs": [
@@ -992,7 +1767,7 @@
         ]
       ],
       "related": [
-        "duplex-triplex-fourplex-under-1m",
+        "multifamily-under-1m",
         "seasonal-furnished-rentals",
         "small-multifamily-1m-to-3m",
         "oceanfront-homes-for-sale"
@@ -1000,13 +1775,56 @@
       "agile_tag": "seg-str-east",
       "form_placeholder": "e.g. 3-bed home or duplex near the beach that allows short-term rentals",
       "new_search": false,
-      "criteria_verified": false,
-      "weekly": {},
-      "history": []
+      "criteria_verified": true,
+      "weekly": {
+        "date": "2026-10-31",
+        "result_count": 23,
+        "prior_count": null,
+        "mls_url": "https://www.flexmls.com/link.html?1ze7tlipqi8w,15,1&utm_source=savingsre&utm_medium=website&utm_campaign=landing_page&utm_content=short-term-rental-investment-properties",
+        "link_generated": "2026-10-31",
+        "link_expires": "2026-11-30",
+        "commentary": [
+          "This week the search shows 23 active listings across Palm Beach, Broward and Miami-Dade, with a median asking price of $1,199,000. The median listing has been on the market 95 days, and 12 listings (52%) have changed price since they were listed."
+        ],
+        "figures": [
+          {
+            "label": "Active listings",
+            "value": "23",
+            "source": "FlexMLS saved search WSS-LP-STR, run Oct 31, 2026"
+          },
+          {
+            "label": "Median list price",
+            "value": "$1,199,000",
+            "source": "FlexMLS saved search WSS-LP-STR, run Oct 31, 2026"
+          },
+          {
+            "label": "Median days on market",
+            "value": "95",
+            "source": "FlexMLS saved search WSS-LP-STR, run Oct 31, 2026"
+          },
+          {
+            "label": "Listings with a price change since listing",
+            "value": "12",
+            "source": "FlexMLS saved search WSS-LP-STR, run Oct 31, 2026"
+          },
+          {
+            "label": "Share of listings with a price change",
+            "value": "52%",
+            "source": "12 of 23, FlexMLS saved search WSS-LP-STR, run Oct 31, 2026"
+          }
+        ]
+      },
+      "history": [
+        {
+          "date": "2026-10-31",
+          "result_count": 23
+        }
+      ],
+      "source_search": "WSS-STR-airbnb-east"
     },
     {
       "slug": "luxury-homes-for-sale",
-      "search_name": "WSS-RES-LuxSFR2M",
+      "search_name": "WSS-LP-RES-LuxSFR2M",
       "category": "residential-sale",
       "short": "Luxury Homes $2M+",
       "h1": "Luxury Homes for Sale in South Florida: $2M and Up",
@@ -1033,7 +1851,7 @@
         ],
         [
           "Status",
-          "Active only"
+          "Active"
         ]
       ],
       "faqs": [
@@ -1054,18 +1872,61 @@
         "oceanfront-homes-for-sale",
         "intracoastal-homes-for-sale",
         "country-club-homes-for-sale",
-        "condos-for-sale-price-reduced"
+        "condos-for-sale-under-500k"
       ],
       "agile_tag": "seg-res-lux-sfr",
       "form_placeholder": "e.g. 4+ bedrooms, pool, east Boca or Fort Lauderdale, $2.5M–$4M",
       "new_search": true,
-      "criteria_verified": false,
-      "weekly": {},
-      "history": []
+      "criteria_verified": true,
+      "weekly": {
+        "date": "2026-10-31",
+        "result_count": 2804,
+        "prior_count": null,
+        "mls_url": "https://www.flexmls.com/link.html?1ze7to8kqoc3,15,1&utm_source=savingsre&utm_medium=website&utm_campaign=landing_page&utm_content=luxury-homes-for-sale",
+        "link_generated": "2026-10-31",
+        "link_expires": "2026-11-30",
+        "commentary": [
+          "This week the search shows 2,804 active listings across Palm Beach, Broward and Miami-Dade, with a median asking price of $4,225,000. The median listing has been on the market 87.5 days, and 993 listings (35%) have changed price since they were listed."
+        ],
+        "figures": [
+          {
+            "label": "Active listings",
+            "value": "2,804",
+            "source": "FlexMLS saved search WSS-LP-RES-LuxSFR2M, run Oct 31, 2026"
+          },
+          {
+            "label": "Median list price",
+            "value": "$4,225,000",
+            "source": "FlexMLS saved search WSS-LP-RES-LuxSFR2M, run Oct 31, 2026"
+          },
+          {
+            "label": "Median days on market",
+            "value": "87.5",
+            "source": "FlexMLS saved search WSS-LP-RES-LuxSFR2M, run Oct 31, 2026"
+          },
+          {
+            "label": "Listings with a price change since listing",
+            "value": "993",
+            "source": "FlexMLS saved search WSS-LP-RES-LuxSFR2M, run Oct 31, 2026"
+          },
+          {
+            "label": "Share of listings with a price change",
+            "value": "35%",
+            "source": "993 of 2,804, FlexMLS saved search WSS-LP-RES-LuxSFR2M, run Oct 31, 2026"
+          }
+        ]
+      },
+      "history": [
+        {
+          "date": "2026-10-31",
+          "result_count": 2804
+        }
+      ],
+      "source_search": "new"
     },
     {
       "slug": "oceanfront-homes-for-sale",
-      "search_name": "WSS-LUX-Oceanfront",
+      "search_name": "WSS-LP-LUX-Oceanfront",
       "category": "residential-sale",
       "short": "Oceanfront Homes & Condos",
       "h1": "Oceanfront Homes & Condos for Sale in South Florida",
@@ -1073,7 +1934,7 @@
       "description": "Oceanfront homes and condos for sale in Palm Beach, Broward and Miami-Dade, with direct Atlantic frontage. Active listings refreshed weekly.",
       "subhead": "Residences with direct Atlantic Ocean frontage, updated every week.",
       "intro": [
-        "This search tracks residences with direct ocean frontage on South Florida's Atlantic coast, from beachfront condominiums to single-family homes on the sand.",
+        "This search tracks larger residences with direct ocean views on South Florida's Atlantic coast: single-family homes and condominiums of 3,000 square feet or more, with a private pool, from $1.5 million.",
         "Oceanfront ownership comes with specific questions: building age and recertification, condo association reserves and assessments, wind and flood insurance, and coastal construction rules. Bill helps buyers work through each one before making an offer.",
         "Each week the search is re-run, and this page shows the count and a link to every active listing."
       ],
@@ -1083,16 +1944,16 @@
           "Palm Beach · Broward · Miami-Dade"
         ],
         [
-          "Frontage",
+          "View",
           "Direct ocean"
         ],
         [
-          "Property type",
-          "Homes & condos"
+          "Size · Pool",
+          "3,000+ sq ft · Private pool"
         ],
         [
-          "Status",
-          "Active only"
+          "Price",
+          "$1.5M and up"
         ]
       ],
       "faqs": [
@@ -1113,18 +1974,61 @@
         "intracoastal-homes-for-sale",
         "luxury-homes-for-sale",
         "country-club-homes-for-sale",
-        "condos-for-sale-price-reduced"
+        "condos-for-sale-under-500k"
       ],
       "agile_tag": "seg-lux-oceanfront",
       "form_placeholder": "e.g. oceanfront condo, 2–3 bedrooms, Highland Beach to Fort Lauderdale",
       "new_search": false,
-      "criteria_verified": false,
-      "weekly": {},
-      "history": []
+      "criteria_verified": true,
+      "weekly": {
+        "date": "2026-10-31",
+        "result_count": 36,
+        "prior_count": null,
+        "mls_url": "https://www.flexmls.com/link.html?1ze7tng0uwwh,15,1&utm_source=savingsre&utm_medium=website&utm_campaign=landing_page&utm_content=oceanfront-homes-for-sale",
+        "link_generated": "2026-10-31",
+        "link_expires": "2026-11-30",
+        "commentary": [
+          "This week the search shows 36 active listings across Palm Beach, Broward and Miami-Dade, with a median asking price of $22,475,000. The median listing has been on the market 176 days, and 14 listings (39%) have changed price since they were listed."
+        ],
+        "figures": [
+          {
+            "label": "Active listings",
+            "value": "36",
+            "source": "FlexMLS saved search WSS-LP-LUX-Oceanfront, run Oct 31, 2026"
+          },
+          {
+            "label": "Median list price",
+            "value": "$22,475,000",
+            "source": "FlexMLS saved search WSS-LP-LUX-Oceanfront, run Oct 31, 2026"
+          },
+          {
+            "label": "Median days on market",
+            "value": "176",
+            "source": "FlexMLS saved search WSS-LP-LUX-Oceanfront, run Oct 31, 2026"
+          },
+          {
+            "label": "Listings with a price change since listing",
+            "value": "14",
+            "source": "FlexMLS saved search WSS-LP-LUX-Oceanfront, run Oct 31, 2026"
+          },
+          {
+            "label": "Share of listings with a price change",
+            "value": "39%",
+            "source": "14 of 36, FlexMLS saved search WSS-LP-LUX-Oceanfront, run Oct 31, 2026"
+          }
+        ]
+      },
+      "history": [
+        {
+          "date": "2026-10-31",
+          "result_count": 36
+        }
+      ],
+      "source_search": "WSS-LUX-Oceanfront"
     },
     {
       "slug": "intracoastal-homes-for-sale",
-      "search_name": "WSS-LUX-Intracoastal",
+      "search_name": "WSS-LP-LUX-Intracoastal",
       "category": "residential-sale",
       "short": "Intracoastal Homes",
       "h1": "Intracoastal Waterfront Homes for Sale in South Florida",
@@ -1132,7 +2036,7 @@
       "description": "Intracoastal waterfront homes and condos for sale in Palm Beach, Broward and Miami-Dade, many with private docks. Active listings refreshed weekly.",
       "subhead": "Waterfront residences on the Intracoastal Waterway, many with docks, updated every week.",
       "intro": [
-        "This search tracks residences on or overlooking the Intracoastal Waterway, from homes with private docks and ocean access to condominiums with water views.",
+        "This search tracks larger residences with Intracoastal views across Palm Beach, Broward and Miami-Dade: single-family homes and condominiums of 3,000 square feet or more, with a private pool, from $1.5 million.",
         "For boaters, the details that matter are water depth, bridge clearances to the inlet, dock size and seawall condition. Bill helps buyers check each one, along with flood zone, insurance and any association rules.",
         "The search is refreshed weekly with the current count and a link to every active listing."
       ],
@@ -1142,16 +2046,16 @@
           "Palm Beach · Broward · Miami-Dade"
         ],
         [
-          "Waterfront",
+          "View",
           "Intracoastal"
         ],
         [
-          "Property type",
-          "Homes & condos"
+          "Size · Pool",
+          "3,000+ sq ft · Private pool"
         ],
         [
-          "Status",
-          "Active only"
+          "Price",
+          "$1.5M and up"
         ]
       ],
       "faqs": [
@@ -1177,13 +2081,56 @@
       "agile_tag": "seg-lux-intracoastal",
       "form_placeholder": "e.g. Intracoastal home with a 50 ft dock, no fixed bridges, Boca to Pompano",
       "new_search": false,
-      "criteria_verified": false,
-      "weekly": {},
-      "history": []
+      "criteria_verified": true,
+      "weekly": {
+        "date": "2026-10-31",
+        "result_count": 198,
+        "prior_count": null,
+        "mls_url": "https://www.flexmls.com/link.html?1ze7tnig9j5w,15,1&utm_source=savingsre&utm_medium=website&utm_campaign=landing_page&utm_content=intracoastal-homes-for-sale",
+        "link_generated": "2026-10-31",
+        "link_expires": "2026-11-30",
+        "commentary": [
+          "This week the search shows 198 active listings across Palm Beach, Broward and Miami-Dade, with a median asking price of $11,840,000. The median listing has been on the market 115 days, and 72 listings (36%) have changed price since they were listed."
+        ],
+        "figures": [
+          {
+            "label": "Active listings",
+            "value": "198",
+            "source": "FlexMLS saved search WSS-LP-LUX-Intracoastal, run Oct 31, 2026"
+          },
+          {
+            "label": "Median list price",
+            "value": "$11,840,000",
+            "source": "FlexMLS saved search WSS-LP-LUX-Intracoastal, run Oct 31, 2026"
+          },
+          {
+            "label": "Median days on market",
+            "value": "115",
+            "source": "FlexMLS saved search WSS-LP-LUX-Intracoastal, run Oct 31, 2026"
+          },
+          {
+            "label": "Listings with a price change since listing",
+            "value": "72",
+            "source": "FlexMLS saved search WSS-LP-LUX-Intracoastal, run Oct 31, 2026"
+          },
+          {
+            "label": "Share of listings with a price change",
+            "value": "36%",
+            "source": "72 of 198, FlexMLS saved search WSS-LP-LUX-Intracoastal, run Oct 31, 2026"
+          }
+        ]
+      },
+      "history": [
+        {
+          "date": "2026-10-31",
+          "result_count": 198
+        }
+      ],
+      "source_search": "WSS-LUX-Intracoastal"
     },
     {
       "slug": "country-club-homes-for-sale",
-      "search_name": "WSS-LUX-CountryClub",
+      "search_name": "WSS-LP-LUX-CountryClub",
       "category": "residential-sale",
       "short": "Country Club Homes",
       "h1": "Country Club & Golf Community Homes for Sale in South Florida",
@@ -1191,7 +2138,7 @@
       "description": "Homes in South Florida's country club and golf communities, from Boca Raton to Miami-Dade. Active listings refreshed weekly with commentary.",
       "subhead": "Homes in gated golf and country club communities, updated every week.",
       "intro": [
-        "This search tracks homes in South Florida's country club and golf communities, from established clubs to newer gated developments.",
+        "This search tracks homes for sale from $750,000 in established South Florida golf and country club communities, including Boca West, Broken Sound, Woodfield, Mizner and Ibis.",
         "Club communities differ widely in membership structure, equity or initiation fees, annual dues and amenities. Bill helps buyers compare the full cost of each community, not just the home's price, and arranges club tours alongside home showings.",
         "Each week the search is re-run, and this page shows the count and a link to every active listing."
       ],
@@ -1201,16 +2148,12 @@
           "Palm Beach · Broward · Miami-Dade"
         ],
         [
-          "Community",
-          "Country club / golf"
+          "Communities",
+          "Boca West, Broken Sound, Woodfield, Mizner, Ibis and others"
         ],
         [
-          "Property type",
-          "Homes"
-        ],
-        [
-          "Status",
-          "Active only"
+          "Price",
+          "$750K and up"
         ]
       ],
       "faqs": [
@@ -1231,28 +2174,71 @@
         "luxury-homes-for-sale",
         "intracoastal-homes-for-sale",
         "oceanfront-homes-for-sale",
-        "condos-for-sale-price-reduced"
+        "condos-for-sale-under-500k"
       ],
       "agile_tag": "seg-lux-countryclub",
       "form_placeholder": "e.g. golf community, non-mandatory membership, 3–4 bedrooms, Boca or Delray",
       "new_search": false,
-      "criteria_verified": false,
-      "weekly": {},
-      "history": []
+      "criteria_verified": true,
+      "weekly": {
+        "date": "2026-10-31",
+        "result_count": 100,
+        "prior_count": null,
+        "mls_url": "https://www.flexmls.com/link.html?1ze7tnlmp357,15,1&utm_source=savingsre&utm_medium=website&utm_campaign=landing_page&utm_content=country-club-homes-for-sale",
+        "link_generated": "2026-10-31",
+        "link_expires": "2026-11-30",
+        "commentary": [
+          "This week the search shows 100 active listings across Palm Beach, Broward and Miami-Dade, with a median asking price of $2,350,000. The median listing has been on the market 94.5 days, and 37 listings (37%) have changed price since they were listed."
+        ],
+        "figures": [
+          {
+            "label": "Active listings",
+            "value": "100",
+            "source": "FlexMLS saved search WSS-LP-LUX-CountryClub, run Oct 31, 2026"
+          },
+          {
+            "label": "Median list price",
+            "value": "$2,350,000",
+            "source": "FlexMLS saved search WSS-LP-LUX-CountryClub, run Oct 31, 2026"
+          },
+          {
+            "label": "Median days on market",
+            "value": "94.5",
+            "source": "FlexMLS saved search WSS-LP-LUX-CountryClub, run Oct 31, 2026"
+          },
+          {
+            "label": "Listings with a price change since listing",
+            "value": "37",
+            "source": "FlexMLS saved search WSS-LP-LUX-CountryClub, run Oct 31, 2026"
+          },
+          {
+            "label": "Share of listings with a price change",
+            "value": "37%",
+            "source": "37 of 100, FlexMLS saved search WSS-LP-LUX-CountryClub, run Oct 31, 2026"
+          }
+        ]
+      },
+      "history": [
+        {
+          "date": "2026-10-31",
+          "result_count": 100
+        }
+      ],
+      "source_search": "WSS-LUX-CountryClub"
     },
     {
-      "slug": "condos-for-sale-price-reduced",
-      "search_name": "WSS-RES-CondoValue",
+      "slug": "condos-for-sale-under-500k",
+      "search_name": "WSS-LP-RES-Condo500K",
       "category": "residential-sale",
-      "short": "Condo Price Reductions",
-      "h1": "Condos for Sale with Recent Price Reductions in South Florida",
-      "title": "Price-Reduced Condos for Sale: Palm Beach, Broward, Dade",
-      "description": "Condos for sale with recent price reductions in Palm Beach, Broward and Miami-Dade. Find value as condo inventory grows. Updated weekly.",
-      "subhead": "Condominiums whose sellers have recently cut the price, updated every week.",
+      "short": "Condos Under $500K",
+      "h1": "Condos for Sale Under $500K in South Florida",
+      "title": "Condos for Sale Under $500K: Palm Beach, Broward, Dade",
+      "description": "Condos for sale under $500K in Palm Beach, Broward and Miami-Dade, with weekly counts of price changes as condo inventory grows. Updated weekly.",
+      "subhead": "Condominiums priced up to $500K, with weekly price-change counts.",
       "intro": [
-        "This search tracks condominiums across Palm Beach, Broward and Miami-Dade whose asking price has recently been reduced.",
-        "Condo inventory has been rising in South Florida, which gives buyers more choice and more negotiating room. A lower price is only a good deal if the building is sound, so Bill helps buyers review each association's reserves, inspection reports and any assessments before making an offer.",
-        "The search is refreshed weekly with the current count and a link to every active listing."
+        "This search tracks condominiums priced up to $500,000 across Palm Beach, Broward and Miami-Dade.",
+        "Condo inventory has been rising in South Florida, which gives buyers more choice and more room to negotiate, and many sellers have already adjusted their prices. A lower price is only a good deal if the building is sound, so Bill helps buyers review each association's reserves, inspection reports and any assessments before making an offer.",
+        "The search is refreshed weekly with the current count, how many listings have changed price, and a link to every active listing."
       ],
       "criteria": [
         [
@@ -1265,11 +2251,11 @@
         ],
         [
           "Price",
-          "Recently reduced"
+          "Up to $500K"
         ],
         [
           "Status",
-          "Active only"
+          "Active"
         ]
       ],
       "faqs": [
@@ -1292,12 +2278,71 @@
         "homes-for-rent",
         "seasonal-furnished-rentals"
       ],
-      "agile_tag": "seg-res-condo-value",
-      "form_placeholder": "e.g. 2-bed condo under $450K, low assessments, pets allowed",
+      "agile_tag": "seg-res-condo-500k",
+      "form_placeholder": "e.g. 2-bed condo under $400K, low fees, pets allowed",
       "new_search": true,
-      "criteria_verified": false,
-      "weekly": {},
-      "history": []
+      "criteria_verified": true,
+      "weekly": {
+        "date": "2026-10-31",
+        "result_count": 16097,
+        "prior_count": null,
+        "mls_url": "https://www.flexmls.com/link.html?1ze7tod4qv8p,15,1&utm_source=savingsre&utm_medium=website&utm_campaign=landing_page&utm_content=condos-for-sale-under-500k",
+        "link_generated": "2026-10-31",
+        "link_expires": "2026-11-30",
+        "commentary": [
+          "This week the search shows 16,097 active listings across Palm Beach, Broward and Miami-Dade, with a median asking price of $235,000. The median listing has been on the market 100 days, and 7,577 listings (47%) have changed price since they were listed.",
+          "In January 2026, MIAMI REALTORS reported median condo prices of $420,000 in Miami-Dade, $325,000 in Palm Beach and $250,000 in Broward, with Palm Beach condo inventory at a seven-month high."
+        ],
+        "figures": [
+          {
+            "label": "Active listings",
+            "value": "16,097",
+            "source": "FlexMLS saved search WSS-LP-RES-Condo500K, run Oct 31, 2026"
+          },
+          {
+            "label": "Median list price",
+            "value": "$235,000",
+            "source": "FlexMLS saved search WSS-LP-RES-Condo500K, run Oct 31, 2026"
+          },
+          {
+            "label": "Median days on market",
+            "value": "100",
+            "source": "FlexMLS saved search WSS-LP-RES-Condo500K, run Oct 31, 2026"
+          },
+          {
+            "label": "Listings with a price change since listing",
+            "value": "7,577",
+            "source": "FlexMLS saved search WSS-LP-RES-Condo500K, run Oct 31, 2026"
+          },
+          {
+            "label": "Share of listings with a price change",
+            "value": "47%",
+            "source": "7,577 of 16,097, FlexMLS saved search WSS-LP-RES-Condo500K, run Oct 31, 2026"
+          },
+          {
+            "label": "Miami-Dade median condo price, Jan 2026",
+            "value": "$420,000",
+            "source": "WLRN, Feb 18, 2026, citing MIAMI REALTORS January 2026 data (wlrn.org)"
+          },
+          {
+            "label": "Palm Beach median condo price, Jan 2026",
+            "value": "$325,000",
+            "source": "WLRN, Feb 18, 2026, citing MIAMI REALTORS January 2026 data (wlrn.org)"
+          },
+          {
+            "label": "Broward median condo price, Jan 2026",
+            "value": "$250,000",
+            "source": "WLRN, Feb 18, 2026, citing MIAMI REALTORS January 2026 data (wlrn.org)"
+          }
+        ]
+      },
+      "history": [
+        {
+          "date": "2026-10-31",
+          "result_count": 16097
+        }
+      ],
+      "source_search": "new (no price-reduced field exists in FlexMLS)"
     },
     {
       "slug": "homes-for-rent",
@@ -1320,7 +2365,7 @@
         ],
         [
           "Lease",
-          "Annual"
+          "Annual (1 year or more)"
         ],
         [
           "Rent",
@@ -1328,7 +2373,7 @@
         ],
         [
           "Status",
-          "Active only"
+          "Active"
         ]
       ],
       "faqs": [
@@ -1347,20 +2392,69 @@
       ],
       "related": [
         "seasonal-furnished-rentals",
-        "condos-for-sale-price-reduced",
-        "duplex-triplex-fourplex-under-1m",
+        "condos-for-sale-under-500k",
+        "multifamily-under-1m",
         "luxury-homes-for-sale"
       ],
       "agile_tag": "seg-rent-annual",
       "form_placeholder": "e.g. 3-bed home, annual lease, under $4,000, pets OK, Boca or Coral Springs",
       "new_search": true,
-      "criteria_verified": false,
-      "weekly": {},
-      "history": []
+      "criteria_verified": true,
+      "weekly": {
+        "date": "2026-10-31",
+        "result_count": 3377,
+        "prior_count": null,
+        "mls_url": "https://www.flexmls.com/link.html?1ze7toicumiz,15,1&utm_source=savingsre&utm_medium=website&utm_campaign=landing_page&utm_content=homes-for-rent",
+        "link_generated": "2026-10-31",
+        "link_expires": "2026-11-30",
+        "commentary": [
+          "This week the search shows 3,377 active rentals across Palm Beach, Broward and Miami-Dade, with a median asking rent of $3,200 a month. The median listing has been available 41 days, and 1,285 have changed their asking rent since they were listed.",
+          "Region-wide, multifamily vacancy was 6.4% in the second quarter of 2026, with an average asking rent of $2,313 per unit, according to Lee & Associates."
+        ],
+        "figures": [
+          {
+            "label": "Active listings",
+            "value": "3,377",
+            "source": "FlexMLS saved search WSS-RES-RENTALS, run Oct 31, 2026"
+          },
+          {
+            "label": "Median asking rent (monthly)",
+            "value": "$3,200",
+            "source": "FlexMLS saved search WSS-RES-RENTALS, run Oct 31, 2026"
+          },
+          {
+            "label": "Median days on market",
+            "value": "41",
+            "source": "FlexMLS saved search WSS-RES-RENTALS, run Oct 31, 2026"
+          },
+          {
+            "label": "Listings with a price change since listing",
+            "value": "1,285",
+            "source": "FlexMLS saved search WSS-RES-RENTALS, run Oct 31, 2026"
+          },
+          {
+            "label": "Tri-county multifamily vacancy, Q2 2026",
+            "value": "6.4%",
+            "source": "Lee & Associates South Florida Q2 2026 report (lee-associates.com/southflorida/2026/07/29/...)"
+          },
+          {
+            "label": "Average asking rent per unit, Q2 2026",
+            "value": "$2,313",
+            "source": "Lee & Associates South Florida Q2 2026 report (lee-associates.com/southflorida/2026/07/29/...)"
+          }
+        ]
+      },
+      "history": [
+        {
+          "date": "2026-10-31",
+          "result_count": 3377
+        }
+      ],
+      "source_search": "new"
     },
     {
       "slug": "seasonal-furnished-rentals",
-      "search_name": "WSS-RES-Seasonal",
+      "search_name": "WSS-LP-RES-Seasonal",
       "category": "residential-lease",
       "short": "Seasonal Furnished Rentals",
       "h1": "Seasonal & Furnished Rentals in South Florida",
@@ -1368,7 +2462,7 @@
       "description": "Furnished seasonal rentals in Palm Beach, Broward and Miami-Dade for winter visitors, monthly and multi-month stays. Active listings refreshed weekly.",
       "subhead": "Furnished homes and condos for the winter season and other short stays, updated every week.",
       "intro": [
-        "This search tracks furnished homes and condominiums offered for seasonal and short-term leases across Palm Beach, Broward and Miami-Dade, the stays most winter visitors book for a month or more between November and April.",
+        "This search tracks furnished homes and condominiums offered on monthly leases of one to eleven months across Palm Beach, Broward and Miami-Dade, the stays most winter visitors book between November and April.",
         "The best seasonal rentals are often reserved months ahead, and condo associations may set minimum stays or limit how many times a unit can be leased each year. Bill helps visitors find furnished homes that fit their dates and checks the association rules before they commit.",
         "Each week the search is re-run, and this page shows the count and a link to every active listing."
       ],
@@ -1379,7 +2473,7 @@
         ],
         [
           "Lease",
-          "Seasonal / short-term"
+          "Monthly (1–11 months)"
         ],
         [
           "Furnished",
@@ -1387,7 +2481,7 @@
         ],
         [
           "Status",
-          "Active only"
+          "Active"
         ]
       ],
       "faqs": [
@@ -1413,9 +2507,47 @@
       "agile_tag": "seg-rent-seasonal",
       "form_placeholder": "e.g. furnished 2-bed condo near the beach, January–March, Delray or Boca",
       "new_search": true,
-      "criteria_verified": false,
-      "weekly": {},
-      "history": []
+      "criteria_verified": true,
+      "weekly": {
+        "date": "2026-10-31",
+        "result_count": 2456,
+        "prior_count": null,
+        "mls_url": "https://www.flexmls.com/link.html?1ze7tolm8ugr,15,1&utm_source=savingsre&utm_medium=website&utm_campaign=landing_page&utm_content=seasonal-furnished-rentals",
+        "link_generated": "2026-10-31",
+        "link_expires": "2026-11-30",
+        "commentary": [
+          "This week the search shows 2,456 active rentals across Palm Beach, Broward and Miami-Dade, with a median asking rent of $5,900 a month. The median listing has been available 97 days, and 866 have changed their asking rent since they were listed."
+        ],
+        "figures": [
+          {
+            "label": "Active listings",
+            "value": "2,456",
+            "source": "FlexMLS saved search WSS-LP-RES-Seasonal, run Oct 31, 2026"
+          },
+          {
+            "label": "Median asking rent (monthly)",
+            "value": "$5,900",
+            "source": "FlexMLS saved search WSS-LP-RES-Seasonal, run Oct 31, 2026"
+          },
+          {
+            "label": "Median days on market",
+            "value": "97",
+            "source": "FlexMLS saved search WSS-LP-RES-Seasonal, run Oct 31, 2026"
+          },
+          {
+            "label": "Listings with a price change since listing",
+            "value": "866",
+            "source": "FlexMLS saved search WSS-LP-RES-Seasonal, run Oct 31, 2026"
+          }
+        ]
+      },
+      "history": [
+        {
+          "date": "2026-10-31",
+          "result_count": 2456
+        }
+      ],
+      "source_search": "new"
     }
   ]
 }

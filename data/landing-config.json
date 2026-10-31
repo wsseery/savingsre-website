@@ -6,10 +6,12 @@
   "form_consent": "By sending, you agree to our {privacy} and {terms}, and that Bill may reply by phone, text or email, including automated texts. Msg & data rates may apply. Reply STOP to opt out anytime. You don't have to agree to buy or rent.",
   "agile": {
     "domain": "savingsre",
-    "api_key": "",
-    "form_name": "",
+    "api_key": "o8d0am3m1ras18l8f0r0qai4hq",
+    "form_name": "Website Listings Inquiry",
     "segment_field": "segment",
-    "message_field": "note"
+    "message_field": "note",
+    "form_id": "6520129726382080",
+    "_note": "Agile web-form tracking key: public by design (Agile embeds it in every website form). Form 'Website Listings Inquiry' created 2026-10-31."
   },
   "agent_jsonld": {
     "@type": "RealEstateAgent",
@@ -59,7 +61,7 @@
     }
   ],
   "weekly_redirects": {
-    "mf-small-under1m.html": "duplex-triplex-fourplex-under-1m",
+    "mf-small-under1m.html": "multifamily-under-1m",
     "mf-small-1to3m.html": "small-multifamily-1m-to-3m",
     "mf-mid-5plus.html": "apartment-buildings-5-plus-units",
     "mf-mid-5to19.html": "apartment-buildings-5-plus-units",
@@ -68,7 +70,7 @@
     "com-industrial.html": "industrial-warehouse-for-sale",
     "com-office.html": "office-buildings-for-sale",
     "com-mixeduse.html": "mixed-use-properties-for-sale",
-    "com-land.html": "commercial-land-for-sale",
+    "com-land.html": "land-development-sites-for-sale",
     "luxury-oceanfront.html": "oceanfront-homes-for-sale",
     "luxury-countryclub.html": "country-club-homes-for-sale"
   },

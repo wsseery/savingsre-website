@@ -185,6 +185,7 @@ def inquiry_form(seg, cfg):
         <input type="hidden" name="_agile_form_name" value="{e(a['form_name'])}">
         <input type="hidden" name="_agile_domain" value="{e(a['domain'])}">
         <input type="hidden" name="_agile_api" value="{e(a['api_key'])}">
+        <input type="hidden" name="_agile_form_id" value="{e(a.get('form_id', ''))}">
         <input type="hidden" name="_agile_redirect_url" value="{e(page_url(seg))}?inquiry=sent#inquiry">
         <input type="hidden" name="_agile_document_url" value="{e(page_url(seg))}">
         <input type="hidden" name="_agile_confirmation_msg" value="Thanks. Bill will be in touch shortly.">
