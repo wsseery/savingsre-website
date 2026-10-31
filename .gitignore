@@ -2,3 +2,4 @@ generate-pages.py
 flexmls-guide-v2.md
 domain-migration-guide.md
 *.json.bak
+__pycache__/

@@ -1,0 +1,91 @@
+{
+  "_note": "Site-wide settings for scripts/build_landing_pages.py. Attribution, form wording and the /privacy/ + /terms/ text (data/legal/) approved by Bill 2026-10-31 (implicit consent wording kept; insurance mentions kept).",
+  "disclaimer": "William \"Bill\" Seery is a licensed Florida Realtor (License 3333692). This content is not legal, tax, or financial advice. All property information is believed to be accurate but not guaranteed; buyers and sellers should verify all details independently. Equal Housing Opportunity.",
+  "attribution": "Listings are shown courtesy of their listing brokerages, named on each FlexMLS listing, and are not necessarily listed by SavingsRE. Details come from the MLS, are refreshed weekly and can change at any time, so please verify anything that matters to you.",
+  "form_intro": "Tell Bill what you're looking for. He'll reply personally, send matching properties as they come on the market, and answer your questions. No obligation.",
+  "form_consent": "By sending, you agree to our {privacy} and {terms}, and that Bill may reply by phone, text or email, including automated texts. Msg & data rates may apply. Reply STOP to opt out anytime. You don't have to agree to buy or rent.",
+  "agile": {
+    "domain": "savingsre",
+    "api_key": "o8d0am3m1ras18l8f0r0qai4hq",
+    "form_name": "Website Listings Inquiry",
+    "segment_field": "segment",
+    "message_field": "note",
+    "form_id": "6520129726382080",
+    "_note": "Agile web-form tracking key: public by design (Agile embeds it in every website form). Form 'Website Listings Inquiry' created 2026-10-31."
+  },
+  "agent_jsonld": {
+    "@type": "RealEstateAgent",
+    "@id": "https://savingsre.com/#agent",
+    "name": "William Spencer Seery Jr, PA",
+    "alternateName": "SavingsRE",
+    "url": "https://savingsre.com/",
+    "telephone": "+15612200402",
+    "email": "bill@savingsre.com",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "5550 Glades Road",
+      "addressLocality": "Boca Raton",
+      "addressRegion": "FL",
+      "postalCode": "33431",
+      "addressCountry": "US"
+    },
+    "areaServed": [
+      {
+        "@type": "AdministrativeArea",
+        "name": "Palm Beach County, FL"
+      },
+      {
+        "@type": "AdministrativeArea",
+        "name": "Broward County, FL"
+      },
+      {
+        "@type": "AdministrativeArea",
+        "name": "Miami-Dade County, FL"
+      }
+    ],
+    "memberOf": {
+      "@type": "Organization",
+      "name": "United Realty Group"
+    },
+    "sameAs": [
+      "https://www.instagram.com/savingsre/",
+      "https://x.com/SavingsRE"
+    ]
+  },
+  "hub_extra": [
+    {
+      "category": "residential-lease",
+      "href": "/luxury-rentals.html",
+      "title": "Luxury Waterfront Rentals",
+      "sub": "Ocean-view and Intracoastal rentals in Palm Beach County, $5,000 to $10,000 a month."
+    }
+  ],
+  "weekly_redirects": {
+    "mf-small-under1m.html": "multifamily-under-1m",
+    "mf-small-1to3m.html": "small-multifamily-1m-to-3m",
+    "mf-mid-5plus.html": "apartment-buildings-5-plus-units",
+    "mf-mid-5to19.html": "apartment-buildings-5-plus-units",
+    "mf-large-20plus.html": "apartment-complexes-20-plus-units",
+    "com-retail.html": "retail-strip-centers-for-sale",
+    "com-industrial.html": "industrial-warehouse-for-sale",
+    "com-office.html": "office-buildings-for-sale",
+    "com-mixeduse.html": "mixed-use-properties-for-sale",
+    "com-land.html": "land-development-sites-for-sale",
+    "luxury-oceanfront.html": "oceanfront-homes-for-sale",
+    "luxury-countryclub.html": "country-club-homes-for-sale"
+  },
+  "legal_pages": {
+    "privacy": {
+      "title": "Privacy Policy | SavingsRE",
+      "h1": "Privacy Policy",
+      "updated": "2026-10-31",
+      "description": "How SavingsRE collects, uses and protects the information you share through savingsre.com, including inquiry forms, texts and analytics."
+    },
+    "terms": {
+      "title": "Terms of Use | SavingsRE",
+      "h1": "Terms of Use",
+      "updated": "2026-10-31",
+      "description": "The terms that apply when you use savingsre.com, including listing information, third-party links, text messages and our real estate disclosures."
+    }
+  }
+}
