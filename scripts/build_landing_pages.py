@@ -173,7 +173,9 @@ def inquiry_form(seg, cfg):
     """The page's single call to action. Posts to Agile CRM when the form is
     configured in data/landing-config.json; otherwise shows phone and email."""
     a = cfg.get("agile") or {}
-    tags = ",".join(["website-inquiry", "landing-page", seg["agile_tag"]])
+    # campaign_tag fires the Agile trigger that enrolls the contact in the website-inquiry welcome campaign.
+    tags = ",".join(t for t in ["website-inquiry", "landing-page", seg["agile_tag"],
+                                a.get("campaign_tag", "")] if t)
     heading = e(seg.get("form_heading") or f"Ask Bill about {seg['short'].lower()}")
     intro = e(cfg["form_intro"])
     # form_consent may contain {privacy} and {terms}; they become links after escaping.
