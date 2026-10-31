@@ -491,6 +491,30 @@
   </section>
   <aside class="attribution" aria-label="Listing data attribution"><p>Listings are shown courtesy of their listing brokerages, named on each FlexMLS listing, and are not necessarily listed by SavingsRE. Details come from the MLS, are refreshed weekly and can change at any time, so please verify anything that matters to you.</p></aside>
 </main>
+<script>
+(function () {
+  var f = document.getElementById('inquiry-form');
+  if (location.search.indexOf('inquiry=sent') > -1) {
+    var ok = document.getElementById('inquiry-sent'); if (ok) ok.hidden = false;
+  }
+  if (!f) return;
+  f.addEventListener('submit', function (ev) {
+    window.dataLayer = window.dataLayer || [];
+    window.dataLayer.push({ event: 'generate_lead', form_name: 'landing_inquiry', segment: f.getAttribute('data-segment') });
+    // Send in the background and confirm on this page, so visitors are not left on
+    // Agile's unbranded thank-you page. Without fetch, the normal GET submit still works.
+    if (!window.fetch || !window.URLSearchParams || !window.FormData) return;
+    ev.preventDefault();
+    var btn = f.querySelector('[type=submit]'); if (btn) btn.disabled = true;
+    var url = f.action + '?' + new URLSearchParams(new FormData(f)).toString();
+    fetch(url, { method: 'GET', mode: 'no-cors', credentials: 'omit' }).then(function () {
+      var ok = document.getElementById('inquiry-sent');
+      Array.prototype.forEach.call(f.children, function (c) { if (c !== ok) c.hidden = true; });
+      if (ok) { ok.hidden = false; ok.setAttribute('tabindex', '-1'); ok.focus(); }
+    }).catch(function () { f.submit(); });
+  });
+})();
+</script>
 <footer>
   <div class="footer-inner">
     <div class="footer-brand">

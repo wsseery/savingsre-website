@@ -324,23 +324,39 @@ def landing_page(seg, cfg, by_slug, header_html):
     <p>{e(cfg['attribution'])}</p>
   </aside>
 </main>
-<script>
-(function () {{
-  var f = document.getElementById('inquiry-form');
-  if (location.search.indexOf('inquiry=sent') > -1) {{
-    var ok = document.getElementById('inquiry-sent'); if (ok) ok.hidden = false;
-  }}
-  if (!f) return;
-  f.addEventListener('submit', function () {{
-    window.dataLayer = window.dataLayer || [];
-    window.dataLayer.push({{ event: 'generate_lead', form_name: 'landing_inquiry', segment: f.getAttribute('data-segment') }});
-  }});
-}})();
-</script>
-""")
+{inquiry_script()}""")
     out.append(footer(cfg))
     return "".join(out)
 
+
+
+def inquiry_script():
+    """Submit handler shared by segment pages and the hub: GTM lead event + inline confirmation."""
+    return """<script>
+(function () {
+  var f = document.getElementById('inquiry-form');
+  if (location.search.indexOf('inquiry=sent') > -1) {
+    var ok = document.getElementById('inquiry-sent'); if (ok) ok.hidden = false;
+  }
+  if (!f) return;
+  f.addEventListener('submit', function (ev) {
+    window.dataLayer = window.dataLayer || [];
+    window.dataLayer.push({ event: 'generate_lead', form_name: 'landing_inquiry', segment: f.getAttribute('data-segment') });
+    // Send in the background and confirm on this page, so visitors are not left on
+    // Agile's unbranded thank-you page. Without fetch, the normal GET submit still works.
+    if (!window.fetch || !window.URLSearchParams || !window.FormData) return;
+    ev.preventDefault();
+    var btn = f.querySelector('[type=submit]'); if (btn) btn.disabled = true;
+    var url = f.action + '?' + new URLSearchParams(new FormData(f)).toString();
+    fetch(url, { method: 'GET', mode: 'no-cors', credentials: 'omit' }).then(function () {
+      var ok = document.getElementById('inquiry-sent');
+      Array.prototype.forEach.call(f.children, function (c) { if (c !== ok) c.hidden = true; });
+      if (ok) { ok.hidden = false; ok.setAttribute('tabindex', '-1'); ok.focus(); }
+    }).catch(function () { f.submit(); });
+  });
+})();
+</script>
+"""
 
 def hub_page(segs, cfg, header_html):
     title = "South Florida Property Searches: Sale & Lease | SavingsRE"
@@ -398,7 +414,7 @@ def hub_page(segs, cfg, header_html):
     out.append(f"""
   <aside class="attribution" aria-label="Listing data attribution"><p>{e(cfg['attribution'])}</p></aside>
 </main>
-""")
+{inquiry_script()}""")
     out.append(footer(cfg))
     return "".join(out)
 
