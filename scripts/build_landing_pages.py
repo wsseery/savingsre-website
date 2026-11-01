@@ -220,7 +220,7 @@ def inquiry_form(seg, cfg):
   </section>"""
 
 
-def this_week(seg):
+def this_week(seg, cfg):
     w = seg.get("weekly") or {}
     if not is_live(seg):
         return """
@@ -252,6 +252,11 @@ def this_week(seg):
       </details>"""
     noun = "listing" if n == 1 else "listings"
     url = w["mls_url"]
+    rep = ""
+    br = cfg.get("buyer_rep") or {}
+    if br.get("notice") and br.get("url") and seg["category"] in br.get("categories", []):
+        rep = (f'\n        <div class="mls-note buyer-rep-note">{e(br["notice"])} '
+               f'<a href="{e(br["url"])}" target="_blank" rel="noopener">Read the agreement</a>.</div>')
     return f"""
   <div class="search-card week-card">
     <div class="search-card-header">
@@ -266,7 +271,7 @@ def this_week(seg):
 {paras}{figs}
       <div class="listings-link-wrap">
         <a href="{e(url)}" class="listings-link" target="_blank" rel="noopener nofollow" onclick="trackMLS('{e(seg['slug'])}')">View all {n} active {noun} on FlexMLS &rarr;</a>
-        <div class="mls-note">Opens FlexMLS in a new tab: full listing details and photos, no login needed. Link refreshed {e(money_date(w['link_generated']))}.</div>
+        <div class="mls-note">Opens FlexMLS in a new tab: full listing details and photos, no login needed. Link refreshed {e(money_date(w['link_generated']))}.</div>{rep}
       </div>
     </div>
   </div>"""
@@ -287,7 +292,7 @@ def landing_page(seg, cfg, by_slug, header_html):
   </div>
 </section>
 <main class="main landing-main">""")
-    out.append(this_week(seg))
+    out.append(this_week(seg, cfg))
     intro = "\n".join(f"    <p>{e(p)}</p>" for p in seg["intro"])
     crit = "\n".join(
         f'      <div class="spec"><div class="spec-val">{e(v)}</div><div class="spec-lbl">{e(k)}</div></div>'
