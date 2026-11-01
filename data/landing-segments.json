@@ -2548,6 +2548,210 @@
         }
       ],
       "source_search": "new"
+    },
+    {
+      "slug": "west-palm-beach-multifamily-for-sale",
+      "search_name": "WSS-LP-MF-WPB-750Kto5M",
+      "category": "multifamily",
+      "short": "West Palm Beach Multifamily $750K–$5M",
+      "h1": "West Palm Beach Multifamily for Sale, $750K to $5M",
+      "title": "West Palm Beach Multifamily for Sale: $750K to $5M",
+      "description": "Triplexes, fourplexes and small apartment buildings for sale in West Palm Beach from $750K to $5M. Active listings refreshed weekly.",
+      "subhead": "Three-unit and larger income properties in West Palm Beach, $750K to $5M, updated every week.",
+      "intro": [
+        "This search tracks residential income property with three or more units for sale in the City of West Palm Beach, priced from $750,000 to $5 million: mostly triplexes and fourplexes, many in the older neighborhoods close to downtown.",
+        "Older small multifamily often needs a close look at roofs, wiring, plumbing and insurance before the rent numbers can be trusted. Bill helps buyers check rents, expenses and condition, and pulls the income detail when a listing does not publish it.",
+        "Each week the search is re-run, and this page shows the count, what changed, and a link to every active listing."
+      ],
+      "criteria": [
+        [
+          "Area",
+          "City of West Palm Beach"
+        ],
+        [
+          "Units",
+          "3 and up"
+        ],
+        [
+          "Price",
+          "$750K to $5M"
+        ],
+        [
+          "Status",
+          "Active"
+        ]
+      ],
+      "faqs": [
+        [
+          "Why do so few listings show a cap rate?",
+          "Many small multifamily listings in the MLS report gross rent but not expenses, or nothing at all. A cap rate needs net operating income, so Bill requests the rent roll and expenses for any listing you want to compare."
+        ],
+        [
+          "What expenses should I budget for?",
+          "Property taxes, insurance (including wind and flood where required), repairs and reserves, utilities you pay, and vacancy. Insurance is a major line item in South Florida, so get a quote early."
+        ],
+        [
+          "Can I finance a fourplex with a residential loan?",
+          "Properties with up to four units can often use residential financing, including owner-occupied options. A lender confirms what applies to you."
+        ]
+      ],
+      "related": [
+        "multifamily-under-1m",
+        "small-multifamily-1m-to-3m",
+        "apartment-buildings-5-plus-units",
+        "nnn-properties-1m-to-10m"
+      ],
+      "agile_tag": "seg-mf-wpb",
+      "form_placeholder": "e.g. fourplex in West Palm Beach under $1.5M with current rent roll",
+      "new_search": true,
+      "criteria_verified": true,
+      "weekly": {
+        "date": "2026-11-01",
+        "result_count": 13,
+        "prior_count": null,
+        "mls_url": "https://www.flexmls.com/link.html?1zewmpfkggok,15,1&utm_source=savingsre&utm_medium=website&utm_campaign=landing_page&utm_content=west-palm-beach-multifamily-for-sale",
+        "link_generated": "2026-11-01",
+        "link_expires": "2026-12-01",
+        "commentary": [
+          "This week the search shows 13 active listings in West Palm Beach, with a median asking price of $1,250,000. Twelve are triplexes or fourplexes, and most were built between the 1920s and the 1970s.",
+          "Six of the 13 listings report both income and expenses. On those six, net operating income divided by list price works out to about 2.9% to 5.8%. Figures are broker-reported and unverified."
+        ],
+        "figures": [
+          {
+            "label": "Active listings",
+            "value": "13",
+            "source": "FlexMLS saved search WSS-LP-MF-WPB-750Kto5M, run Nov 1, 2026"
+          },
+          {
+            "label": "Median list price",
+            "value": "$1,250,000",
+            "source": "FlexMLS saved search WSS-LP-MF-WPB-750Kto5M, run Nov 1, 2026"
+          },
+          {
+            "label": "Triplexes and fourplexes",
+            "value": "12 of 13",
+            "source": "FlexMLS saved search WSS-LP-MF-WPB-750Kto5M, run Nov 1, 2026"
+          },
+          {
+            "label": "Listings reporting income and expenses",
+            "value": "6 of 13",
+            "source": "FlexMLS saved search WSS-LP-MF-WPB-750Kto5M, run Nov 1, 2026"
+          },
+          {
+            "label": "Cap rate range on those six (NOI / list price)",
+            "value": "~2.9% to ~5.8%",
+            "source": "Computed from MLS-reported NOI and list price, FlexMLS saved search WSS-LP-MF-WPB-750Kto5M, run Nov 1, 2026"
+          }
+        ]
+      },
+      "history": [
+        {
+          "date": "2026-11-01",
+          "result_count": 13
+        }
+      ]
+    },
+    {
+      "slug": "nnn-properties-1m-to-10m",
+      "search_name": "WSS-LP-COM-NNN-1Mto10M",
+      "category": "commercial-sale",
+      "short": "NNN Properties $1M–$10M",
+      "h1": "NNN Net-Lease Properties for Sale, $1M to $10M",
+      "title": "NNN Properties for Sale $1M to $10M: South Florida",
+      "description": "Triple-net leased retail, office, industrial and mixed-use properties from $1M to $10M in Palm Beach, Broward and Miami-Dade, refreshed weekly.",
+      "subhead": "Net-leased investment property from $1M to $10M across South Florida, updated every week.",
+      "intro": [
+        "This search tracks triple-net (NNN) leased investment property priced from $1 million to $10 million across Palm Beach, Broward and Miami-Dade: retail, office, industrial and mixed-use buildings and units whose listings describe a net lease.",
+        "The cap rate on a NNN property depends on the lease: the tenant, the years remaining, the rent increases and who covers the roof and structure. Most sellers do not publish their income in the MLS, so Bill requests the lease and rent roll for any listing you want to compare.",
+        "The search is refreshed weekly with the current count and a link to every active listing."
+      ],
+      "criteria": [
+        [
+          "Area",
+          "Palm Beach · Broward · Miami-Dade"
+        ],
+        [
+          "Property type",
+          "Retail · Office · Industrial · Mixed use"
+        ],
+        [
+          "Lease",
+          "NNN in the listing"
+        ],
+        [
+          "Price",
+          "$1M to $10M"
+        ]
+      ],
+      "faqs": [
+        [
+          "What does triple-net (NNN) mean?",
+          "The tenant pays the property's real estate taxes, insurance and maintenance on top of base rent, so the owner's income is closer to the rent itself. Some leases leave roof or structure with the landlord, so read each lease."
+        ],
+        [
+          "Why don't most listings show a cap rate?",
+          "Many NNN sellers keep income out of the MLS and share it after a buyer signs a confidentiality agreement. Bill requests the lease, rent roll and offering memorandum for the listings you pick."
+        ],
+        [
+          "Are NNN properties good for a 1031 exchange?",
+          "They are a common choice because they are easy to identify and manage. Exchange rules and deadlines are strict, so use a qualified intermediary and your tax adviser."
+        ]
+      ],
+      "related": [
+        "nnn-net-lease-properties-for-sale",
+        "retail-strip-centers-for-sale",
+        "medical-office-for-sale",
+        "west-palm-beach-multifamily-for-sale"
+      ],
+      "agile_tag": "seg-com-nnn-1m10m",
+      "form_placeholder": "e.g. single-tenant NNN $2M–$5M, 7%+ cap, 10+ years left on the lease",
+      "new_search": true,
+      "criteria_verified": true,
+      "weekly": {
+        "date": "2026-11-01",
+        "result_count": 16,
+        "prior_count": null,
+        "mls_url": "https://www.flexmls.com/link.html?1zewmpeas1x7,15,1&utm_source=savingsre&utm_medium=website&utm_campaign=landing_page&utm_content=nnn-properties-1m-to-10m",
+        "link_generated": "2026-11-01",
+        "link_expires": "2026-12-01",
+        "commentary": [
+          "This week the search shows 16 active listings across Palm Beach, Broward and Miami-Dade, with a median asking price of $3,000,000. Ten are retail, three office, two industrial and one mixed use.",
+          "Five of the 16 listings report net operating income. On those five, NOI divided by list price works out to about 4.5% to 7.2%. Figures are broker-reported and unverified."
+        ],
+        "figures": [
+          {
+            "label": "Active listings",
+            "value": "16",
+            "source": "FlexMLS saved search WSS-LP-COM-NNN-1Mto10M, run Nov 1, 2026"
+          },
+          {
+            "label": "Median list price",
+            "value": "$3,000,000",
+            "source": "FlexMLS saved search WSS-LP-COM-NNN-1Mto10M, run Nov 1, 2026"
+          },
+          {
+            "label": "Listings by sub-type",
+            "value": "10 retail · 3 office · 2 industrial · 1 mixed use",
+            "source": "FlexMLS saved search WSS-LP-COM-NNN-1Mto10M, run Nov 1, 2026"
+          },
+          {
+            "label": "Listings reporting NOI",
+            "value": "5 of 16",
+            "source": "FlexMLS saved search WSS-LP-COM-NNN-1Mto10M, run Nov 1, 2026"
+          },
+          {
+            "label": "Cap rate range on those five (NOI / list price)",
+            "value": "~4.5% to ~7.2%",
+            "source": "Computed from MLS-reported NOI and list price, FlexMLS saved search WSS-LP-COM-NNN-1Mto10M, run Nov 1, 2026"
+          }
+        ]
+      },
+      "history": [
+        {
+          "date": "2026-11-01",
+          "result_count": 16
+        }
+      ]
     }
   ]
 }
