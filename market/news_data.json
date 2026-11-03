@@ -1,5 +1,55 @@
 [
   {
+    "id": 219,
+    "date": "2026-11-03",
+    "title": "Aldo Stark's James Bond-inspired Delray Beach estate goes under contract at $85M",
+    "summary": "Developer Aldo Stark found a buyer for Villa Skyfall, a 22,440-SF, nine-bedroom estate at 16121 Quiet Vista Circle in Stone Creek Ranch, at an $85M asking price, or $3,790 per SF, likely a neighborhood record. A Stark affiliate paid $5.9M in 2024. It was one of 17 Palm Beach County contracts above $3M signed Oct. 25 to Nov. 1, totaling $202.7M in asking volume, the highest weekly total of the quarter.",
+    "source": "The Real Deal",
+    "sourceUrl": "https://therealdeal.com/miami/2026/11/03/top-contracts-aldo-stark-finds-buyer-for-james-bond-house/",
+    "category": "Luxury",
+    "importance": "high"
+  },
+  {
+    "id": 218,
+    "date": "2026-11-03",
+    "title": "Nuveen sells 286-unit Coconut Creek apartments to Legacy Residential for $52.6M",
+    "summary": "Nuveen sold the 286-unit, 242,180-SF apartment complex at 4854 Fishermans Drive in the Landings at Coconut Creek to Legacy Residential Group for $52.6M, or $183,900 per unit. It last traded in July 2017 for $45.3M. Legacy secured a $35.5M acquisition loan from TD Bank. The deal topped TRD's Nov. 2 South Florida transaction digest, which also listed BKM Capital's $33M purchase of a Pompano Beach industrial park.",
+    "source": "The Real Deal",
+    "sourceUrl": "https://therealdeal.com/data/miami/2026/south-florida-top-real-estate-deals-nov-2-2026/",
+    "category": "Multifamily",
+    "importance": "medium"
+  },
+  {
+    "id": 217,
+    "date": "2026-11-02",
+    "title": "BTI, Bridge Investment land $109.2M Freddie Mac refi on 362-unit Hollywood Bread Building",
+    "summary": "BTI Partners and Bridge Investment Group obtained a $109.2M Freddie Mac refinancing from Greystone for the 25-story, 362-unit Hollywood Bread Building at 1770 South Young Circle, arranged by Cushman & Wakefield. The loan carries a 35-year amortization with interest-only payments for the full term. The building is fully leased, with monthly rents of $2,171 to $4,565. BTI paid $11M for the site in 2021.",
+    "source": "The Real Deal",
+    "sourceUrl": "https://therealdeal.com/miami/2026/11/02/bti-partners-hollywood-bread-building-rentals-lands-refi/",
+    "category": "Multifamily",
+    "importance": "medium"
+  },
+  {
+    "id": 216,
+    "date": "2026-11-02",
+    "title": "Alta Developers lands $140.2M JVP construction loan for 400-unit Alta New River in Fort Lauderdale",
+    "summary": "Alta Developers secured a $140.2M senior construction loan from JVP Management for Alta New River, a 35-story, 400-apartment project at 100 SW Sixth Street in Fort Lauderdale. The debt works out to $350,500 per planned unit and replaces a 2023 loan. Alta paid $20.8M for the 1-acre site in 2022. Construction is expected to start this month, with Greystar managing and completion expected in Q4 2028.",
+    "source": "The Real Deal",
+    "sourceUrl": "https://therealdeal.com/miami/2026/11/02/alta-developers-nabs-140-million-loan-in-fort-lauderdale/",
+    "category": "Multifamily",
+    "importance": "medium"
+  },
+  {
+    "id": 215,
+    "date": "2026-11-02",
+    "title": "Ytech unveils 52-story, 106-unit 75 Broadway condo tower in Brickell, from $3M",
+    "summary": "Miami-based Ytech revealed 75 Broadway, a 680-foot, 52-story luxury condo tower facing Biscayne Bay and Simpson Park, with 106 units including seven penthouses. Condos start at $3M with no more than three units per floor, though zoning allows nearly 300 units. KPF is the architect, Cervera Real Estate is the sales firm, and completion is expected in late 2029. It is Ytech's second Brickell condo project, alongside the 70-story 1428 Brickell.",
+    "source": "The Real Deal",
+    "sourceUrl": "https://therealdeal.com/miami/2026/11/02/ytech-plans-75-broadway-brickell-luxury-condo-tower/",
+    "category": "Development",
+    "importance": "high"
+  },
+  {
     "id": 214,
     "date": "2026-10-30",
     "title": "RK Centers pays $32.5M for Edens' Total Wine-anchored Arena Shops in North Miami",
@@ -107,56 +157,6 @@
     "source": "The Real Deal",
     "sourceUrl": "https://therealdeal.com/miami/2026/10/26/fortune-chateau-score-463-million-loan-for-st-regis/",
     "category": "Development",
-    "importance": "high"
-  },
-  {
-    "id": 203,
-    "date": "2026-10-23",
-    "title": "LeCesse pays $18M for Deerfield Beach site entitled for 237 apartments",
-    "summary": "LeCesse Development bought the 4.3-acre site at 201-299 North Federal Highway for $18M, or $4.2M per acre, from entities tied to Brefrank Enterprises and Centrum. CIBC Bank USA provided an $11.3M mortgage. The plan is a five-story, 237-unit building with a 452-space garage. The sellers assembled the site for $8.6M between 2017 and 2021, and the city is weighing looser development rules.",
-    "source": "The Real Deal",
-    "sourceUrl": "https://therealdeal.com/miami/2026/10/23/lecesse-scoops-up-18m-deerfield-beach-dev-site-as-city-weighs-easing-restrictions/",
-    "category": "Multifamily",
-    "importance": "medium"
-  },
-  {
-    "id": 202,
-    "date": "2026-10-23",
-    "title": "Golden East buys One Boca Place office complex from CP Group for $78.9M",
-    "summary": "New York-based Golden East Investors paid $78.9M, about $283 per SF, for the 278,000-SF One Boca Place at 2255 West Glades Road in Boca Raton, its first Florida purchase. City National Bank of Florida provided an $82.1M loan. CP Group paid $76.4M in 2014 and remains property manager. It is CP's third big Boca office sale in recent weeks, after the Boca Raton Innovation Campus and Two Town Center. Asking rent is $52/SF.",
-    "source": "The Real Deal",
-    "sourceUrl": "https://therealdeal.com/miami/2026/10/23/golden-east-investors-buys-boca-raton-office-for-79-million/",
-    "category": "Commercial/CRE",
-    "importance": "high"
-  },
-  {
-    "id": 201,
-    "date": "2026-10-22",
-    "title": "Lennar revealed as buyer of 91-acre Boynton Beach Mall site",
-    "summary": "Lennar is buying the Boynton Beach Mall at 801 North Congress Avenue from Washington Prime Group, with plans for townhomes and some commercial space, per the Palm Beach Post as cited by The Real Deal. The 91-acre site has approval for 1,700 housing units. The mall is expected to close Jan. 15. JCPenney, Cinemark and Christ Fellowship Church own their buildings, which are not part of the sale.",
-    "source": "The Real Deal",
-    "sourceUrl": "https://therealdeal.com/miami/2026/10/22/lennar-revealed-as-buyer-of-boynton-beach-mall/",
-    "category": "Development",
-    "importance": "medium"
-  },
-  {
-    "id": 200,
-    "date": "2026-10-22",
-    "title": "Genting's Resorts World lands $500M refinance on downtown Miami Hilton and Omni Center",
-    "summary": "Property records show Wells Fargo as mortgagee, representing a group of lenders, on a $500M refinance for Resorts World Omni's downtown Miami holdings, anchored by the 527-room Hilton Miami Downtown at 1601 Biscayne Boulevard. A Genting affiliate bought the site via foreclosure in 2011 for $180M. Genting has long sought a downtown casino license.",
-    "source": "The Real Deal",
-    "sourceUrl": "https://therealdeal.com/miami/2026/10/22/gentings-resorts-world-scores-500-million-refi-in-miami/",
-    "category": "Commercial/CRE",
-    "importance": "medium"
-  },
-  {
-    "id": 199,
-    "date": "2026-10-22",
-    "title": "Grover Corlew buys 200 E. Broward Blvd office tower for $69.7M, 14% below 2017 price",
-    "summary": "Boca-based Grover Corlew paid $69.7M, about $296 per SF, for the 235,110-SF, 21-story 200 East Broward Boulevard in downtown Fort Lauderdale. Sellers Banyan Street and Oaktree paid $81.5M in 2017. BridgeInvest provided a $63.4M loan, and the buyer plans $20M of renovations. Office space is listed at $44/SF; JLL says Fort Lauderdale demand picked up slightly in the third quarter.",
-    "source": "The Real Deal",
-    "sourceUrl": "https://therealdeal.com/miami/2026/10/22/grover-corlew-buys-discounted-ft-lauderdale-offices/",
-    "category": "Commercial/CRE",
     "importance": "high"
   }
 ]
