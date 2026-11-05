@@ -1,5 +1,35 @@
 [
   {
+    "id": 222,
+    "date": "2026-11-05",
+    "title": "Welltower pays $49.1M ($570/SF) for Miramar nursing center",
+    "summary": "An entity linked to Welltower paid $49.1 million for the 86,000-SF Glades West Rehab & Nursing Center at 15955 Bass Creek Road in Miramar, about $570 per SF, per Vizzda. The seller was linked to David Katz. The 3.7-acre, 120-unit property was built in 2015 and last sold for $1.8 million in 2011. In Delray Beach, a Fortress-linked entity paid $25.8 million ($200/SF) for the 146-bed Symphony at Delray Beach senior living community.",
+    "source": "The Real Deal",
+    "sourceUrl": "https://therealdeal.com/data/miami/2026/welltower-buys-miramar-nursing-home-for-49-million/",
+    "category": "Commercial/CRE",
+    "importance": "medium"
+  },
+  {
+    "id": 221,
+    "date": "2026-11-04",
+    "title": "Rug designer Ben Soleimani buys Palm Beach Polo mansion for $6M",
+    "summary": "Ben Soleimani paid $6 million, about $1,020 per SF, for a 5,900-SF, four-bedroom home at 12446 Cypress Island Way in Wellington's Palm Beach Polo and Country Club. It was listed at $6.5 million. The sellers, owners of Adelson Galleries, paid $5.9 million in 2021. Equestrian demand is also drawing developers, including Joe Farrell's 27-home Farrell Estates priced from $5M to $10M.",
+    "source": "The Real Deal",
+    "sourceUrl": "https://therealdeal.com/miami/2026/11/04/rug-mogul-ben-soleimani-buys-in-palm-beach-polo-country-club/",
+    "category": "Luxury",
+    "importance": "low"
+  },
+  {
+    "id": 220,
+    "date": "2026-11-04",
+    "title": "Florida voters approve Amendment 3, raising homestead exemption to $150K in 2027",
+    "summary": "About 62% of voters backed Amendment 3 as of 10:25 p.m. on election night; it needed 60%. The homestead exemption rises from $50,000 to $150,000 in 2027 and $250,000 in 2028, then indexes to CPI. Annual assessment increases on non-homesteaded property, including commercial real estate, are capped at 5%, down from 10%. Florida Realtors endorsed it; the Florida Policy Institute estimated nearly $12 billion in recurring local revenue losses.",
+    "source": "The Real Deal",
+    "sourceUrl": "https://therealdeal.com/miami/2026/11/03/florida-amendment-3-passes/",
+    "category": "Policy/Insurance",
+    "importance": "high"
+  },
+  {
     "id": 219,
     "date": "2026-11-03",
     "title": "Aldo Stark's James Bond-inspired Delray Beach estate goes under contract at $85M",
@@ -126,36 +156,6 @@
     "summary": "Fortune International Group and KAR Properties closed an $817M construction loan from Tyko Capital for the 440-unit, two-tower Faena Residences Miami at 24 SW Fourth Street on the Miami River. Walker & Dunlop arranged the financing, which the developers say is the largest condo construction loan in Florida history. Completion is expected in early 2030, with more than $500M in presales reported.",
     "source": "The Real Deal",
     "sourceUrl": "https://therealdeal.com/miami/2026/10/28/faena-residences-scores-817-million-record-construction-loan/",
-    "category": "Development",
-    "importance": "high"
-  },
-  {
-    "id": 206,
-    "date": "2026-10-26",
-    "title": "Driftwood, Merrimac, MV score $145M Centennial Bank loan for Miami Riverside Wharf",
-    "summary": "The developers of the $350M Riverside Wharf at 114 SW North River Drive secured $145M in construction financing from Centennial Bank. The 200,000 SF, nine-story, two-tower project will include a 167-room Dream Hotel, a 30,000 SF nightclub, a 12,000 SF event hall and 16,000 SF of restaurant space. Completion is targeted for fall 2028.",
-    "source": "The Real Deal",
-    "sourceUrl": "https://therealdeal.com/miami/2026/10/26/developers-secure-145-million-for-miami-riverside-wharf/",
-    "category": "Commercial/CRE",
-    "importance": "medium"
-  },
-  {
-    "id": 205,
-    "date": "2026-10-26",
-    "title": "Glaser, Edelstein under contract at $160M for Palm Beach teardown estate",
-    "summary": "Developers Todd Glaser and TriCap's David Edelstein are under contract to pay $160M for 911 North Ocean Boulevard, per the Wall Street Journal. That is just under the island's $170M record set in 2023. The 2.2-acre site has 250 feet of ocean frontage and about 17,600 SF of 1970s buildings, or roughly $9,100 per SF. The family listed it at $185M last year; the buyers plan to split it into two lots.",
-    "source": "The Real Deal",
-    "sourceUrl": "https://therealdeal.com/miami/2026/10/26/todd-glaser-david-edelstein-buying-160-million-teardown/",
-    "category": "Luxury",
-    "importance": "high"
-  },
-  {
-    "id": 204,
-    "date": "2026-10-26",
-    "title": "Fortune, Château land $463M Madison Realty loan for St. Regis Sunny Isles",
-    "summary": "Madison Realty Capital is providing a $463M loan package for the two-tower St. Regis Residences at 18801 Collins Avenue, one of the largest loans to close in Sunny Isles Beach. It refinances existing debt, including Bank OZK loans from 2020. The project is 80% presold; the south tower (150 units) is under vertical construction and the north tower (170 units) is next. Remaining units start at $5.1M.",
-    "source": "The Real Deal",
-    "sourceUrl": "https://therealdeal.com/miami/2026/10/26/fortune-chateau-score-463-million-loan-for-st-regis/",
     "category": "Development",
     "importance": "high"
   }
