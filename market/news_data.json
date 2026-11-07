@@ -1,5 +1,35 @@
 [
   {
+    "id": 225,
+    "date": "2026-11-06",
+    "title": "Bal Harbour Shops' 200,000-SF West Shops expansion fully leased",
+    "summary": "Bal Harbour Shops' 200,000-SF west wing is fully leased with 30 retailers, including mall debuts for Tom Ford, Khaite, Elie Saab and Boucheron, rolling out through 2028. The 500,000-SF mall will have 140 tenants and reports sales of $2,000 to $3,000 per SF, with gross sales nearing $1B, up 35% since 2020. Whitman is still pursuing a separate Live Local Act tower proposal.",
+    "source": "The Real Deal",
+    "sourceUrl": "https://therealdeal.com/miami/2026/11/06/bal-harbour-shops-unveils-west-shops-expansion/",
+    "category": "Development",
+    "importance": "medium"
+  },
+  {
+    "id": 224,
+    "date": "2026-11-06",
+    "title": "CP Group, Georgetown buy back Boca Raton's Mizner Park from Brookfield",
+    "summary": "CP Group, the Georgetown Company, ACRE and StepStone bought the 838,840-SF Mizner Park mixed-use district in Boca Raton from Brookfield Properties, with Blackstone providing financing. Price was not disclosed. The property has about 268,390 SF of office, 276,460 SF of retail and 272 apartments, and the buyers plan facade, infrastructure and apartment renovations. East Boca retail vacancy was 4.5% in Q3, per Colliers.",
+    "source": "The Real Deal",
+    "sourceUrl": "https://therealdeal.com/miami/2026/11/06/cp-group-led-venture-buys-boca-ratons-mizner-park/",
+    "category": "Commercial/CRE",
+    "importance": "medium"
+  },
+  {
+    "id": 223,
+    "date": "2026-11-06",
+    "title": "Welltower pays $208.2M for five Broward, Palm Beach nursing homes",
+    "summary": "Welltower-linked entities paid $160M for three Broward nursing homes and $48.2M for two in Palm Beach County, buying from companies managed by David Katz of TL Management. The largest was Wilton Manors Health & Rehab at $58.7M ($399,320 per bed, 147 beds). Fort Lauderdale Health & Rehabilitation sold for $52.2M ($308,875 per bed). Colliers cites $975M of Florida senior housing sales through Q2.",
+    "source": "The Real Deal",
+    "sourceUrl": "https://therealdeal.com/miami/2026/11/06/welltower-buys-south-florida-nursing-home-portfolio/",
+    "category": "Commercial/CRE",
+    "importance": "high"
+  },
+  {
     "id": 222,
     "date": "2026-11-05",
     "title": "Welltower pays $49.1M ($570/SF) for Miramar nursing center",
@@ -128,35 +158,5 @@
     "sourceUrl": "https://therealdeal.com/miami/2026/10/29/bomar-builders-lists-100-million-fort-lauderdale-spec-home/",
     "category": "Luxury",
     "importance": "medium"
-  },
-  {
-    "id": 209,
-    "date": "2026-10-29",
-    "title": "Charles Cohen lands $385M in construction debt for West Palm Point office tower",
-    "summary": "Cohen Brothers Realty secured $385M ($350M plus $35M) for West Palm Point, a 23-story, 438,000-SF, $400M office building at 850 S. Quadrille Blvd in downtown West Palm Beach. Cooper Horowitz's Robert Horowitz arranged the debt; lenders were not disclosed. Construction has started, with completion expected in Q1 2029 after the city extended the deadline to January 2029.",
-    "source": "The Real Deal",
-    "sourceUrl": "https://therealdeal.com/miami/2026/10/29/charles-cohen-nabs-385-million-west-palm-construction-loan/",
-    "category": "Commercial/CRE",
-    "importance": "high"
-  },
-  {
-    "id": 208,
-    "date": "2026-10-28",
-    "title": "Industrial equipment exec pays $71M off-market for Naples Gordon Drive estate",
-    "summary": "Douglas Schumann of P-Q Controls paid $69.4M for the 9,550-SF property at 2050 Gordon Drive plus $1.6M for furnishings, about $7,435 per SF. The seller was a trust tied to Culligan International's Scott Gibbs Clawson. The sale came about $4M under the $75M private ask, and the site last traded for $30M in 2022. Compass says it is its highest-priced Florida deal this year.",
-    "source": "The Real Deal",
-    "sourceUrl": "https://therealdeal.com/miami/2026/10/28/naples-estate-sells-for-71-million-in-off-market-deal/",
-    "category": "Luxury",
-    "importance": "medium"
-  },
-  {
-    "id": 207,
-    "date": "2026-10-28",
-    "title": "Faena Residences Miami closes $817M Tyko loan, Florida's largest condo construction loan",
-    "summary": "Fortune International Group and KAR Properties closed an $817M construction loan from Tyko Capital for the 440-unit, two-tower Faena Residences Miami at 24 SW Fourth Street on the Miami River. Walker & Dunlop arranged the financing, which the developers say is the largest condo construction loan in Florida history. Completion is expected in early 2030, with more than $500M in presales reported.",
-    "source": "The Real Deal",
-    "sourceUrl": "https://therealdeal.com/miami/2026/10/28/faena-residences-scores-817-million-record-construction-loan/",
-    "category": "Development",
-    "importance": "high"
   }
 ]
