@@ -247,7 +247,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <div class="eyebrow">South Florida &middot; Luxury &amp; Commercial &middot; Curated Weekly</div>
   <h1>Market <em>Intel</em></h1>
   <p>Live market data, mortgage &amp; insurance trends, and curated news across South Florida and statewide luxury and commercial real estate.</p>
-  <div class="updated"><span class="dot"></span><span id="updatedLine">Updated November 7, 2026</span></div>
+  <div class="updated"><span class="dot"></span><span id="updatedLine">Updated November 9, 2026</span></div>
 </header>
 
 <div class="wrap">
@@ -277,7 +277,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   </div>
 
   <!-- RATES + INSURANCE -->
-  <div class="sec-head" style="margin-top:8px">Mortgage Rates <span class="tag">as of <span id="ratesDate">Nov 6, 2026</span></span></div>
+  <div class="sec-head" style="margin-top:8px">Mortgage Rates <span class="tag">as of <span id="ratesDate">Nov 9, 2026</span></span></div>
   <div class="cards" id="ratesCards"></div>
 
   <div class="sec-head" style="margin-top:14px">FL Coastal Insurance <span class="tag" id="insTrend">Improving</span></div>
@@ -337,7 +337,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
   /* ===== EMBEDDED DATA (mirror of market_data.json + news_data.json) ===== */
   var MARKET = {
-    meta:{updated:"2026-11-07", period:"Single-family & condo county medians — September 2026 (MIAMI REALTORS + RWorld county reports; Florida Realtors statewide)."},
+    meta:{updated:"2026-11-09", period:"Single-family & condo county medians — September 2026 (MIAMI REALTORS + RWorld county reports; Florida Realtors statewide)."},
     residential:{
       columns:["Area","SF Median","SF YoY","Condo Median","Closed Sales YoY","Homes for Sale YoY"],
       rows:[
@@ -370,9 +370,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         "West Palm Beach office pipeline ~3.3M SF (~700K SF under construction)."
       ]
     },
-    rates:{date:"Nov 6, 2026",cards:[
-      {label:"30-Yr Fixed (conforming)",value:"7.17%",sub:"daily lender avg Nov 6; Freddie Mac PMMS 7.18% for the wk of 11/5, down from 7.24% (next print 11/12)"},
-      {label:"30-Yr Jumbo",value:"7.38%",sub:"daily jumbo avg Nov 6"},
+    rates:{date:"Nov 9, 2026",cards:[
+      {label:"30-Yr Fixed (conforming)",value:"7.18%",sub:"daily lender avg Nov 9; Freddie Mac PMMS 7.18% for the wk of 11/5, down from 7.24% (next print 11/12)"},
+      {label:"30-Yr Jumbo",value:"7.37%",sub:"daily jumbo avg Nov 9"},
       {label:"Jumbo loan threshold",value:"$832,750",sub:"2026 FHFA baseline (most areas)"}
     ]},
     insurance:{trend:"Improving / stabilizing",cards:[
@@ -383,6 +383,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     ],note:"Coastal properties, older homes, and condos may see less relief than standard inland single-family homes."}
   };
   var NEWS = [
+    {id:227,date:"2026-11-09",title:"Related, BH, Pebb land $140.7M Wells Fargo loan for 494-unit Boca Raton rental project",summary:"Wells Fargo provided $140.7M and assumed the existing $35.8M debt, for a total $176.5M loan on Broken Sound Residences at the former Office Depot campus, 6600 North Military Trail in Boca Raton. The eight-story project will have 494 rentals, including 50 workforce units, with construction started last month and completion expected in 2028. Related bought the site for $50M last year.",source:"The Real Deal",sourceUrl:"https://therealdeal.com/miami/2026/11/09/related-group-and-partners-score-177-million-for-boca-redev/",category:"Multifamily",importance:"high"},
+    {id:226,date:"2026-11-09",title:"Playboy puts Miami Beach's 89-room Freehand hotel under contract at $12.5M for private club",summary:"A Playboy affiliate has the 89-room Freehand Miami hotel at 2701-2731 Indian Creek Drive under contract for $12.5M from a Generator affiliate, per the South Florida Business Journal. It last sold in January 2012 for $12M. Closing is expected by Dec. 15. Playboy plans to put up $5M toward the purchase, recouping it through membership sales, and has a non-binding term sheet for a JV with third-party investors.",source:"The Real Deal",sourceUrl:"https://therealdeal.com/miami/2026/11/09/playboy-to-buy-miami-beach-freehand-hotel-for-private-club/",category:"Luxury",importance:"medium"},
     {id:225,date:"2026-11-06",title:"Bal Harbour Shops' 200,000-SF West Shops expansion fully leased",summary:"Bal Harbour Shops' 200,000-SF west wing is fully leased with 30 retailers, including mall debuts for Tom Ford, Khaite, Elie Saab and Boucheron, rolling out through 2028. The 500,000-SF mall will have 140 tenants and reports sales of $2,000 to $3,000 per SF, with gross sales nearing $1B, up 35% since 2020. Whitman is still pursuing a separate Live Local Act tower proposal.",source:"The Real Deal",sourceUrl:"https://therealdeal.com/miami/2026/11/06/bal-harbour-shops-unveils-west-shops-expansion/",category:"Development",importance:"medium"},
     {id:224,date:"2026-11-06",title:"CP Group, Georgetown buy back Boca Raton's Mizner Park from Brookfield",summary:"CP Group, the Georgetown Company, ACRE and StepStone bought the 838,840-SF Mizner Park mixed-use district in Boca Raton from Brookfield Properties, with Blackstone providing financing. Price was not disclosed. The property has about 268,390 SF of office, 276,460 SF of retail and 272 apartments, and the buyers plan facade, infrastructure and apartment renovations. East Boca retail vacancy was 4.5% in Q3, per Colliers.",source:"The Real Deal",sourceUrl:"https://therealdeal.com/miami/2026/11/06/cp-group-led-venture-buys-boca-ratons-mizner-park/",category:"Commercial/CRE",importance:"medium"},
     {id:223,date:"2026-11-06",title:"Welltower pays $208.2M for five Broward, Palm Beach nursing homes",summary:"Welltower-linked entities paid $160M for three Broward nursing homes and $48.2M for two in Palm Beach County, buying from companies managed by David Katz of TL Management. The largest was Wilton Manors Health & Rehab at $58.7M ($399,320 per bed, 147 beds). Fort Lauderdale Health & Rehabilitation sold for $52.2M ($308,875 per bed). Colliers cites $975M of Florida senior housing sales through Q2.",source:"The Real Deal",sourceUrl:"https://therealdeal.com/miami/2026/11/06/welltower-buys-south-florida-nursing-home-portfolio/",category:"Commercial/CRE",importance:"high"},
@@ -396,9 +398,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     {id:215,date:"2026-11-02",title:"Ytech unveils 52-story, 106-unit 75 Broadway condo tower in Brickell, from $3M",summary:"Miami-based Ytech revealed 75 Broadway, a 680-foot, 52-story luxury condo tower facing Biscayne Bay and Simpson Park, with 106 units including seven penthouses. Condos start at $3M with no more than three units per floor, though zoning allows nearly 300 units. KPF is the architect, Cervera Real Estate is the sales firm, and completion is expected in late 2029. It is Ytech's second Brickell condo project, alongside the 70-story 1428 Brickell.",source:"The Real Deal",sourceUrl:"https://therealdeal.com/miami/2026/11/02/ytech-plans-75-broadway-brickell-luxury-condo-tower/",category:"Development",importance:"high"},
     {id:214,date:"2026-10-30",title:"RK Centers pays $32.5M for Edens' Total Wine-anchored Arena Shops in North Miami",summary:"RK Centers, led by Raanan Katz, bought the 44,660-SF Arena Shops at 14750 Biscayne Blvd in North Miami from Edens for $32.5M, or $728 per SF. Edens paid $25M in 2012. The 1993-built center on 2.5 acres is anchored by Total Wine & More. Colliers puts Q3 Northeast Miami-Dade asking rent at $27.65 per SF with 3.8% vacancy.",source:"The Real Deal",sourceUrl:"https://therealdeal.com/miami/2026/10/30/rk-centers-buys-north-miami-retail-center-for-33-million/",category:"Commercial/CRE",importance:"medium"},
     {id:213,date:"2026-10-30",title:"Miami Beach rejects Blackstone's 38-story Live Local Act plan for Southgate Towers",summary:"Miami Beach's planning director ruled that Blackstone-owned Southgate Towers LLC's Live Local Act application at 910 West Avenue is ineligible because the site is residentially zoned. The proposal would replace two 14-story buildings with 442 units (264 condos, 178 workforce apartments). Air Communities paid $250.5M for the property in 2023. The ruling is not final and can be appealed to the board of adjustment.",source:"The Real Deal",sourceUrl:"https://therealdeal.com/miami/2026/10/30/miami-beach-axes-38-story-live-local-act-project-over-zoning/",category:"Policy/Insurance",importance:"medium"},
-    {id:212,date:"2026-10-30",title:"Terra, Fortune land $220M Blackstone pre-development loan for Key Biscayne condos",summary:"Terra and Fortune International Group obtained $220M in pre-development financing from Blackstone Real Estate Debt Strategies for a 14-story, 56-unit ultra-luxury condo at 301 Ocean Drive, the former Silver Sands Beach Resort site in Key Biscayne. Walker & Dunlop arranged the debt. The developers paid a record $205M for the 4.25-acre site last year, and pre-construction sales are expected to launch this year.",source:"The Real Deal",sourceUrl:"https://therealdeal.com/miami/2026/10/30/terra-fortune-nab-220-million-loan-for-key-biscayne-condo/",category:"Development",importance:"high"},
-    {id:211,date:"2026-10-30",title:"Gencom, White Bridge buy 652-room InterContinental Miami, reportedly for $300M",summary:"Gencom and White Bridge Capital bought the 34-story, 652-room InterContinental at 100 Chopin Plaza in downtown Miami from Dajia Insurance Group's Strategic Hotels & Resorts. Bloomberg, citing an anonymous source, reported $300M, or about $460,123 per key, 9% above the $422,000 Florida full-service average per MSCI Real Capital Analytics. The buyers confirmed the sale but not the price. It is their third joint hotel deal in a year.",source:"The Real Deal",sourceUrl:"https://therealdeal.com/miami/2026/10/30/gencom-white-bridge-capital-buy-intercontinental-miami/",category:"Commercial/CRE",importance:"high"},
-    {id:210,date:"2026-10-29",title:"Bomar Builders' 15K-SF Las Olas spec megamansion lists for $100M, Broward's priciest",summary:"A proposed 15,185-SF estate at 708 Royal Plaza Drive in Fort Lauderdale hit the market at $100M, the most expensive listing in Broward County per Zillow, or $6,585 per SF if built as designed. The 0.92-acre lot has 548 feet of water frontage. Heather Lefka of Florida Luxurious Properties holds the listing; the land may be sold separately. It tops an $80M Riviera Isle proposal listed in July.",source:"The Real Deal",sourceUrl:"https://therealdeal.com/miami/2026/10/29/bomar-builders-lists-100-million-fort-lauderdale-spec-home/",category:"Luxury",importance:"medium"}
+    {id:212,date:"2026-10-30",title:"Terra, Fortune land $220M Blackstone pre-development loan for Key Biscayne condos",summary:"Terra and Fortune International Group obtained $220M in pre-development financing from Blackstone Real Estate Debt Strategies for a 14-story, 56-unit ultra-luxury condo at 301 Ocean Drive, the former Silver Sands Beach Resort site in Key Biscayne. Walker & Dunlop arranged the debt. The developers paid a record $205M for the 4.25-acre site last year, and pre-construction sales are expected to launch this year.",source:"The Real Deal",sourceUrl:"https://therealdeal.com/miami/2026/10/30/terra-fortune-nab-220-million-loan-for-key-biscayne-condo/",category:"Development",importance:"high"}
   ];
 
   /* ===== HELPERS ===== */

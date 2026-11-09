@@ -1,5 +1,25 @@
 [
   {
+    "id": 227,
+    "date": "2026-11-09",
+    "title": "Related, BH, Pebb land $140.7M Wells Fargo loan for 494-unit Boca Raton rental project",
+    "summary": "Wells Fargo provided $140.7M and assumed the existing $35.8M debt, for a total $176.5M loan on Broken Sound Residences at the former Office Depot campus, 6600 North Military Trail in Boca Raton. The eight-story project will have 494 rentals, including 50 workforce units, with construction started last month and completion expected in 2028. Related bought the site for $50M last year.",
+    "source": "The Real Deal",
+    "sourceUrl": "https://therealdeal.com/miami/2026/11/09/related-group-and-partners-score-177-million-for-boca-redev/",
+    "category": "Multifamily",
+    "importance": "high"
+  },
+  {
+    "id": 226,
+    "date": "2026-11-09",
+    "title": "Playboy puts Miami Beach's 89-room Freehand hotel under contract at $12.5M for private club",
+    "summary": "A Playboy affiliate has the 89-room Freehand Miami hotel at 2701-2731 Indian Creek Drive under contract for $12.5M from a Generator affiliate, per the South Florida Business Journal. It last sold in January 2012 for $12M. Closing is expected by Dec. 15. Playboy plans to put up $5M toward the purchase, recouping it through membership sales, and has a non-binding term sheet for a JV with third-party investors.",
+    "source": "The Real Deal",
+    "sourceUrl": "https://therealdeal.com/miami/2026/11/09/playboy-to-buy-miami-beach-freehand-hotel-for-private-club/",
+    "category": "Luxury",
+    "importance": "medium"
+  },
+  {
     "id": 225,
     "date": "2026-11-06",
     "title": "Bal Harbour Shops' 200,000-SF West Shops expansion fully leased",
@@ -138,25 +158,5 @@
     "sourceUrl": "https://therealdeal.com/miami/2026/10/30/terra-fortune-nab-220-million-loan-for-key-biscayne-condo/",
     "category": "Development",
     "importance": "high"
-  },
-  {
-    "id": 211,
-    "date": "2026-10-30",
-    "title": "Gencom, White Bridge buy 652-room InterContinental Miami, reportedly for $300M",
-    "summary": "Gencom and White Bridge Capital bought the 34-story, 652-room InterContinental at 100 Chopin Plaza in downtown Miami from Dajia Insurance Group's Strategic Hotels & Resorts. Bloomberg, citing an anonymous source, reported $300M, or about $460,123 per key, 9% above the $422,000 Florida full-service average per MSCI Real Capital Analytics. The buyers confirmed the sale but not the price. It is their third joint hotel deal in a year.",
-    "source": "The Real Deal",
-    "sourceUrl": "https://therealdeal.com/miami/2026/10/30/gencom-white-bridge-capital-buy-intercontinental-miami/",
-    "category": "Commercial/CRE",
-    "importance": "high"
-  },
-  {
-    "id": 210,
-    "date": "2026-10-29",
-    "title": "Bomar Builders' 15K-SF Las Olas spec megamansion lists for $100M, Broward's priciest",
-    "summary": "A proposed 15,185-SF estate at 708 Royal Plaza Drive in Fort Lauderdale hit the market at $100M, the most expensive listing in Broward County per Zillow, or $6,585 per SF if built as designed. The 0.92-acre lot has 548 feet of water frontage. Heather Lefka of Florida Luxurious Properties holds the listing; the land may be sold separately. It tops an $80M Riviera Isle proposal listed in July.",
-    "source": "The Real Deal",
-    "sourceUrl": "https://therealdeal.com/miami/2026/10/29/bomar-builders-lists-100-million-fort-lauderdale-spec-home/",
-    "category": "Luxury",
-    "importance": "medium"
   }
 ]
