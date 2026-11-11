@@ -1,11 +1,55 @@
 {
   "meta": {
     "created": "2026-07-06",
-    "updated": "2026-11-09",
+    "updated": "2026-11-11",
     "note": "Archive of items rotated off the live market/news_data.json 16-item list. Weekly refresh APPENDS dropped items here (newest first) - never delete. Same item schema as news_data.json. Not rendered on the site; kept for content reuse, history, and a future archive/search section.",
-    "count": 205
+    "count": 209
   },
   "items": [
+    {
+      "id": 215,
+      "date": "2026-11-02",
+      "title": "Ytech unveils 52-story, 106-unit 75 Broadway condo tower in Brickell, from $3M",
+      "summary": "Miami-based Ytech revealed 75 Broadway, a 680-foot, 52-story luxury condo tower facing Biscayne Bay and Simpson Park, with 106 units including seven penthouses. Condos start at $3M with no more than three units per floor, though zoning allows nearly 300 units. KPF is the architect, Cervera Real Estate is the sales firm, and completion is expected in late 2029. It is Ytech's second Brickell condo project, alongside the 70-story 1428 Brickell.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/11/02/ytech-plans-75-broadway-brickell-luxury-condo-tower/",
+      "category": "Development",
+      "importance": "high",
+      "archivedOn": "2026-11-11"
+    },
+    {
+      "id": 214,
+      "date": "2026-10-30",
+      "title": "RK Centers pays $32.5M for Edens' Total Wine-anchored Arena Shops in North Miami",
+      "summary": "RK Centers, led by Raanan Katz, bought the 44,660-SF Arena Shops at 14750 Biscayne Blvd in North Miami from Edens for $32.5M, or $728 per SF. Edens paid $25M in 2012. The 1993-built center on 2.5 acres is anchored by Total Wine & More. Colliers puts Q3 Northeast Miami-Dade asking rent at $27.65 per SF with 3.8% vacancy.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/10/30/rk-centers-buys-north-miami-retail-center-for-33-million/",
+      "category": "Commercial/CRE",
+      "importance": "medium",
+      "archivedOn": "2026-11-11"
+    },
+    {
+      "id": 213,
+      "date": "2026-10-30",
+      "title": "Miami Beach rejects Blackstone's 38-story Live Local Act plan for Southgate Towers",
+      "summary": "Miami Beach's planning director ruled that Blackstone-owned Southgate Towers LLC's Live Local Act application at 910 West Avenue is ineligible because the site is residentially zoned. The proposal would replace two 14-story buildings with 442 units (264 condos, 178 workforce apartments). Air Communities paid $250.5M for the property in 2023. The ruling is not final and can be appealed to the board of adjustment.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/10/30/miami-beach-axes-38-story-live-local-act-project-over-zoning/",
+      "category": "Policy/Insurance",
+      "importance": "medium",
+      "archivedOn": "2026-11-11"
+    },
+    {
+      "id": 212,
+      "date": "2026-10-30",
+      "title": "Terra, Fortune land $220M Blackstone pre-development loan for Key Biscayne condos",
+      "summary": "Terra and Fortune International Group obtained $220M in pre-development financing from Blackstone Real Estate Debt Strategies for a 14-story, 56-unit ultra-luxury condo at 301 Ocean Drive, the former Silver Sands Beach Resort site in Key Biscayne. Walker & Dunlop arranged the debt. The developers paid a record $205M for the 4.25-acre site last year, and pre-construction sales are expected to launch this year.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/10/30/terra-fortune-nab-220-million-loan-for-key-biscayne-condo/",
+      "category": "Development",
+      "importance": "high",
+      "archivedOn": "2026-11-11"
+    },
     {
       "id": 211,
       "date": "2026-10-30",
