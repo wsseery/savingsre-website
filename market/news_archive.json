@@ -1,11 +1,55 @@
 {
   "meta": {
     "created": "2026-07-06",
-    "updated": "2026-11-11",
+    "updated": "2026-11-13",
     "note": "Archive of items rotated off the live market/news_data.json 16-item list. Weekly refresh APPENDS dropped items here (newest first) - never delete. Same item schema as news_data.json. Not rendered on the site; kept for content reuse, history, and a future archive/search section.",
-    "count": 209
+    "count": 213
   },
   "items": [
+    {
+      "id": 219,
+      "date": "2026-11-03",
+      "title": "Aldo Stark's James Bond-inspired Delray Beach estate goes under contract at $85M",
+      "summary": "Developer Aldo Stark found a buyer for Villa Skyfall, a 22,440-SF, nine-bedroom estate at 16121 Quiet Vista Circle in Stone Creek Ranch, at an $85M asking price, or $3,790 per SF, likely a neighborhood record. A Stark affiliate paid $5.9M in 2024. It was one of 17 Palm Beach County contracts above $3M signed Oct. 25 to Nov. 1, totaling $202.7M in asking volume, the highest weekly total of the quarter.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/11/03/top-contracts-aldo-stark-finds-buyer-for-james-bond-house/",
+      "category": "Luxury",
+      "importance": "high",
+      "archivedOn": "2026-11-13"
+    },
+    {
+      "id": 218,
+      "date": "2026-11-03",
+      "title": "Nuveen sells 286-unit Coconut Creek apartments to Legacy Residential for $52.6M",
+      "summary": "Nuveen sold the 286-unit, 242,180-SF apartment complex at 4854 Fishermans Drive in the Landings at Coconut Creek to Legacy Residential Group for $52.6M, or $183,900 per unit. It last traded in July 2017 for $45.3M. Legacy secured a $35.5M acquisition loan from TD Bank. The deal topped TRD's Nov. 2 South Florida transaction digest, which also listed BKM Capital's $33M purchase of a Pompano Beach industrial park.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/data/miami/2026/south-florida-top-real-estate-deals-nov-2-2026/",
+      "category": "Multifamily",
+      "importance": "medium",
+      "archivedOn": "2026-11-13"
+    },
+    {
+      "id": 217,
+      "date": "2026-11-02",
+      "title": "BTI, Bridge Investment land $109.2M Freddie Mac refi on 362-unit Hollywood Bread Building",
+      "summary": "BTI Partners and Bridge Investment Group obtained a $109.2M Freddie Mac refinancing from Greystone for the 25-story, 362-unit Hollywood Bread Building at 1770 South Young Circle, arranged by Cushman & Wakefield. The loan carries a 35-year amortization with interest-only payments for the full term. The building is fully leased, with monthly rents of $2,171 to $4,565. BTI paid $11M for the site in 2021.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/11/02/bti-partners-hollywood-bread-building-rentals-lands-refi/",
+      "category": "Multifamily",
+      "importance": "medium",
+      "archivedOn": "2026-11-13"
+    },
+    {
+      "id": 216,
+      "date": "2026-11-02",
+      "title": "Alta Developers lands $140.2M JVP construction loan for 400-unit Alta New River in Fort Lauderdale",
+      "summary": "Alta Developers secured a $140.2M senior construction loan from JVP Management for Alta New River, a 35-story, 400-apartment project at 100 SW Sixth Street in Fort Lauderdale. The debt works out to $350,500 per planned unit and replaces a 2023 loan. Alta paid $20.8M for the 1-acre site in 2022. Construction is expected to start this month, with Greystar managing and completion expected in Q4 2028.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/11/02/alta-developers-nabs-140-million-loan-in-fort-lauderdale/",
+      "category": "Multifamily",
+      "importance": "medium",
+      "archivedOn": "2026-11-13"
+    },
     {
       "id": 215,
       "date": "2026-11-02",
