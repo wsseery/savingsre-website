@@ -1,11 +1,55 @@
 {
   "meta": {
     "created": "2026-07-06",
-    "updated": "2026-11-13",
+    "updated": "2026-11-15",
     "note": "Archive of items rotated off the live market/news_data.json 16-item list. Weekly refresh APPENDS dropped items here (newest first) - never delete. Same item schema as news_data.json. Not rendered on the site; kept for content reuse, history, and a future archive/search section.",
-    "count": 213
+    "count": 217
   },
   "items": [
+    {
+      "id": 223,
+      "date": "2026-11-06",
+      "title": "Welltower pays $208.2M for five Broward, Palm Beach nursing homes",
+      "summary": "Welltower-linked entities paid $160M for three Broward nursing homes and $48.2M for two in Palm Beach County, buying from companies managed by David Katz of TL Management. The largest was Wilton Manors Health & Rehab at $58.7M ($399,320 per bed, 147 beds). Fort Lauderdale Health & Rehabilitation sold for $52.2M ($308,875 per bed). Colliers cites $975M of Florida senior housing sales through Q2.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/11/06/welltower-buys-south-florida-nursing-home-portfolio/",
+      "category": "Commercial/CRE",
+      "importance": "high",
+      "archivedOn": "2026-11-15"
+    },
+    {
+      "id": 222,
+      "date": "2026-11-05",
+      "title": "Welltower pays $49.1M ($570/SF) for Miramar nursing center",
+      "summary": "An entity linked to Welltower paid $49.1 million for the 86,000-SF Glades West Rehab & Nursing Center at 15955 Bass Creek Road in Miramar, about $570 per SF, per Vizzda. The seller was linked to David Katz. The 3.7-acre, 120-unit property was built in 2015 and last sold for $1.8 million in 2011. In Delray Beach, a Fortress-linked entity paid $25.8 million ($200/SF) for the 146-bed Symphony at Delray Beach senior living community.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/data/miami/2026/welltower-buys-miramar-nursing-home-for-49-million/",
+      "category": "Commercial/CRE",
+      "importance": "medium",
+      "archivedOn": "2026-11-15"
+    },
+    {
+      "id": 221,
+      "date": "2026-11-04",
+      "title": "Rug designer Ben Soleimani buys Palm Beach Polo mansion for $6M",
+      "summary": "Ben Soleimani paid $6 million, about $1,020 per SF, for a 5,900-SF, four-bedroom home at 12446 Cypress Island Way in Wellington's Palm Beach Polo and Country Club. It was listed at $6.5 million. The sellers, owners of Adelson Galleries, paid $5.9 million in 2021. Equestrian demand is also drawing developers, including Joe Farrell's 27-home Farrell Estates priced from $5M to $10M.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/11/04/rug-mogul-ben-soleimani-buys-in-palm-beach-polo-country-club/",
+      "category": "Luxury",
+      "importance": "low",
+      "archivedOn": "2026-11-15"
+    },
+    {
+      "id": 220,
+      "date": "2026-11-04",
+      "title": "Florida voters approve Amendment 3, raising homestead exemption to $150K in 2027",
+      "summary": "About 62% of voters backed Amendment 3 as of 10:25 p.m. on election night; it needed 60%. The homestead exemption rises from $50,000 to $150,000 in 2027 and $250,000 in 2028, then indexes to CPI. Annual assessment increases on non-homesteaded property, including commercial real estate, are capped at 5%, down from 10%. Florida Realtors endorsed it; the Florida Policy Institute estimated nearly $12 billion in recurring local revenue losses.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/11/03/florida-amendment-3-passes/",
+      "category": "Policy/Insurance",
+      "importance": "high",
+      "archivedOn": "2026-11-15"
+    },
     {
       "id": 219,
       "date": "2026-11-03",

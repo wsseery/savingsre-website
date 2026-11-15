@@ -1,5 +1,45 @@
 [
   {
+    "id": 239,
+    "date": "2026-11-13",
+    "title": "Great Gulf pauses pre-sales at 87-unit Mandarin Oriental Residences West Palm",
+    "summary": "Great Gulf has paused pre-sales for its 31-story, 87-unit Mandarin Oriental Residences at 5400 North Flagler Drive in West Palm Beach, missing the prime winter buying season. Sales launched in February but drew limited buyer interest, and a new sales space could take about eight months to build out. TRD counts nearly 15,000 branded and luxury condo units planned, under construction or recently finished in South Florida.",
+    "source": "The Real Deal",
+    "sourceUrl": "https://therealdeal.com/miami/2026/11/13/great-gulf-pauses-mandarin-oriental-west-palm-pre-sales/",
+    "category": "Luxury",
+    "importance": "medium"
+  },
+  {
+    "id": 238,
+    "date": "2026-11-13",
+    "title": "Falcone Group lands $85.5M Bank OZK loan for 311-unit Horizon of Oakland Park",
+    "summary": "Falcone Group secured an $85.5 million senior construction loan from Bank OZK for Horizon of Oakland Park, a $133 million public-private project with 311 apartments and 20,700 square feet of retail on 4 acres. About 20% of units are workforce housing. Construction starts Nov. 16, with completion targeted for early 2029. The deal includes an $8.5 million land purchase from the city.",
+    "source": "The Real Deal",
+    "sourceUrl": "https://therealdeal.com/miami/2026/11/13/falcone-nabs-86-million-construction-loan-in-broward-county/",
+    "category": "Multifamily",
+    "importance": "medium"
+  },
+  {
+    "id": 237,
+    "date": "2026-11-13",
+    "title": "BH Group flips Wellington's Polo West golf course to GL Homes for $62.5M",
+    "summary": "BH Group is under contract to sell the shuttered 150.5-acre Polo West Golf Course in Wellington to GL Homes for $62.5 million, three times the $20.8 million it paid in May. GL plans 284 luxury homes priced up to $3 million under Florida's Infill Redevelopment Act, which lets qualifying brownfield sites of 5+ acres bypass public hearings and win administrative approvals.",
+    "source": "The Real Deal",
+    "sourceUrl": "https://therealdeal.com/miami/2026/11/13/bh-group-selling-south-florida-golf-course-to-gl-homes/",
+    "category": "Development",
+    "importance": "high"
+  },
+  {
+    "id": 236,
+    "date": "2026-11-13",
+    "title": "RFR lands $101M refi on 317,000-SF 100 Biscayne office tower in downtown Miami",
+    "summary": "RFR secured a $101 million refinancing for 100 Biscayne Boulevard, a 30-story, 317,000-square-foot office building across from Bayfront Park. Newmark arranged the loan from Derby Lane Partners and Axonic Capital. The tower was listed at $130 million ($419/SF) in February; RFR bought it for $90 million in January 2022. Occupancy rose from under 60% to 90% after renovations, while Class A downtown vacancy was 17% in Q3, per Colliers.",
+    "source": "The Real Deal",
+    "sourceUrl": "https://therealdeal.com/miami/2026/11/13/rfr-nabs-101-million-refi-for-downtown-miami-office-tower/",
+    "category": "Commercial/CRE",
+    "importance": "high"
+  },
+  {
     "id": 235,
     "date": "2026-11-13",
     "title": "PPG gets $97.9M permit for first phase of 728-unit Palm Aire rental project in North Miami Beach",
@@ -118,45 +158,5 @@
     "sourceUrl": "https://therealdeal.com/miami/2026/11/06/cp-group-led-venture-buys-boca-ratons-mizner-park/",
     "category": "Commercial/CRE",
     "importance": "medium"
-  },
-  {
-    "id": 223,
-    "date": "2026-11-06",
-    "title": "Welltower pays $208.2M for five Broward, Palm Beach nursing homes",
-    "summary": "Welltower-linked entities paid $160M for three Broward nursing homes and $48.2M for two in Palm Beach County, buying from companies managed by David Katz of TL Management. The largest was Wilton Manors Health & Rehab at $58.7M ($399,320 per bed, 147 beds). Fort Lauderdale Health & Rehabilitation sold for $52.2M ($308,875 per bed). Colliers cites $975M of Florida senior housing sales through Q2.",
-    "source": "The Real Deal",
-    "sourceUrl": "https://therealdeal.com/miami/2026/11/06/welltower-buys-south-florida-nursing-home-portfolio/",
-    "category": "Commercial/CRE",
-    "importance": "high"
-  },
-  {
-    "id": 222,
-    "date": "2026-11-05",
-    "title": "Welltower pays $49.1M ($570/SF) for Miramar nursing center",
-    "summary": "An entity linked to Welltower paid $49.1 million for the 86,000-SF Glades West Rehab & Nursing Center at 15955 Bass Creek Road in Miramar, about $570 per SF, per Vizzda. The seller was linked to David Katz. The 3.7-acre, 120-unit property was built in 2015 and last sold for $1.8 million in 2011. In Delray Beach, a Fortress-linked entity paid $25.8 million ($200/SF) for the 146-bed Symphony at Delray Beach senior living community.",
-    "source": "The Real Deal",
-    "sourceUrl": "https://therealdeal.com/data/miami/2026/welltower-buys-miramar-nursing-home-for-49-million/",
-    "category": "Commercial/CRE",
-    "importance": "medium"
-  },
-  {
-    "id": 221,
-    "date": "2026-11-04",
-    "title": "Rug designer Ben Soleimani buys Palm Beach Polo mansion for $6M",
-    "summary": "Ben Soleimani paid $6 million, about $1,020 per SF, for a 5,900-SF, four-bedroom home at 12446 Cypress Island Way in Wellington's Palm Beach Polo and Country Club. It was listed at $6.5 million. The sellers, owners of Adelson Galleries, paid $5.9 million in 2021. Equestrian demand is also drawing developers, including Joe Farrell's 27-home Farrell Estates priced from $5M to $10M.",
-    "source": "The Real Deal",
-    "sourceUrl": "https://therealdeal.com/miami/2026/11/04/rug-mogul-ben-soleimani-buys-in-palm-beach-polo-country-club/",
-    "category": "Luxury",
-    "importance": "low"
-  },
-  {
-    "id": 220,
-    "date": "2026-11-04",
-    "title": "Florida voters approve Amendment 3, raising homestead exemption to $150K in 2027",
-    "summary": "About 62% of voters backed Amendment 3 as of 10:25 p.m. on election night; it needed 60%. The homestead exemption rises from $50,000 to $150,000 in 2027 and $250,000 in 2028, then indexes to CPI. Annual assessment increases on non-homesteaded property, including commercial real estate, are capped at 5%, down from 10%. Florida Realtors endorsed it; the Florida Policy Institute estimated nearly $12 billion in recurring local revenue losses.",
-    "source": "The Real Deal",
-    "sourceUrl": "https://therealdeal.com/miami/2026/11/03/florida-amendment-3-passes/",
-    "category": "Policy/Insurance",
-    "importance": "high"
   }
 ]
