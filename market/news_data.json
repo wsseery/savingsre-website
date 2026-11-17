@@ -1,5 +1,45 @@
 [
   {
+    "id": 243,
+    "date": "2026-11-17",
+    "title": "TPG sells 150-room AC Hotel Miami Beach to Dynamic City Capital for $81M",
+    "summary": "TPG Real Estate sold the 150-room, 160,460-SF AC Hotel Miami Beach at 2912 Collins Avenue to Utah-based Dynamic City Capital for $81 million, or about $540,000 per room, per records; the deed excludes branding and FF&E value. TPG paid $45.3 million in July 2021. The trade follows Gencom and White Bridge's $300 million InterContinental Miami purchase last month.",
+    "source": "The Real Deal",
+    "sourceUrl": "https://therealdeal.com/miami/2026/11/17/tpg-sells-ac-hotel-miami-beach-to-dynamic-city-capital/",
+    "category": "Commercial/CRE",
+    "importance": "high"
+  },
+  {
+    "id": 242,
+    "date": "2026-11-16",
+    "title": "South Florida October home and condo sales fall as rates and condo financing rules bite",
+    "summary": "October closings fell year over year: Miami-Dade down 11% to 1,890, Broward down 13% to 1,750 and Palm Beach down about 8% to 1,852. Median single-family prices were $706,000 in Miami-Dade (+3.5%), $610,000 in Broward (-0.2%) and $682,500 in Palm Beach (+6%). Only 21 of nearly 2,400 tri-county condo buildings are FHA-approved.",
+    "source": "The Real Deal",
+    "sourceUrl": "https://therealdeal.com/miami/2026/11/16/south-florida-home-sales-drop-in-october-2026/",
+    "category": "Market Data",
+    "importance": "high"
+  },
+  {
+    "id": 241,
+    "date": "2026-11-16",
+    "title": "Nearly vacant Lincoln Place leasehold in South Beach under contract for $57.8M",
+    "summary": "An entity tied to Alfred Equities' Abraham Schwartz and the May family trusts is under contract for $57.8 million to buy the leasehold of Lincoln Place, 1601 Washington Avenue, from Granite Point Mortgage Trust. The 2022 building has 106,700 SF of office, 28,500 SF of retail and a 493-space garage, with nearly 91,000 SF available. Miami Beach holds a right of first refusal; commissioners vote Wednesday.",
+    "source": "The Real Deal",
+    "sourceUrl": "https://therealdeal.com/miami/2026/11/16/nearly-empty-south-beach-offices-selling-for-58-million/",
+    "category": "Commercial/CRE",
+    "importance": "medium"
+  },
+  {
+    "id": 240,
+    "date": "2026-11-16",
+    "title": "Welltower's South Florida nursing home buying spree reaches $386M across nine properties",
+    "summary": "Welltower paid $178.2 million last week for four more South Florida nursing and rehab centers, lifting its nine-property total to $386.4 million. The largest was a 294-unit Miami facility at 1442 NW 22nd Street for $74.8 million ($254,500 per unit). All sellers were TL Management entities. The portfolio totals 437,400 SF and 1,223 beds across Broward, Miami-Dade and Palm Beach counties.",
+    "source": "The Real Deal",
+    "sourceUrl": "https://therealdeal.com/miami/2026/11/16/welltowers-sofla-nursing-home-spree-hits-386-million/",
+    "category": "Commercial/CRE",
+    "importance": "high"
+  },
+  {
     "id": 239,
     "date": "2026-11-13",
     "title": "Great Gulf pauses pre-sales at 87-unit Mandarin Oriental Residences West Palm",
@@ -118,45 +158,5 @@
     "sourceUrl": "https://therealdeal.com/miami/2026/11/10/netscapes-jim-clark-buys-palm-beach-estate-for-100m/",
     "category": "Luxury",
     "importance": "high"
-  },
-  {
-    "id": 227,
-    "date": "2026-11-09",
-    "title": "Related, BH, Pebb land $140.7M Wells Fargo loan for 494-unit Boca Raton rental project",
-    "summary": "Wells Fargo provided $140.7M and assumed the existing $35.8M debt, for a total $176.5M loan on Broken Sound Residences at the former Office Depot campus, 6600 North Military Trail in Boca Raton. The eight-story project will have 494 rentals, including 50 workforce units, with construction started last month and completion expected in 2028. Related bought the site for $50M last year.",
-    "source": "The Real Deal",
-    "sourceUrl": "https://therealdeal.com/miami/2026/11/09/related-group-and-partners-score-177-million-for-boca-redev/",
-    "category": "Multifamily",
-    "importance": "high"
-  },
-  {
-    "id": 226,
-    "date": "2026-11-09",
-    "title": "Playboy puts Miami Beach's 89-room Freehand hotel under contract at $12.5M for private club",
-    "summary": "A Playboy affiliate has the 89-room Freehand Miami hotel at 2701-2731 Indian Creek Drive under contract for $12.5M from a Generator affiliate, per the South Florida Business Journal. It last sold in January 2012 for $12M. Closing is expected by Dec. 15. Playboy plans to put up $5M toward the purchase, recouping it through membership sales, and has a non-binding term sheet for a JV with third-party investors.",
-    "source": "The Real Deal",
-    "sourceUrl": "https://therealdeal.com/miami/2026/11/09/playboy-to-buy-miami-beach-freehand-hotel-for-private-club/",
-    "category": "Luxury",
-    "importance": "medium"
-  },
-  {
-    "id": 225,
-    "date": "2026-11-06",
-    "title": "Bal Harbour Shops' 200,000-SF West Shops expansion fully leased",
-    "summary": "Bal Harbour Shops' 200,000-SF west wing is fully leased with 30 retailers, including mall debuts for Tom Ford, Khaite, Elie Saab and Boucheron, rolling out through 2028. The 500,000-SF mall will have 140 tenants and reports sales of $2,000 to $3,000 per SF, with gross sales nearing $1B, up 35% since 2020. Whitman is still pursuing a separate Live Local Act tower proposal.",
-    "source": "The Real Deal",
-    "sourceUrl": "https://therealdeal.com/miami/2026/11/06/bal-harbour-shops-unveils-west-shops-expansion/",
-    "category": "Development",
-    "importance": "medium"
-  },
-  {
-    "id": 224,
-    "date": "2026-11-06",
-    "title": "CP Group, Georgetown buy back Boca Raton's Mizner Park from Brookfield",
-    "summary": "CP Group, the Georgetown Company, ACRE and StepStone bought the 838,840-SF Mizner Park mixed-use district in Boca Raton from Brookfield Properties, with Blackstone providing financing. Price was not disclosed. The property has about 268,390 SF of office, 276,460 SF of retail and 272 apartments, and the buyers plan facade, infrastructure and apartment renovations. East Boca retail vacancy was 4.5% in Q3, per Colliers.",
-    "source": "The Real Deal",
-    "sourceUrl": "https://therealdeal.com/miami/2026/11/06/cp-group-led-venture-buys-boca-ratons-mizner-park/",
-    "category": "Commercial/CRE",
-    "importance": "medium"
   }
 ]

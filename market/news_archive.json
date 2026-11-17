@@ -1,11 +1,55 @@
 {
   "meta": {
     "created": "2026-07-06",
-    "updated": "2026-11-15",
+    "updated": "2026-11-17",
     "note": "Archive of items rotated off the live market/news_data.json 16-item list. Weekly refresh APPENDS dropped items here (newest first) - never delete. Same item schema as news_data.json. Not rendered on the site; kept for content reuse, history, and a future archive/search section.",
-    "count": 217
+    "count": 221
   },
   "items": [
+    {
+      "id": 227,
+      "date": "2026-11-09",
+      "title": "Related, BH, Pebb land $140.7M Wells Fargo loan for 494-unit Boca Raton rental project",
+      "summary": "Wells Fargo provided $140.7M and assumed the existing $35.8M debt, for a total $176.5M loan on Broken Sound Residences at the former Office Depot campus, 6600 North Military Trail in Boca Raton. The eight-story project will have 494 rentals, including 50 workforce units, with construction started last month and completion expected in 2028. Related bought the site for $50M last year.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/11/09/related-group-and-partners-score-177-million-for-boca-redev/",
+      "category": "Multifamily",
+      "importance": "high",
+      "archivedOn": "2026-11-17"
+    },
+    {
+      "id": 226,
+      "date": "2026-11-09",
+      "title": "Playboy puts Miami Beach's 89-room Freehand hotel under contract at $12.5M for private club",
+      "summary": "A Playboy affiliate has the 89-room Freehand Miami hotel at 2701-2731 Indian Creek Drive under contract for $12.5M from a Generator affiliate, per the South Florida Business Journal. It last sold in January 2012 for $12M. Closing is expected by Dec. 15. Playboy plans to put up $5M toward the purchase, recouping it through membership sales, and has a non-binding term sheet for a JV with third-party investors.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/11/09/playboy-to-buy-miami-beach-freehand-hotel-for-private-club/",
+      "category": "Luxury",
+      "importance": "medium",
+      "archivedOn": "2026-11-17"
+    },
+    {
+      "id": 225,
+      "date": "2026-11-06",
+      "title": "Bal Harbour Shops' 200,000-SF West Shops expansion fully leased",
+      "summary": "Bal Harbour Shops' 200,000-SF west wing is fully leased with 30 retailers, including mall debuts for Tom Ford, Khaite, Elie Saab and Boucheron, rolling out through 2028. The 500,000-SF mall will have 140 tenants and reports sales of $2,000 to $3,000 per SF, with gross sales nearing $1B, up 35% since 2020. Whitman is still pursuing a separate Live Local Act tower proposal.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/11/06/bal-harbour-shops-unveils-west-shops-expansion/",
+      "category": "Development",
+      "importance": "medium",
+      "archivedOn": "2026-11-17"
+    },
+    {
+      "id": 224,
+      "date": "2026-11-06",
+      "title": "CP Group, Georgetown buy back Boca Raton's Mizner Park from Brookfield",
+      "summary": "CP Group, the Georgetown Company, ACRE and StepStone bought the 838,840-SF Mizner Park mixed-use district in Boca Raton from Brookfield Properties, with Blackstone providing financing. Price was not disclosed. The property has about 268,390 SF of office, 276,460 SF of retail and 272 apartments, and the buyers plan facade, infrastructure and apartment renovations. East Boca retail vacancy was 4.5% in Q3, per Colliers.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/11/06/cp-group-led-venture-buys-boca-ratons-mizner-park/",
+      "category": "Commercial/CRE",
+      "importance": "medium",
+      "archivedOn": "2026-11-17"
+    },
     {
       "id": 223,
       "date": "2026-11-06",
