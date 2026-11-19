@@ -50,6 +50,19 @@ def page_url(seg):
     return f"{SITE}/listings/{seg['slug']}/" if seg["slug"] else f"{SITE}/listings/"
 
 
+IMG_DIR = "/assets/img/listings/"
+IMG_NOTE = "Illustration only, not a listed property."
+
+
+def hero_figure(img, eager=True):
+    """Optional illustrative hero image: {"file": "warehouse.svg", "alt": "..."} in the segment data."""
+    if not img:
+        return ""
+    load = 'fetchpriority="high"' if eager else 'loading="lazy"'
+    return (f'\n    <figure class="landing-figure"><img src="{IMG_DIR}{e(img["file"])}" alt="{e(img["alt"])}" '
+            f'width="1200" height="450" {load} decoding="async"><figcaption>{IMG_NOTE}</figcaption></figure>')
+
+
 def is_live(seg):
     w = seg.get("weekly") or {}
     return bool(w.get("mls_url")) and w.get("result_count") is not None and bool(w.get("date"))
@@ -130,7 +143,7 @@ def head(title, desc, canonical, robots, extra=""):
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;1,400;1,600&family=Montserrat:wght@300;400;600&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="/assets/css/site.css?v=20261015">
-  <link rel="stylesheet" href="/assets/css/landing.css?v=20261031c">
+  <link rel="stylesheet" href="/assets/css/landing.css?v=20261106">
   <script defer src="/assets/js/site.js?v=20261015"></script>
 {extra}</head>
 <body>
@@ -288,7 +301,7 @@ def landing_page(seg, cfg, by_slug, header_html):
     <nav class="crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/listings/">Listings</a> <span aria-hidden="true">›</span> <span aria-current="page">{e(seg['short'])}</span></nav>
     <div class="hero-badge"><span class="hero-badge-pill">{e(CAT_LABEL[seg['category']])}</span><span class="hero-badge-dot"></span><span>Palm Beach · Broward · Miami-Dade</span></div>
     <h1>{e(seg['h1'])}</h1>
-    <p class="hero-sub">{e(seg['subhead'])}</p>
+    <p class="hero-sub">{e(seg['subhead'])}</p>{hero_figure(seg.get('image'))}
   </div>
 </section>
 <main class="main landing-main">""")
@@ -388,12 +401,12 @@ def hub_page(segs, cfg, header_html):
         cfg["agent_jsonld"]]}, indent=1, ensure_ascii=False)
     out = [head(title, desc, SITE + "/listings/", "index,follow",
                 f'  <script type="application/ld+json">\n{ld}\n  </script>\n'), header_html]
-    out.append("""
+    out.append(f"""
 <section class="hero landing-hero">
   <div class="hero-content">
     <div class="hero-badge"><span class="hero-badge-pill">Updated Weekly</span><span class="hero-badge-dot"></span><span>Palm Beach · Broward · Miami-Dade</span></div>
     <h1>South Florida Property Searches</h1>
-    <p class="hero-sub">Commercial, multifamily and residential property for sale and for lease, refreshed every week with a short market note.</p>
+    <p class="hero-sub">Commercial, multifamily and residential property for sale and for lease, refreshed every week with a short market note.</p>{hero_figure(cfg.get('hub_image'))}
   </div>
 </section>
 <main class="main landing-main">""")
@@ -405,13 +418,17 @@ def hub_page(segs, cfg, header_html):
         cards = []
         for s in group:
             w = s["weekly"]
-            cards.append(f"""      <a class="hub-card" href="/listings/{s['slug']}/">
+            thumb = (f'<img class="hub-thumb" src="{IMG_DIR}{e(s["image"]["file"])}" alt="" width="1200" height="450" loading="lazy" decoding="async">'
+                     if s.get("image") else "")
+            cards.append(f"""      <a class="hub-card" href="/listings/{s['slug']}/">{thumb}
         <span class="hub-title">{e(s['h1'])}</span>
         <span class="hub-sub">{e(s['subhead'])}</span>
         <span class="hub-meta">{int(w['result_count'])} active · updated {e(money_date(w['date']))}</span>
       </a>""")
         for x in extra:
-            cards.append(f"""      <a class="hub-card" href="{e(x['href'])}">
+            xthumb = (f'<img class="hub-thumb" src="{IMG_DIR}{e(x["image"])}" alt="" width="1200" height="450" loading="lazy" decoding="async">'
+                      if x.get("image") else "")
+            cards.append(f"""      <a class="hub-card" href="{e(x['href'])}">{xthumb}
         <span class="hub-title">{e(x['title'])}</span>
         <span class="hub-sub">{e(x['sub'])}</span>
         <span class="hub-meta">Updated weekly</span>
@@ -503,6 +520,9 @@ def validate(segs):
         if s["slug"] in seen:
             problems.append(f"duplicate slug {s['slug']}")
         seen.add(s["slug"])
+        img = s.get("image")
+        if img and not ((ROOT / IMG_DIR.strip("/") / img.get("file", "")).is_file() and img.get("alt")):
+            problems.append(f"{s['slug']}: image needs an existing file under {IMG_DIR} and alt text")
         if s["category"] not in CAT_LABEL:
             problems.append(f"{s['slug']}: unknown category {s['category']}")
         if len(s["title"]) > 65:

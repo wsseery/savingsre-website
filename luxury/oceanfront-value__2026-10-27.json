@@ -1,0 +1,178 @@
+{
+ "segment": "oceanfront-value",
+ "collection": "luxury",
+ "template": "luxury-value",
+ "label": "Oceanfront — Best Value by $/sqft",
+ "tagline": "Lowest $/sqft oceanfront luxury · SE Florida",
+ "search_name": "WSS-LUX-Oceanfront",
+ "generated": "2026-10-27",
+ "pdf": "pdf/oceanfront-value__2026-10-27.pdf",
+ "expires": "2026-11-26",
+ "total_results": 10,
+ "metric_label": "$/sqft",
+ "methodology": "Live Beaches MLS pull 2026-10-27 (WSS-LUX-Oceanfront), Florida only, ranked by LOWEST price per square foot (best value) from 55 results (50 Florida, non-international, with a price/sqft). Disguised: area + beds/baths + $/sqft band + price band public; exact address & photos on request.",
+ "items": [
+  {
+   "id": "oceanfront-value-2026-10-27-01",
+   "analytics_id": "A-02046",
+   "rank": 1,
+   "submarket": "Hallandale Beach",
+   "profile": "5bd / 4ba — Oceanfront Estate",
+   "price_band": "$6M-$7M",
+   "cap_label": "~$925/sqft",
+   "thumb_url": "",
+   "desc": "Oceanfront Estate in Hallandale Beach; ~$925/sqft. Exact address, photos & financials on request.",
+   "inquiry_subject": "Inquiry: Hallandale Beach Oceanfront Estate (~$925/sqft)",
+   "highlights": [
+    "~7.0K sq ft · built 1980s",
+    "Lowest price/sqft in this list"
+   ]
+  },
+  {
+   "id": "oceanfront-value-2026-10-27-02",
+   "analytics_id": "A-02047",
+   "rank": 2,
+   "submarket": "Jupiter",
+   "profile": "4bd / 5ba — Oceanfront Estate",
+   "price_band": "$4M-$5M",
+   "cap_label": "~$1000/sqft",
+   "thumb_url": "",
+   "desc": "Oceanfront Estate in Jupiter; ~$1000/sqft. Exact address, photos & financials on request.",
+   "inquiry_subject": "Inquiry: Jupiter Oceanfront Estate (~$1000/sqft)",
+   "highlights": [
+    "~4.7K sq ft · built 2000s",
+    "#2 best value by price/sqft"
+   ]
+  },
+  {
+   "id": "oceanfront-value-2026-10-27-03",
+   "analytics_id": "A-02048",
+   "rank": 3,
+   "submarket": "Miami Beach",
+   "profile": "25bd / 25ba — Oceanfront Estate",
+   "price_band": "$24M-$26M",
+   "cap_label": "~$1100/sqft",
+   "thumb_url": "",
+   "desc": "Oceanfront Estate in Miami Beach; ~$1100/sqft. Exact address, photos & financials on request.",
+   "inquiry_subject": "Inquiry: Miami Beach Oceanfront Estate (~$1100/sqft)",
+   "highlights": [
+    "~22.7K sq ft · built 1990s",
+    "#3 best value by price/sqft",
+    "new listing"
+   ]
+  },
+  {
+   "id": "oceanfront-value-2026-10-27-04",
+   "analytics_id": "A-02049",
+   "rank": 4,
+   "submarket": "Palm Beach Shores",
+   "profile": "3bd / 3ba — Oceanfront Condo",
+   "price_band": "$3M-$4M",
+   "cap_label": "~$1125/sqft",
+   "thumb_url": "",
+   "desc": "Oceanfront Condo in Palm Beach Shores; ~$1125/sqft. Exact address, photos & financials on request.",
+   "inquiry_subject": "Inquiry: Palm Beach Shores Oceanfront Condo (~$1125/sqft)",
+   "highlights": [
+    "~3.3K sq ft · built 2000s",
+    "#4 best value by price/sqft",
+    "new listing"
+   ]
+  },
+  {
+   "id": "oceanfront-value-2026-10-27-05",
+   "analytics_id": "A-02050",
+   "rank": 5,
+   "submarket": "Deerfield Beach",
+   "profile": "4bd / 5ba — Oceanfront Estate",
+   "price_band": "$5M-$6M",
+   "cap_label": "~$1175/sqft",
+   "thumb_url": "",
+   "desc": "Oceanfront Estate in Deerfield Beach; ~$1175/sqft. Exact address, photos & financials on request.",
+   "inquiry_subject": "Inquiry: Deerfield Beach Oceanfront Estate (~$1175/sqft)",
+   "highlights": [
+    "~4.6K sq ft · new construction",
+    "#5 best value by price/sqft"
+   ]
+  },
+  {
+   "id": "oceanfront-value-2026-10-27-06",
+   "analytics_id": "A-02051",
+   "rank": 6,
+   "submarket": "Miami",
+   "profile": "5bd / 5ba — Oceanfront Estate",
+   "price_band": "$16M-$17M",
+   "cap_label": "~$1325/sqft",
+   "thumb_url": "",
+   "desc": "Oceanfront Estate in Miami; ~$1325/sqft. Exact address, photos & financials on request.",
+   "inquiry_subject": "Inquiry: Miami Oceanfront Estate (~$1325/sqft)",
+   "highlights": [
+    "~12.9K sq ft · built 2000s",
+    "#6 best value by price/sqft"
+   ]
+  },
+  {
+   "id": "oceanfront-value-2026-10-27-07",
+   "analytics_id": "A-02052",
+   "rank": 7,
+   "submarket": "Pompano Beach",
+   "profile": "3bd / 3ba — Oceanfront Condo",
+   "price_band": "$4M-$5M",
+   "cap_label": "~$1375/sqft",
+   "thumb_url": "",
+   "desc": "Oceanfront Condo in Pompano Beach; ~$1375/sqft. Exact address, photos & financials on request.",
+   "inquiry_subject": "Inquiry: Pompano Beach Oceanfront Condo (~$1375/sqft)",
+   "highlights": [
+    "~3.2K sq ft · new construction",
+    "#7 best value by price/sqft"
+   ]
+  },
+  {
+   "id": "oceanfront-value-2026-10-27-08",
+   "analytics_id": "A-02053",
+   "rank": 8,
+   "submarket": "Marathon",
+   "profile": "9bd / 9ba — Oceanfront Estate",
+   "price_band": "$26M-$28M",
+   "cap_label": "~$1475/sqft",
+   "thumb_url": "",
+   "desc": "Oceanfront Estate in Marathon; ~$1475/sqft. Exact address, photos & financials on request.",
+   "inquiry_subject": "Inquiry: Marathon Oceanfront Estate (~$1475/sqft)",
+   "highlights": [
+    "~18.5K sq ft · built 2020s",
+    "#8 best value by price/sqft"
+   ]
+  },
+  {
+   "id": "oceanfront-value-2026-10-27-09",
+   "analytics_id": "A-02054",
+   "rank": 9,
+   "submarket": "Islamorada",
+   "profile": "4bd / 4ba — Oceanfront Estate",
+   "price_band": "$4M-$5M",
+   "cap_label": "~$1500/sqft",
+   "thumb_url": "",
+   "desc": "Oceanfront Estate in Islamorada; ~$1500/sqft. Exact address, photos & financials on request.",
+   "inquiry_subject": "Inquiry: Islamorada Oceanfront Estate (~$1500/sqft)",
+   "highlights": [
+    "~3.0K sq ft · built 1990s",
+    "#9 best value by price/sqft"
+   ]
+  },
+  {
+   "id": "oceanfront-value-2026-10-27-10",
+   "analytics_id": "A-02055",
+   "rank": 10,
+   "submarket": "Melbourne Beach",
+   "profile": "3bd / 3ba — Oceanfront Estate",
+   "price_band": "$4M-$5M",
+   "cap_label": "~$1500/sqft",
+   "thumb_url": "",
+   "desc": "Oceanfront Estate in Melbourne Beach; ~$1500/sqft. Exact address, photos & financials on request.",
+   "inquiry_subject": "Inquiry: Melbourne Beach Oceanfront Estate (~$1500/sqft)",
+   "highlights": [
+    "~3.3K sq ft · built 2020s",
+    "#10 best value by price/sqft"
+   ]
+  }
+ ]
+}

@@ -59,11 +59,16 @@
       "https://x.com/SavingsRE"
     ]
   },
+  "hub_image": {
+    "file": "hub.svg",
+    "alt": "Illustration of a South Florida coastal skyline with palm trees"
+  },
   "hub_extra": [
     {
       "category": "residential-lease",
       "href": "/luxury-rentals.html",
       "title": "Luxury Waterfront Rentals",
+      "image": "intracoastal.svg",
       "sub": "Ocean-view and Intracoastal rentals in Palm Beach County, $5,000 to $10,000 a month."
     }
   ],

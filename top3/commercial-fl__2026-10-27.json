@@ -1,0 +1,223 @@
+{
+ "segment": "commercial-fl",
+ "collection": "curated",
+ "template": "curated-generic",
+ "label": "Commercial & Office — Florida",
+ "tagline": "Top 10 · Florida statewide · general commercial / office / mixed-use · ranked by cap rate",
+ "search_name": "Crexi (FL pull)",
+ "generated": "2026-10-27",
+ "pdf": "pdf/commercial-fl__2026-10-27.pdf",
+ "expires": "2026-11-26",
+ "total_results": 10,
+ "metric_label": "Cap rate",
+ "methodology": "Crexi Florida pull 2026-10-27 via the Crexi asset API (POST /assets/search + 0.01 cap-bucket sweep to recover masked cap rates; per-asset detail endpoint for square footage, class and zoning). Florida general commercial / office buildings (non-medical), ranked by recovered cap rate; 8% floor relaxed to 7% where thin. Business-only sales, retail centers, warehouses, storage and apartment listings excluded. This run: 42 qualifying listings; top 10 shown (22 at 8%+).",
+ "items": [
+  {
+   "id": "commercial-fl-2026-10-27-01",
+   "analytics_id": "A-02137",
+   "rank": 1,
+   "submarket": "Altamonte Springs",
+   "profile": "Commercial / Office Building",
+   "price_band": "$15M-$16M",
+   "cap_label": "~11.00% cap",
+   "desc": "Commercial / Office Building in Altamonte Springs; ~11.00% cap, ~98.2K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Commercial / Office Building, Altamonte Springs (~11.00% cap)",
+   "highlights": [
+    "Investor: ~22-24% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~98.2K sq ft",
+    "reported fully occupied",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "~22-24% est. cash-on-cash (25% down, IO @ ~7%)",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "commercial-fl-2026-10-27-02",
+   "analytics_id": "A-02138",
+   "rank": 2,
+   "submarket": "Fort Myers",
+   "profile": "Commercial / Office Building",
+   "price_band": "$1.5M-$2M",
+   "cap_label": "~10.22% cap",
+   "desc": "Commercial / Office Building in Fort Myers; ~10.22% cap, ~7.0K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Commercial / Office Building, Fort Myers (~10.22% cap)",
+   "highlights": [
+    "Investor: ~19-21% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~7.0K sq ft",
+    "Class A",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "~19-21% est. cash-on-cash (25% down, IO @ ~7%)",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "commercial-fl-2026-10-27-03",
+   "analytics_id": "A-02139",
+   "rank": 3,
+   "submarket": "Chiefland",
+   "profile": "Commercial / Office Building",
+   "price_band": "$0K-$500K",
+   "cap_label": "~10.00% cap",
+   "desc": "Commercial / Office Building in Chiefland; ~10.00% cap, ~4.4K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Commercial / Office Building, Chiefland (~10.00% cap)",
+   "highlights": [
+    "Investor: ~18-20% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~4.4K sq ft",
+    "Class C",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "~18-20% est. cash-on-cash (25% down, IO @ ~7%)",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "commercial-fl-2026-10-27-04",
+   "analytics_id": "A-02140",
+   "rank": 4,
+   "submarket": "Daytona Beach",
+   "profile": "Commercial / Office Building",
+   "price_band": "$0K-$500K",
+   "cap_label": "~10.00% cap",
+   "desc": "Commercial / Office Building in Daytona Beach; ~10.00% cap, ~2.7K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Commercial / Office Building, Daytona Beach (~10.00% cap)",
+   "highlights": [
+    "Investor: ~18-20% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~2.7K sq ft",
+    "Class C",
+    "recently listed"
+   ],
+   "inv_line": [
+    "~18-20% est. cash-on-cash (25% down, IO @ ~7%)",
+    "recently listed"
+   ]
+  },
+  {
+   "id": "commercial-fl-2026-10-27-05",
+   "analytics_id": "A-02141",
+   "rank": 5,
+   "submarket": "Starke",
+   "profile": "Commercial / Office Building",
+   "price_band": "$1M-$1.5M",
+   "cap_label": "~10.00% cap",
+   "desc": "Commercial / Office Building in Starke; ~10.00% cap, ~17.0K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Commercial / Office Building, Starke (~10.00% cap)",
+   "highlights": [
+    "Investor: ~18-20% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~17.0K sq ft",
+    "Class C",
+    "value-add / below-market rents"
+   ],
+   "inv_line": [
+    "~18-20% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "commercial-fl-2026-10-27-06",
+   "analytics_id": "A-02142",
+   "rank": 6,
+   "submarket": "Jacksonville",
+   "profile": "Commercial / Office Building",
+   "price_band": "$1.5M-$2M",
+   "cap_label": "~9.58% cap",
+   "desc": "Commercial / Office Building in Jacksonville; ~9.58% cap, ~29.2K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Commercial / Office Building, Jacksonville (~9.58% cap)",
+   "highlights": [
+    "Investor: ~16-18% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~29.2K sq ft",
+    "value-add / below-market rents",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "~16-18% est. cash-on-cash (25% down, IO @ ~7%)",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "commercial-fl-2026-10-27-07",
+   "analytics_id": "A-02143",
+   "rank": 7,
+   "submarket": "Orlando",
+   "profile": "Commercial / Office Building",
+   "price_band": "$8M-$9M",
+   "cap_label": "~9.00% cap",
+   "desc": "Commercial / Office Building in Orlando; ~9.00% cap, ~33.8K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Commercial / Office Building, Orlando (~9.00% cap)",
+   "highlights": [
+    "Investor: ~14-16% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~33.8K sq ft",
+    "reported fully occupied"
+   ],
+   "inv_line": [
+    "~14-16% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "commercial-fl-2026-10-27-08",
+   "analytics_id": "A-02144",
+   "rank": 8,
+   "submarket": "Pompano Beach",
+   "profile": "Commercial / Office Building",
+   "price_band": "$9M-$10M",
+   "cap_label": "~8.47% cap",
+   "desc": "Commercial / Office Building in Pompano Beach; ~8.47% cap, ~46.5K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Commercial / Office Building, Pompano Beach (~8.47% cap)",
+   "highlights": [
+    "Investor: ~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~46.5K sq ft",
+    "Class B"
+   ],
+   "inv_line": [
+    "~12-14% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "commercial-fl-2026-10-27-09",
+   "analytics_id": "A-02145",
+   "rank": 9,
+   "submarket": "Largo",
+   "profile": "Commercial / Office Building",
+   "price_band": "$5M-$6M",
+   "cap_label": "~8.45% cap",
+   "desc": "Commercial / Office Building in Largo; ~8.45% cap, ~94.9K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Commercial / Office Building, Largo (~8.45% cap)",
+   "highlights": [
+    "Investor: ~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~94.9K sq ft",
+    "Class B",
+    "Opportunity Zone",
+    "value-add / below-market rents",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Opportunity Zone",
+    "180+ days on market"
+   ]
+  },
+  {
+   "id": "commercial-fl-2026-10-27-10",
+   "analytics_id": "A-02146",
+   "rank": 10,
+   "submarket": "Punta Gorda",
+   "profile": "Commercial / Office Building",
+   "price_band": "$2.5M-$3M",
+   "cap_label": "~8.41% cap",
+   "desc": "Commercial / Office Building in Punta Gorda; ~8.41% cap, ~14.1K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Commercial / Office Building, Punta Gorda (~8.41% cap)",
+   "highlights": [
+    "Investor: ~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~14.1K sq ft",
+    "180+ days on market"
+   ],
+   "inv_line": [
+    "~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "180+ days on market"
+   ]
+  }
+ ]
+}
