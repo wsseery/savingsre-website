@@ -1,5 +1,75 @@
 [
   {
+    "id": 250,
+    "date": "2026-11-19",
+    "title": "Y Group pitches $1B hotel and condo project on Pembroke Pines golf course",
+    "summary": "Y Group has filed plans to redevelop a 19.4-acre site at 110 Grand Palms Drive in Pembroke Pines with a $1B project: an 11-story, 445-room hotel and three condo buildings with 286 residences, including 16 villas. The golf course would stay at 27 holes. The developer has a contract to buy the site, and the build could take five to seven years.",
+    "source": "The Real Deal",
+    "sourceUrl": "https://therealdeal.com/miami/2026/11/19/y-group-pitches-1-billion-broward-hotel-and-condo-project/",
+    "category": "Development",
+    "importance": "medium"
+  },
+  {
+    "id": 249,
+    "date": "2026-11-19",
+    "title": "Freddie Mac 30-yr rate jumps 17 bps to 7.28%; MND daily index at 7.45%",
+    "summary": "Freddie Mac's weekly 30-year fixed average rose to 7.28% on Nov. 19 from 7.11% the prior week, a 0.17-point increase. Mortgage News Daily's 30-year fixed index stood at 7.45% as of 11/19 and its 30-year jumbo at 7.50%; the 52-week range for the 30-year fixed is 5.99% to 7.61%. Rising rates are weighing on South Florida buyers and financing costs.",
+    "source": "Freddie Mac",
+    "sourceUrl": "https://www.freddiemac.com/pmms",
+    "category": "Market Data",
+    "importance": "medium"
+  },
+  {
+    "id": 248,
+    "date": "2026-11-18",
+    "title": "Meruelo family lists 7.4-acre Edgewater development site for $150M",
+    "summary": "The Meruelo family's Rebuild Miami Edgewater LLC listed the 7.4-acre Seventeen Edge site at 1700 NE Second Ave with Cushman & Wakefield for $150M. The entity paid $64M for the land in 2015. Zoned T6-24A-O, it could allow roughly 3,600 residential units, and it sits in an Opportunity Zone.",
+    "source": "The Real Deal",
+    "sourceUrl": "https://therealdeal.com/miami/2026/11/18/meruelos-list-miami-edgewater-dev-site-for-150-million/",
+    "category": "Development",
+    "importance": "medium"
+  },
+  {
+    "id": 247,
+    "date": "2026-11-18",
+    "title": "Two Campbell's-linked mansions list for $282M: La Gorce Island at $170M, Wellington farm $112M",
+    "summary": "Betsy Sherman listed her 18,200-SF La Gorce Island mansion at 30 La Gorce Circle for $170M, about $9,330 per square foot; the Shermans paid $17M for the 1.2-acre site in 2006. Separately, an entity tied to the late Campbell's heiress Mary Alice Malone is asking $112M for a 100-acre Wellington equestrian farm.",
+    "source": "The Real Deal",
+    "sourceUrl": "https://therealdeal.com/miami/2026/11/18/south-florida-mansions-tied-to-campbells-soup-listed/",
+    "category": "Luxury",
+    "importance": "high"
+  },
+  {
+    "id": 246,
+    "date": "2026-11-18",
+    "title": "Ram Realty sells Shops at Botanica to Agree Realty for $25.6M, $458/SF",
+    "summary": "An affiliate of Ram Realty Advisors sold the recently completed 55,870-SF Shops at Botanica retail center at 15301 SW 127th Ave near ZooMiami to a subsidiary of Agree Realty for $25.6M, or $458 per square foot. Tenants include HomeSense and Marshalls. Ram began construction on the 5.4-acre site in 2024 with $15M in financing.",
+    "source": "The Real Deal",
+    "sourceUrl": "https://therealdeal.com/miami/2026/11/18/agree-realty-buys-shops-at-botanica-from-ram-realty/",
+    "category": "Commercial/CRE",
+    "importance": "medium"
+  },
+  {
+    "id": 245,
+    "date": "2026-11-17",
+    "title": "Palm Beach house tied to ex-CIA officer's fraud sells for $24M, $3,300/SF",
+    "summary": "The 7,260-SF house at 236 Via Las Brisas in Palm Beach's Phipps Estates sold for $24M, or $3,300 per square foot. An entity tied to David Rush paid $21.9M in December 2025. Rush pleaded guilty in October to a $193M fraud on the federal government; it is the first of the properties tied to the scheme to find a buyer.",
+    "source": "The Real Deal",
+    "sourceUrl": "https://therealdeal.com/miami/2026/11/17/palm-beach-house-in-cia-agents-scam-sells-for-24-million/",
+    "category": "Luxury",
+    "importance": "medium"
+  },
+  {
+    "id": 244,
+    "date": "2026-11-17",
+    "title": "PMG, Greybrook land $285M refi for 563-unit Society Las Olas Phase II",
+    "summary": "Property Markets Group and Greybrook Realty Partners secured $285M from Benefit Street Partners for the second tower of Society Las Olas at 140 SW Second St in Fort Lauderdale, arranged by Walker & Dunlop. It replaces a $226M construction loan and equals about $506,000 per unit. The 42-story tower has 563 units.",
+    "source": "The Real Deal",
+    "sourceUrl": "https://therealdeal.com/miami/2026/11/17/pmg-greybrook-nab-285-million-refi-for-florida-apartments/",
+    "category": "Multifamily",
+    "importance": "high"
+  },
+  {
     "id": 243,
     "date": "2026-11-17",
     "title": "TPG sells 150-room AC Hotel Miami Beach to Dynamic City Capital for $81M",
@@ -88,75 +158,5 @@
     "sourceUrl": "https://therealdeal.com/data/miami/2026/ppg-developments-palm-aire-pagani-residences-construction/",
     "category": "Development",
     "importance": "medium"
-  },
-  {
-    "id": 234,
-    "date": "2026-11-12",
-    "title": "Juwan Howard sells Coral Gables mansion for $25M; Whiteside nets $12.6M in Miami Beach",
-    "summary": "Juwan Howard sold his 9,000-SF Kobi Karp-designed home at 9440 Old Cutler Lane for $25M, or $2,777 per SF, to attorney Patrick Collins. It was listed at $31.5M and went under contract at $28.9M in September; Howard paid $3.4M in 2013. Hassan Whiteside's 5,400-SF Miami Beach home at 528 Lakeview Court sold for $12.6M, or $2,333 per SF.",
-    "source": "The Real Deal",
-    "sourceUrl": "https://therealdeal.com/miami/2026/11/12/ex-nba-stars-juwan-howard-hassan-whiteside-sell-homes/",
-    "category": "Luxury",
-    "importance": "medium"
-  },
-  {
-    "id": 233,
-    "date": "2026-11-12",
-    "title": "Ralgo Group pays $53.5M for 267-unit Treetop Apartments in Miami, $200,375/unit",
-    "summary": "An entity led by Amy and Richard Gonzalez of Ralgo Group bought the 267-unit Treetop Apartments at 8520 SW 107th Ave for $53.5M, or $200,375 per unit. The seller, Residences at 107 Ave. Inc., paid $8.5M in 1995. The 283,700-SF, three-story complex sits on 9.2 acres, was built in 1974 and has two pools; units are listed at $1,750 per month.",
-    "source": "The Real Deal",
-    "sourceUrl": "https://therealdeal.com/data/miami/2026/top-deals-ralgo-group-buys-miami-rentals-for-54-million/",
-    "category": "Multifamily",
-    "importance": "high"
-  },
-  {
-    "id": 232,
-    "date": "2026-11-11",
-    "title": "Blue Spruce Capital family office buys Fisher Island penthouse for $37.5M",
-    "summary": "Alicia Louise Jarrett's ALJ Properties USA sold a 9,900-SF, seven-bedroom central lower penthouse at 6800 Fisher Island Drive for $37.5M, a steep discount off the original ask. The buyer is an entity managed by Blue Spruce Capital, the family office of energy entrepreneur Michael Smith. Separately, a Glenn Boyer company paid $34.8M for the half-acre lot at 50 West Di Lido Drive, up 26.5% from its 2024 price of $27.5M.",
-    "source": "The Real Deal",
-    "sourceUrl": "https://therealdeal.com/miami/2026/11/11/dj-khaled-scores-mortgage-billionaire-buys-fisher-island-ph/",
-    "category": "Luxury",
-    "importance": "medium"
-  },
-  {
-    "id": 231,
-    "date": "2026-11-11",
-    "title": "Garden Communities affiliate wins Don King's 53-acre Palm Beach fronton with $56.1M bid",
-    "summary": "K&K Developers, a Garden Communities affiliate, submitted the winning $56.1M all-cash bid at a Nov. 6 bankruptcy auction for the 53-acre Palm Beach Jai Alai site at 1415 45th Street in Mangonia Park, vacant for 32 years. The stalking-horse bid was $55M. Court approval is set for Nov. 12 with a sale Nov. 30; the town has floated up to 2,000 residences.",
-    "source": "The Real Deal",
-    "sourceUrl": "https://therealdeal.com/miami/2026/11/11/new-jersey-homebuilder-wins-don-king-fronton-for-56-million/",
-    "category": "Development",
-    "importance": "medium"
-  },
-  {
-    "id": 230,
-    "date": "2026-11-10",
-    "title": "Romanian developer One United injects $43M into Ora by Casa Tua Brickell condo-hotel",
-    "summary": "One United Properties joined Fortune International's Edgardo Defortuna as JV partner on Ora by Casa Tua, a 77-story, 533-unit condo-hotel planned at 1210 Brickell Avenue, providing $43M in two tranches. The project is about 40% presold at roughly $1,700 to $2,000 per SF. Construction, once slated for 2024, is now expected to start next year.",
-    "source": "The Real Deal",
-    "sourceUrl": "https://therealdeal.com/miami/2026/11/10/romanian-firm-joins-edgardo-defortuna-on-casa-tua-condo/",
-    "category": "Development",
-    "importance": "medium"
-  },
-  {
-    "id": 229,
-    "date": "2026-11-10",
-    "title": "NFL Hall of Famer Fran Tarkenton buys Palm Beach waterfront mansion for $51.9M",
-    "summary": "Fran Tarkenton paid $51.9M for the 8,720-SF waterfront house at 1620 South Ocean Boulevard, about $5,950 per SF, from Anthony and Lynda Lomangino, who paid $12.7M in 2019 and then remodeled the interior. The 2006-built home has seven bedrooms on 0.67 acres. Christian Angle held the listing; Jana Scarpa of Compass represented Tarkenton.",
-    "source": "The Real Deal",
-    "sourceUrl": "https://therealdeal.com/miami/2026/11/10/nfls-fran-tarkenton-buys-palm-beach-mansion-for-52-million/",
-    "category": "Luxury",
-    "importance": "medium"
-  },
-  {
-    "id": 228,
-    "date": "2026-11-10",
-    "title": "Netscape's Jim Clark buys Palm Beach waterfront compound for $100M off-market",
-    "summary": "Netscape co-founder Jim Clark and his wife bought the Palm Beach waterfront compound at 1030 North Lake Way from auto mogul David Fischer for $100M off-market, per the Wall Street Journal. That works out to $8,000 per SF across an 8,500-SF main house (built 1998) and a 4,000-SF guest house (built 2025). The Fischers paid $5.3M for the main half-acre in 2000 and $6.8M for the adjacent lot in 2021.",
-    "source": "The Real Deal",
-    "sourceUrl": "https://therealdeal.com/miami/2026/11/10/netscapes-jim-clark-buys-palm-beach-estate-for-100m/",
-    "category": "Luxury",
-    "importance": "high"
   }
 ]
