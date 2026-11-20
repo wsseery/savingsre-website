@@ -8,7 +8,7 @@
       "short": "Retail Space for Lease",
       "h1": "Retail Space for Lease in South Florida",
       "title": "Retail Space for Lease: Palm Beach, Broward, Miami-Dade",
-      "description": "Storefront, strip-center and restaurant space for lease in Palm Beach, Broward and Miami-Dade. Active listings refreshed weekly with tenant-side commentary.",
+      "description": "Storefront, strip-center and restaurant space for lease in Palm Beach, Broward and Miami-Dade. Active listings refreshed weekly, tenant-side notes.",
       "subhead": "Storefronts, strip-center bays, restaurant and free-standing retail space, updated every week.",
       "image": {
         "file": "storefronts.svg",
@@ -226,8 +226,8 @@
       "category": "commercial-lease",
       "short": "Industrial & Warehouse for Lease",
       "h1": "Industrial & Warehouse Space for Lease in South Florida",
-      "title": "Warehouse & Industrial Space for Lease: South Florida",
-      "description": "Warehouse, flex and light-industrial space for lease in Palm Beach, Broward and Miami-Dade, from small bays to distribution buildings. Updated weekly.",
+      "title": "Industrial Space & Warehouses for Lease: South Florida",
+      "description": "Industrial space and warehouses for lease in Palm Beach, Broward and Miami-Dade, from small flex bays to distribution buildings. Updated weekly.",
       "subhead": "Small-bay flex, warehouse and distribution space, updated every week.",
       "image": {
         "file": "warehouse.svg",
@@ -454,7 +454,7 @@
       "category": "commercial-sale",
       "short": "Retail & Strip Centers for Sale",
       "h1": "Retail Buildings & Strip Centers for Sale in South Florida",
-      "title": "Retail & Strip Centers for Sale: Palm Beach, Broward, Dade",
+      "title": "Strip Centers & Retail for Sale: Palm Beach, Broward, Dade",
       "description": "Strip centers, retail buildings and free-standing retail for sale in Palm Beach, Broward and Miami-Dade, from $750K. Refreshed weekly with commentary.",
       "subhead": "Strip centers, retail buildings and free-standing retail from $750K, updated every week.",
       "image": {
@@ -1556,7 +1556,7 @@
       "category": "multifamily",
       "short": "Small Multifamily $1M–$3M",
       "h1": "Small Multifamily for Sale: $1M to $3M",
-      "title": "Small Multifamily for Sale $1M–$3M: Palm Beach, Broward, Dade",
+      "title": "Small Multifamily for Sale $1M–$3M in South Florida",
       "description": "Duplexes to small apartment buildings priced $1M to $3M in Palm Beach, Broward and Miami-Dade. Active listings refreshed weekly with commentary.",
       "subhead": "Premium small multifamily from $1M to $3M, updated every week.",
       "image": {
@@ -1934,7 +1934,7 @@
       "category": "multifamily",
       "short": "Short-Term Rental Investments",
       "h1": "Short-Term Rental Investment Properties for Sale",
-      "title": "Short-Term Rental (Airbnb) Properties for Sale: South Florida",
+      "title": "Airbnb & Short-Term Rental Properties for Sale: South FL",
       "description": "Income properties in Palm Beach, Broward and Miami-Dade marketed for short-term rental use. Active listings refreshed weekly with notes.",
       "subhead": "Income properties whose listings mention short-term rental use, updated every week.",
       "image": {
