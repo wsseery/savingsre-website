@@ -1,11 +1,77 @@
 {
   "meta": {
     "created": "2026-07-06",
-    "updated": "2026-11-19",
+    "updated": "2026-11-21",
     "note": "Archive of items rotated off the live market/news_data.json 16-item list. Weekly refresh APPENDS dropped items here (newest first) - never delete. Same item schema as news_data.json. Not rendered on the site; kept for content reuse, history, and a future archive/search section.",
-    "count": 228
+    "count": 234
   },
   "items": [
+    {
+      "id": 240,
+      "date": "2026-11-16",
+      "title": "Welltower's South Florida nursing home buying spree reaches $386M across nine properties",
+      "summary": "Welltower paid $178.2 million last week for four more South Florida nursing and rehab centers, lifting its nine-property total to $386.4 million. The largest was a 294-unit Miami facility at 1442 NW 22nd Street for $74.8 million ($254,500 per unit). All sellers were TL Management entities. The portfolio totals 437,400 SF and 1,223 beds across Broward, Miami-Dade and Palm Beach counties.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/11/16/welltowers-sofla-nursing-home-spree-hits-386-million/",
+      "category": "Commercial/CRE",
+      "importance": "high",
+      "archivedOn": "2026-11-21"
+    },
+    {
+      "id": 239,
+      "date": "2026-11-13",
+      "title": "Great Gulf pauses pre-sales at 87-unit Mandarin Oriental Residences West Palm",
+      "summary": "Great Gulf has paused pre-sales for its 31-story, 87-unit Mandarin Oriental Residences at 5400 North Flagler Drive in West Palm Beach, missing the prime winter buying season. Sales launched in February but drew limited buyer interest, and a new sales space could take about eight months to build out. TRD counts nearly 15,000 branded and luxury condo units planned, under construction or recently finished in South Florida.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/11/13/great-gulf-pauses-mandarin-oriental-west-palm-pre-sales/",
+      "category": "Luxury",
+      "importance": "medium",
+      "archivedOn": "2026-11-21"
+    },
+    {
+      "id": 238,
+      "date": "2026-11-13",
+      "title": "Falcone Group lands $85.5M Bank OZK loan for 311-unit Horizon of Oakland Park",
+      "summary": "Falcone Group secured an $85.5 million senior construction loan from Bank OZK for Horizon of Oakland Park, a $133 million public-private project with 311 apartments and 20,700 square feet of retail on 4 acres. About 20% of units are workforce housing. Construction starts Nov. 16, with completion targeted for early 2029. The deal includes an $8.5 million land purchase from the city.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/11/13/falcone-nabs-86-million-construction-loan-in-broward-county/",
+      "category": "Multifamily",
+      "importance": "medium",
+      "archivedOn": "2026-11-21"
+    },
+    {
+      "id": 237,
+      "date": "2026-11-13",
+      "title": "BH Group flips Wellington's Polo West golf course to GL Homes for $62.5M",
+      "summary": "BH Group is under contract to sell the shuttered 150.5-acre Polo West Golf Course in Wellington to GL Homes for $62.5 million, three times the $20.8 million it paid in May. GL plans 284 luxury homes priced up to $3 million under Florida's Infill Redevelopment Act, which lets qualifying brownfield sites of 5+ acres bypass public hearings and win administrative approvals.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/11/13/bh-group-selling-south-florida-golf-course-to-gl-homes/",
+      "category": "Development",
+      "importance": "high",
+      "archivedOn": "2026-11-21"
+    },
+    {
+      "id": 236,
+      "date": "2026-11-13",
+      "title": "RFR lands $101M refi on 317,000-SF 100 Biscayne office tower in downtown Miami",
+      "summary": "RFR secured a $101 million refinancing for 100 Biscayne Boulevard, a 30-story, 317,000-square-foot office building across from Bayfront Park. Newmark arranged the loan from Derby Lane Partners and Axonic Capital. The tower was listed at $130 million ($419/SF) in February; RFR bought it for $90 million in January 2022. Occupancy rose from under 60% to 90% after renovations, while Class A downtown vacancy was 17% in Q3, per Colliers.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/11/13/rfr-nabs-101-million-refi-for-downtown-miami-office-tower/",
+      "category": "Commercial/CRE",
+      "importance": "high",
+      "archivedOn": "2026-11-21"
+    },
+    {
+      "id": 235,
+      "date": "2026-11-13",
+      "title": "PPG gets $97.9M permit for first phase of 728-unit Palm Aire rental project in North Miami Beach",
+      "summary": "PPG Development, led by Ari Pearl, secured a $97.9M permit for an eight-story and a six-story apartment building plus retail and garage on Lot 1 of its 728-unit Palm Aire project at 1750 NE 167th St. In September PPG and partners closed $235M in construction financing, including a $205M loan from BDT & MSD Partners. PPG bought the site for $31.1M in April 2022.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/data/miami/2026/ppg-developments-palm-aire-pagani-residences-construction/",
+      "category": "Development",
+      "importance": "medium",
+      "archivedOn": "2026-11-21"
+    },
     {
       "id": 234,
       "date": "2026-11-12",
