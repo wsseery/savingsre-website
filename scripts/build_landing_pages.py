@@ -390,7 +390,7 @@ def inquiry_script():
 def hub_page(segs, cfg, header_html):
     title = "South Florida Property Searches: Sale & Lease | SavingsRE"
     desc = ("Weekly-updated searches for commercial, multifamily and residential property for sale "
-            "and for lease in Palm Beach, Broward and Miami-Dade, with market commentary from Bill Seery.")
+            "and lease in Palm Beach, Broward and Miami-Dade.")
     live = [s for s in segs if is_live(s)]
     items = [{"@type": "ListItem", "position": i + 1, "url": page_url(s), "name": s["h1"]}
              for i, s in enumerate(live)]
