@@ -30,7 +30,7 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;1,400;1,600&family=Montserrat:wght@300;400;600&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="/assets/css/site.css?v=20261015">
-  <link rel="stylesheet" href="/assets/css/landing.css?v=20261106">
+  <link rel="stylesheet" href="/assets/css/landing.css?v=20261123">
   <script defer src="/assets/js/site.js?v=20261015"></script>
   <script type="application/ld+json">
 {
@@ -261,6 +261,27 @@
       </div>
     </div>
   </div>
+  <section class="alerts" id="alerts" aria-labelledby="alerts-h">
+    <div class="alerts-inner">
+      <h2 id="alerts-h">Get new listings like these every week</h2>
+      <form class="alerts-form" id="alerts-form" action="https://savingsre.agilecrm.com/formsubmit" method="GET" data-segment="industrial-warehouse-for-lease">
+        <input type="hidden" name="_agile_form_name" value="Website Listings Inquiry">
+        <input type="hidden" name="_agile_domain" value="savingsre">
+        <input type="hidden" name="_agile_api" value="o8d0am3m1ras18l8f0r0qai4hq">
+        <input type="hidden" name="_agile_form_id" value="6520129726382080">
+        <input type="hidden" name="_agile_redirect_url" value="https://savingsre.com/listings/industrial-warehouse-for-lease/?alerts=on#alerts">
+        <input type="hidden" name="_agile_document_url" value="https://savingsre.com/listings/industrial-warehouse-for-lease/">
+        <input type="hidden" name="_agile_confirmation_msg" value="You're signed up for weekly listings.">
+        <input type="hidden" name="tags" value="listing-alerts,listing-alerts-industrial-warehouse-for-lease">
+        <div class="alerts-row">
+          <div class="form-group"><label for="a-email">Email</label><input id="a-email" type="email" name="email" autocomplete="email" required></div>
+          <button type="submit" class="form-submit alerts-submit">Send Me Weekly Listings</button>
+        </div>
+        <p class="form-consent">Weekly email from Bill Seery, Savings RE / United Realty Group. Unsubscribe anytime. <a href="/privacy/">Privacy Policy</a>.</p>
+        <div class="form-success" id="alerts-on" hidden>You're signed up. New listings for this search will come to your inbox weekly.</div>
+      </form>
+    </div>
+  </section>
   <section class="detail-section" aria-labelledby="about-h">
     <h2 id="about-h">About This Search</h2>
     <p>This search tracks industrial space listed for lease across Palm Beach, Broward and Miami-Dade: small-bay flex units with office frontage, mid-size warehouses with dock or grade-level loading, and larger distribution buildings.</p>
@@ -323,6 +344,33 @@
 </main>
 <script>
 (function () {
+  // Weekly listing alerts (only on pages with the box): sign_up, never generate_lead.
+  var af = document.getElementById('alerts-form');
+  if (af) {
+    if (location.search.indexOf('alerts=on') > -1) {
+      var on = document.getElementById('alerts-on'); if (on) on.hidden = false;
+    }
+    af.addEventListener('submit', function (ev) {
+      window.dataLayer = window.dataLayer || [];
+      window.dataLayer.push({ event: 'sign_up', method: 'listing_alerts', segment: af.getAttribute('data-segment') });
+      if (!window.fetch || !window.URLSearchParams || !window.FormData) return;
+      ev.preventDefault();
+      var b = af.querySelector('[type=submit]');
+      if (b) { b.disabled = true; b.textContent = 'Signing up…'; }
+      var u = af.action + '?' + new URLSearchParams(new FormData(af)).toString();
+      var shown = false;
+      function done() {
+        if (shown) return; shown = true;
+        var ok = document.getElementById('alerts-on');
+        Array.prototype.forEach.call(af.children, function (c) { if (c !== ok) c.hidden = true; });
+        if (ok) { ok.hidden = false; ok.setAttribute('tabindex', '-1'); ok.focus(); }
+      }
+      var t = setTimeout(done, 2500);
+      fetch(u, { method: 'GET', mode: 'no-cors', credentials: 'omit', keepalive: true })
+        .then(done)
+        .catch(function () { clearTimeout(t); if (!shown) af.submit(); });
+    });
+  }
   var f = document.getElementById('inquiry-form');
   if (location.search.indexOf('inquiry=sent') > -1) {
     var ok = document.getElementById('inquiry-sent'); if (ok) ok.hidden = false;
