@@ -1,5 +1,35 @@
 [
   {
+    "id": 259,
+    "date": "2026-11-23",
+    "title": "Core pays $35.4M ($480/SF) for Fort Lauderdale's Gateway Shopping District",
+    "summary": "Miami-based Core bought the 73,760 SF, 11-building Gateway Shopping District at 1900 E. Sunrise Blvd from several individual owners for $35.4M, about $480/SF. The center is nearly 90% occupied. Cushman & Wakefield data show Broward retail investment sales reached $422.6M in Q3, $832M year to date.",
+    "source": "The Real Deal",
+    "sourceUrl": "https://therealdeal.com/miami/2026/11/23/core-buys-fort-lauderdale-gateway-shopping-district-for-35m/",
+    "category": "Commercial/CRE",
+    "importance": "medium"
+  },
+  {
+    "id": 258,
+    "date": "2026-11-23",
+    "title": "Fuel exec pays record $43.4M for Tahiti Beach mansion in Coral Gables",
+    "summary": "Chris Clementi, who leads AEG Fuels, paid $43.4M for the 8,300 SF waterfront estate at 10 Tahiti Beach Island Road, a neighborhood record. Neil Flanzraich bought it in 2000 for $3.5M. No mortgage was recorded, so the deal was likely all cash. The prior Tahiti Beach record was $32M, paid earlier this year for 12 Tahiti Beach Island Road.",
+    "source": "The Real Deal",
+    "sourceUrl": "https://therealdeal.com/miami/2026/11/23/fuel-supplier-ceo-buys-tahiti-beach-mansion-in-coral-gables/",
+    "category": "Luxury",
+    "importance": "high"
+  },
+  {
+    "id": 257,
+    "date": "2026-11-23",
+    "title": "Namdar lands $345M SCALE Lending loan for 1,008-unit Brickell rental tower",
+    "summary": "Namdar Group closed a $345M floating-rate construction loan from SCALE Lending (Slate Property Group) and bought the 1-acre site at 250 and 296 SW 7th St for $40M. The 42-story tower will have 1,008 units, about 405 below-market under the Live Local Act, plus 2,600 SF of retail. Construction starts next year with completion expected in late 2028 or early 2029. Walker & Dunlop arranged the 30-month loan.",
+    "source": "The Real Deal",
+    "sourceUrl": "https://therealdeal.com/miami/2026/11/23/namdar-group-nabs-345m-construction-loan-for-miami-tower/",
+    "category": "Multifamily",
+    "importance": "high"
+  },
+  {
     "id": 256,
     "date": "2026-11-20",
     "title": "Corendon buys two South Beach hotels for $31.6M from Blue Suede Hospitality",
@@ -128,35 +158,5 @@
     "sourceUrl": "https://therealdeal.com/miami/2026/11/17/pmg-greybrook-nab-285-million-refi-for-florida-apartments/",
     "category": "Multifamily",
     "importance": "high"
-  },
-  {
-    "id": 243,
-    "date": "2026-11-17",
-    "title": "TPG sells 150-room AC Hotel Miami Beach to Dynamic City Capital for $81M",
-    "summary": "TPG Real Estate sold the 150-room, 160,460-SF AC Hotel Miami Beach at 2912 Collins Avenue to Utah-based Dynamic City Capital for $81 million, or about $540,000 per room, per records; the deed excludes branding and FF&E value. TPG paid $45.3 million in July 2021. The trade follows Gencom and White Bridge's $300 million InterContinental Miami purchase last month.",
-    "source": "The Real Deal",
-    "sourceUrl": "https://therealdeal.com/miami/2026/11/17/tpg-sells-ac-hotel-miami-beach-to-dynamic-city-capital/",
-    "category": "Commercial/CRE",
-    "importance": "high"
-  },
-  {
-    "id": 242,
-    "date": "2026-11-16",
-    "title": "South Florida October home and condo sales fall as rates and condo financing rules bite",
-    "summary": "October closings fell year over year: Miami-Dade down 11% to 1,890, Broward down 13% to 1,750 and Palm Beach down about 8% to 1,852. Median single-family prices were $706,000 in Miami-Dade (+3.5%), $610,000 in Broward (-0.2%) and $682,500 in Palm Beach (+6%). Only 21 of nearly 2,400 tri-county condo buildings are FHA-approved.",
-    "source": "The Real Deal",
-    "sourceUrl": "https://therealdeal.com/miami/2026/11/16/south-florida-home-sales-drop-in-october-2026/",
-    "category": "Market Data",
-    "importance": "high"
-  },
-  {
-    "id": 241,
-    "date": "2026-11-16",
-    "title": "Nearly vacant Lincoln Place leasehold in South Beach under contract for $57.8M",
-    "summary": "An entity tied to Alfred Equities' Abraham Schwartz and the May family trusts is under contract for $57.8 million to buy the leasehold of Lincoln Place, 1601 Washington Avenue, from Granite Point Mortgage Trust. The 2022 building has 106,700 SF of office, 28,500 SF of retail and a 493-space garage, with nearly 91,000 SF available. Miami Beach holds a right of first refusal; commissioners vote Wednesday.",
-    "source": "The Real Deal",
-    "sourceUrl": "https://therealdeal.com/miami/2026/11/16/nearly-empty-south-beach-offices-selling-for-58-million/",
-    "category": "Commercial/CRE",
-    "importance": "medium"
   }
 ]
