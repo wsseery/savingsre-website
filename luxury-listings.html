@@ -196,13 +196,14 @@
             if (btn) btn.style.display = 'none';
             if (trust) trust.style.display = 'none';
             if (success) success.hidden = false;
-            if (window.gtag) window.dataLayer = window.dataLayer || [];
+            window.dataLayer = window.dataLayer || [];
       window.dataLayer.push({
         event: 'form_submit_luxury_listing_intake',
         form_id: 'valuation-form',
         form_name: 'luxury_listing_intake',
         page_path: '/luxury-listings.html'
       });
+            window.dataLayer.push({ event: 'generate_lead', form_name: 'luxury_listing_intake' });
           }, 600);
           return true;
         }
