@@ -1,0 +1,229 @@
+{
+ "segment": "high-yield-sfl",
+ "collection": "curated",
+ "template": "curated-generic",
+ "label": "High-Yield Multifamily — 8%+ Cap",
+ "tagline": "Top 10 · Florida statewide · 5-25 units · $1-5M · ranked by cap rate",
+ "search_name": "Crexi (FL pull)",
+ "generated": "2026-11-24",
+ "pdf": "pdf/high-yield-sfl__2026-11-24.pdf",
+ "expires": "2026-12-24",
+ "total_results": 10,
+ "metric_label": "Cap rate",
+ "methodology": "Crexi Florida pull 2026-11-24 from the signed-in Crexi search (Florida/county/city location, property-type, price, unit and cap-rate filters, cap-rate sort) with each shortlisted listing's detail page read for Sub Type, units, square footage, class and NOI. 5-25 unit multifamily, $1-5M, cap floor 8% (relaxed to 7% where thin). Hospitality, RV/mobile-home mixes, development sites, mixed-use and 'subject-to' structured listings excluded; implausible caps dropped. This run: 38 statewide listings met 5-25 units / $1-5M / 7%+ after screens (21 at 8%+); top 10 shown.",
+ "items": [
+  {
+   "id": "high-yield-sfl-2026-11-24-01",
+   "analytics_id": "A-02426",
+   "rank": 1,
+   "submarket": "Daytona Beach",
+   "profile": "23-Unit Multifamily",
+   "price_band": "$2M-$2.5M",
+   "cap_label": "~11.45% cap",
+   "desc": "23-Unit Multifamily in Daytona Beach; ~11.45% cap, 23 units, ~7.0K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 23-Unit Multifamily, Daytona Beach (~11.45% cap)",
+   "highlights": [
+    "Investor: ~24-26% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~7.0K sq ft",
+    "value-add / below-market rents",
+    "reported fully occupied"
+   ],
+   "inv_line": [
+    "~24-26% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "high-yield-sfl-2026-11-24-02",
+   "analytics_id": "A-02427",
+   "rank": 2,
+   "submarket": "Miami",
+   "profile": "10-Unit Multifamily",
+   "price_band": "$2.5M-$3M",
+   "cap_label": "~9.80% cap",
+   "desc": "10-Unit Multifamily in Miami; ~9.80% cap, 10 units, ~2.8K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 10-Unit Multifamily, Miami (~9.80% cap)",
+   "highlights": [
+    "Investor: ~17-19% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~2.8K sq ft",
+    "Class B"
+   ],
+   "inv_line": [
+    "~17-19% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "high-yield-sfl-2026-11-24-03",
+   "analytics_id": "A-02428",
+   "rank": 3,
+   "submarket": "Daytona Beach",
+   "profile": "13-Unit Multifamily",
+   "price_band": "$1M-$1.5M",
+   "cap_label": "~9.78% cap",
+   "desc": "13-Unit Multifamily in Daytona Beach; ~9.78% cap, 13 units, ~6.6K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 13-Unit Multifamily, Daytona Beach (~9.78% cap)",
+   "highlights": [
+    "Investor: ~17-19% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~6.6K sq ft",
+    "seller financing available",
+    "value-add / below-market rents",
+    "reported fully occupied"
+   ],
+   "inv_line": [
+    "~17-19% est. cash-on-cash (25% down, IO @ ~7%)",
+    "seller financing available"
+   ]
+  },
+  {
+   "id": "high-yield-sfl-2026-11-24-04",
+   "analytics_id": "A-02429",
+   "rank": 4,
+   "submarket": "Jacksonville",
+   "profile": "21-Unit Rental Portfolio",
+   "price_band": "$2M-$2.5M",
+   "cap_label": "~9.70% cap",
+   "desc": "21-Unit Rental Portfolio in Jacksonville; ~9.70% cap, 21 units, ~20.3K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 21-Unit Rental Portfolio, Jacksonville (~9.70% cap)",
+   "highlights": [
+    "Investor: ~17-19% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~20.3K sq ft",
+    "Class C",
+    "seller financing available",
+    "value-add / below-market rents"
+   ],
+   "inv_line": [
+    "~17-19% est. cash-on-cash (25% down, IO @ ~7%)",
+    "seller financing available"
+   ]
+  },
+  {
+   "id": "high-yield-sfl-2026-11-24-05",
+   "analytics_id": "A-02430",
+   "rank": 5,
+   "submarket": "Miami",
+   "profile": "10-Unit Multifamily",
+   "price_band": "$3M-$4M",
+   "cap_label": "~9.50% cap",
+   "desc": "10-Unit Multifamily in Miami; ~9.50% cap, 10 units, ~5.6K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 10-Unit Multifamily, Miami (~9.50% cap)",
+   "highlights": [
+    "Investor: ~16-18% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~5.6K sq ft",
+    "Class B",
+    "Opportunity Zone",
+    "seller financing available"
+   ],
+   "inv_line": [
+    "~16-18% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Opportunity Zone",
+    "seller financing available"
+   ]
+  },
+  {
+   "id": "high-yield-sfl-2026-11-24-06",
+   "analytics_id": "A-02431",
+   "rank": 6,
+   "submarket": "Fort Lauderdale",
+   "profile": "9-Unit Multifamily",
+   "price_band": "$2M-$2.5M",
+   "cap_label": "~9.38% cap",
+   "desc": "9-Unit Multifamily in Fort Lauderdale; ~9.38% cap, 9 units, ~3.8K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 9-Unit Multifamily, Fort Lauderdale (~9.38% cap)",
+   "highlights": [
+    "Investor: ~16-18% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~3.8K sq ft",
+    "Class B",
+    "price reduced",
+    "value-add / below-market rents"
+   ],
+   "inv_line": [
+    "~16-18% est. cash-on-cash (25% down, IO @ ~7%)",
+    "price reduced"
+   ]
+  },
+  {
+   "id": "high-yield-sfl-2026-11-24-07",
+   "analytics_id": "A-02432",
+   "rank": 7,
+   "submarket": "Jacksonville",
+   "profile": "10-Unit Multifamily",
+   "price_band": "$1M-$1.5M",
+   "cap_label": "~9.37% cap",
+   "desc": "10-Unit Multifamily in Jacksonville; ~9.37% cap, 10 units, ~8.4K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 10-Unit Multifamily, Jacksonville (~9.37% cap)",
+   "highlights": [
+    "Investor: ~15-17% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~8.4K sq ft",
+    "Class B",
+    "Opportunity Zone",
+    "reported fully occupied"
+   ],
+   "inv_line": [
+    "~15-17% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Opportunity Zone"
+   ]
+  },
+  {
+   "id": "high-yield-sfl-2026-11-24-08",
+   "analytics_id": "A-02433",
+   "rank": 8,
+   "submarket": "Panama City",
+   "profile": "14-Unit Multifamily",
+   "price_band": "$1M-$1.5M",
+   "cap_label": "~9.25% cap",
+   "desc": "14-Unit Multifamily in Panama City; ~9.25% cap, 14 units, ~4.3K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 14-Unit Multifamily, Panama City (~9.25% cap)",
+   "highlights": [
+    "Investor: ~15-17% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~4.3K sq ft",
+    "Class B",
+    "reported fully occupied"
+   ],
+   "inv_line": [
+    "~15-17% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "high-yield-sfl-2026-11-24-09",
+   "analytics_id": "A-02434",
+   "rank": 9,
+   "submarket": "Hudson",
+   "profile": "11-Unit Multifamily",
+   "price_band": "$1.5M-$2M",
+   "cap_label": "~9.13% cap",
+   "desc": "11-Unit Multifamily in Hudson; ~9.13% cap, 11 units, ~7.3K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 11-Unit Multifamily, Hudson (~9.13% cap)",
+   "highlights": [
+    "Investor: ~15-17% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~7.3K sq ft",
+    "Class B",
+    "Opportunity Zone",
+    "reported fully occupied"
+   ],
+   "inv_line": [
+    "~15-17% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Opportunity Zone"
+   ]
+  },
+  {
+   "id": "high-yield-sfl-2026-11-24-10",
+   "analytics_id": "A-02435",
+   "rank": 10,
+   "submarket": "Miami Beach",
+   "profile": "12-Unit Multifamily",
+   "price_band": "$4M-$5M",
+   "cap_label": "~9.09% cap",
+   "desc": "12-Unit Multifamily in Miami Beach; ~9.09% cap, 12 units, ~9.4K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 12-Unit Multifamily, Miami Beach (~9.09% cap)",
+   "highlights": [
+    "Investor: ~14-16% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~9.4K sq ft",
+    "Class B",
+    "seller financing available"
+   ],
+   "inv_line": [
+    "~14-16% est. cash-on-cash (25% down, IO @ ~7%)",
+    "seller financing available"
+   ]
+  }
+ ]
+}

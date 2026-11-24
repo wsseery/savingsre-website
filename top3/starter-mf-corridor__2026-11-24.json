@@ -1,0 +1,124 @@
+{
+ "segment": "starter-mf-corridor",
+ "collection": "curated",
+ "template": "curated-generic",
+ "label": "Starter Multifamily — Coastal Corridor",
+ "tagline": "Top 8 · Delray Beach to Fort Lauderdale corridor · $800K-$2M · 2-9 units · ranked by lowest price per unit",
+ "search_name": "Crexi (FL pull)",
+ "generated": "2026-11-24",
+ "pdf": "pdf/starter-mf-corridor__2026-11-24.pdf",
+ "expires": "2026-12-24",
+ "total_results": 8,
+ "metric_label": "Price per unit",
+ "methodology": "Crexi Florida pull 2026-11-24 from the signed-in Crexi search (Florida/county/city location, property-type, price, unit and cap-rate filters, cap-rate sort) with each shortlisted listing's detail page read for Sub Type, units, square footage, class and NOI. Delray Beach to Fort Lauderdale corridor (incl. Boynton, Hollywood/Hallandale), $800K-$2M, 2-9 existing units, ranked by LOWEST price per unit. Aimed at smaller and first-time investors. Listings with unreliable unit counts excluded. This run: 45 qualifying corridor listings; the 8 lowest price-per-unit shown.",
+ "items": [
+  {
+   "id": "starter-mf-corridor-2026-11-24-01",
+   "analytics_id": "A-02508",
+   "rank": 1,
+   "submarket": "Fort Lauderdale",
+   "profile": "7-Unit Multifamily",
+   "price_band": "$500K-$1M",
+   "cap_label": "~$124K/unit",
+   "desc": "7-Unit Multifamily in Fort Lauderdale; 7 units. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 7-Unit Multifamily, Fort Lauderdale (~$124K/unit)",
+   "highlights": [],
+   "inv_line": []
+  },
+  {
+   "id": "starter-mf-corridor-2026-11-24-02",
+   "analytics_id": "A-02509",
+   "rank": 2,
+   "submarket": "Fort Lauderdale",
+   "profile": "8-Unit Multifamily",
+   "price_band": "$1M-$1.5M",
+   "cap_label": "~$156K/unit",
+   "desc": "8-Unit Multifamily in Fort Lauderdale; 8 units. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 8-Unit Multifamily, Fort Lauderdale (~$156K/unit)",
+   "highlights": [],
+   "inv_line": []
+  },
+  {
+   "id": "starter-mf-corridor-2026-11-24-03",
+   "analytics_id": "A-02510",
+   "rank": 3,
+   "submarket": "Dania Beach",
+   "profile": "6-Unit Multifamily",
+   "price_band": "$500K-$1M",
+   "cap_label": "~$158K/unit",
+   "desc": "6-Unit Multifamily in Dania Beach; 6 units. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 6-Unit Multifamily, Dania Beach (~$158K/unit)",
+   "highlights": [],
+   "inv_line": []
+  },
+  {
+   "id": "starter-mf-corridor-2026-11-24-04",
+   "analytics_id": "A-02511",
+   "rank": 4,
+   "submarket": "Fort Lauderdale",
+   "profile": "8-Unit Multifamily",
+   "price_band": "$1M-$1.5M",
+   "cap_label": "~$162K/unit",
+   "desc": "8-Unit Multifamily in Fort Lauderdale; 8 units. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 8-Unit Multifamily, Fort Lauderdale (~$162K/unit)",
+   "highlights": [],
+   "inv_line": []
+  },
+  {
+   "id": "starter-mf-corridor-2026-11-24-05",
+   "analytics_id": "A-02512",
+   "rank": 5,
+   "submarket": "Fort Lauderdale",
+   "profile": "6-Unit Multifamily",
+   "price_band": "$500K-$1M",
+   "cap_label": "~$165K/unit",
+   "desc": "6-Unit Multifamily in Fort Lauderdale; 6 units. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 6-Unit Multifamily, Fort Lauderdale (~$165K/unit)",
+   "highlights": [
+    "value-add / below-market rents"
+   ],
+   "inv_line": []
+  },
+  {
+   "id": "starter-mf-corridor-2026-11-24-06",
+   "analytics_id": "A-02513",
+   "rank": 6,
+   "submarket": "Fort Lauderdale",
+   "profile": "6-Unit Multifamily",
+   "price_band": "$500K-$1M",
+   "cap_label": "~$165K/unit",
+   "desc": "6-Unit Multifamily in Fort Lauderdale; 6 units. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 6-Unit Multifamily, Fort Lauderdale (~$165K/unit)",
+   "highlights": [
+    "value-add / below-market rents"
+   ],
+   "inv_line": []
+  },
+  {
+   "id": "starter-mf-corridor-2026-11-24-07",
+   "analytics_id": "A-02514",
+   "rank": 7,
+   "submarket": "Hollywood",
+   "profile": "7-Unit Multifamily",
+   "price_band": "$1M-$1.5M",
+   "cap_label": "~$175K/unit",
+   "desc": "7-Unit Multifamily in Hollywood; 7 units. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 7-Unit Multifamily, Hollywood (~$175K/unit)",
+   "highlights": [],
+   "inv_line": []
+  },
+  {
+   "id": "starter-mf-corridor-2026-11-24-08",
+   "analytics_id": "A-02515",
+   "rank": 8,
+   "submarket": "Hollywood",
+   "profile": "9-Unit Multifamily",
+   "price_band": "$1.5M-$2M",
+   "cap_label": "~$177K/unit",
+   "desc": "9-Unit Multifamily in Hollywood; 9 units. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: 9-Unit Multifamily, Hollywood (~$177K/unit)",
+   "highlights": [],
+   "inv_line": []
+  }
+ ]
+}
