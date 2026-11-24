@@ -1,7 +1,7 @@
 {
   "meta": {
-    "updated": "2026-11-11",
-    "period": "Residential through September 2026; rates as of November 10, 2026",
+    "updated": "2026-11-23",
+    "period": "Residential through October 2026; rates as of November 23, 2026",
     "coverage": "SE Florida (Miami-Dade, Broward, Palm Beach, Martin, St. Lucie) + statewide FL",
     "disclaimer": "Figures compiled from public market reports (Florida Realtors, MIAMI Realtors, CBRE, Freddie Mac, FL OIR) and are informational only - not investment, tax, or financial advice. Deemed reliable but not guaranteed.",
     "note_source": "County residential metrics are pulled monthly from the MIAMI REALTORS + RWorld county statistics releases (miamirealtors.com, MIAMI MLS + BeachesMLS), published ~the 16th-17th for the prior month; the statewide row comes from the Florida Realtors Monthly Market Summary (floridarealtors.org/newsroom/market-data). Note: as of September 2026 the Florida Realtors county report generator requires member login, so the public MIAMI REALTORS county releases are the county source. This replaced the RAPB-GFLR ShowingTime MMI as the residential source on 2026-07-23."
@@ -15,56 +15,56 @@
       "Closed Sales YoY",
       "Homes for Sale YoY"
     ],
-    "source": "September 2026. County rows: MIAMI REALTORS + RWorld September 2026 county statistics (released October 16, 2026; MIAMI MLS + BeachesMLS). Statewide row: Florida Realtors Monthly Market Summary, September 2026 (released October 16, 2026). Next release November 16, 2026.",
+    "source": "October 2026. County rows: MIAMI REALTORS + RWorld October 2026 county statistics (released November 16, 2026; MIAMI MLS + BeachesMLS). Statewide row: Florida Realtors Monthly Market Summary, October 2026 (released November 16, 2026). Next release December 16, 2026.",
     "note": "SF Median = single-family median sale price; Condo Median = townhouse/condo median sale price. Closed Sales YoY and Homes for Sale YoY are single-family, year-over-year.",
     "rows": [
       {
         "area": "Miami-Dade County",
-        "sfMedian": "$692,000",
-        "sfYoy": "+4.1%",
-        "condoMedian": "$417,090",
-        "closedYoy": "-4.7%",
-        "homesYoy": "-16.6%"
+        "sfMedian": "$706,000",
+        "sfYoy": "+3.5%",
+        "condoMedian": "$397,500",
+        "closedYoy": "-11.8%",
+        "homesYoy": "-13.8%"
       },
       {
         "area": "Broward County",
-        "sfMedian": "$641,500",
-        "sfYoy": "+2.4%",
-        "condoMedian": "$235,000",
-        "closedYoy": "-7.1%",
-        "homesYoy": "-18.1%"
+        "sfMedian": "$610,000",
+        "sfYoy": "-0.2%",
+        "condoMedian": "$240,300",
+        "closedYoy": "-14.0%",
+        "homesYoy": "-16.7%"
       },
       {
         "area": "Palm Beach County",
-        "sfMedian": "$656,000",
-        "sfYoy": "+6.7%",
-        "condoMedian": "$310,000",
-        "closedYoy": "-2.7%",
-        "homesYoy": "-19.6%"
+        "sfMedian": "$682,500",
+        "sfYoy": "+6.1%",
+        "condoMedian": "$300,000",
+        "closedYoy": "-13.8%",
+        "homesYoy": "-16.8%"
       },
       {
         "area": "Martin County",
-        "sfMedian": "$600,000",
-        "sfYoy": "+5.3%",
-        "condoMedian": "$237,500",
-        "closedYoy": "-4.0%",
-        "homesYoy": "-18.1%"
+        "sfMedian": "$628,000",
+        "sfYoy": "+4.7%",
+        "condoMedian": "$235,000",
+        "closedYoy": "-17.7%",
+        "homesYoy": "-11.9%"
       },
       {
         "area": "St. Lucie County",
-        "sfMedian": "$395,000",
-        "sfYoy": "-1.3%",
-        "condoMedian": "$337,500",
-        "closedYoy": "-8.7%",
-        "homesYoy": "-1.3%"
+        "sfMedian": "$399,950",
+        "sfYoy": "+2.6%",
+        "condoMedian": "$320,000",
+        "closedYoy": "-19.5%",
+        "homesYoy": "+0.4%"
       },
       {
         "area": "Florida (statewide)",
-        "sfMedian": "$415,000",
-        "sfYoy": "+1.2%",
-        "condoMedian": "$293,500",
-        "closedYoy": "-3.5%",
-        "homesYoy": "-9.8%"
+        "sfMedian": "$420,000",
+        "sfYoy": "+2.2%",
+        "condoMedian": "$290,000",
+        "closedYoy": "-10.1%",
+        "homesYoy": "-7.4%"
       }
     ]
   },
@@ -129,17 +129,17 @@
     ]
   },
   "rates": {
-    "updated": "2026-11-10",
+    "updated": "2026-11-23",
     "cards": [
       {
         "label": "30-Yr Fixed (conforming)",
-        "value": "7.30%",
-        "sub": "daily lender avg Nov 10; Freddie Mac PMMS 7.18% for the wk of 11/5, down from 7.24% (next print 11/12)"
+        "value": "7.34%",
+        "sub": "daily lender avg Nov 23; Freddie Mac PMMS 7.28% for the wk of 11/19, up from 7.11%"
       },
       {
         "label": "30-Yr Jumbo",
-        "value": "7.40%",
-        "sub": "daily jumbo avg Nov 10"
+        "value": "7.45%",
+        "sub": "daily jumbo avg Nov 23"
       },
       {
         "label": "Jumbo loan threshold",
@@ -149,7 +149,7 @@
     ]
   },
   "insurance": {
-    "updated": "2026-09-23",
+    "updated": "2026-11-20",
     "trend": "Improving / stabilizing",
     "cards": [
       {
@@ -164,8 +164,8 @@
       },
       {
         "label": "Citizens Policy Count",
-        "value": "~266K",
-        "sub": "Aug 2026; down ~81% from 1.41M peak (Oct 2023)"
+        "value": "216,447",
+        "sub": "end of Oct 2026; peak was over 1.4M (Sept 2023). CEO Cerio leaving in Jan"
       },
       {
         "label": "June 2026 Reinsurance Pricing",

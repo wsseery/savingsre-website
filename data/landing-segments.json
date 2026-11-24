@@ -8,7 +8,7 @@
       "short": "Retail Space for Lease",
       "h1": "Retail Space for Lease in South Florida",
       "title": "Retail Space for Lease: Palm Beach, Broward, Miami-Dade",
-      "description": "Storefront, strip-center and restaurant space for lease in Palm Beach, Broward and Miami-Dade. Active listings refreshed weekly with tenant-side commentary.",
+      "description": "Storefront, strip-center and restaurant space for lease in Palm Beach, Broward and Miami-Dade. Active listings refreshed weekly, tenant-side notes.",
       "subhead": "Storefronts, strip-center bays, restaurant and free-standing retail space, updated every week.",
       "image": {
         "file": "storefronts.svg",
@@ -58,36 +58,36 @@
       "new_search": true,
       "criteria_verified": true,
       "weekly": {
-        "date": "2026-11-02",
-        "result_count": 523,
-        "prior_count": 533,
-        "mls_url": "https://www.flexmls.com/link.html?1zewzfyh2pc1,15,1&utm_source=savingsre&utm_medium=website&utm_campaign=landing_page&utm_content=retail-space-for-lease",
-        "link_generated": "2026-11-02",
-        "link_expires": "2026-12-02",
+        "date": "2026-11-23",
+        "result_count": 525,
+        "prior_count": 518,
+        "mls_url": "https://www.flexmls.com/link.html?1zf4fambjy7f,15,1&utm_source=savingsre&utm_medium=website&utm_campaign=landing_page&utm_content=retail-space-for-lease",
+        "link_generated": "2026-11-23",
+        "link_expires": "2026-12-23",
         "commentary": [
-          "This week the search shows 523 active listings across Palm Beach, Broward and Miami-Dade, down 10 from Oct 31. The median space has been on the market 140 days, and 121 listings have changed their asking rent since they were listed, which can point to landlords with room to negotiate.",
+          "This week the search shows 525 active listings across Palm Beach, Broward and Miami-Dade, up 7 from Nov 16. The median space has been on the market 137 days, and 124 listings have changed their asking rent since they were listed, which can point to landlords with room to negotiate.",
           "Region-wide, retail vacancy across Miami-Dade, Broward and Palm Beach was 3.4% in the second quarter of 2026, according to Lee & Associates."
         ],
         "figures": [
           {
             "label": "Active listings",
-            "value": "523",
-            "source": "FlexMLS saved search WSS-LP-LSE-Retail, run Nov 2, 2026"
+            "value": "525",
+            "source": "FlexMLS saved search WSS-LP-LSE-Retail, run Nov 23, 2026"
           },
           {
-            "label": "Change in active listings since Oct 31, 2026",
-            "value": "-10",
-            "source": "533 on Oct 31 vs 523 on Nov 2, 2026, FlexMLS saved search WSS-LP-LSE-Retail, run Nov 2, 2026"
+            "label": "Change in active listings since Nov 16, 2026",
+            "value": "+7",
+            "source": "518 on Nov 16 vs 525 on Nov 23, 2026, FlexMLS saved search WSS-LP-LSE-Retail, run Nov 23, 2026"
           },
           {
             "label": "Median days on market",
-            "value": "140",
-            "source": "FlexMLS saved search WSS-LP-LSE-Retail, run Nov 2, 2026"
+            "value": "137",
+            "source": "FlexMLS saved search WSS-LP-LSE-Retail, run Nov 23, 2026"
           },
           {
             "label": "Listings with a price change since listing",
-            "value": "121",
-            "source": "FlexMLS saved search WSS-LP-LSE-Retail, run Nov 2, 2026"
+            "value": "124",
+            "source": "FlexMLS saved search WSS-LP-LSE-Retail, run Nov 23, 2026"
           },
           {
             "label": "Tri-county retail vacancy, Q2 2026",
@@ -104,6 +104,18 @@
         {
           "date": "2026-11-02",
           "result_count": 523
+        },
+        {
+          "date": "2026-11-09",
+          "result_count": 524
+        },
+        {
+          "date": "2026-11-16",
+          "result_count": 518
+        },
+        {
+          "date": "2026-11-23",
+          "result_count": 525
         }
       ],
       "source_search": "new"
@@ -165,36 +177,36 @@
       "new_search": true,
       "criteria_verified": true,
       "weekly": {
-        "date": "2026-11-02",
-        "result_count": 925,
+        "date": "2026-11-23",
+        "result_count": 949,
         "prior_count": 946,
-        "mls_url": "https://www.flexmls.com/link.html?1zewzfzvmh3g,15,1&utm_source=savingsre&utm_medium=website&utm_campaign=landing_page&utm_content=office-space-for-lease",
-        "link_generated": "2026-11-02",
-        "link_expires": "2026-12-02",
+        "mls_url": "https://www.flexmls.com/link.html?1zf4faokhj3j,15,1&utm_source=savingsre&utm_medium=website&utm_campaign=landing_page&utm_content=office-space-for-lease",
+        "link_generated": "2026-11-23",
+        "link_expires": "2026-12-23",
         "commentary": [
-          "This week the search shows 925 active listings across Palm Beach, Broward and Miami-Dade, down 21 from Oct 31. The median space has been on the market 117 days, and 225 listings have changed their asking rent since they were listed, which can point to landlords with room to negotiate.",
+          "This week the search shows 949 active listings across Palm Beach, Broward and Miami-Dade, up 3 from Nov 16. The median space has been on the market 109 days, and 230 listings have changed their asking rent since they were listed, which can point to landlords with room to negotiate.",
           "Region-wide, office vacancy was 8.3% in the second quarter of 2026, and 7.5% in Palm Beach County, according to Lee & Associates."
         ],
         "figures": [
           {
             "label": "Active listings",
-            "value": "925",
-            "source": "FlexMLS saved search WSS-LP-LSE-Office, run Nov 2, 2026"
+            "value": "949",
+            "source": "FlexMLS saved search WSS-LP-LSE-Office, run Nov 23, 2026"
           },
           {
-            "label": "Change in active listings since Oct 31, 2026",
-            "value": "-21",
-            "source": "946 on Oct 31 vs 925 on Nov 2, 2026, FlexMLS saved search WSS-LP-LSE-Office, run Nov 2, 2026"
+            "label": "Change in active listings since Nov 16, 2026",
+            "value": "+3",
+            "source": "946 on Nov 16 vs 949 on Nov 23, 2026, FlexMLS saved search WSS-LP-LSE-Office, run Nov 23, 2026"
           },
           {
             "label": "Median days on market",
-            "value": "117",
-            "source": "FlexMLS saved search WSS-LP-LSE-Office, run Nov 2, 2026"
+            "value": "109",
+            "source": "FlexMLS saved search WSS-LP-LSE-Office, run Nov 23, 2026"
           },
           {
             "label": "Listings with a price change since listing",
-            "value": "225",
-            "source": "FlexMLS saved search WSS-LP-LSE-Office, run Nov 2, 2026"
+            "value": "230",
+            "source": "FlexMLS saved search WSS-LP-LSE-Office, run Nov 23, 2026"
           },
           {
             "label": "Tri-county office vacancy, Q2 2026",
@@ -216,6 +228,18 @@
         {
           "date": "2026-11-02",
           "result_count": 925
+        },
+        {
+          "date": "2026-11-09",
+          "result_count": 929
+        },
+        {
+          "date": "2026-11-16",
+          "result_count": 946
+        },
+        {
+          "date": "2026-11-23",
+          "result_count": 949
         }
       ],
       "source_search": "new"
@@ -226,8 +250,8 @@
       "category": "commercial-lease",
       "short": "Industrial & Warehouse for Lease",
       "h1": "Industrial & Warehouse Space for Lease in South Florida",
-      "title": "Warehouse & Industrial Space for Lease: South Florida",
-      "description": "Warehouse, flex and light-industrial space for lease in Palm Beach, Broward and Miami-Dade, from small bays to distribution buildings. Updated weekly.",
+      "title": "Industrial Space & Warehouses for Lease: South Florida",
+      "description": "Industrial space and warehouses for lease in Palm Beach, Broward and Miami-Dade, from small flex bays to distribution buildings. Updated weekly.",
       "subhead": "Small-bay flex, warehouse and distribution space, updated every week.",
       "image": {
         "file": "warehouse.svg",
@@ -277,36 +301,36 @@
       "new_search": true,
       "criteria_verified": true,
       "weekly": {
-        "date": "2026-11-02",
-        "result_count": 406,
-        "prior_count": 406,
-        "mls_url": "https://www.flexmls.com/link.html?1zewzg0fpmz9,15,1&utm_source=savingsre&utm_medium=website&utm_campaign=landing_page&utm_content=industrial-warehouse-for-lease",
-        "link_generated": "2026-11-02",
-        "link_expires": "2026-12-02",
+        "date": "2026-11-23",
+        "result_count": 426,
+        "prior_count": 404,
+        "mls_url": "https://www.flexmls.com/link.html?1zf4faq5woy7,15,1&utm_source=savingsre&utm_medium=website&utm_campaign=landing_page&utm_content=industrial-warehouse-for-lease",
+        "link_generated": "2026-11-23",
+        "link_expires": "2026-12-23",
         "commentary": [
-          "This week the search shows 406 active listings across Palm Beach, Broward and Miami-Dade, unchanged from Oct 31. The median space has been on the market 110.5 days, and 117 listings have changed their asking rent since they were listed, which can point to landlords with room to negotiate.",
+          "This week the search shows 426 active listings across Palm Beach, Broward and Miami-Dade, up 22 from Nov 16. The median space has been on the market 104 days, and 120 listings have changed their asking rent since they were listed, which can point to landlords with room to negotiate.",
           "Region-wide, industrial vacancy rose to 6.7% in the second quarter of 2026 from 5.6% a year earlier, according to Lee & Associates."
         ],
         "figures": [
           {
             "label": "Active listings",
-            "value": "406",
-            "source": "FlexMLS saved search WSS-LP-LSE-Industrial, run Nov 2, 2026"
+            "value": "426",
+            "source": "FlexMLS saved search WSS-LP-LSE-Industrial, run Nov 23, 2026"
           },
           {
-            "label": "Change in active listings since Oct 31, 2026",
-            "value": "0",
-            "source": "406 on Oct 31 vs 406 on Nov 2, 2026, FlexMLS saved search WSS-LP-LSE-Industrial, run Nov 2, 2026"
+            "label": "Change in active listings since Nov 16, 2026",
+            "value": "+22",
+            "source": "404 on Nov 16 vs 426 on Nov 23, 2026, FlexMLS saved search WSS-LP-LSE-Industrial, run Nov 23, 2026"
           },
           {
             "label": "Median days on market",
-            "value": "110.5",
-            "source": "FlexMLS saved search WSS-LP-LSE-Industrial, run Nov 2, 2026"
+            "value": "104",
+            "source": "FlexMLS saved search WSS-LP-LSE-Industrial, run Nov 23, 2026"
           },
           {
             "label": "Listings with a price change since listing",
-            "value": "117",
-            "source": "FlexMLS saved search WSS-LP-LSE-Industrial, run Nov 2, 2026"
+            "value": "120",
+            "source": "FlexMLS saved search WSS-LP-LSE-Industrial, run Nov 23, 2026"
           },
           {
             "label": "Tri-county industrial vacancy, Q2 2026",
@@ -328,6 +352,18 @@
         {
           "date": "2026-11-02",
           "result_count": 406
+        },
+        {
+          "date": "2026-11-09",
+          "result_count": 409
+        },
+        {
+          "date": "2026-11-16",
+          "result_count": 404
+        },
+        {
+          "date": "2026-11-23",
+          "result_count": 426
         }
       ],
       "source_search": "new"
@@ -393,36 +429,36 @@
       "new_search": true,
       "criteria_verified": true,
       "weekly": {
-        "date": "2026-11-02",
-        "result_count": 263,
-        "prior_count": 265,
-        "mls_url": "https://www.flexmls.com/link.html?1zewzg1ueloi,15,1&utm_source=savingsre&utm_medium=website&utm_campaign=landing_page&utm_content=medical-office-for-lease",
-        "link_generated": "2026-11-02",
-        "link_expires": "2026-12-02",
+        "date": "2026-11-23",
+        "result_count": 270,
+        "prior_count": 272,
+        "mls_url": "https://www.flexmls.com/link.html?1zf4farp6flv,15,1&utm_source=savingsre&utm_medium=website&utm_campaign=landing_page&utm_content=medical-office-for-lease",
+        "link_generated": "2026-11-23",
+        "link_expires": "2026-12-23",
         "commentary": [
-          "This week the search shows 263 active listings across Palm Beach, Broward and Miami-Dade, down 2 from Oct 31. The median space has been on the market 132 days, and 56 listings have changed their asking rent since they were listed, which can point to landlords with room to negotiate.",
+          "This week the search shows 270 active listings across Palm Beach, Broward and Miami-Dade, down 2 from Nov 16. The median space has been on the market 128 days, and 60 listings have changed their asking rent since they were listed, which can point to landlords with room to negotiate.",
           "Region-wide, office vacancy was 8.3% in the second quarter of 2026, and 7.5% in Palm Beach County, according to Lee & Associates."
         ],
         "figures": [
           {
             "label": "Active listings",
-            "value": "263",
-            "source": "FlexMLS saved search WSS-LP-LSE-Medical, run Nov 2, 2026"
+            "value": "270",
+            "source": "FlexMLS saved search WSS-LP-LSE-Medical, run Nov 23, 2026"
           },
           {
-            "label": "Change in active listings since Oct 31, 2026",
+            "label": "Change in active listings since Nov 16, 2026",
             "value": "-2",
-            "source": "265 on Oct 31 vs 263 on Nov 2, 2026, FlexMLS saved search WSS-LP-LSE-Medical, run Nov 2, 2026"
+            "source": "272 on Nov 16 vs 270 on Nov 23, 2026, FlexMLS saved search WSS-LP-LSE-Medical, run Nov 23, 2026"
           },
           {
             "label": "Median days on market",
-            "value": "132",
-            "source": "FlexMLS saved search WSS-LP-LSE-Medical, run Nov 2, 2026"
+            "value": "128",
+            "source": "FlexMLS saved search WSS-LP-LSE-Medical, run Nov 23, 2026"
           },
           {
             "label": "Listings with a price change since listing",
-            "value": "56",
-            "source": "FlexMLS saved search WSS-LP-LSE-Medical, run Nov 2, 2026"
+            "value": "60",
+            "source": "FlexMLS saved search WSS-LP-LSE-Medical, run Nov 23, 2026"
           },
           {
             "label": "Tri-county office vacancy, Q2 2026",
@@ -444,6 +480,18 @@
         {
           "date": "2026-11-02",
           "result_count": 263
+        },
+        {
+          "date": "2026-11-09",
+          "result_count": 260
+        },
+        {
+          "date": "2026-11-16",
+          "result_count": 272
+        },
+        {
+          "date": "2026-11-23",
+          "result_count": 270
         }
       ],
       "source_search": "new"
@@ -454,7 +502,7 @@
       "category": "commercial-sale",
       "short": "Retail & Strip Centers for Sale",
       "h1": "Retail Buildings & Strip Centers for Sale in South Florida",
-      "title": "Retail & Strip Centers for Sale: Palm Beach, Broward, Dade",
+      "title": "Strip Centers & Retail for Sale: Palm Beach, Broward, Dade",
       "description": "Strip centers, retail buildings and free-standing retail for sale in Palm Beach, Broward and Miami-Dade, from $750K. Refreshed weekly with commentary.",
       "subhead": "Strip centers, retail buildings and free-standing retail from $750K, updated every week.",
       "image": {
@@ -509,46 +557,46 @@
       "new_search": false,
       "criteria_verified": true,
       "weekly": {
-        "date": "2026-11-02",
-        "result_count": 146,
-        "prior_count": 148,
-        "mls_url": "https://www.flexmls.com/link.html?1zewzg3277wt,15,1&utm_source=savingsre&utm_medium=website&utm_campaign=landing_page&utm_content=retail-strip-centers-for-sale",
-        "link_generated": "2026-11-02",
-        "link_expires": "2026-12-02",
+        "date": "2026-11-23",
+        "result_count": 155,
+        "prior_count": 153,
+        "mls_url": "https://www.flexmls.com/link.html?1zf4fat15534,15,1&utm_source=savingsre&utm_medium=website&utm_campaign=landing_page&utm_content=retail-strip-centers-for-sale",
+        "link_generated": "2026-11-23",
+        "link_expires": "2026-12-23",
         "commentary": [
-          "This week the search shows 146 active listings across Palm Beach, Broward and Miami-Dade, down 2 from Oct 31, with a median asking price of $2,375,000. The median listing has been on the market 177 days, and 52 listings (36%) have changed price since they were listed.",
+          "This week the search shows 155 active listings across Palm Beach, Broward and Miami-Dade, up 2 from Nov 16, with a median asking price of $2,500,000. The median listing has been on the market 171 days, and 58 listings (37%) have changed price since they were listed.",
           "Region-wide, retail vacancy across Miami-Dade, Broward and Palm Beach was 3.4% in the second quarter of 2026, according to Lee & Associates."
         ],
         "figures": [
           {
             "label": "Active listings",
-            "value": "146",
-            "source": "FlexMLS saved search WSS-LP-COM-Retail, run Nov 2, 2026"
+            "value": "155",
+            "source": "FlexMLS saved search WSS-LP-COM-Retail, run Nov 23, 2026"
           },
           {
-            "label": "Change in active listings since Oct 31, 2026",
-            "value": "-2",
-            "source": "148 on Oct 31 vs 146 on Nov 2, 2026, FlexMLS saved search WSS-LP-COM-Retail, run Nov 2, 2026"
+            "label": "Change in active listings since Nov 16, 2026",
+            "value": "+2",
+            "source": "153 on Nov 16 vs 155 on Nov 23, 2026, FlexMLS saved search WSS-LP-COM-Retail, run Nov 23, 2026"
           },
           {
             "label": "Median list price",
-            "value": "$2,375,000",
-            "source": "FlexMLS saved search WSS-LP-COM-Retail, run Nov 2, 2026"
+            "value": "$2,500,000",
+            "source": "FlexMLS saved search WSS-LP-COM-Retail, run Nov 23, 2026"
           },
           {
             "label": "Median days on market",
-            "value": "177",
-            "source": "FlexMLS saved search WSS-LP-COM-Retail, run Nov 2, 2026"
+            "value": "171",
+            "source": "FlexMLS saved search WSS-LP-COM-Retail, run Nov 23, 2026"
           },
           {
             "label": "Listings with a price change since listing",
-            "value": "52",
-            "source": "FlexMLS saved search WSS-LP-COM-Retail, run Nov 2, 2026"
+            "value": "58",
+            "source": "FlexMLS saved search WSS-LP-COM-Retail, run Nov 23, 2026"
           },
           {
             "label": "Share of listings with a price change",
-            "value": "36%",
-            "source": "52 of 146, FlexMLS saved search WSS-LP-COM-Retail, run Nov 2, 2026"
+            "value": "37%",
+            "source": "58 of 155, FlexMLS saved search WSS-LP-COM-Retail, run Nov 23, 2026"
           },
           {
             "label": "Tri-county retail vacancy, Q2 2026",
@@ -565,6 +613,18 @@
         {
           "date": "2026-11-02",
           "result_count": 146
+        },
+        {
+          "date": "2026-11-09",
+          "result_count": 149
+        },
+        {
+          "date": "2026-11-16",
+          "result_count": 153
+        },
+        {
+          "date": "2026-11-23",
+          "result_count": 155
         }
       ],
       "source_search": "WSS-COM-Retail"
@@ -630,46 +690,46 @@
       "new_search": false,
       "criteria_verified": true,
       "weekly": {
-        "date": "2026-11-02",
-        "result_count": 173,
-        "prior_count": 174,
-        "mls_url": "https://www.flexmls.com/link.html?1zewzga7cay8,15,1&utm_source=savingsre&utm_medium=website&utm_campaign=landing_page&utm_content=industrial-warehouse-for-sale",
-        "link_generated": "2026-11-02",
-        "link_expires": "2026-12-02",
+        "date": "2026-11-23",
+        "result_count": 178,
+        "prior_count": 169,
+        "mls_url": "https://www.flexmls.com/link.html?1zf4fauneka0,15,1&utm_source=savingsre&utm_medium=website&utm_campaign=landing_page&utm_content=industrial-warehouse-for-sale",
+        "link_generated": "2026-11-23",
+        "link_expires": "2026-12-23",
         "commentary": [
-          "This week the search shows 173 active listings across Palm Beach, Broward and Miami-Dade, down 1 from Oct 31, with a median asking price of $2,400,000. The median listing has been on the market 104 days, and 54 listings (31%) have changed price since they were listed.",
+          "This week the search shows 178 active listings across Palm Beach, Broward and Miami-Dade, up 9 from Nov 16, with a median asking price of $2,500,000. The median listing has been on the market 112 days, and 59 listings (33%) have changed price since they were listed.",
           "Region-wide, industrial vacancy rose to 6.7% in the second quarter of 2026 from 5.6% a year earlier, according to Lee & Associates."
         ],
         "figures": [
           {
             "label": "Active listings",
-            "value": "173",
-            "source": "FlexMLS saved search WSS-LP-COM-Industrial, run Nov 2, 2026"
+            "value": "178",
+            "source": "FlexMLS saved search WSS-LP-COM-Industrial, run Nov 23, 2026"
           },
           {
-            "label": "Change in active listings since Oct 31, 2026",
-            "value": "-1",
-            "source": "174 on Oct 31 vs 173 on Nov 2, 2026, FlexMLS saved search WSS-LP-COM-Industrial, run Nov 2, 2026"
+            "label": "Change in active listings since Nov 16, 2026",
+            "value": "+9",
+            "source": "169 on Nov 16 vs 178 on Nov 23, 2026, FlexMLS saved search WSS-LP-COM-Industrial, run Nov 23, 2026"
           },
           {
             "label": "Median list price",
-            "value": "$2,400,000",
-            "source": "FlexMLS saved search WSS-LP-COM-Industrial, run Nov 2, 2026"
+            "value": "$2,500,000",
+            "source": "FlexMLS saved search WSS-LP-COM-Industrial, run Nov 23, 2026"
           },
           {
             "label": "Median days on market",
-            "value": "104",
-            "source": "FlexMLS saved search WSS-LP-COM-Industrial, run Nov 2, 2026"
+            "value": "112",
+            "source": "FlexMLS saved search WSS-LP-COM-Industrial, run Nov 23, 2026"
           },
           {
             "label": "Listings with a price change since listing",
-            "value": "54",
-            "source": "FlexMLS saved search WSS-LP-COM-Industrial, run Nov 2, 2026"
+            "value": "59",
+            "source": "FlexMLS saved search WSS-LP-COM-Industrial, run Nov 23, 2026"
           },
           {
             "label": "Share of listings with a price change",
-            "value": "31%",
-            "source": "54 of 173, FlexMLS saved search WSS-LP-COM-Industrial, run Nov 2, 2026"
+            "value": "33%",
+            "source": "59 of 178, FlexMLS saved search WSS-LP-COM-Industrial, run Nov 23, 2026"
           },
           {
             "label": "Tri-county industrial vacancy, Q2 2026",
@@ -691,6 +751,18 @@
         {
           "date": "2026-11-02",
           "result_count": 173
+        },
+        {
+          "date": "2026-11-09",
+          "result_count": 171
+        },
+        {
+          "date": "2026-11-16",
+          "result_count": 169
+        },
+        {
+          "date": "2026-11-23",
+          "result_count": 178
         }
       ],
       "source_search": "WSS-COM-Industrial"
@@ -756,46 +828,46 @@
       "new_search": false,
       "criteria_verified": true,
       "weekly": {
-        "date": "2026-11-02",
-        "result_count": 180,
-        "prior_count": 184,
-        "mls_url": "https://www.flexmls.com/link.html?1zewzg4y94er,15,1&utm_source=savingsre&utm_medium=website&utm_campaign=landing_page&utm_content=office-buildings-for-sale",
-        "link_generated": "2026-11-02",
-        "link_expires": "2026-12-02",
+        "date": "2026-11-23",
+        "result_count": 191,
+        "prior_count": 183,
+        "mls_url": "https://www.flexmls.com/link.html?1zf4fav74n39,15,1&utm_source=savingsre&utm_medium=website&utm_campaign=landing_page&utm_content=office-buildings-for-sale",
+        "link_generated": "2026-11-23",
+        "link_expires": "2026-12-23",
         "commentary": [
-          "This week the search shows 180 active listings across Palm Beach, Broward and Miami-Dade, down 4 from Oct 31, with a median asking price of $1,697,500. The median listing has been on the market 138.5 days, and 58 listings (32%) have changed price since they were listed.",
+          "This week the search shows 191 active listings across Palm Beach, Broward and Miami-Dade, up 8 from Nov 16, with a median asking price of $1,750,000. The median listing has been on the market 138 days, and 54 listings (28%) have changed price since they were listed.",
           "Region-wide, office vacancy was 8.3% in the second quarter of 2026, and 7.5% in Palm Beach County, according to Lee & Associates."
         ],
         "figures": [
           {
             "label": "Active listings",
-            "value": "180",
-            "source": "FlexMLS saved search WSS-LP-COM-Office, run Nov 2, 2026"
+            "value": "191",
+            "source": "FlexMLS saved search WSS-LP-COM-Office, run Nov 23, 2026"
           },
           {
-            "label": "Change in active listings since Oct 31, 2026",
-            "value": "-4",
-            "source": "184 on Oct 31 vs 180 on Nov 2, 2026, FlexMLS saved search WSS-LP-COM-Office, run Nov 2, 2026"
+            "label": "Change in active listings since Nov 16, 2026",
+            "value": "+8",
+            "source": "183 on Nov 16 vs 191 on Nov 23, 2026, FlexMLS saved search WSS-LP-COM-Office, run Nov 23, 2026"
           },
           {
             "label": "Median list price",
-            "value": "$1,697,500",
-            "source": "FlexMLS saved search WSS-LP-COM-Office, run Nov 2, 2026"
+            "value": "$1,750,000",
+            "source": "FlexMLS saved search WSS-LP-COM-Office, run Nov 23, 2026"
           },
           {
             "label": "Median days on market",
-            "value": "138.5",
-            "source": "FlexMLS saved search WSS-LP-COM-Office, run Nov 2, 2026"
+            "value": "138",
+            "source": "FlexMLS saved search WSS-LP-COM-Office, run Nov 23, 2026"
           },
           {
             "label": "Listings with a price change since listing",
-            "value": "58",
-            "source": "FlexMLS saved search WSS-LP-COM-Office, run Nov 2, 2026"
+            "value": "54",
+            "source": "FlexMLS saved search WSS-LP-COM-Office, run Nov 23, 2026"
           },
           {
             "label": "Share of listings with a price change",
-            "value": "32%",
-            "source": "58 of 180, FlexMLS saved search WSS-LP-COM-Office, run Nov 2, 2026"
+            "value": "28%",
+            "source": "54 of 191, FlexMLS saved search WSS-LP-COM-Office, run Nov 23, 2026"
           },
           {
             "label": "Tri-county office vacancy, Q2 2026",
@@ -817,6 +889,18 @@
         {
           "date": "2026-11-02",
           "result_count": 180
+        },
+        {
+          "date": "2026-11-09",
+          "result_count": 182
+        },
+        {
+          "date": "2026-11-16",
+          "result_count": 183
+        },
+        {
+          "date": "2026-11-23",
+          "result_count": 191
         }
       ],
       "source_search": "WSS-COM-Office"
@@ -882,46 +966,46 @@
       "new_search": true,
       "criteria_verified": true,
       "weekly": {
-        "date": "2026-11-02",
+        "date": "2026-11-23",
         "result_count": 82,
-        "prior_count": 84,
-        "mls_url": "https://www.flexmls.com/link.html?1zewzg5e3vn1,15,1&utm_source=savingsre&utm_medium=website&utm_campaign=landing_page&utm_content=medical-office-for-sale",
-        "link_generated": "2026-11-02",
-        "link_expires": "2026-12-02",
+        "prior_count": 79,
+        "mls_url": "https://www.flexmls.com/link.html?1zf4fawdb50d,15,1&utm_source=savingsre&utm_medium=website&utm_campaign=landing_page&utm_content=medical-office-for-sale",
+        "link_generated": "2026-11-23",
+        "link_expires": "2026-12-23",
         "commentary": [
-          "This week the search shows 82 active listings across Palm Beach, Broward and Miami-Dade, down 2 from Oct 31, with a median asking price of $1,747,500. The median listing has been on the market 108.5 days, and 22 listings (27%) have changed price since they were listed.",
+          "This week the search shows 82 active listings across Palm Beach, Broward and Miami-Dade, up 3 from Nov 16, with a median asking price of $1,750,000. The median listing has been on the market 115 days, and 18 listings (22%) have changed price since they were listed.",
           "Region-wide, office vacancy was 8.3% in the second quarter of 2026, and 7.5% in Palm Beach County, according to Lee & Associates."
         ],
         "figures": [
           {
             "label": "Active listings",
             "value": "82",
-            "source": "FlexMLS saved search WSS-LP-COM-Medical, run Nov 2, 2026"
+            "source": "FlexMLS saved search WSS-LP-COM-Medical, run Nov 23, 2026"
           },
           {
-            "label": "Change in active listings since Oct 31, 2026",
-            "value": "-2",
-            "source": "84 on Oct 31 vs 82 on Nov 2, 2026, FlexMLS saved search WSS-LP-COM-Medical, run Nov 2, 2026"
+            "label": "Change in active listings since Nov 16, 2026",
+            "value": "+3",
+            "source": "79 on Nov 16 vs 82 on Nov 23, 2026, FlexMLS saved search WSS-LP-COM-Medical, run Nov 23, 2026"
           },
           {
             "label": "Median list price",
-            "value": "$1,747,500",
-            "source": "FlexMLS saved search WSS-LP-COM-Medical, run Nov 2, 2026"
+            "value": "$1,750,000",
+            "source": "FlexMLS saved search WSS-LP-COM-Medical, run Nov 23, 2026"
           },
           {
             "label": "Median days on market",
-            "value": "108.5",
-            "source": "FlexMLS saved search WSS-LP-COM-Medical, run Nov 2, 2026"
+            "value": "115",
+            "source": "FlexMLS saved search WSS-LP-COM-Medical, run Nov 23, 2026"
           },
           {
             "label": "Listings with a price change since listing",
-            "value": "22",
-            "source": "FlexMLS saved search WSS-LP-COM-Medical, run Nov 2, 2026"
+            "value": "18",
+            "source": "FlexMLS saved search WSS-LP-COM-Medical, run Nov 23, 2026"
           },
           {
             "label": "Share of listings with a price change",
-            "value": "27%",
-            "source": "22 of 82, FlexMLS saved search WSS-LP-COM-Medical, run Nov 2, 2026"
+            "value": "22%",
+            "source": "18 of 82, FlexMLS saved search WSS-LP-COM-Medical, run Nov 23, 2026"
           },
           {
             "label": "Tri-county office vacancy, Q2 2026",
@@ -942,6 +1026,18 @@
         },
         {
           "date": "2026-11-02",
+          "result_count": 82
+        },
+        {
+          "date": "2026-11-09",
+          "result_count": 80
+        },
+        {
+          "date": "2026-11-16",
+          "result_count": 79
+        },
+        {
+          "date": "2026-11-23",
           "result_count": 82
         }
       ],
@@ -1008,46 +1104,46 @@
       "new_search": true,
       "criteria_verified": true,
       "weekly": {
-        "date": "2026-11-02",
-        "result_count": 366,
-        "prior_count": 371,
-        "mls_url": "https://www.flexmls.com/link.html?1zewzgbcq8ri,15,1&utm_source=savingsre&utm_medium=website&utm_campaign=landing_page&utm_content=owner-user-office-flex-for-sale",
-        "link_generated": "2026-11-02",
-        "link_expires": "2026-12-02",
+        "date": "2026-11-23",
+        "result_count": 376,
+        "prior_count": 362,
+        "mls_url": "https://www.flexmls.com/link.html?1zf4fay0f3fh,15,1&utm_source=savingsre&utm_medium=website&utm_campaign=landing_page&utm_content=owner-user-office-flex-for-sale",
+        "link_generated": "2026-11-23",
+        "link_expires": "2026-12-23",
         "commentary": [
-          "This week the search shows 366 active listings across Palm Beach, Broward and Miami-Dade, down 5 from Oct 31, with a median asking price of $743,840. The median listing has been on the market 114 days, and 119 listings (33%) have changed price since they were listed.",
+          "This week the search shows 376 active listings across Palm Beach, Broward and Miami-Dade, up 14 from Nov 16, with a median asking price of $749,900. The median listing has been on the market 118.5 days, and 122 listings (32%) have changed price since they were listed.",
           "Region-wide, office vacancy was 8.3% in the second quarter of 2026, and 7.5% in Palm Beach County, according to Lee & Associates."
         ],
         "figures": [
           {
             "label": "Active listings",
-            "value": "366",
-            "source": "FlexMLS saved search WSS-LP-COM-OwnerUser, run Nov 2, 2026"
+            "value": "376",
+            "source": "FlexMLS saved search WSS-LP-COM-OwnerUser, run Nov 23, 2026"
           },
           {
-            "label": "Change in active listings since Oct 31, 2026",
-            "value": "-5",
-            "source": "371 on Oct 31 vs 366 on Nov 2, 2026, FlexMLS saved search WSS-LP-COM-OwnerUser, run Nov 2, 2026"
+            "label": "Change in active listings since Nov 16, 2026",
+            "value": "+14",
+            "source": "362 on Nov 16 vs 376 on Nov 23, 2026, FlexMLS saved search WSS-LP-COM-OwnerUser, run Nov 23, 2026"
           },
           {
             "label": "Median list price",
-            "value": "$743,840",
-            "source": "FlexMLS saved search WSS-LP-COM-OwnerUser, run Nov 2, 2026"
+            "value": "$749,900",
+            "source": "FlexMLS saved search WSS-LP-COM-OwnerUser, run Nov 23, 2026"
           },
           {
             "label": "Median days on market",
-            "value": "114",
-            "source": "FlexMLS saved search WSS-LP-COM-OwnerUser, run Nov 2, 2026"
+            "value": "118.5",
+            "source": "FlexMLS saved search WSS-LP-COM-OwnerUser, run Nov 23, 2026"
           },
           {
             "label": "Listings with a price change since listing",
-            "value": "119",
-            "source": "FlexMLS saved search WSS-LP-COM-OwnerUser, run Nov 2, 2026"
+            "value": "122",
+            "source": "FlexMLS saved search WSS-LP-COM-OwnerUser, run Nov 23, 2026"
           },
           {
             "label": "Share of listings with a price change",
-            "value": "33%",
-            "source": "119 of 366, FlexMLS saved search WSS-LP-COM-OwnerUser, run Nov 2, 2026"
+            "value": "32%",
+            "source": "122 of 376, FlexMLS saved search WSS-LP-COM-OwnerUser, run Nov 23, 2026"
           },
           {
             "label": "Tri-county office vacancy, Q2 2026",
@@ -1069,6 +1165,18 @@
         {
           "date": "2026-11-02",
           "result_count": 366
+        },
+        {
+          "date": "2026-11-09",
+          "result_count": 362
+        },
+        {
+          "date": "2026-11-16",
+          "result_count": 362
+        },
+        {
+          "date": "2026-11-23",
+          "result_count": 376
         }
       ],
       "source_search": "new"
@@ -1134,45 +1242,45 @@
       "new_search": false,
       "criteria_verified": true,
       "weekly": {
-        "date": "2026-11-02",
-        "result_count": 198,
-        "prior_count": 203,
-        "mls_url": "https://www.flexmls.com/link.html?1zewzg9i0twe,15,1&utm_source=savingsre&utm_medium=website&utm_campaign=landing_page&utm_content=mixed-use-properties-for-sale",
-        "link_generated": "2026-11-02",
-        "link_expires": "2026-12-02",
+        "date": "2026-11-23",
+        "result_count": 213,
+        "prior_count": 213,
+        "mls_url": "https://www.flexmls.com/link.html?1zf4fayk4t8w,15,1&utm_source=savingsre&utm_medium=website&utm_campaign=landing_page&utm_content=mixed-use-properties-for-sale",
+        "link_generated": "2026-11-23",
+        "link_expires": "2026-12-23",
         "commentary": [
-          "This week the search shows 198 active listings across Palm Beach, Broward and Miami-Dade, down 5 from Oct 31, with a median asking price of $2,499,000. The median listing has been on the market 146 days, and 78 listings (39%) have changed price since they were listed."
+          "This week the search shows 213 active listings across Palm Beach, Broward and Miami-Dade, unchanged from Nov 16, with a median asking price of $2,350,000. The median listing has been on the market 139 days, and 81 listings (38%) have changed price since they were listed."
         ],
         "figures": [
           {
             "label": "Active listings",
-            "value": "198",
-            "source": "FlexMLS saved search WSS-LP-COM-MixedUse, run Nov 2, 2026"
+            "value": "213",
+            "source": "FlexMLS saved search WSS-LP-COM-MixedUse, run Nov 23, 2026"
           },
           {
-            "label": "Change in active listings since Oct 31, 2026",
-            "value": "-5",
-            "source": "203 on Oct 31 vs 198 on Nov 2, 2026, FlexMLS saved search WSS-LP-COM-MixedUse, run Nov 2, 2026"
+            "label": "Change in active listings since Nov 16, 2026",
+            "value": "0",
+            "source": "213 on Nov 16 vs 213 on Nov 23, 2026, FlexMLS saved search WSS-LP-COM-MixedUse, run Nov 23, 2026"
           },
           {
             "label": "Median list price",
-            "value": "$2,499,000",
-            "source": "FlexMLS saved search WSS-LP-COM-MixedUse, run Nov 2, 2026"
+            "value": "$2,350,000",
+            "source": "FlexMLS saved search WSS-LP-COM-MixedUse, run Nov 23, 2026"
           },
           {
             "label": "Median days on market",
-            "value": "146",
-            "source": "FlexMLS saved search WSS-LP-COM-MixedUse, run Nov 2, 2026"
+            "value": "139",
+            "source": "FlexMLS saved search WSS-LP-COM-MixedUse, run Nov 23, 2026"
           },
           {
             "label": "Listings with a price change since listing",
-            "value": "78",
-            "source": "FlexMLS saved search WSS-LP-COM-MixedUse, run Nov 2, 2026"
+            "value": "81",
+            "source": "FlexMLS saved search WSS-LP-COM-MixedUse, run Nov 23, 2026"
           },
           {
             "label": "Share of listings with a price change",
-            "value": "39%",
-            "source": "78 of 198, FlexMLS saved search WSS-LP-COM-MixedUse, run Nov 2, 2026"
+            "value": "38%",
+            "source": "81 of 213, FlexMLS saved search WSS-LP-COM-MixedUse, run Nov 23, 2026"
           }
         ]
       },
@@ -1184,6 +1292,18 @@
         {
           "date": "2026-11-02",
           "result_count": 198
+        },
+        {
+          "date": "2026-11-09",
+          "result_count": 205
+        },
+        {
+          "date": "2026-11-16",
+          "result_count": 213
+        },
+        {
+          "date": "2026-11-23",
+          "result_count": 213
         }
       ],
       "source_search": "WSS-COM-MixedUse"
@@ -1249,45 +1369,45 @@
       "new_search": false,
       "criteria_verified": true,
       "weekly": {
-        "date": "2026-11-02",
-        "result_count": 1419,
-        "prior_count": 1432,
-        "mls_url": "https://www.flexmls.com/link.html?1zewzgcse4fd,15,1&utm_source=savingsre&utm_medium=website&utm_campaign=landing_page&utm_content=land-development-sites-for-sale",
-        "link_generated": "2026-11-02",
-        "link_expires": "2026-12-02",
+        "date": "2026-11-23",
+        "result_count": 1471,
+        "prior_count": 1467,
+        "mls_url": "https://www.flexmls.com/link.html?1zf4fazuirsz,15,1&utm_source=savingsre&utm_medium=website&utm_campaign=landing_page&utm_content=land-development-sites-for-sale",
+        "link_generated": "2026-11-23",
+        "link_expires": "2026-12-23",
         "commentary": [
-          "This week the search shows 1,419 active listings across Palm Beach, Broward and Miami-Dade, down 13 from Oct 31, with a median asking price of $1,600,000. The median listing has been on the market 139 days, and 478 listings (34%) have changed price since they were listed."
+          "This week the search shows 1,471 active listings across Palm Beach, Broward and Miami-Dade, up 4 from Nov 16, with a median asking price of $1,600,000. The median listing has been on the market 138 days, and 508 listings (35%) have changed price since they were listed."
         ],
         "figures": [
           {
             "label": "Active listings",
-            "value": "1,419",
-            "source": "FlexMLS saved search WSS-LP-Land, run Nov 2, 2026"
+            "value": "1,471",
+            "source": "FlexMLS saved search WSS-LP-Land, run Nov 23, 2026"
           },
           {
-            "label": "Change in active listings since Oct 31, 2026",
-            "value": "-13",
-            "source": "1,432 on Oct 31 vs 1,419 on Nov 2, 2026, FlexMLS saved search WSS-LP-Land, run Nov 2, 2026"
+            "label": "Change in active listings since Nov 16, 2026",
+            "value": "+4",
+            "source": "1,467 on Nov 16 vs 1,471 on Nov 23, 2026, FlexMLS saved search WSS-LP-Land, run Nov 23, 2026"
           },
           {
             "label": "Median list price",
             "value": "$1,600,000",
-            "source": "FlexMLS saved search WSS-LP-Land, run Nov 2, 2026"
+            "source": "FlexMLS saved search WSS-LP-Land, run Nov 23, 2026"
           },
           {
             "label": "Median days on market",
-            "value": "139",
-            "source": "FlexMLS saved search WSS-LP-Land, run Nov 2, 2026"
+            "value": "138",
+            "source": "FlexMLS saved search WSS-LP-Land, run Nov 23, 2026"
           },
           {
             "label": "Listings with a price change since listing",
-            "value": "478",
-            "source": "FlexMLS saved search WSS-LP-Land, run Nov 2, 2026"
+            "value": "508",
+            "source": "FlexMLS saved search WSS-LP-Land, run Nov 23, 2026"
           },
           {
             "label": "Share of listings with a price change",
-            "value": "34%",
-            "source": "478 of 1,419, FlexMLS saved search WSS-LP-Land, run Nov 2, 2026"
+            "value": "35%",
+            "source": "508 of 1,471, FlexMLS saved search WSS-LP-Land, run Nov 23, 2026"
           }
         ]
       },
@@ -1299,6 +1419,18 @@
         {
           "date": "2026-11-02",
           "result_count": 1419
+        },
+        {
+          "date": "2026-11-09",
+          "result_count": 1438
+        },
+        {
+          "date": "2026-11-16",
+          "result_count": 1467
+        },
+        {
+          "date": "2026-11-23",
+          "result_count": 1471
         }
       ],
       "source_search": "WSS-COM-Land"
@@ -1364,46 +1496,46 @@
       "new_search": false,
       "criteria_verified": true,
       "weekly": {
-        "date": "2026-11-02",
-        "result_count": 19,
+        "date": "2026-11-23",
+        "result_count": 21,
         "prior_count": 20,
-        "mls_url": "https://www.flexmls.com/link.html?1zewzgdeziv8,15,1&utm_source=savingsre&utm_medium=website&utm_campaign=landing_page&utm_content=nnn-net-lease-properties-for-sale",
-        "link_generated": "2026-11-02",
-        "link_expires": "2026-12-02",
+        "mls_url": "https://www.flexmls.com/link.html?1zf4fb1lpd29,15,1&utm_source=savingsre&utm_medium=website&utm_campaign=landing_page&utm_content=nnn-net-lease-properties-for-sale",
+        "link_generated": "2026-11-23",
+        "link_expires": "2026-12-23",
         "commentary": [
-          "This week the search shows 19 active listings across Palm Beach, Broward and Miami-Dade, down 1 from Oct 31, with a median asking price of $3,000,000. The median listing has been on the market 150 days, and 5 listings (26%) have changed price since they were listed.",
+          "This week the search shows 21 active listings across Palm Beach, Broward and Miami-Dade, up 1 from Nov 16, with a median asking price of $3,000,000. The median listing has been on the market 140 days, and 5 listings (24%) have changed price since they were listed.",
           "Region-wide, retail vacancy across Miami-Dade, Broward and Palm Beach was 3.4% in the second quarter of 2026, according to Lee & Associates."
         ],
         "figures": [
           {
             "label": "Active listings",
-            "value": "19",
-            "source": "FlexMLS saved search WSS-LP-COM-NNN, run Nov 2, 2026"
+            "value": "21",
+            "source": "FlexMLS saved search WSS-LP-COM-NNN, run Nov 23, 2026"
           },
           {
-            "label": "Change in active listings since Oct 31, 2026",
-            "value": "-1",
-            "source": "20 on Oct 31 vs 19 on Nov 2, 2026, FlexMLS saved search WSS-LP-COM-NNN, run Nov 2, 2026"
+            "label": "Change in active listings since Nov 16, 2026",
+            "value": "+1",
+            "source": "20 on Nov 16 vs 21 on Nov 23, 2026, FlexMLS saved search WSS-LP-COM-NNN, run Nov 23, 2026"
           },
           {
             "label": "Median list price",
             "value": "$3,000,000",
-            "source": "FlexMLS saved search WSS-LP-COM-NNN, run Nov 2, 2026"
+            "source": "FlexMLS saved search WSS-LP-COM-NNN, run Nov 23, 2026"
           },
           {
             "label": "Median days on market",
-            "value": "150",
-            "source": "FlexMLS saved search WSS-LP-COM-NNN, run Nov 2, 2026"
+            "value": "140",
+            "source": "FlexMLS saved search WSS-LP-COM-NNN, run Nov 23, 2026"
           },
           {
             "label": "Listings with a price change since listing",
             "value": "5",
-            "source": "FlexMLS saved search WSS-LP-COM-NNN, run Nov 2, 2026"
+            "source": "FlexMLS saved search WSS-LP-COM-NNN, run Nov 23, 2026"
           },
           {
             "label": "Share of listings with a price change",
-            "value": "26%",
-            "source": "5 of 19, FlexMLS saved search WSS-LP-COM-NNN, run Nov 2, 2026"
+            "value": "24%",
+            "source": "5 of 21, FlexMLS saved search WSS-LP-COM-NNN, run Nov 23, 2026"
           },
           {
             "label": "Tri-county retail vacancy, Q2 2026",
@@ -1420,6 +1552,18 @@
         {
           "date": "2026-11-02",
           "result_count": 19
+        },
+        {
+          "date": "2026-11-09",
+          "result_count": 19
+        },
+        {
+          "date": "2026-11-16",
+          "result_count": 20
+        },
+        {
+          "date": "2026-11-23",
+          "result_count": 21
         }
       ],
       "source_search": "WSS-COM-NNN"
@@ -1485,46 +1629,46 @@
       "new_search": false,
       "criteria_verified": true,
       "weekly": {
-        "date": "2026-11-02",
+        "date": "2026-11-23",
         "result_count": 218,
-        "prior_count": 218,
-        "mls_url": "https://www.flexmls.com/link.html?1zewzgel7rg1,15,1&utm_source=savingsre&utm_medium=website&utm_campaign=landing_page&utm_content=multifamily-under-1m",
-        "link_generated": "2026-11-02",
-        "link_expires": "2026-12-02",
+        "prior_count": 222,
+        "mls_url": "https://www.flexmls.com/link.html?1zf4fb2qdqmj,15,1&utm_source=savingsre&utm_medium=website&utm_campaign=landing_page&utm_content=multifamily-under-1m",
+        "link_generated": "2026-11-23",
+        "link_expires": "2026-12-23",
         "commentary": [
-          "This week the search shows 218 active listings across Palm Beach, Broward and Miami-Dade, unchanged from Oct 31, with a median asking price of $769,450. The median listing has been on the market 84 days, and 93 listings (43%) have changed price since they were listed.",
+          "This week the search shows 218 active listings across Palm Beach, Broward and Miami-Dade, down 4 from Nov 16, with a median asking price of $769,500. The median listing has been on the market 90.5 days, and 101 listings (46%) have changed price since they were listed.",
           "Region-wide, multifamily vacancy was 6.4% in the second quarter of 2026, with an average asking rent of $2,313 per unit, according to Lee & Associates."
         ],
         "figures": [
           {
             "label": "Active listings",
             "value": "218",
-            "source": "FlexMLS saved search WSS-LP-MF-3plus-Under1M, run Nov 2, 2026"
+            "source": "FlexMLS saved search WSS-LP-MF-3plus-Under1M, run Nov 23, 2026"
           },
           {
-            "label": "Change in active listings since Oct 31, 2026",
-            "value": "0",
-            "source": "218 on Oct 31 vs 218 on Nov 2, 2026, FlexMLS saved search WSS-LP-MF-3plus-Under1M, run Nov 2, 2026"
+            "label": "Change in active listings since Nov 16, 2026",
+            "value": "-4",
+            "source": "222 on Nov 16 vs 218 on Nov 23, 2026, FlexMLS saved search WSS-LP-MF-3plus-Under1M, run Nov 23, 2026"
           },
           {
             "label": "Median list price",
-            "value": "$769,450",
-            "source": "FlexMLS saved search WSS-LP-MF-3plus-Under1M, run Nov 2, 2026"
+            "value": "$769,500",
+            "source": "FlexMLS saved search WSS-LP-MF-3plus-Under1M, run Nov 23, 2026"
           },
           {
             "label": "Median days on market",
-            "value": "84",
-            "source": "FlexMLS saved search WSS-LP-MF-3plus-Under1M, run Nov 2, 2026"
+            "value": "90.5",
+            "source": "FlexMLS saved search WSS-LP-MF-3plus-Under1M, run Nov 23, 2026"
           },
           {
             "label": "Listings with a price change since listing",
-            "value": "93",
-            "source": "FlexMLS saved search WSS-LP-MF-3plus-Under1M, run Nov 2, 2026"
+            "value": "101",
+            "source": "FlexMLS saved search WSS-LP-MF-3plus-Under1M, run Nov 23, 2026"
           },
           {
             "label": "Share of listings with a price change",
-            "value": "43%",
-            "source": "93 of 218, FlexMLS saved search WSS-LP-MF-3plus-Under1M, run Nov 2, 2026"
+            "value": "46%",
+            "source": "101 of 218, FlexMLS saved search WSS-LP-MF-3plus-Under1M, run Nov 23, 2026"
           },
           {
             "label": "Tri-county multifamily vacancy, Q2 2026",
@@ -1546,6 +1690,18 @@
         {
           "date": "2026-11-02",
           "result_count": 218
+        },
+        {
+          "date": "2026-11-09",
+          "result_count": 223
+        },
+        {
+          "date": "2026-11-16",
+          "result_count": 222
+        },
+        {
+          "date": "2026-11-23",
+          "result_count": 218
         }
       ],
       "source_search": "WSS-MF-2plus-Under1M"
@@ -1556,7 +1712,7 @@
       "category": "multifamily",
       "short": "Small Multifamily $1M–$3M",
       "h1": "Small Multifamily for Sale: $1M to $3M",
-      "title": "Small Multifamily for Sale $1M–$3M: Palm Beach, Broward, Dade",
+      "title": "Small Multifamily for Sale $1M–$3M in South Florida",
       "description": "Duplexes to small apartment buildings priced $1M to $3M in Palm Beach, Broward and Miami-Dade. Active listings refreshed weekly with commentary.",
       "subhead": "Premium small multifamily from $1M to $3M, updated every week.",
       "image": {
@@ -1611,46 +1767,46 @@
       "new_search": false,
       "criteria_verified": true,
       "weekly": {
-        "date": "2026-11-02",
-        "result_count": 245,
-        "prior_count": 247,
-        "mls_url": "https://www.flexmls.com/link.html?1zewzgf7k6a8,15,1&utm_source=savingsre&utm_medium=website&utm_campaign=landing_page&utm_content=small-multifamily-1m-to-3m",
-        "link_generated": "2026-11-02",
-        "link_expires": "2026-12-02",
+        "date": "2026-11-23",
+        "result_count": 243,
+        "prior_count": 239,
+        "mls_url": "https://www.flexmls.com/link.html?1zf4fb353a2s,15,1&utm_source=savingsre&utm_medium=website&utm_campaign=landing_page&utm_content=small-multifamily-1m-to-3m",
+        "link_generated": "2026-11-23",
+        "link_expires": "2026-12-23",
         "commentary": [
-          "This week the search shows 245 active listings across Palm Beach, Broward and Miami-Dade, down 2 from Oct 31, with a median asking price of $1,388,000. The median listing has been on the market 109 days, and 109 listings (44%) have changed price since they were listed.",
+          "This week the search shows 243 active listings across Palm Beach, Broward and Miami-Dade, up 4 from Nov 16, with a median asking price of $1,375,000. The median listing has been on the market 111 days, and 102 listings (42%) have changed price since they were listed.",
           "Region-wide, multifamily vacancy was 6.4% in the second quarter of 2026, with an average asking rent of $2,313 per unit, according to Lee & Associates."
         ],
         "figures": [
           {
             "label": "Active listings",
-            "value": "245",
-            "source": "FlexMLS saved search WSS-LP-MF-1Mto3M, run Nov 2, 2026"
+            "value": "243",
+            "source": "FlexMLS saved search WSS-LP-MF-1Mto3M, run Nov 23, 2026"
           },
           {
-            "label": "Change in active listings since Oct 31, 2026",
-            "value": "-2",
-            "source": "247 on Oct 31 vs 245 on Nov 2, 2026, FlexMLS saved search WSS-LP-MF-1Mto3M, run Nov 2, 2026"
+            "label": "Change in active listings since Nov 16, 2026",
+            "value": "+4",
+            "source": "239 on Nov 16 vs 243 on Nov 23, 2026, FlexMLS saved search WSS-LP-MF-1Mto3M, run Nov 23, 2026"
           },
           {
             "label": "Median list price",
-            "value": "$1,388,000",
-            "source": "FlexMLS saved search WSS-LP-MF-1Mto3M, run Nov 2, 2026"
+            "value": "$1,375,000",
+            "source": "FlexMLS saved search WSS-LP-MF-1Mto3M, run Nov 23, 2026"
           },
           {
             "label": "Median days on market",
-            "value": "109",
-            "source": "FlexMLS saved search WSS-LP-MF-1Mto3M, run Nov 2, 2026"
+            "value": "111",
+            "source": "FlexMLS saved search WSS-LP-MF-1Mto3M, run Nov 23, 2026"
           },
           {
             "label": "Listings with a price change since listing",
-            "value": "109",
-            "source": "FlexMLS saved search WSS-LP-MF-1Mto3M, run Nov 2, 2026"
+            "value": "102",
+            "source": "FlexMLS saved search WSS-LP-MF-1Mto3M, run Nov 23, 2026"
           },
           {
             "label": "Share of listings with a price change",
-            "value": "44%",
-            "source": "109 of 245, FlexMLS saved search WSS-LP-MF-1Mto3M, run Nov 2, 2026"
+            "value": "42%",
+            "source": "102 of 243, FlexMLS saved search WSS-LP-MF-1Mto3M, run Nov 23, 2026"
           },
           {
             "label": "Tri-county multifamily vacancy, Q2 2026",
@@ -1672,6 +1828,18 @@
         {
           "date": "2026-11-02",
           "result_count": 245
+        },
+        {
+          "date": "2026-11-09",
+          "result_count": 236
+        },
+        {
+          "date": "2026-11-16",
+          "result_count": 239
+        },
+        {
+          "date": "2026-11-23",
+          "result_count": 243
         }
       ],
       "source_search": "WSS-MF-2plus-1Mto3M"
@@ -1737,46 +1905,46 @@
       "new_search": false,
       "criteria_verified": true,
       "weekly": {
-        "date": "2026-11-02",
-        "result_count": 66,
-        "prior_count": 65,
-        "mls_url": "https://www.flexmls.com/link.html?1zewzggey6ni,15,1&utm_source=savingsre&utm_medium=website&utm_campaign=landing_page&utm_content=apartment-buildings-5-plus-units",
-        "link_generated": "2026-11-02",
-        "link_expires": "2026-12-02",
+        "date": "2026-11-23",
+        "result_count": 71,
+        "prior_count": 72,
+        "mls_url": "https://www.flexmls.com/link.html?1zf4fb6bleuu,15,1&utm_source=savingsre&utm_medium=website&utm_campaign=landing_page&utm_content=apartment-buildings-5-plus-units",
+        "link_generated": "2026-11-23",
+        "link_expires": "2026-12-23",
         "commentary": [
-          "This week the search shows 66 active listings across Palm Beach, Broward and Miami-Dade, up 1 from Oct 31, with a median asking price of $1,870,000. The median listing has been on the market 105 days, and 21 listings (32%) have changed price since they were listed.",
+          "This week the search shows 71 active listings across Palm Beach, Broward and Miami-Dade, down 1 from Nov 16, with a median asking price of $1,899,000. The median listing has been on the market 92 days, and 22 listings (31%) have changed price since they were listed.",
           "Region-wide, multifamily vacancy was 6.4% in the second quarter of 2026, with an average asking rent of $2,313 per unit, according to Lee & Associates."
         ],
         "figures": [
           {
             "label": "Active listings",
-            "value": "66",
-            "source": "FlexMLS saved search WSS-LP-MF-5plus, run Nov 2, 2026"
+            "value": "71",
+            "source": "FlexMLS saved search WSS-LP-MF-5plus, run Nov 23, 2026"
           },
           {
-            "label": "Change in active listings since Oct 31, 2026",
-            "value": "+1",
-            "source": "65 on Oct 31 vs 66 on Nov 2, 2026, FlexMLS saved search WSS-LP-MF-5plus, run Nov 2, 2026"
+            "label": "Change in active listings since Nov 16, 2026",
+            "value": "-1",
+            "source": "72 on Nov 16 vs 71 on Nov 23, 2026, FlexMLS saved search WSS-LP-MF-5plus, run Nov 23, 2026"
           },
           {
             "label": "Median list price",
-            "value": "$1,870,000",
-            "source": "FlexMLS saved search WSS-LP-MF-5plus, run Nov 2, 2026"
+            "value": "$1,899,000",
+            "source": "FlexMLS saved search WSS-LP-MF-5plus, run Nov 23, 2026"
           },
           {
             "label": "Median days on market",
-            "value": "105",
-            "source": "FlexMLS saved search WSS-LP-MF-5plus, run Nov 2, 2026"
+            "value": "92",
+            "source": "FlexMLS saved search WSS-LP-MF-5plus, run Nov 23, 2026"
           },
           {
             "label": "Listings with a price change since listing",
-            "value": "21",
-            "source": "FlexMLS saved search WSS-LP-MF-5plus, run Nov 2, 2026"
+            "value": "22",
+            "source": "FlexMLS saved search WSS-LP-MF-5plus, run Nov 23, 2026"
           },
           {
             "label": "Share of listings with a price change",
-            "value": "32%",
-            "source": "21 of 66, FlexMLS saved search WSS-LP-MF-5plus, run Nov 2, 2026"
+            "value": "31%",
+            "source": "22 of 71, FlexMLS saved search WSS-LP-MF-5plus, run Nov 23, 2026"
           },
           {
             "label": "Tri-county multifamily vacancy, Q2 2026",
@@ -1798,6 +1966,18 @@
         {
           "date": "2026-11-02",
           "result_count": 66
+        },
+        {
+          "date": "2026-11-09",
+          "result_count": 65
+        },
+        {
+          "date": "2026-11-16",
+          "result_count": 72
+        },
+        {
+          "date": "2026-11-23",
+          "result_count": 71
         }
       ],
       "source_search": "new (WSS-MF-5plus-All returned 1 in-county listing; residential-income type)"
@@ -1863,46 +2043,46 @@
       "new_search": false,
       "criteria_verified": true,
       "weekly": {
-        "date": "2026-11-02",
-        "result_count": 4,
-        "prior_count": 4,
-        "mls_url": "https://www.flexmls.com/link.html?1zewzggu6m51,15,1&utm_source=savingsre&utm_medium=website&utm_campaign=landing_page&utm_content=apartment-complexes-20-plus-units",
-        "link_generated": "2026-11-02",
-        "link_expires": "2026-12-02",
+        "date": "2026-11-23",
+        "result_count": 7,
+        "prior_count": 6,
+        "mls_url": "https://www.flexmls.com/link.html?1zf4fb6pz9no,15,1&utm_source=savingsre&utm_medium=website&utm_campaign=landing_page&utm_content=apartment-complexes-20-plus-units",
+        "link_generated": "2026-11-23",
+        "link_expires": "2026-12-23",
         "commentary": [
-          "This week the search shows 4 active listings across Palm Beach, Broward and Miami-Dade, unchanged from Oct 31, with a median asking price of $6,562,500. The median listing has been on the market 79.5 days, and 1 listing (25%) has changed price since it was listed.",
+          "This week the search shows 7 active listings across Palm Beach, Broward and Miami-Dade, up 1 from Nov 16, with a median asking price of $6,475,000. The median listing has been on the market 46 days, and 2 listings (29%) have changed price since they were listed.",
           "Region-wide, multifamily vacancy was 6.4% in the second quarter of 2026, with an average asking rent of $2,313 per unit, according to Lee & Associates."
         ],
         "figures": [
           {
             "label": "Active listings",
-            "value": "4",
-            "source": "FlexMLS saved search WSS-LP-MF-20plus, run Nov 2, 2026"
+            "value": "7",
+            "source": "FlexMLS saved search WSS-LP-MF-20plus, run Nov 23, 2026"
           },
           {
-            "label": "Change in active listings since Oct 31, 2026",
-            "value": "0",
-            "source": "4 on Oct 31 vs 4 on Nov 2, 2026, FlexMLS saved search WSS-LP-MF-20plus, run Nov 2, 2026"
+            "label": "Change in active listings since Nov 16, 2026",
+            "value": "+1",
+            "source": "6 on Nov 16 vs 7 on Nov 23, 2026, FlexMLS saved search WSS-LP-MF-20plus, run Nov 23, 2026"
           },
           {
             "label": "Median list price",
-            "value": "$6,562,500",
-            "source": "FlexMLS saved search WSS-LP-MF-20plus, run Nov 2, 2026"
+            "value": "$6,475,000",
+            "source": "FlexMLS saved search WSS-LP-MF-20plus, run Nov 23, 2026"
           },
           {
             "label": "Median days on market",
-            "value": "79.5",
-            "source": "FlexMLS saved search WSS-LP-MF-20plus, run Nov 2, 2026"
+            "value": "46",
+            "source": "FlexMLS saved search WSS-LP-MF-20plus, run Nov 23, 2026"
           },
           {
             "label": "Listings with a price change since listing",
-            "value": "1",
-            "source": "FlexMLS saved search WSS-LP-MF-20plus, run Nov 2, 2026"
+            "value": "2",
+            "source": "FlexMLS saved search WSS-LP-MF-20plus, run Nov 23, 2026"
           },
           {
             "label": "Share of listings with a price change",
-            "value": "25%",
-            "source": "1 of 4, FlexMLS saved search WSS-LP-MF-20plus, run Nov 2, 2026"
+            "value": "29%",
+            "source": "2 of 7, FlexMLS saved search WSS-LP-MF-20plus, run Nov 23, 2026"
           },
           {
             "label": "Tri-county multifamily vacancy, Q2 2026",
@@ -1924,6 +2104,18 @@
         {
           "date": "2026-11-02",
           "result_count": 4
+        },
+        {
+          "date": "2026-11-09",
+          "result_count": 4
+        },
+        {
+          "date": "2026-11-16",
+          "result_count": 6
+        },
+        {
+          "date": "2026-11-23",
+          "result_count": 7
         }
       ],
       "source_search": "new (commercial Multi Family)"
@@ -1934,7 +2126,7 @@
       "category": "multifamily",
       "short": "Short-Term Rental Investments",
       "h1": "Short-Term Rental Investment Properties for Sale",
-      "title": "Short-Term Rental (Airbnb) Properties for Sale: South Florida",
+      "title": "Airbnb & Short-Term Rental Properties for Sale: South FL",
       "description": "Income properties in Palm Beach, Broward and Miami-Dade marketed for short-term rental use. Active listings refreshed weekly with notes.",
       "subhead": "Income properties whose listings mention short-term rental use, updated every week.",
       "image": {
@@ -1989,45 +2181,45 @@
       "new_search": false,
       "criteria_verified": true,
       "weekly": {
-        "date": "2026-11-02",
+        "date": "2026-11-23",
         "result_count": 23,
         "prior_count": 23,
-        "mls_url": "https://www.flexmls.com/link.html?1zewzgi7vats,15,1&utm_source=savingsre&utm_medium=website&utm_campaign=landing_page&utm_content=short-term-rental-investment-properties",
-        "link_generated": "2026-11-02",
-        "link_expires": "2026-12-02",
+        "mls_url": "https://www.flexmls.com/link.html?1zf4fb7yu213,15,1&utm_source=savingsre&utm_medium=website&utm_campaign=landing_page&utm_content=short-term-rental-investment-properties",
+        "link_generated": "2026-11-23",
+        "link_expires": "2026-12-23",
         "commentary": [
-          "This week the search shows 23 active listings across Palm Beach, Broward and Miami-Dade, unchanged from Oct 31, with a median asking price of $1,199,000. The median listing has been on the market 97 days, and 12 listings (52%) have changed price since they were listed."
+          "This week the search shows 23 active listings across Palm Beach, Broward and Miami-Dade, unchanged from Nov 16, with a median asking price of $1,275,000. The median listing has been on the market 106 days, and 12 listings (52%) have changed price since they were listed."
         ],
         "figures": [
           {
             "label": "Active listings",
             "value": "23",
-            "source": "FlexMLS saved search WSS-LP-STR, run Nov 2, 2026"
+            "source": "FlexMLS saved search WSS-LP-STR, run Nov 23, 2026"
           },
           {
-            "label": "Change in active listings since Oct 31, 2026",
+            "label": "Change in active listings since Nov 16, 2026",
             "value": "0",
-            "source": "23 on Oct 31 vs 23 on Nov 2, 2026, FlexMLS saved search WSS-LP-STR, run Nov 2, 2026"
+            "source": "23 on Nov 16 vs 23 on Nov 23, 2026, FlexMLS saved search WSS-LP-STR, run Nov 23, 2026"
           },
           {
             "label": "Median list price",
-            "value": "$1,199,000",
-            "source": "FlexMLS saved search WSS-LP-STR, run Nov 2, 2026"
+            "value": "$1,275,000",
+            "source": "FlexMLS saved search WSS-LP-STR, run Nov 23, 2026"
           },
           {
             "label": "Median days on market",
-            "value": "97",
-            "source": "FlexMLS saved search WSS-LP-STR, run Nov 2, 2026"
+            "value": "106",
+            "source": "FlexMLS saved search WSS-LP-STR, run Nov 23, 2026"
           },
           {
             "label": "Listings with a price change since listing",
             "value": "12",
-            "source": "FlexMLS saved search WSS-LP-STR, run Nov 2, 2026"
+            "source": "FlexMLS saved search WSS-LP-STR, run Nov 23, 2026"
           },
           {
             "label": "Share of listings with a price change",
             "value": "52%",
-            "source": "12 of 23, FlexMLS saved search WSS-LP-STR, run Nov 2, 2026"
+            "source": "12 of 23, FlexMLS saved search WSS-LP-STR, run Nov 23, 2026"
           }
         ]
       },
@@ -2038,6 +2230,18 @@
         },
         {
           "date": "2026-11-02",
+          "result_count": 23
+        },
+        {
+          "date": "2026-11-09",
+          "result_count": 23
+        },
+        {
+          "date": "2026-11-16",
+          "result_count": 23
+        },
+        {
+          "date": "2026-11-23",
           "result_count": 23
         }
       ],
@@ -2104,45 +2308,45 @@
       "new_search": true,
       "criteria_verified": true,
       "weekly": {
-        "date": "2026-11-02",
-        "result_count": 2797,
-        "prior_count": 2804,
-        "mls_url": "https://www.flexmls.com/link.html?1zewzgjhi14p,15,1&utm_source=savingsre&utm_medium=website&utm_campaign=landing_page&utm_content=luxury-homes-for-sale",
-        "link_generated": "2026-11-02",
-        "link_expires": "2026-12-02",
+        "date": "2026-11-23",
+        "result_count": 2927,
+        "prior_count": 2883,
+        "mls_url": "https://www.flexmls.com/link.html?1zf4fb9o3872,15,1&utm_source=savingsre&utm_medium=website&utm_campaign=landing_page&utm_content=luxury-homes-for-sale",
+        "link_generated": "2026-11-23",
+        "link_expires": "2026-12-23",
         "commentary": [
-          "This week the search shows 2,797 active listings across Palm Beach, Broward and Miami-Dade, down 7 from Oct 31, with a median asking price of $4,200,000. The median listing has been on the market 88 days, and 983 listings (35%) have changed price since they were listed."
+          "This week the search shows 2,927 active listings across Palm Beach, Broward and Miami-Dade, up 44 from Nov 16, with a median asking price of $4,295,000. The median listing has been on the market 84 days, and 1,025 listings (35%) have changed price since they were listed."
         ],
         "figures": [
           {
             "label": "Active listings",
-            "value": "2,797",
-            "source": "FlexMLS saved search WSS-LP-RES-LuxSFR2M, run Nov 2, 2026"
+            "value": "2,927",
+            "source": "FlexMLS saved search WSS-LP-RES-LuxSFR2M, run Nov 23, 2026"
           },
           {
-            "label": "Change in active listings since Oct 31, 2026",
-            "value": "-7",
-            "source": "2,804 on Oct 31 vs 2,797 on Nov 2, 2026, FlexMLS saved search WSS-LP-RES-LuxSFR2M, run Nov 2, 2026"
+            "label": "Change in active listings since Nov 16, 2026",
+            "value": "+44",
+            "source": "2,883 on Nov 16 vs 2,927 on Nov 23, 2026, FlexMLS saved search WSS-LP-RES-LuxSFR2M, run Nov 23, 2026"
           },
           {
             "label": "Median list price",
-            "value": "$4,200,000",
-            "source": "FlexMLS saved search WSS-LP-RES-LuxSFR2M, run Nov 2, 2026"
+            "value": "$4,295,000",
+            "source": "FlexMLS saved search WSS-LP-RES-LuxSFR2M, run Nov 23, 2026"
           },
           {
             "label": "Median days on market",
-            "value": "88",
-            "source": "FlexMLS saved search WSS-LP-RES-LuxSFR2M, run Nov 2, 2026"
+            "value": "84",
+            "source": "FlexMLS saved search WSS-LP-RES-LuxSFR2M, run Nov 23, 2026"
           },
           {
             "label": "Listings with a price change since listing",
-            "value": "983",
-            "source": "FlexMLS saved search WSS-LP-RES-LuxSFR2M, run Nov 2, 2026"
+            "value": "1,025",
+            "source": "FlexMLS saved search WSS-LP-RES-LuxSFR2M, run Nov 23, 2026"
           },
           {
             "label": "Share of listings with a price change",
             "value": "35%",
-            "source": "983 of 2,797, FlexMLS saved search WSS-LP-RES-LuxSFR2M, run Nov 2, 2026"
+            "source": "1,025 of 2,927, FlexMLS saved search WSS-LP-RES-LuxSFR2M, run Nov 23, 2026"
           }
         ]
       },
@@ -2154,6 +2358,18 @@
         {
           "date": "2026-11-02",
           "result_count": 2797
+        },
+        {
+          "date": "2026-11-09",
+          "result_count": 2851
+        },
+        {
+          "date": "2026-11-16",
+          "result_count": 2883
+        },
+        {
+          "date": "2026-11-23",
+          "result_count": 2927
         }
       ],
       "source_search": "new"
@@ -2219,45 +2435,45 @@
       "new_search": false,
       "criteria_verified": true,
       "weekly": {
-        "date": "2026-11-02",
-        "result_count": 36,
-        "prior_count": 36,
-        "mls_url": "https://www.flexmls.com/link.html?1zewzgk66kk4,15,1&utm_source=savingsre&utm_medium=website&utm_campaign=landing_page&utm_content=oceanfront-homes-for-sale",
-        "link_generated": "2026-11-02",
-        "link_expires": "2026-12-02",
+        "date": "2026-11-23",
+        "result_count": 38,
+        "prior_count": 38,
+        "mls_url": "https://www.flexmls.com/link.html?1zf4fba611n7,15,1&utm_source=savingsre&utm_medium=website&utm_campaign=landing_page&utm_content=oceanfront-homes-for-sale",
+        "link_generated": "2026-11-23",
+        "link_expires": "2026-12-23",
         "commentary": [
-          "This week the search shows 36 active listings across Palm Beach, Broward and Miami-Dade, unchanged from Oct 31, with a median asking price of $22,475,000. The median listing has been on the market 178 days, and 14 listings (39%) have changed price since they were listed."
+          "This week the search shows 38 active listings across Palm Beach, Broward and Miami-Dade, unchanged from Nov 16, with a median asking price of $21,975,000. The median listing has been on the market 153 days, and 13 listings (34%) have changed price since they were listed."
         ],
         "figures": [
           {
             "label": "Active listings",
-            "value": "36",
-            "source": "FlexMLS saved search WSS-LP-LUX-Oceanfront, run Nov 2, 2026"
+            "value": "38",
+            "source": "FlexMLS saved search WSS-LP-LUX-Oceanfront, run Nov 23, 2026"
           },
           {
-            "label": "Change in active listings since Oct 31, 2026",
+            "label": "Change in active listings since Nov 16, 2026",
             "value": "0",
-            "source": "36 on Oct 31 vs 36 on Nov 2, 2026, FlexMLS saved search WSS-LP-LUX-Oceanfront, run Nov 2, 2026"
+            "source": "38 on Nov 16 vs 38 on Nov 23, 2026, FlexMLS saved search WSS-LP-LUX-Oceanfront, run Nov 23, 2026"
           },
           {
             "label": "Median list price",
-            "value": "$22,475,000",
-            "source": "FlexMLS saved search WSS-LP-LUX-Oceanfront, run Nov 2, 2026"
+            "value": "$21,975,000",
+            "source": "FlexMLS saved search WSS-LP-LUX-Oceanfront, run Nov 23, 2026"
           },
           {
             "label": "Median days on market",
-            "value": "178",
-            "source": "FlexMLS saved search WSS-LP-LUX-Oceanfront, run Nov 2, 2026"
+            "value": "153",
+            "source": "FlexMLS saved search WSS-LP-LUX-Oceanfront, run Nov 23, 2026"
           },
           {
             "label": "Listings with a price change since listing",
-            "value": "14",
-            "source": "FlexMLS saved search WSS-LP-LUX-Oceanfront, run Nov 2, 2026"
+            "value": "13",
+            "source": "FlexMLS saved search WSS-LP-LUX-Oceanfront, run Nov 23, 2026"
           },
           {
             "label": "Share of listings with a price change",
-            "value": "39%",
-            "source": "14 of 36, FlexMLS saved search WSS-LP-LUX-Oceanfront, run Nov 2, 2026"
+            "value": "34%",
+            "source": "13 of 38, FlexMLS saved search WSS-LP-LUX-Oceanfront, run Nov 23, 2026"
           }
         ]
       },
@@ -2269,6 +2485,18 @@
         {
           "date": "2026-11-02",
           "result_count": 36
+        },
+        {
+          "date": "2026-11-09",
+          "result_count": 38
+        },
+        {
+          "date": "2026-11-16",
+          "result_count": 38
+        },
+        {
+          "date": "2026-11-23",
+          "result_count": 38
         }
       ],
       "source_search": "WSS-LUX-Oceanfront"
@@ -2334,45 +2562,45 @@
       "new_search": false,
       "criteria_verified": true,
       "weekly": {
-        "date": "2026-11-02",
-        "result_count": 197,
-        "prior_count": 198,
-        "mls_url": "https://www.flexmls.com/link.html?1zewzglci5qu,15,1&utm_source=savingsre&utm_medium=website&utm_campaign=landing_page&utm_content=intracoastal-homes-for-sale",
-        "link_generated": "2026-11-02",
-        "link_expires": "2026-12-02",
+        "date": "2026-11-23",
+        "result_count": 219,
+        "prior_count": 215,
+        "mls_url": "https://www.flexmls.com/link.html?1zf4fbbbw5rn,15,1&utm_source=savingsre&utm_medium=website&utm_campaign=landing_page&utm_content=intracoastal-homes-for-sale",
+        "link_generated": "2026-11-23",
+        "link_expires": "2026-12-23",
         "commentary": [
-          "This week the search shows 197 active listings across Palm Beach, Broward and Miami-Dade, down 1 from Oct 31, with a median asking price of $12,495,000. The median listing has been on the market 116 days, and 72 listings (37%) have changed price since they were listed."
+          "This week the search shows 219 active listings across Palm Beach, Broward and Miami-Dade, up 4 from Nov 16, with a median asking price of $11,900,000. The median listing has been on the market 86 days, and 78 listings (36%) have changed price since they were listed."
         ],
         "figures": [
           {
             "label": "Active listings",
-            "value": "197",
-            "source": "FlexMLS saved search WSS-LP-LUX-Intracoastal, run Nov 2, 2026"
+            "value": "219",
+            "source": "FlexMLS saved search WSS-LP-LUX-Intracoastal, run Nov 23, 2026"
           },
           {
-            "label": "Change in active listings since Oct 31, 2026",
-            "value": "-1",
-            "source": "198 on Oct 31 vs 197 on Nov 2, 2026, FlexMLS saved search WSS-LP-LUX-Intracoastal, run Nov 2, 2026"
+            "label": "Change in active listings since Nov 16, 2026",
+            "value": "+4",
+            "source": "215 on Nov 16 vs 219 on Nov 23, 2026, FlexMLS saved search WSS-LP-LUX-Intracoastal, run Nov 23, 2026"
           },
           {
             "label": "Median list price",
-            "value": "$12,495,000",
-            "source": "FlexMLS saved search WSS-LP-LUX-Intracoastal, run Nov 2, 2026"
+            "value": "$11,900,000",
+            "source": "FlexMLS saved search WSS-LP-LUX-Intracoastal, run Nov 23, 2026"
           },
           {
             "label": "Median days on market",
-            "value": "116",
-            "source": "FlexMLS saved search WSS-LP-LUX-Intracoastal, run Nov 2, 2026"
+            "value": "86",
+            "source": "FlexMLS saved search WSS-LP-LUX-Intracoastal, run Nov 23, 2026"
           },
           {
             "label": "Listings with a price change since listing",
-            "value": "72",
-            "source": "FlexMLS saved search WSS-LP-LUX-Intracoastal, run Nov 2, 2026"
+            "value": "78",
+            "source": "FlexMLS saved search WSS-LP-LUX-Intracoastal, run Nov 23, 2026"
           },
           {
             "label": "Share of listings with a price change",
-            "value": "37%",
-            "source": "72 of 197, FlexMLS saved search WSS-LP-LUX-Intracoastal, run Nov 2, 2026"
+            "value": "36%",
+            "source": "78 of 219, FlexMLS saved search WSS-LP-LUX-Intracoastal, run Nov 23, 2026"
           }
         ]
       },
@@ -2384,6 +2612,18 @@
         {
           "date": "2026-11-02",
           "result_count": 197
+        },
+        {
+          "date": "2026-11-09",
+          "result_count": 201
+        },
+        {
+          "date": "2026-11-16",
+          "result_count": 215
+        },
+        {
+          "date": "2026-11-23",
+          "result_count": 219
         }
       ],
       "source_search": "WSS-LUX-Intracoastal"
@@ -2445,45 +2685,45 @@
       "new_search": false,
       "criteria_verified": true,
       "weekly": {
-        "date": "2026-11-02",
-        "result_count": 100,
-        "prior_count": 100,
-        "mls_url": "https://www.flexmls.com/link.html?1zewzgmrviyn,15,1&utm_source=savingsre&utm_medium=website&utm_campaign=landing_page&utm_content=country-club-homes-for-sale",
-        "link_generated": "2026-11-02",
-        "link_expires": "2026-12-02",
+        "date": "2026-11-23",
+        "result_count": 114,
+        "prior_count": 109,
+        "mls_url": "https://www.flexmls.com/link.html?1zf4fbcxznyl,15,1&utm_source=savingsre&utm_medium=website&utm_campaign=landing_page&utm_content=country-club-homes-for-sale",
+        "link_generated": "2026-11-23",
+        "link_expires": "2026-12-23",
         "commentary": [
-          "This week the search shows 100 active listings across Palm Beach, Broward and Miami-Dade, unchanged from Oct 31, with a median asking price of $2,350,000. The median listing has been on the market 87.5 days, and 37 listings (37%) have changed price since they were listed."
+          "This week the search shows 114 active listings across Palm Beach, Broward and Miami-Dade, up 5 from Nov 16, with a median asking price of $2,372,500. The median listing has been on the market 59.5 days, and 46 listings (40%) have changed price since they were listed."
         ],
         "figures": [
           {
             "label": "Active listings",
-            "value": "100",
-            "source": "FlexMLS saved search WSS-LP-LUX-CountryClub, run Nov 2, 2026"
+            "value": "114",
+            "source": "FlexMLS saved search WSS-LP-LUX-CountryClub, run Nov 23, 2026"
           },
           {
-            "label": "Change in active listings since Oct 31, 2026",
-            "value": "0",
-            "source": "100 on Oct 31 vs 100 on Nov 2, 2026, FlexMLS saved search WSS-LP-LUX-CountryClub, run Nov 2, 2026"
+            "label": "Change in active listings since Nov 16, 2026",
+            "value": "+5",
+            "source": "109 on Nov 16 vs 114 on Nov 23, 2026, FlexMLS saved search WSS-LP-LUX-CountryClub, run Nov 23, 2026"
           },
           {
             "label": "Median list price",
-            "value": "$2,350,000",
-            "source": "FlexMLS saved search WSS-LP-LUX-CountryClub, run Nov 2, 2026"
+            "value": "$2,372,500",
+            "source": "FlexMLS saved search WSS-LP-LUX-CountryClub, run Nov 23, 2026"
           },
           {
             "label": "Median days on market",
-            "value": "87.5",
-            "source": "FlexMLS saved search WSS-LP-LUX-CountryClub, run Nov 2, 2026"
+            "value": "59.5",
+            "source": "FlexMLS saved search WSS-LP-LUX-CountryClub, run Nov 23, 2026"
           },
           {
             "label": "Listings with a price change since listing",
-            "value": "37",
-            "source": "FlexMLS saved search WSS-LP-LUX-CountryClub, run Nov 2, 2026"
+            "value": "46",
+            "source": "FlexMLS saved search WSS-LP-LUX-CountryClub, run Nov 23, 2026"
           },
           {
             "label": "Share of listings with a price change",
-            "value": "37%",
-            "source": "37 of 100, FlexMLS saved search WSS-LP-LUX-CountryClub, run Nov 2, 2026"
+            "value": "40%",
+            "source": "46 of 114, FlexMLS saved search WSS-LP-LUX-CountryClub, run Nov 23, 2026"
           }
         ]
       },
@@ -2495,6 +2735,18 @@
         {
           "date": "2026-11-02",
           "result_count": 100
+        },
+        {
+          "date": "2026-11-09",
+          "result_count": 104
+        },
+        {
+          "date": "2026-11-16",
+          "result_count": 109
+        },
+        {
+          "date": "2026-11-23",
+          "result_count": 114
         }
       ],
       "source_search": "WSS-LUX-CountryClub"
@@ -2560,46 +2812,46 @@
       "new_search": true,
       "criteria_verified": true,
       "weekly": {
-        "date": "2026-11-02",
-        "result_count": 15927,
-        "prior_count": 16097,
-        "mls_url": "https://www.flexmls.com/link.html?1zewzgnf7gm2,15,1&utm_source=savingsre&utm_medium=website&utm_campaign=landing_page&utm_content=condos-for-sale-under-500k",
-        "link_generated": "2026-11-02",
-        "link_expires": "2026-12-02",
+        "date": "2026-11-23",
+        "result_count": 16410,
+        "prior_count": 16310,
+        "mls_url": "https://www.flexmls.com/link.html?1zf4fbeck23l,15,1&utm_source=savingsre&utm_medium=website&utm_campaign=landing_page&utm_content=condos-for-sale-under-500k",
+        "link_generated": "2026-11-23",
+        "link_expires": "2026-12-23",
         "commentary": [
-          "This week the search shows 15,927 active listings across Palm Beach, Broward and Miami-Dade, down 170 from Oct 31, with a median asking price of $235,000. The median listing has been on the market 100 days, and 7,462 listings (47%) have changed price since they were listed.",
+          "This week the search shows 16,410 active listings across Palm Beach, Broward and Miami-Dade, up 100 from Nov 16, with a median asking price of $235,000. The median listing has been on the market 100 days, and 7,696 listings (47%) have changed price since they were listed.",
           "In January 2026, MIAMI REALTORS reported median condo prices of $420,000 in Miami-Dade, $325,000 in Palm Beach and $250,000 in Broward, with Palm Beach condo inventory at a seven-month high."
         ],
         "figures": [
           {
             "label": "Active listings",
-            "value": "15,927",
-            "source": "FlexMLS saved search WSS-LP-RES-Condo500K, run Nov 2, 2026"
+            "value": "16,410",
+            "source": "FlexMLS saved search WSS-LP-RES-Condo500K, run Nov 23, 2026"
           },
           {
-            "label": "Change in active listings since Oct 31, 2026",
-            "value": "-170",
-            "source": "16,097 on Oct 31 vs 15,927 on Nov 2, 2026, FlexMLS saved search WSS-LP-RES-Condo500K, run Nov 2, 2026"
+            "label": "Change in active listings since Nov 16, 2026",
+            "value": "+100",
+            "source": "16,310 on Nov 16 vs 16,410 on Nov 23, 2026, FlexMLS saved search WSS-LP-RES-Condo500K, run Nov 23, 2026"
           },
           {
             "label": "Median list price",
             "value": "$235,000",
-            "source": "FlexMLS saved search WSS-LP-RES-Condo500K, run Nov 2, 2026"
+            "source": "FlexMLS saved search WSS-LP-RES-Condo500K, run Nov 23, 2026"
           },
           {
             "label": "Median days on market",
             "value": "100",
-            "source": "FlexMLS saved search WSS-LP-RES-Condo500K, run Nov 2, 2026"
+            "source": "FlexMLS saved search WSS-LP-RES-Condo500K, run Nov 23, 2026"
           },
           {
             "label": "Listings with a price change since listing",
-            "value": "7,462",
-            "source": "FlexMLS saved search WSS-LP-RES-Condo500K, run Nov 2, 2026"
+            "value": "7,696",
+            "source": "FlexMLS saved search WSS-LP-RES-Condo500K, run Nov 23, 2026"
           },
           {
             "label": "Share of listings with a price change",
             "value": "47%",
-            "source": "7,462 of 15,927, FlexMLS saved search WSS-LP-RES-Condo500K, run Nov 2, 2026"
+            "source": "7,696 of 16,410, FlexMLS saved search WSS-LP-RES-Condo500K, run Nov 23, 2026"
           },
           {
             "label": "Miami-Dade median condo price, Jan 2026",
@@ -2626,6 +2878,18 @@
         {
           "date": "2026-11-02",
           "result_count": 15927
+        },
+        {
+          "date": "2026-11-09",
+          "result_count": 16096
+        },
+        {
+          "date": "2026-11-16",
+          "result_count": 16310
+        },
+        {
+          "date": "2026-11-23",
+          "result_count": 16410
         }
       ],
       "source_search": "new (no price-reduced field exists in FlexMLS)"
@@ -2691,41 +2955,41 @@
       "new_search": true,
       "criteria_verified": true,
       "weekly": {
-        "date": "2026-11-02",
-        "result_count": 3354,
-        "prior_count": 3377,
-        "mls_url": "https://www.flexmls.com/link.html?1zewzgora6l4,15,1&utm_source=savingsre&utm_medium=website&utm_campaign=landing_page&utm_content=homes-for-rent",
-        "link_generated": "2026-11-02",
-        "link_expires": "2026-12-02",
+        "date": "2026-11-23",
+        "result_count": 3299,
+        "prior_count": 3376,
+        "mls_url": "https://www.flexmls.com/link.html?1zf4fbfxb418,15,1&utm_source=savingsre&utm_medium=website&utm_campaign=landing_page&utm_content=homes-for-rent",
+        "link_generated": "2026-11-23",
+        "link_expires": "2026-12-23",
         "commentary": [
-          "This week the search shows 3,354 active rentals across Palm Beach, Broward and Miami-Dade, down 23 from Oct 31, with a median asking rent of $3,200 a month. The median listing has been available 41 days, and 1,265 have changed their asking rent since they were listed.",
+          "This week the search shows 3,299 active rentals across Palm Beach, Broward and Miami-Dade, down 77 from Nov 16, with a median asking rent of $3,200 a month. The median listing has been available 45 days, and 1,330 have changed their asking rent since they were listed.",
           "Region-wide, multifamily vacancy was 6.4% in the second quarter of 2026, with an average asking rent of $2,313 per unit, according to Lee & Associates."
         ],
         "figures": [
           {
             "label": "Active listings",
-            "value": "3,354",
-            "source": "FlexMLS saved search WSS-RES-RENTALS, run Nov 2, 2026"
+            "value": "3,299",
+            "source": "FlexMLS saved search WSS-RES-RENTALS, run Nov 23, 2026"
           },
           {
-            "label": "Change in active listings since Oct 31, 2026",
-            "value": "-23",
-            "source": "3,377 on Oct 31 vs 3,354 on Nov 2, 2026, FlexMLS saved search WSS-RES-RENTALS, run Nov 2, 2026"
+            "label": "Change in active listings since Nov 16, 2026",
+            "value": "-77",
+            "source": "3,376 on Nov 16 vs 3,299 on Nov 23, 2026, FlexMLS saved search WSS-RES-RENTALS, run Nov 23, 2026"
           },
           {
             "label": "Median asking rent (monthly)",
             "value": "$3,200",
-            "source": "FlexMLS saved search WSS-RES-RENTALS, run Nov 2, 2026"
+            "source": "FlexMLS saved search WSS-RES-RENTALS, run Nov 23, 2026"
           },
           {
             "label": "Median days on market",
-            "value": "41",
-            "source": "FlexMLS saved search WSS-RES-RENTALS, run Nov 2, 2026"
+            "value": "45",
+            "source": "FlexMLS saved search WSS-RES-RENTALS, run Nov 23, 2026"
           },
           {
             "label": "Listings with a price change since listing",
-            "value": "1,265",
-            "source": "FlexMLS saved search WSS-RES-RENTALS, run Nov 2, 2026"
+            "value": "1,330",
+            "source": "FlexMLS saved search WSS-RES-RENTALS, run Nov 23, 2026"
           },
           {
             "label": "Tri-county multifamily vacancy, Q2 2026",
@@ -2747,6 +3011,18 @@
         {
           "date": "2026-11-02",
           "result_count": 3354
+        },
+        {
+          "date": "2026-11-09",
+          "result_count": 3381
+        },
+        {
+          "date": "2026-11-16",
+          "result_count": 3376
+        },
+        {
+          "date": "2026-11-23",
+          "result_count": 3299
         }
       ],
       "source_search": "new"
@@ -2812,40 +3088,40 @@
       "new_search": true,
       "criteria_verified": true,
       "weekly": {
-        "date": "2026-11-02",
-        "result_count": 2428,
-        "prior_count": 2456,
-        "mls_url": "https://www.flexmls.com/link.html?1zewzgp9dsfz,15,1&utm_source=savingsre&utm_medium=website&utm_campaign=landing_page&utm_content=seasonal-furnished-rentals",
-        "link_generated": "2026-11-02",
-        "link_expires": "2026-12-02",
+        "date": "2026-11-23",
+        "result_count": 2271,
+        "prior_count": 2307,
+        "mls_url": "https://www.flexmls.com/link.html?1zf4fbgeud09,15,1&utm_source=savingsre&utm_medium=website&utm_campaign=landing_page&utm_content=seasonal-furnished-rentals",
+        "link_generated": "2026-11-23",
+        "link_expires": "2026-12-23",
         "commentary": [
-          "This week the search shows 2,428 active rentals across Palm Beach, Broward and Miami-Dade, down 28 from Oct 31, with a median asking rent of $5,950 a month. The median listing has been available 96 days, and 857 have changed their asking rent since they were listed."
+          "This week the search shows 2,271 active rentals across Palm Beach, Broward and Miami-Dade, down 36 from Nov 16, with a median asking rent of $6,000 a month. The median listing has been available 98 days, and 806 have changed their asking rent since they were listed."
         ],
         "figures": [
           {
             "label": "Active listings",
-            "value": "2,428",
-            "source": "FlexMLS saved search WSS-LP-RES-Seasonal, run Nov 2, 2026"
+            "value": "2,271",
+            "source": "FlexMLS saved search WSS-LP-RES-Seasonal, run Nov 23, 2026"
           },
           {
-            "label": "Change in active listings since Oct 31, 2026",
-            "value": "-28",
-            "source": "2,456 on Oct 31 vs 2,428 on Nov 2, 2026, FlexMLS saved search WSS-LP-RES-Seasonal, run Nov 2, 2026"
+            "label": "Change in active listings since Nov 16, 2026",
+            "value": "-36",
+            "source": "2,307 on Nov 16 vs 2,271 on Nov 23, 2026, FlexMLS saved search WSS-LP-RES-Seasonal, run Nov 23, 2026"
           },
           {
             "label": "Median asking rent (monthly)",
-            "value": "$5,950",
-            "source": "FlexMLS saved search WSS-LP-RES-Seasonal, run Nov 2, 2026"
+            "value": "$6,000",
+            "source": "FlexMLS saved search WSS-LP-RES-Seasonal, run Nov 23, 2026"
           },
           {
             "label": "Median days on market",
-            "value": "96",
-            "source": "FlexMLS saved search WSS-LP-RES-Seasonal, run Nov 2, 2026"
+            "value": "98",
+            "source": "FlexMLS saved search WSS-LP-RES-Seasonal, run Nov 23, 2026"
           },
           {
             "label": "Listings with a price change since listing",
-            "value": "857",
-            "source": "FlexMLS saved search WSS-LP-RES-Seasonal, run Nov 2, 2026"
+            "value": "806",
+            "source": "FlexMLS saved search WSS-LP-RES-Seasonal, run Nov 23, 2026"
           }
         ]
       },
@@ -2857,6 +3133,18 @@
         {
           "date": "2026-11-02",
           "result_count": 2428
+        },
+        {
+          "date": "2026-11-09",
+          "result_count": 2363
+        },
+        {
+          "date": "2026-11-16",
+          "result_count": 2307
+        },
+        {
+          "date": "2026-11-23",
+          "result_count": 2271
         }
       ],
       "source_search": "new"
@@ -2922,35 +3210,40 @@
       "new_search": true,
       "criteria_verified": true,
       "weekly": {
-        "date": "2026-11-06",
-        "result_count": 483,
-        "prior_count": null,
-        "mls_url": "https://www.flexmls.com/link.html?1zeyfmwvuo7j,15,1&utm_source=savingsre&utm_medium=website&utm_campaign=landing_page&utm_content=ocean-view-rentals",
-        "link_generated": "2026-11-06",
-        "link_expires": "2026-12-06",
+        "date": "2026-11-23",
+        "result_count": 456,
+        "prior_count": 474,
+        "mls_url": "https://www.flexmls.com/link.html?1zf4fbhjgyna,15,1&utm_source=savingsre&utm_medium=website&utm_campaign=landing_page&utm_content=ocean-view-rentals",
+        "link_generated": "2026-11-23",
+        "link_expires": "2026-12-23",
         "commentary": [
-          "This week the search shows 483 active ocean-view rentals across Palm Beach, Broward and Miami-Dade, with a median asking rent of $4,490 a month. The median listing has been available 66 days, and 167 have changed their asking rent since they were listed."
+          "This week the search shows 456 active ocean-view rentals across Palm Beach, Broward and Miami-Dade, down 18 from Nov 16, with a median asking rent of $4,400 a month. The median listing has been available 69 days, and 167 have changed their asking rent since they were listed."
         ],
         "figures": [
           {
             "label": "Active listings",
-            "value": "483",
-            "source": "FlexMLS saved search WSS-LP-RES-OceanViewRentals, run Nov 6, 2026"
+            "value": "456",
+            "source": "FlexMLS saved search WSS-LP-RES-OceanViewRentals, run Nov 23, 2026"
+          },
+          {
+            "label": "Change in active listings since Nov 16, 2026",
+            "value": "-18",
+            "source": "474 on Nov 16 vs 456 on Nov 23, 2026, FlexMLS saved search WSS-LP-RES-OceanViewRentals, run Nov 23, 2026"
           },
           {
             "label": "Median asking rent (monthly)",
-            "value": "$4,490",
-            "source": "FlexMLS saved search WSS-LP-RES-OceanViewRentals, run Nov 6, 2026"
+            "value": "$4,400",
+            "source": "FlexMLS saved search WSS-LP-RES-OceanViewRentals, run Nov 23, 2026"
           },
           {
             "label": "Median days on market",
-            "value": "66",
-            "source": "FlexMLS saved search WSS-LP-RES-OceanViewRentals, run Nov 6, 2026"
+            "value": "69",
+            "source": "FlexMLS saved search WSS-LP-RES-OceanViewRentals, run Nov 23, 2026"
           },
           {
             "label": "Listings with a price change since listing",
             "value": "167",
-            "source": "FlexMLS saved search WSS-LP-RES-OceanViewRentals, run Nov 6, 2026"
+            "source": "FlexMLS saved search WSS-LP-RES-OceanViewRentals, run Nov 23, 2026"
           }
         ]
       },
@@ -2958,6 +3251,18 @@
         {
           "date": "2026-11-06",
           "result_count": 483
+        },
+        {
+          "date": "2026-11-09",
+          "result_count": 481
+        },
+        {
+          "date": "2026-11-16",
+          "result_count": 474
+        },
+        {
+          "date": "2026-11-23",
+          "result_count": 456
         }
       ],
       "source_search": "new"
@@ -3023,46 +3328,46 @@
       "new_search": true,
       "criteria_verified": true,
       "weekly": {
-        "date": "2026-11-02",
-        "result_count": 13,
-        "prior_count": 13,
-        "mls_url": "https://www.flexmls.com/link.html?1zewzfx32oy9,15,1&utm_source=savingsre&utm_medium=website&utm_campaign=landing_page&utm_content=west-palm-beach-multifamily-for-sale",
-        "link_generated": "2026-11-02",
-        "link_expires": "2026-12-02",
+        "date": "2026-11-23",
+        "result_count": 16,
+        "prior_count": 15,
+        "mls_url": "https://www.flexmls.com/link.html?1zf4fbi82j31,15,1&utm_source=savingsre&utm_medium=website&utm_campaign=landing_page&utm_content=west-palm-beach-multifamily-for-sale",
+        "link_generated": "2026-11-23",
+        "link_expires": "2026-12-23",
         "commentary": [
-          "This week the search shows 13 active listings in West Palm Beach, unchanged from Nov 1, with a median asking price of $1,250,000. The median listing has been on the market 60 days, and 4 listings (31%) have changed price since they were listed.",
+          "This week the search shows 16 active listings in West Palm Beach, up 1 from Nov 16, with a median asking price of $1,250,000. The median listing has been on the market 73.5 days, and 6 listings (38%) have changed price since they were listed.",
           "In the Nov 1 run, twelve of the 13 listings were triplexes or fourplexes, most built between the 1920s and the 1970s. Six reported both income and expenses; on those six, net operating income divided by list price worked out to about 2.9% to 5.8%. Figures are broker-reported and unverified."
         ],
         "figures": [
           {
             "label": "Active listings",
-            "value": "13",
-            "source": "FlexMLS saved search WSS-LP-MF-WPB-750Kto5M, run Nov 2, 2026"
+            "value": "16",
+            "source": "FlexMLS saved search WSS-LP-MF-WPB-750Kto5M, run Nov 23, 2026"
           },
           {
-            "label": "Change in active listings since Nov 1, 2026",
-            "value": "0",
-            "source": "13 on Nov 1 vs 13 on Nov 2, 2026, FlexMLS saved search WSS-LP-MF-WPB-750Kto5M, run Nov 2, 2026"
+            "label": "Change in active listings since Nov 16, 2026",
+            "value": "+1",
+            "source": "15 on Nov 16 vs 16 on Nov 23, 2026, FlexMLS saved search WSS-LP-MF-WPB-750Kto5M, run Nov 23, 2026"
           },
           {
             "label": "Median list price",
             "value": "$1,250,000",
-            "source": "FlexMLS saved search WSS-LP-MF-WPB-750Kto5M, run Nov 2, 2026"
+            "source": "FlexMLS saved search WSS-LP-MF-WPB-750Kto5M, run Nov 23, 2026"
           },
           {
             "label": "Median days on market",
-            "value": "60",
-            "source": "FlexMLS saved search WSS-LP-MF-WPB-750Kto5M, run Nov 2, 2026"
+            "value": "73.5",
+            "source": "FlexMLS saved search WSS-LP-MF-WPB-750Kto5M, run Nov 23, 2026"
           },
           {
             "label": "Listings with a price change since listing",
-            "value": "4",
-            "source": "FlexMLS saved search WSS-LP-MF-WPB-750Kto5M, run Nov 2, 2026"
+            "value": "6",
+            "source": "FlexMLS saved search WSS-LP-MF-WPB-750Kto5M, run Nov 23, 2026"
           },
           {
             "label": "Share of listings with a price change",
-            "value": "31%",
-            "source": "4 of 13, FlexMLS saved search WSS-LP-MF-WPB-750Kto5M, run Nov 2, 2026"
+            "value": "38%",
+            "source": "6 of 16, FlexMLS saved search WSS-LP-MF-WPB-750Kto5M, run Nov 23, 2026"
           },
           {
             "label": "Triplexes and fourplexes, Nov 1 run",
@@ -3094,6 +3399,18 @@
         {
           "date": "2026-11-02",
           "result_count": 13
+        },
+        {
+          "date": "2026-11-09",
+          "result_count": 13
+        },
+        {
+          "date": "2026-11-16",
+          "result_count": 15
+        },
+        {
+          "date": "2026-11-23",
+          "result_count": 16
         }
       ]
     },
@@ -3158,46 +3475,46 @@
       "new_search": true,
       "criteria_verified": true,
       "weekly": {
-        "date": "2026-11-02",
-        "result_count": 16,
+        "date": "2026-11-23",
+        "result_count": 17,
         "prior_count": 16,
-        "mls_url": "https://www.flexmls.com/link.html?1zewzfl6sou8,15,1&utm_source=savingsre&utm_medium=website&utm_campaign=landing_page&utm_content=nnn-properties-1m-to-10m",
-        "link_generated": "2026-11-02",
-        "link_expires": "2026-12-02",
+        "mls_url": "https://www.flexmls.com/link.html?1zf4fbjbq9ey,15,1&utm_source=savingsre&utm_medium=website&utm_campaign=landing_page&utm_content=nnn-properties-1m-to-10m",
+        "link_generated": "2026-11-23",
+        "link_expires": "2026-12-23",
         "commentary": [
-          "This week the search shows 16 active listings across Palm Beach, Broward and Miami-Dade, unchanged from Nov 1, with a median asking price of $3,000,000. The median listing has been on the market 145.5 days, and 4 listings (25%) have changed price since they were listed.",
+          "This week the search shows 17 active listings across Palm Beach, Broward and Miami-Dade, up 1 from Nov 16, with a median asking price of $3,000,000. The median listing has been on the market 137 days, and 4 listings (24%) have changed price since they were listed.",
           "In the Nov 1 run, ten of the 16 listings were retail, three office, two industrial and one mixed use. Five reported net operating income; on those five, NOI divided by list price worked out to about 4.5% to 7.2%. Figures are broker-reported and unverified."
         ],
         "figures": [
           {
             "label": "Active listings",
-            "value": "16",
-            "source": "FlexMLS saved search WSS-LP-COM-NNN-1Mto10M, run Nov 2, 2026"
+            "value": "17",
+            "source": "FlexMLS saved search WSS-LP-COM-NNN-1Mto10M, run Nov 23, 2026"
           },
           {
-            "label": "Change in active listings since Nov 1, 2026",
-            "value": "0",
-            "source": "16 on Nov 1 vs 16 on Nov 2, 2026, FlexMLS saved search WSS-LP-COM-NNN-1Mto10M, run Nov 2, 2026"
+            "label": "Change in active listings since Nov 16, 2026",
+            "value": "+1",
+            "source": "16 on Nov 16 vs 17 on Nov 23, 2026, FlexMLS saved search WSS-LP-COM-NNN-1Mto10M, run Nov 23, 2026"
           },
           {
             "label": "Median list price",
             "value": "$3,000,000",
-            "source": "FlexMLS saved search WSS-LP-COM-NNN-1Mto10M, run Nov 2, 2026"
+            "source": "FlexMLS saved search WSS-LP-COM-NNN-1Mto10M, run Nov 23, 2026"
           },
           {
             "label": "Median days on market",
-            "value": "145.5",
-            "source": "FlexMLS saved search WSS-LP-COM-NNN-1Mto10M, run Nov 2, 2026"
+            "value": "137",
+            "source": "FlexMLS saved search WSS-LP-COM-NNN-1Mto10M, run Nov 23, 2026"
           },
           {
             "label": "Listings with a price change since listing",
             "value": "4",
-            "source": "FlexMLS saved search WSS-LP-COM-NNN-1Mto10M, run Nov 2, 2026"
+            "source": "FlexMLS saved search WSS-LP-COM-NNN-1Mto10M, run Nov 23, 2026"
           },
           {
             "label": "Share of listings with a price change",
-            "value": "25%",
-            "source": "4 of 16, FlexMLS saved search WSS-LP-COM-NNN-1Mto10M, run Nov 2, 2026"
+            "value": "24%",
+            "source": "4 of 17, FlexMLS saved search WSS-LP-COM-NNN-1Mto10M, run Nov 23, 2026"
           },
           {
             "label": "Listings by sub-type, Nov 1 run",
@@ -3229,6 +3546,18 @@
         {
           "date": "2026-11-02",
           "result_count": 16
+        },
+        {
+          "date": "2026-11-09",
+          "result_count": 16
+        },
+        {
+          "date": "2026-11-16",
+          "result_count": 16
+        },
+        {
+          "date": "2026-11-23",
+          "result_count": 17
         }
       ]
     }

@@ -143,7 +143,7 @@ def head(title, desc, canonical, robots, extra=""):
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;1,400;1,600&family=Montserrat:wght@300;400;600&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="/assets/css/site.css?v=20261015">
-  <link rel="stylesheet" href="/assets/css/landing.css?v=20261106">
+  <link rel="stylesheet" href="/assets/css/landing.css?v=20261123">
   <script defer src="/assets/js/site.js?v=20261015"></script>
 {extra}</head>
 <body>
@@ -233,6 +233,44 @@ def inquiry_form(seg, cfg):
   </section>"""
 
 
+
+def alerts_box(seg, cfg):
+    """Email-only weekly listing-alerts sign-up, on the segments listed in
+    cfg["listing_alerts"]["segments"] (live pages only). Same Agile web form as
+    the inquiry form, but tagged listing-alerts + listing-alerts-<slug> ONLY, so a
+    sign-up never joins the website-inquiry welcome campaign. Not a CTA: the
+    inquiry form stays the page's single call to action."""
+    la = cfg.get("listing_alerts") or {}
+    a = cfg.get("agile") or {}
+    if (not seg["slug"] or seg["slug"] not in la.get("segments", []) or not is_live(seg)
+            or not (a.get("api_key") and a.get("form_name"))):
+        return ""
+    tags = f"listing-alerts,listing-alerts-{seg['slug']}"
+    consent = e(la["consent"]).format(privacy='<a href="/privacy/">Privacy Policy</a>')
+    return f"""
+  <section class="alerts" id="alerts" aria-labelledby="alerts-h">
+    <div class="alerts-inner">
+      <h2 id="alerts-h">{e(la['heading'])}</h2>
+      <form class="alerts-form" id="alerts-form" action="https://{e(a['domain'])}.agilecrm.com/formsubmit" method="GET" data-segment="{e(seg['slug'])}">
+        <input type="hidden" name="_agile_form_name" value="{e(a['form_name'])}">
+        <input type="hidden" name="_agile_domain" value="{e(a['domain'])}">
+        <input type="hidden" name="_agile_api" value="{e(a['api_key'])}">
+        <input type="hidden" name="_agile_form_id" value="{e(a.get('form_id', ''))}">
+        <input type="hidden" name="_agile_redirect_url" value="{e(page_url(seg))}?alerts=on#alerts">
+        <input type="hidden" name="_agile_document_url" value="{e(page_url(seg))}">
+        <input type="hidden" name="_agile_confirmation_msg" value="You're signed up for weekly listings.">
+        <input type="hidden" name="tags" value="{e(tags)}">
+        <div class="alerts-row">
+          <div class="form-group"><label for="a-email">Email</label><input id="a-email" type="email" name="email" autocomplete="email" required></div>
+          <button type="submit" class="form-submit alerts-submit">Send Me Weekly Listings</button>
+        </div>
+        <p class="form-consent">{consent}</p>
+        <div class="form-success" id="alerts-on" hidden>You're signed up. New listings for this search will come to your inbox weekly.</div>
+      </form>
+    </div>
+  </section>"""
+
+
 def this_week(seg, cfg):
     w = seg.get("weekly") or {}
     if not is_live(seg):
@@ -306,6 +344,8 @@ def landing_page(seg, cfg, by_slug, header_html):
 </section>
 <main class="main landing-main">""")
     out.append(this_week(seg, cfg))
+    alerts = alerts_box(seg, cfg)
+    out.append(alerts)
     intro = "\n".join(f"    <p>{e(p)}</p>" for p in seg["intro"])
     crit = "\n".join(
         f'      <div class="spec"><div class="spec-val">{e(v)}</div><div class="spec-lbl">{e(k)}</div></div>'
@@ -344,17 +384,51 @@ def landing_page(seg, cfg, by_slug, header_html):
     <p>{e(cfg['attribution'])}</p>
   </aside>
 </main>
-{inquiry_script()}""")
+{inquiry_script(bool(alerts))}""")
     out.append(footer(cfg))
     return "".join(out)
 
 
+# Listing-alerts handler, emitted only on pages that carry the alerts box.
+ALERTS_JS = """  // Weekly listing alerts (only on pages with the box): sign_up, never generate_lead.
+  var af = document.getElementById('alerts-form');
+  if (af) {
+    if (location.search.indexOf('alerts=on') > -1) {
+      var on = document.getElementById('alerts-on'); if (on) on.hidden = false;
+    }
+    af.addEventListener('submit', function (ev) {
+      window.dataLayer = window.dataLayer || [];
+      window.dataLayer.push({ event: 'sign_up', method: 'listing_alerts', segment: af.getAttribute('data-segment') });
+      if (!window.fetch || !window.URLSearchParams || !window.FormData) return;
+      ev.preventDefault();
+      var b = af.querySelector('[type=submit]');
+      if (b) { b.disabled = true; b.textContent = 'Signing up…'; }
+      var u = af.action + '?' + new URLSearchParams(new FormData(af)).toString();
+      var shown = false;
+      function done() {
+        if (shown) return; shown = true;
+        var ok = document.getElementById('alerts-on');
+        Array.prototype.forEach.call(af.children, function (c) { if (c !== ok) c.hidden = true; });
+        if (ok) { ok.hidden = false; ok.setAttribute('tabindex', '-1'); ok.focus(); }
+      }
+      var t = setTimeout(done, 2500);
+      fetch(u, { method: 'GET', mode: 'no-cors', credentials: 'omit', keepalive: true })
+        .then(done)
+        .catch(function () { clearTimeout(t); if (!shown) af.submit(); });
+    });
+  }
+"""
 
-def inquiry_script():
-    """Submit handler shared by segment pages and the hub: GTM lead event + inline confirmation."""
-    return """<script>
+
+def inquiry_script(alerts=False):
+    """Submit handlers shared by segment pages and the hub: GTM lead event (inquiry) or
+    sign_up event (listing alerts) + inline confirmation."""
+    return SCRIPT.replace("{alerts}", ALERTS_JS if alerts else "")
+
+
+SCRIPT = """<script>
 (function () {
-  var f = document.getElementById('inquiry-form');
+{alerts}  var f = document.getElementById('inquiry-form');
   if (location.search.indexOf('inquiry=sent') > -1) {
     var ok = document.getElementById('inquiry-sent'); if (ok) ok.hidden = false;
   }
@@ -390,7 +464,7 @@ def inquiry_script():
 def hub_page(segs, cfg, header_html):
     title = "South Florida Property Searches: Sale & Lease | SavingsRE"
     desc = ("Weekly-updated searches for commercial, multifamily and residential property for sale "
-            "and for lease in Palm Beach, Broward and Miami-Dade, with market commentary from Bill Seery.")
+            "and lease in Palm Beach, Broward and Miami-Dade.")
     live = [s for s in segs if is_live(s)]
     items = [{"@type": "ListItem", "position": i + 1, "url": page_url(s), "name": s["h1"]}
              for i, s in enumerate(live)]

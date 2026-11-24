@@ -99,5 +99,11 @@
       "updated": "2026-10-31",
       "description": "The terms that apply when you use savingsre.com, including listing information, third-party links, text messages and our real estate disclosures."
     }
+  },
+  "listing_alerts": {
+    "_note": "Email-only 'new listings every week' box on these segment pages (live pages only). Posts to the same Agile web form as the inquiry form, tagged listing-alerts and listing-alerts-<slug> only, so sign-ups never enter the website-inquiry welcome campaign. Pages chosen by Search Console impressions (2026-11-19 SEO weekly report).",
+    "heading": "Get new listings like these every week",
+    "consent": "Weekly email from Bill Seery, Savings RE / United Realty Group. Unsubscribe anytime. {privacy}.",
+    "segments": ["retail-space-for-lease", "industrial-warehouse-for-lease", "retail-strip-centers-for-sale"]
   }
 }
