@@ -1,0 +1,218 @@
+{
+ "segment": "strip-mall-fl",
+ "collection": "curated",
+ "template": "curated-generic",
+ "label": "Strip & Neighborhood Retail Centers — Florida",
+ "tagline": "Top 10 · Florida statewide · multi-tenant strip / neighborhood centers · ranked by cap rate",
+ "search_name": "Crexi (FL pull)",
+ "generated": "2026-11-24",
+ "pdf": "pdf/strip-mall-fl__2026-11-24.pdf",
+ "expires": "2026-12-24",
+ "total_results": 10,
+ "metric_label": "Cap rate",
+ "methodology": "Crexi Florida pull 2026-11-24 from the signed-in Crexi search (Florida/county/city location, property-type, price, unit and cap-rate filters, cap-rate sort) with each shortlisted listing's detail page read for Sub Type, units, square footage, class and NOI. Florida multi-tenant strip and neighborhood shopping centers only (6,000+ sq ft; no single-tenant, retail condos, mixed-use or business-plus-building sales), ranked by published cap rate; 8% floor relaxed to 7% where thin. This run: 22 qualifying centers at 7%+ (16 at 8%+); top 10 shown.",
+ "items": [
+  {
+   "id": "strip-mall-fl-2026-11-24-01",
+   "analytics_id": "A-02456",
+   "rank": 1,
+   "submarket": "Pensacola",
+   "profile": "Multi-Tenant Retail Center",
+   "price_band": "$1M-$1.5M",
+   "cap_label": "~10.93% cap",
+   "desc": "Multi-Tenant Retail Center in Pensacola; ~10.93% cap, ~21.0K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Multi-Tenant Retail Center, Pensacola (~10.93% cap)",
+   "highlights": [
+    "Investor: ~22-24% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~21.0K sq ft",
+    "Class C",
+    "value-add / below-market rents",
+    "reported fully occupied"
+   ],
+   "inv_line": [
+    "~22-24% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "strip-mall-fl-2026-11-24-02",
+   "analytics_id": "A-02457",
+   "rank": 2,
+   "submarket": "Bunnell",
+   "profile": "Multi-Tenant Retail Center",
+   "price_band": "$1.5M-$2M",
+   "cap_label": "~10.77% cap",
+   "desc": "Multi-Tenant Retail Center in Bunnell; ~10.77% cap, ~10.7K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Multi-Tenant Retail Center, Bunnell (~10.77% cap)",
+   "highlights": [
+    "Investor: ~21-23% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~10.7K sq ft",
+    "Class A",
+    "reported fully occupied"
+   ],
+   "inv_line": [
+    "~21-23% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "strip-mall-fl-2026-11-24-03",
+   "analytics_id": "A-02458",
+   "rank": 3,
+   "submarket": "Ocoee",
+   "profile": "Multi-Tenant Retail Center",
+   "price_band": "$7M-$8M",
+   "cap_label": "~9.27% cap",
+   "desc": "Multi-Tenant Retail Center in Ocoee; ~9.27% cap, ~61.1K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Multi-Tenant Retail Center, Ocoee (~9.27% cap)",
+   "highlights": [
+    "Investor: ~15-17% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~61.1K sq ft",
+    "value-add / below-market rents",
+    "reported fully occupied"
+   ],
+   "inv_line": [
+    "~15-17% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "strip-mall-fl-2026-11-24-04",
+   "analytics_id": "A-02459",
+   "rank": 4,
+   "submarket": "Newberry",
+   "profile": "Multi-Tenant Retail Center",
+   "price_band": "$2.5M-$3M",
+   "cap_label": "~9.00% cap",
+   "desc": "Multi-Tenant Retail Center in Newberry; ~9.00% cap, ~8.4K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Multi-Tenant Retail Center, Newberry (~9.00% cap)",
+   "highlights": [
+    "Investor: ~14-16% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~8.4K sq ft"
+   ],
+   "inv_line": [
+    "~14-16% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "strip-mall-fl-2026-11-24-05",
+   "analytics_id": "A-02460",
+   "rank": 5,
+   "submarket": "Jacksonville",
+   "profile": "Multi-Tenant Retail Center",
+   "price_band": "$2M-$2.5M",
+   "cap_label": "~8.84% cap",
+   "desc": "Multi-Tenant Retail Center in Jacksonville; ~8.84% cap, ~19.2K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Multi-Tenant Retail Center, Jacksonville (~8.84% cap)",
+   "highlights": [
+    "Investor: ~13-15% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~19.2K sq ft",
+    "value-add / below-market rents",
+    "reported fully occupied"
+   ],
+   "inv_line": [
+    "~13-15% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "strip-mall-fl-2026-11-24-06",
+   "analytics_id": "A-02461",
+   "rank": 6,
+   "submarket": "Seffner",
+   "profile": "Multi-Tenant Retail Center",
+   "price_band": "$1M-$1.5M",
+   "cap_label": "~8.79% cap",
+   "desc": "Multi-Tenant Retail Center in Seffner; ~8.79% cap, ~8.4K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Multi-Tenant Retail Center, Seffner (~8.79% cap)",
+   "highlights": [
+    "Investor: ~13-15% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~8.4K sq ft",
+    "reported fully occupied"
+   ],
+   "inv_line": [
+    "~13-15% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "strip-mall-fl-2026-11-24-07",
+   "analytics_id": "A-02462",
+   "rank": 7,
+   "submarket": "Lake City",
+   "profile": "Multi-Tenant Retail Center",
+   "price_band": "$500K-$1M",
+   "cap_label": "~8.52% cap",
+   "desc": "Multi-Tenant Retail Center in Lake City; ~8.52% cap, ~9.0K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Multi-Tenant Retail Center, Lake City (~8.52% cap)",
+   "highlights": [
+    "Investor: ~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~9.0K sq ft",
+    "reported fully occupied"
+   ],
+   "inv_line": [
+    "~12-14% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "strip-mall-fl-2026-11-24-08",
+   "analytics_id": "A-02463",
+   "rank": 8,
+   "submarket": "Panama City",
+   "profile": "Multi-Tenant Retail Center",
+   "price_band": "$6M-$7M",
+   "cap_label": "~8.45% cap",
+   "desc": "Multi-Tenant Retail Center in Panama City; ~8.45% cap, ~54.0K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Multi-Tenant Retail Center, Panama City (~8.45% cap)",
+   "highlights": [
+    "Investor: ~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~54.0K sq ft",
+    "Opportunity Zone",
+    "value-add / below-market rents"
+   ],
+   "inv_line": [
+    "~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Opportunity Zone"
+   ]
+  },
+  {
+   "id": "strip-mall-fl-2026-11-24-09",
+   "analytics_id": "A-02464",
+   "rank": 9,
+   "submarket": "Fort Myers",
+   "profile": "Multi-Tenant Retail Center",
+   "price_band": "$4M-$5M",
+   "cap_label": "~8.40% cap",
+   "desc": "Multi-Tenant Retail Center in Fort Myers; ~8.40% cap, ~31.6K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Multi-Tenant Retail Center, Fort Myers (~8.40% cap)",
+   "highlights": [
+    "Investor: ~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~31.6K sq ft",
+    "Class B",
+    "Opportunity Zone",
+    "seller financing available",
+    "value-add / below-market rents"
+   ],
+   "inv_line": [
+    "~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Opportunity Zone",
+    "seller financing available"
+   ]
+  },
+  {
+   "id": "strip-mall-fl-2026-11-24-10",
+   "analytics_id": "A-02465",
+   "rank": 10,
+   "submarket": "Kissimmee",
+   "profile": "Multi-Tenant Retail Center",
+   "price_band": "$2.5M-$3M",
+   "cap_label": "~8.38% cap",
+   "desc": "Multi-Tenant Retail Center in Kissimmee; ~8.38% cap, ~15.0K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Multi-Tenant Retail Center, Kissimmee (~8.38% cap)",
+   "highlights": [
+    "Investor: ~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~15.0K sq ft",
+    "value-add / below-market rents",
+    "reported fully occupied"
+   ],
+   "inv_line": [
+    "~12-14% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  }
+ ]
+}
