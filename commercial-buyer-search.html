@@ -281,7 +281,7 @@
           for(var i=0;i<form.elements.length;i++) form.elements[i].disabled=true;
           document.getElementById('cre-submit').style.display='none';
           document.getElementById('cre-success').hidden=false;
-          if(window.gtag) gtag('event','generate_lead',{form_name:'commercial_buyer_search'});
+          window.dataLayer=window.dataLayer||[];window.dataLayer.push({event:'generate_lead',form_name:'commercial_buyer_search'});
           if(window.dataLayer) window.dataLayer.push({event:'cre_buyer_submit',form_name:'commercial_buyer_search'});
         }, 700);
         return false;

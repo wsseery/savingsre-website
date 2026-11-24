@@ -1,0 +1,215 @@
+{
+ "segment": "nnn-fl",
+ "collection": "curated",
+ "template": "curated-generic",
+ "label": "NNN Net-Lease Retail — Florida",
+ "tagline": "Top 10 · Florida statewide · single & multi-tenant net lease · ranked by cap rate",
+ "search_name": "Crexi (FL pull)",
+ "generated": "2026-11-24",
+ "pdf": "pdf/nnn-fl__2026-11-24.pdf",
+ "expires": "2026-12-24",
+ "total_results": 10,
+ "metric_label": "Cap rate",
+ "methodology": "Crexi Florida pull 2026-11-24 from the signed-in Crexi search (Florida/county/city location, property-type, price, unit and cap-rate filters, cap-rate sort) with each shortlisted listing's detail page read for Sub Type, units, square footage, class and NOI. Florida net-leased retail, ranked purely by published cap rate (ceiling 13%). Requires single-tenant / net-lease terms; owner-user, business-for-sale, gross-lease, dispensary and shopping-center listings excluded, and build-to-suit / under-construction / not-yet-open deals are excluded until the store is open. This run: 33 qualifying listings among the highest-cap Florida retail on Crexi; top 10 shown (19 at 8%+).",
+ "items": [
+  {
+   "id": "nnn-fl-2026-11-24-01",
+   "analytics_id": "A-02446",
+   "rank": 1,
+   "submarket": "Palm Beach County",
+   "profile": "Net-Leased Retail",
+   "price_band": "$4M-$5M",
+   "cap_label": "~12.18% cap",
+   "desc": "Net-Leased Retail in Palm Beach County; ~12.18% cap, ~6.6K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Net-Leased Retail, Palm Beach County (~12.18% cap)",
+   "highlights": [
+    "Investor: ~27-29% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~6.6K sq ft",
+    "seller financing available",
+    "reported fully occupied"
+   ],
+   "inv_line": [
+    "~27-29% est. cash-on-cash (25% down, IO @ ~7%)",
+    "seller financing available"
+   ]
+  },
+  {
+   "id": "nnn-fl-2026-11-24-02",
+   "analytics_id": "A-02447",
+   "rank": 2,
+   "submarket": "Bronson",
+   "profile": "Net-Leased Retail",
+   "price_band": "$2.5M-$3M",
+   "cap_label": "~10.00% cap",
+   "desc": "Net-Leased Retail in Bronson; ~10.00% cap, ~13.4K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Net-Leased Retail, Bronson (~10.00% cap)",
+   "highlights": [
+    "Investor: ~18-20% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~13.4K sq ft",
+    "reported fully occupied"
+   ],
+   "inv_line": [
+    "~18-20% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "nnn-fl-2026-11-24-03",
+   "analytics_id": "A-02448",
+   "rank": 3,
+   "submarket": "Stuart",
+   "profile": "Net-Leased Retail",
+   "price_band": "$1M-$1.5M",
+   "cap_label": "~10.00% cap",
+   "desc": "Net-Leased Retail in Stuart; ~10.00% cap, ~500 sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Net-Leased Retail, Stuart (~10.00% cap)",
+   "highlights": [
+    "Investor: ~18-20% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~500 sq ft",
+    "reported fully occupied"
+   ],
+   "inv_line": [
+    "~18-20% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "nnn-fl-2026-11-24-04",
+   "analytics_id": "A-02449",
+   "rank": 4,
+   "submarket": "Pensacola",
+   "profile": "Net-Leased Retail",
+   "price_band": "$2.5M-$3M",
+   "cap_label": "~9.52% cap",
+   "desc": "Net-Leased Retail in Pensacola; ~9.52% cap, ~18.8K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Net-Leased Retail, Pensacola (~9.52% cap)",
+   "highlights": [
+    "Investor: ~16-18% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~18.8K sq ft",
+    "Class B",
+    "reported fully occupied"
+   ],
+   "inv_line": [
+    "~16-18% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "nnn-fl-2026-11-24-05",
+   "analytics_id": "A-02450",
+   "rank": 5,
+   "submarket": "Hollywood",
+   "profile": "Net-Leased Retail",
+   "price_band": "$3M-$4M",
+   "cap_label": "~9.00% cap",
+   "desc": "Net-Leased Retail in Hollywood; ~9.00% cap, ~3.4K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Net-Leased Retail, Hollywood (~9.00% cap)",
+   "highlights": [
+    "Investor: ~14-16% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~3.4K sq ft"
+   ],
+   "inv_line": [
+    "~14-16% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "nnn-fl-2026-11-24-06",
+   "analytics_id": "A-02451",
+   "rank": 6,
+   "submarket": "Venice",
+   "profile": "Net-Leased Retail",
+   "price_band": "$2M-$2.5M",
+   "cap_label": "~9.00% cap",
+   "desc": "Net-Leased Retail in Venice; ~9.00% cap, ~4.8K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Net-Leased Retail, Venice (~9.00% cap)",
+   "highlights": [
+    "Investor: ~14-16% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~4.8K sq ft",
+    "reported fully occupied"
+   ],
+   "inv_line": [
+    "~14-16% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "nnn-fl-2026-11-24-07",
+   "analytics_id": "A-02452",
+   "rank": 7,
+   "submarket": "Deland",
+   "profile": "Net-Leased Retail",
+   "price_band": "$1.5M-$2M",
+   "cap_label": "~8.59% cap",
+   "desc": "Net-Leased Retail in Deland; ~8.59% cap, ~3.8K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Net-Leased Retail, Deland (~8.59% cap)",
+   "highlights": [
+    "Investor: ~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~3.8K sq ft",
+    "Class A",
+    "Opportunity Zone",
+    "reported fully occupied"
+   ],
+   "inv_line": [
+    "~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Opportunity Zone"
+   ]
+  },
+  {
+   "id": "nnn-fl-2026-11-24-08",
+   "analytics_id": "A-02453",
+   "rank": 8,
+   "submarket": "Fort Lauderdale",
+   "profile": "Net-Leased Retail",
+   "price_band": "$3M-$4M",
+   "cap_label": "~8.50% cap",
+   "desc": "Net-Leased Retail in Fort Lauderdale; ~8.50% cap, ~15.0K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Net-Leased Retail, Fort Lauderdale (~8.50% cap)",
+   "highlights": [
+    "Investor: ~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~15.0K sq ft",
+    "Opportunity Zone",
+    "reported fully occupied"
+   ],
+   "inv_line": [
+    "~12-14% est. cash-on-cash (25% down, IO @ ~7%)",
+    "Opportunity Zone"
+   ]
+  },
+  {
+   "id": "nnn-fl-2026-11-24-09",
+   "analytics_id": "A-02454",
+   "rank": 9,
+   "submarket": "Ocala",
+   "profile": "Net-Leased Retail",
+   "price_band": "$1.5M-$2M",
+   "cap_label": "~8.26% cap",
+   "desc": "Net-Leased Retail in Ocala; ~8.26% cap, ~8.0K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Net-Leased Retail, Ocala (~8.26% cap)",
+   "highlights": [
+    "Investor: ~11-13% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~8.0K sq ft",
+    "reported fully occupied"
+   ],
+   "inv_line": [
+    "~11-13% est. cash-on-cash (25% down, IO @ ~7%)"
+   ]
+  },
+  {
+   "id": "nnn-fl-2026-11-24-10",
+   "analytics_id": "A-02455",
+   "rank": 10,
+   "submarket": "Boca Raton",
+   "profile": "Net-Leased Retail",
+   "price_band": "$10M-$11M",
+   "cap_label": "~8.25% cap",
+   "desc": "Net-Leased Retail in Boca Raton; ~8.25% cap, ~9.4K sq ft. Exact address & financials on request.",
+   "inquiry_subject": "Inquiry: Net-Leased Retail, Boca Raton (~8.25% cap)",
+   "highlights": [
+    "Investor: ~11-13% est. cash-on-cash (25% down, IO @ ~7%)",
+    "~9.4K sq ft",
+    "price reduced",
+    "reported fully occupied"
+   ],
+   "inv_line": [
+    "~11-13% est. cash-on-cash (25% down, IO @ ~7%)",
+    "price reduced"
+   ]
+  }
+ ]
+}
