@@ -1,5 +1,55 @@
 [
   {
+    "id": 264,
+    "date": "2026-11-25",
+    "title": "Sunset Islands mansion sells off market for $34.5M, double its 2024 price",
+    "summary": "A 6,370 SF waterfront home at 1401 West 22nd Street in Miami Beach sold off market to Sunset Grove Holdings LLC for $34.5M. The trust, created by Ripple CEO Brad Garlinghouse, paid $16.6M in September 2024 while the home was under construction. The six-bedroom house sits on 0.3 acre overlooking Biscayne Bay.",
+    "source": "The Real Deal",
+    "sourceUrl": "https://therealdeal.com/miami/2026/11/25/brad-garlinghouse-sells-sunset-islands-home/",
+    "category": "Luxury",
+    "importance": "medium"
+  },
+  {
+    "id": 263,
+    "date": "2026-11-25",
+    "title": "Robert Posner pays $76.1M ($8,087/SF) for Palm Beach spec mansion at 7 Ocean Lane",
+    "summary": "NewDay USA CEO Robert Posner bought the 9,410 SF oceanfront spec home at 7 Ocean Lane from a Sabatello Cos.-linked entity for $76.1M, or $8,087/SF. The five-bedroom home on 0.5 acre went under contract in July at $88.4M and last sold for $39M in 2022. It was TRD's priciest South Florida residential sale for Nov. 24.",
+    "source": "The Real Deal",
+    "sourceUrl": "https://therealdeal.com/data/miami/2026/top-deals-robert-posner-buys-palm-beach-spec-home-for-76m/",
+    "category": "Luxury",
+    "importance": "high"
+  },
+  {
+    "id": 262,
+    "date": "2026-11-25",
+    "title": "Cardone Capital fund closes ~$480M on 1,545 Blackstone apartments in Tampa, Fort Lauderdale",
+    "summary": "Aventura-based Cardone Capital's $300M distressed fund bought three Blackstone multifamily assets totaling 1,545 units: Cortland Bowery (608) and Cortland Westshore (587) in Tampa, and the 350-unit Flagler Village in Fort Lauderdale, for about $480M. A Fannie Mae loan under $300M carries a 5.52% fixed rate, five-year term. The Flagler Village piece included about 1,000 Bitcoin. TRD calls it the state's top known rentals deal this year.",
+    "source": "The Real Deal",
+    "sourceUrl": "https://therealdeal.com/miami/2026/11/25/blackstone-sells-rentals-portfolio-to-cardone-capital/",
+    "category": "Multifamily",
+    "importance": "high"
+  },
+  {
+    "id": 261,
+    "date": "2026-11-24",
+    "title": "Trump Group takes majority of Casablanca Miami Beach condo-hotel buyout group",
+    "summary": "Jules and Eddie Trump's Trump Group acquired majority ownership of the group buying out the 357-unit Casablanca condo-hotel at 6345 Collins Avenue, Miami Beach, and plans to operate a hotel. The association votes on condo termination in December. Holdout owners have pending lawsuits against the association. It is the firm's first significant South Florida investment since Acqualina.",
+    "source": "The Real Deal",
+    "sourceUrl": "https://therealdeal.com/miami/2026/11/24/trump-group-takes-over-casablanca-miami-beach-condo-buyout/",
+    "category": "Development",
+    "importance": "medium"
+  },
+  {
+    "id": 260,
+    "date": "2026-11-24",
+    "title": "BH Group, Terra plan two 30-story condo towers, 218 units, on West Palm waterfront",
+    "summary": "Terra and BH Group filed plans for two 30-story towers at 2085 North Flagler Drive with 218 condo units and 5,160 SF of retail on 1.54 acres, under contract from Jeff Greene, who paid $1.5M in 2014. Skidmore, Owings & Merrill is architect. The developers offer nearly $6M toward Currie Park and road and seawall improvements for added height.",
+    "source": "The Real Deal",
+    "sourceUrl": "https://therealdeal.com/miami/2026/11/24/bh-group-terra-plan-30-story-condos-on-west-palm-waterfront/",
+    "category": "Development",
+    "importance": "medium"
+  },
+  {
     "id": 259,
     "date": "2026-11-23",
     "title": "Core pays $35.4M ($480/SF) for Fort Lauderdale's Gateway Shopping District",
@@ -108,55 +158,5 @@
     "sourceUrl": "https://www.freddiemac.com/pmms",
     "category": "Market Data",
     "importance": "medium"
-  },
-  {
-    "id": 248,
-    "date": "2026-11-18",
-    "title": "Meruelo family lists 7.4-acre Edgewater development site for $150M",
-    "summary": "The Meruelo family's Rebuild Miami Edgewater LLC listed the 7.4-acre Seventeen Edge site at 1700 NE Second Ave with Cushman & Wakefield for $150M. The entity paid $64M for the land in 2015. Zoned T6-24A-O, it could allow roughly 3,600 residential units, and it sits in an Opportunity Zone.",
-    "source": "The Real Deal",
-    "sourceUrl": "https://therealdeal.com/miami/2026/11/18/meruelos-list-miami-edgewater-dev-site-for-150-million/",
-    "category": "Development",
-    "importance": "medium"
-  },
-  {
-    "id": 247,
-    "date": "2026-11-18",
-    "title": "Two Campbell's-linked mansions list for $282M: La Gorce Island at $170M, Wellington farm $112M",
-    "summary": "Betsy Sherman listed her 18,200-SF La Gorce Island mansion at 30 La Gorce Circle for $170M, about $9,330 per square foot; the Shermans paid $17M for the 1.2-acre site in 2006. Separately, an entity tied to the late Campbell's heiress Mary Alice Malone is asking $112M for a 100-acre Wellington equestrian farm.",
-    "source": "The Real Deal",
-    "sourceUrl": "https://therealdeal.com/miami/2026/11/18/south-florida-mansions-tied-to-campbells-soup-listed/",
-    "category": "Luxury",
-    "importance": "high"
-  },
-  {
-    "id": 246,
-    "date": "2026-11-18",
-    "title": "Ram Realty sells Shops at Botanica to Agree Realty for $25.6M, $458/SF",
-    "summary": "An affiliate of Ram Realty Advisors sold the recently completed 55,870-SF Shops at Botanica retail center at 15301 SW 127th Ave near ZooMiami to a subsidiary of Agree Realty for $25.6M, or $458 per square foot. Tenants include HomeSense and Marshalls. Ram began construction on the 5.4-acre site in 2024 with $15M in financing.",
-    "source": "The Real Deal",
-    "sourceUrl": "https://therealdeal.com/miami/2026/11/18/agree-realty-buys-shops-at-botanica-from-ram-realty/",
-    "category": "Commercial/CRE",
-    "importance": "medium"
-  },
-  {
-    "id": 245,
-    "date": "2026-11-17",
-    "title": "Palm Beach house tied to ex-CIA officer's fraud sells for $24M, $3,300/SF",
-    "summary": "The 7,260-SF house at 236 Via Las Brisas in Palm Beach's Phipps Estates sold for $24M, or $3,300 per square foot. An entity tied to David Rush paid $21.9M in December 2025. Rush pleaded guilty in October to a $193M fraud on the federal government; it is the first of the properties tied to the scheme to find a buyer.",
-    "source": "The Real Deal",
-    "sourceUrl": "https://therealdeal.com/miami/2026/11/17/palm-beach-house-in-cia-agents-scam-sells-for-24-million/",
-    "category": "Luxury",
-    "importance": "medium"
-  },
-  {
-    "id": 244,
-    "date": "2026-11-17",
-    "title": "PMG, Greybrook land $285M refi for 563-unit Society Las Olas Phase II",
-    "summary": "Property Markets Group and Greybrook Realty Partners secured $285M from Benefit Street Partners for the second tower of Society Las Olas at 140 SW Second St in Fort Lauderdale, arranged by Walker & Dunlop. It replaces a $226M construction loan and equals about $506,000 per unit. The 42-story tower has 563 units.",
-    "source": "The Real Deal",
-    "sourceUrl": "https://therealdeal.com/miami/2026/11/17/pmg-greybrook-nab-285-million-refi-for-florida-apartments/",
-    "category": "Multifamily",
-    "importance": "high"
   }
 ]

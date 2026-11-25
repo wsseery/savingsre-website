@@ -1,11 +1,66 @@
 {
   "meta": {
     "created": "2026-07-06",
-    "updated": "2026-11-23",
+    "updated": "2026-11-25",
     "note": "Archive of items rotated off the live market/news_data.json 16-item list. Weekly refresh APPENDS dropped items here (newest first) - never delete. Same item schema as news_data.json. Not rendered on the site; kept for content reuse, history, and a future archive/search section.",
-    "count": 237
+    "count": 242
   },
   "items": [
+    {
+      "id": 248,
+      "date": "2026-11-18",
+      "title": "Meruelo family lists 7.4-acre Edgewater development site for $150M",
+      "summary": "The Meruelo family's Rebuild Miami Edgewater LLC listed the 7.4-acre Seventeen Edge site at 1700 NE Second Ave with Cushman & Wakefield for $150M. The entity paid $64M for the land in 2015. Zoned T6-24A-O, it could allow roughly 3,600 residential units, and it sits in an Opportunity Zone.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/11/18/meruelos-list-miami-edgewater-dev-site-for-150-million/",
+      "category": "Development",
+      "importance": "medium",
+      "archivedOn": "2026-11-25"
+    },
+    {
+      "id": 247,
+      "date": "2026-11-18",
+      "title": "Two Campbell's-linked mansions list for $282M: La Gorce Island at $170M, Wellington farm $112M",
+      "summary": "Betsy Sherman listed her 18,200-SF La Gorce Island mansion at 30 La Gorce Circle for $170M, about $9,330 per square foot; the Shermans paid $17M for the 1.2-acre site in 2006. Separately, an entity tied to the late Campbell's heiress Mary Alice Malone is asking $112M for a 100-acre Wellington equestrian farm.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/11/18/south-florida-mansions-tied-to-campbells-soup-listed/",
+      "category": "Luxury",
+      "importance": "high",
+      "archivedOn": "2026-11-25"
+    },
+    {
+      "id": 246,
+      "date": "2026-11-18",
+      "title": "Ram Realty sells Shops at Botanica to Agree Realty for $25.6M, $458/SF",
+      "summary": "An affiliate of Ram Realty Advisors sold the recently completed 55,870-SF Shops at Botanica retail center at 15301 SW 127th Ave near ZooMiami to a subsidiary of Agree Realty for $25.6M, or $458 per square foot. Tenants include HomeSense and Marshalls. Ram began construction on the 5.4-acre site in 2024 with $15M in financing.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/11/18/agree-realty-buys-shops-at-botanica-from-ram-realty/",
+      "category": "Commercial/CRE",
+      "importance": "medium",
+      "archivedOn": "2026-11-25"
+    },
+    {
+      "id": 245,
+      "date": "2026-11-17",
+      "title": "Palm Beach house tied to ex-CIA officer's fraud sells for $24M, $3,300/SF",
+      "summary": "The 7,260-SF house at 236 Via Las Brisas in Palm Beach's Phipps Estates sold for $24M, or $3,300 per square foot. An entity tied to David Rush paid $21.9M in December 2025. Rush pleaded guilty in October to a $193M fraud on the federal government; it is the first of the properties tied to the scheme to find a buyer.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/11/17/palm-beach-house-in-cia-agents-scam-sells-for-24-million/",
+      "category": "Luxury",
+      "importance": "medium",
+      "archivedOn": "2026-11-25"
+    },
+    {
+      "id": 244,
+      "date": "2026-11-17",
+      "title": "PMG, Greybrook land $285M refi for 563-unit Society Las Olas Phase II",
+      "summary": "Property Markets Group and Greybrook Realty Partners secured $285M from Benefit Street Partners for the second tower of Society Las Olas at 140 SW Second St in Fort Lauderdale, arranged by Walker & Dunlop. It replaces a $226M construction loan and equals about $506,000 per unit. The 42-story tower has 563 units.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/11/17/pmg-greybrook-nab-285-million-refi-for-florida-apartments/",
+      "category": "Multifamily",
+      "importance": "high",
+      "archivedOn": "2026-11-25"
+    },
     {
       "id": 243,
       "date": "2026-11-17",
