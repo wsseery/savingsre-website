@@ -1,11 +1,33 @@
 {
   "meta": {
     "created": "2026-07-06",
-    "updated": "2026-11-25",
+    "updated": "2026-11-27",
     "note": "Archive of items rotated off the live market/news_data.json 16-item list. Weekly refresh APPENDS dropped items here (newest first) - never delete. Same item schema as news_data.json. Not rendered on the site; kept for content reuse, history, and a future archive/search section.",
-    "count": 242
+    "count": 244
   },
   "items": [
+    {
+      "id": 250,
+      "date": "2026-11-19",
+      "title": "Y Group pitches $1B hotel and condo project on Pembroke Pines golf course",
+      "summary": "Y Group has filed plans to redevelop a 19.4-acre site at 110 Grand Palms Drive in Pembroke Pines with a $1B project: an 11-story, 445-room hotel and three condo buildings with 286 residences, including 16 villas. The golf course would stay at 27 holes. The developer has a contract to buy the site, and the build could take five to seven years.",
+      "source": "The Real Deal",
+      "sourceUrl": "https://therealdeal.com/miami/2026/11/19/y-group-pitches-1-billion-broward-hotel-and-condo-project/",
+      "category": "Development",
+      "importance": "medium",
+      "archivedOn": "2026-11-27"
+    },
+    {
+      "id": 249,
+      "date": "2026-11-19",
+      "title": "Freddie Mac 30-yr rate jumps 17 bps to 7.28%; MND daily index at 7.45%",
+      "summary": "Freddie Mac's weekly 30-year fixed average rose to 7.28% on Nov. 19 from 7.11% the prior week, a 0.17-point increase. Mortgage News Daily's 30-year fixed index stood at 7.45% as of 11/19 and its 30-year jumbo at 7.50%; the 52-week range for the 30-year fixed is 5.99% to 7.61%. Rising rates are weighing on South Florida buyers and financing costs.",
+      "source": "Freddie Mac",
+      "sourceUrl": "https://www.freddiemac.com/pmms",
+      "category": "Market Data",
+      "importance": "medium",
+      "archivedOn": "2026-11-27"
+    },
     {
       "id": 248,
       "date": "2026-11-18",

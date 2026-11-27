@@ -247,7 +247,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <div class="eyebrow">South Florida &middot; Luxury &amp; Commercial &middot; Curated Weekly</div>
   <h1>Market <em>Intel</em></h1>
   <p>Live market data, mortgage &amp; insurance trends, and curated news across South Florida and statewide luxury and commercial real estate.</p>
-  <div class="updated"><span class="dot"></span><span id="updatedLine">Updated November 25, 2026</span></div>
+  <div class="updated"><span class="dot"></span><span id="updatedLine">Updated November 27, 2026</span></div>
 </header>
 
 <div class="wrap">
@@ -277,7 +277,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   </div>
 
   <!-- RATES + INSURANCE -->
-  <div class="sec-head" style="margin-top:8px">Mortgage Rates <span class="tag">as of <span id="ratesDate">Nov 25, 2026</span></span></div>
+  <div class="sec-head" style="margin-top:8px">Mortgage Rates <span class="tag">as of <span id="ratesDate">Nov 27, 2026</span></span></div>
   <div class="cards" id="ratesCards"></div>
 
   <div class="sec-head" style="margin-top:14px">FL Coastal Insurance <span class="tag" id="insTrend">Improving</span></div>
@@ -337,7 +337,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
   /* ===== EMBEDDED DATA (mirror of market_data.json + news_data.json) ===== */
   var MARKET = {
-    meta:{updated:"2026-11-25", period:"Single-family & condo county medians — October 2026 (MIAMI REALTORS + RWorld county reports; Florida Realtors statewide)."},
+    meta:{updated:"2026-11-27", period:"Single-family & condo county medians — October 2026 (MIAMI REALTORS + RWorld county reports; Florida Realtors statewide)."},
     residential:{
       columns:["Area","SF Median","SF YoY","Condo Median","Closed Sales YoY","Homes for Sale YoY"],
       rows:[
@@ -370,9 +370,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         "West Palm Beach office pipeline ~3.3M SF (~700K SF under construction)."
       ]
     },
-    rates:{date:"Nov 25, 2026",cards:[
-      {label:"30-Yr Fixed (conforming)",value:"7.26%",sub:"daily lender avg Nov 25; Freddie Mac PMMS 7.21% for the wk of 11/25, down from 7.28%"},
-      {label:"30-Yr Jumbo",value:"7.40%",sub:"daily jumbo avg Nov 25"},
+    rates:{date:"Nov 27, 2026",cards:[
+      {label:"30-Yr Fixed (conforming)",value:"7.29%",sub:"daily lender avg Nov 27; Freddie Mac PMMS 7.21% for the wk of 11/25, down from 7.28%"},
+      {label:"30-Yr Jumbo",value:"7.40%",sub:"daily jumbo avg Nov 27"},
       {label:"Jumbo loan threshold",value:"$832,750",sub:"2026 FHFA baseline (most areas)"}
     ]},
     insurance:{trend:"Improving / stabilizing",cards:[
@@ -383,6 +383,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     ],note:"Coastal properties, older homes, and condos may see less relief than standard inland single-family homes."}
   };
   var NEWS = [
+    {id:266,date:"2026-11-26",title:"Miami OKs Rosso, Vadia's $2B Midtown Park: 924 units, 28-story condo tower",summary:"Miami commissioners approved a major use special permit for the $2 billion Midtown Park project at 3055 North Miami Avenue, allowing 924 residential units, 120,000 SF of retail, 60,000 SF of office and a padel club on 2 acres of parks. The first tower, a 28-story, 280-unit condo with Proper Hospitality, starts in the low $600,000s with completion slated for 2029. Walmart sold the site for $26.4M in 2019.",source:"The Real Deal",sourceUrl:"https://therealdeal.com/miami/2026/11/26/miami-approves-rosso-and-vadias-midtown-park-mixed-use-project/",category:"Development",importance:"high"},
+    {id:265,date:"2026-11-25",title:"Blackstone sells Pompano Beach Amazon warehouse for $55.9M ($225/SF)",summary:"A Blackstone-linked Link Logistics entity sold the 248,700 SF warehouse at 2800 N. Andrews Ave. to IP Capital Partners for $55.9M, or $225/SF, up from $39.7M in 2017. Reinsurance Group of America provided a $34M mortgage. The Amazon-leased property is the latest Blackstone Broward industrial exit; Colliers put Broward warehouse rents at $17.9/SF triple net in Q3.",source:"The Real Deal",sourceUrl:"https://therealdeal.com/miami/2026/11/25/blackstone-sells-pompano-warehouse-to-ip-capital-partners/",category:"Commercial/CRE",importance:"medium"},
     {id:264,date:"2026-11-25",title:"Sunset Islands mansion sells off market for $34.5M, double its 2024 price",summary:"A 6,370 SF waterfront home at 1401 West 22nd Street in Miami Beach sold off market to Sunset Grove Holdings LLC for $34.5M. The trust, created by Ripple CEO Brad Garlinghouse, paid $16.6M in September 2024 while the home was under construction. The six-bedroom house sits on 0.3 acre overlooking Biscayne Bay.",source:"The Real Deal",sourceUrl:"https://therealdeal.com/miami/2026/11/25/brad-garlinghouse-sells-sunset-islands-home/",category:"Luxury",importance:"medium"},
     {id:263,date:"2026-11-25",title:"Robert Posner pays $76.1M ($8,087/SF) for Palm Beach spec mansion at 7 Ocean Lane",summary:"NewDay USA CEO Robert Posner bought the 9,410 SF oceanfront spec home at 7 Ocean Lane from a Sabatello Cos.-linked entity for $76.1M, or $8,087/SF. The five-bedroom home on 0.5 acre went under contract in July at $88.4M and last sold for $39M in 2022. It was TRD's priciest South Florida residential sale for Nov. 24.",source:"The Real Deal",sourceUrl:"https://therealdeal.com/data/miami/2026/top-deals-robert-posner-buys-palm-beach-spec-home-for-76m/",category:"Luxury",importance:"high"},
     {id:262,date:"2026-11-25",title:"Cardone Capital fund closes ~$480M on 1,545 Blackstone apartments in Tampa, Fort Lauderdale",summary:"Aventura-based Cardone Capital's $300M distressed fund bought three Blackstone multifamily assets totaling 1,545 units: Cortland Bowery (608) and Cortland Westshore (587) in Tampa, and the 350-unit Flagler Village in Fort Lauderdale, for about $480M. A Fannie Mae loan under $300M carries a 5.52% fixed rate, five-year term. The Flagler Village piece included about 1,000 Bitcoin. TRD calls it the state's top known rentals deal this year.",source:"The Real Deal",sourceUrl:"https://therealdeal.com/miami/2026/11/25/blackstone-sells-rentals-portfolio-to-cardone-capital/",category:"Multifamily",importance:"high"},
@@ -396,9 +398,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     {id:254,date:"2026-11-20",title:"Eastwind pays $12.6M for 18-acre Westlake site; 360-unit first rental complex",summary:"Minto Communities USA sold an 18-acre Westlake parcel to Eastwind Development for $12.6 million, about $700,000 per acre. Eastwind plans Avery at Westlake, a 360-unit community in eight buildings, approved by the city council Aug. 4. It would be the first apartment complex in the Palm Beach County city.",source:"The Real Deal",sourceUrl:"https://therealdeal.com/miami/2026/11/20/minto-sells-westlake-apartment-site-to-eastwind-development/",category:"Multifamily",importance:"medium"},
     {id:253,date:"2026-11-20",title:"Galium Capital buys half-empty Sunrise office at $32.9M, 36% below 2018 price",summary:"Galium Capital paid $32.9 million, about $142.6/SF, for the 230,700-SF Sawgrass Pointe I at 1000 Sawgrass Corporate Parkway in Sunrise. The six-story building last traded for $51.1 million in 2018 and was about 55% occupied at the latest sale. Galium is pursuing value-add suburban office plays as downtown and coastal boutique offices lease at record rents.",source:"The Real Deal",sourceUrl:"https://therealdeal.com/miami/2026/11/20/galium-capital-buys-sawgrass-office-building-for-33-million/",category:"Commercial/CRE",importance:"medium"},
     {id:252,date:"2026-11-20",title:"Citizens CEO Tim Cerio to step down in January; policy count at 216,447",summary:"Tim Cerio told staff he will leave Florida Citizens Property Insurance Corp. in January to return to the private sector, after nearly four years as president and CEO. No successor has been named, and he is working with the Board of Governors on a transition plan. Citizens had 216,447 policies in force at the end of October, versus a peak of more than 1.4 million in September 2023.",source:"Insurance Journal",sourceUrl:"https://www.insurancejournal.com/news/southeast/2026/11/20/893311.htm",category:"Policy/Insurance",importance:"high"},
-    {id:251,date:"2026-11-19",title:"Soffer's Fontainebleau plans $300M Margaritaville Casino in Hallandale Beach",summary:"Fontainebleau Development will redevelop The Big Easy Casino at 831 N. Federal Highway into a Margaritaville-branded casino, opening in the first half of 2028. Bloomberg reported the cost at $300 million. Plans call for a 165,380-SF casino, a four-story garage and 34,340 SF of restaurants. Soffer paid $12.5 million for the property in 2018.",source:"The Real Deal",sourceUrl:"https://therealdeal.com/miami/2026/11/19/jeff-soffers-fontainebleau-bets-on-margaritaville-casino/",category:"Development",importance:"medium"},
-    {id:250,date:"2026-11-19",title:"Y Group pitches $1B hotel and condo project on Pembroke Pines golf course",summary:"Y Group has filed plans to redevelop a 19.4-acre site at 110 Grand Palms Drive in Pembroke Pines with a $1B project: an 11-story, 445-room hotel and three condo buildings with 286 residences, including 16 villas. The golf course would stay at 27 holes. The developer has a contract to buy the site, and the build could take five to seven years.",source:"The Real Deal",sourceUrl:"https://therealdeal.com/miami/2026/11/19/y-group-pitches-1-billion-broward-hotel-and-condo-project/",category:"Development",importance:"medium"},
-    {id:249,date:"2026-11-19",title:"Freddie Mac 30-yr rate jumps 17 bps to 7.28%; MND daily index at 7.45%",summary:"Freddie Mac's weekly 30-year fixed average rose to 7.28% on Nov. 19 from 7.11% the prior week, a 0.17-point increase. Mortgage News Daily's 30-year fixed index stood at 7.45% as of 11/19 and its 30-year jumbo at 7.50%; the 52-week range for the 30-year fixed is 5.99% to 7.61%. Rising rates are weighing on South Florida buyers and financing costs.",source:"Freddie Mac",sourceUrl:"https://www.freddiemac.com/pmms",category:"Market Data",importance:"medium"}
+    {id:251,date:"2026-11-19",title:"Soffer's Fontainebleau plans $300M Margaritaville Casino in Hallandale Beach",summary:"Fontainebleau Development will redevelop The Big Easy Casino at 831 N. Federal Highway into a Margaritaville-branded casino, opening in the first half of 2028. Bloomberg reported the cost at $300 million. Plans call for a 165,380-SF casino, a four-story garage and 34,340 SF of restaurants. Soffer paid $12.5 million for the property in 2018.",source:"The Real Deal",sourceUrl:"https://therealdeal.com/miami/2026/11/19/jeff-soffers-fontainebleau-bets-on-margaritaville-casino/",category:"Development",importance:"medium"}
   ];
 
   /* ===== HELPERS ===== */
